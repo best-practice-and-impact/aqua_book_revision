@@ -1,0 +1,191 @@
+::: {.callout-important}
+This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+
+The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+:::
+
+# Definitions and key concepts
+
+This chapter sets out definitions and key concepts that are used throughout the rest of the book. 
+
+## Analysis {.unnumbered}
+
+Analysis is the collection, manipulation and interpretation of information and data for use in decision making. Analysis can vary widely between situations and many different types of analysis may be used to form the evidence base that supports the decision-making process.  
+
+Examples of types of analysis that are frequently encountered in government are:  
+
+*  actuarial  
+*  data science 
+*  economic 
+*  financial  
+*  geographical 
+*  operational research 
+*  scientific, technical and engineering research  
+*  statistical  
+*  social research  
+
+## Assurance {.unnumbered}
+
+Analytical assurance is the process and set of practices to ensure that the analysis is fit for purpose. 
+
+## Assurance activities {.unnumbered}
+
+Assurance activities are anything that is undertaken to validate and verify analysis 
+
+For example:   
+
+* analyst testing    
+* peer review  
+* analytical audits  
+
+## Business critical analysis {.unnumbered}
+
+Business critical analysis is defined as analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or an error could have a significant reputational, economic or legal impact for the public sector. 
+
+Version 1 of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM). 
+
+## Change control {.unnumbered}
+
+Change control is the set of processes followed when changes are made to a piece of analysis. For example, version numbering, documentation, assurance of changes. 
+
+## Documentation {.unnumbered}
+
+### Specification documentation 
+
+This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
+
+### Design documentation 
+
+This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.  
+
+### Assumptions log
+
+A register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.
+
+### Decisions log
+
+A register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
+
+### Data log 
+
+A register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.  
+
+### Quality assurance plan 
+
+A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
+
+### User / technical documentation 
+
+All analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial. 
+
+### Version control 
+
+It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
+
+### Assurance statement 
+
+A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis. 
+
+## Multi-use models {.unnumbered}
+
+Some models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as **multi-use models**.  
+
+Often, a Steering Group is created to oversee the analysis. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model, and contain senior, ideally empowered, representatives of each major user area. 
+
+## Principles of analytical quality assurance {.unnumbered}
+
+No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:  
+
+**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational impacts. More details can be found in chapter [3] 
+
+**Assurance throughout development:** Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].  
+
+**Verification and validation:** Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9]. 
+
+**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
+
+**Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
+
+::: {.callout-tip collapse="true"}
+### RIGOUR
+Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic "RIGOUR" may assist:
+
+* **R**epeatable
+* **I**ndependent
+* **G**rounded in reality
+* **O**bjective
+* **U**ncertainty-managed
+* **R**obust
+
+**Repeatable:** For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.  
+
+**Independent:** Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
+
+**Grounded in reality:** Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.  
+
+**Objective:** Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.  
+
+**Uncertainty-managed:** Uncertainty is identified, managed and communicated throughout the analytical process.  
+
+**Robust:** Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.  
+
+:::
+
+## Quality analysis {.unnumbered}
+
+Quality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its impact, adequately communicated, documented and accepted by its commissioners. 
+
+## Reproducible analytical pipelines {.unnumbered}
+
+[Reproducible Analytical Pipelines (RAPs)](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/) are automated analytical processes. They incorporate elements of software engineering best practice to ensure that the pipelines are reproducible, auditable, efficient, and high quality.
+
+## Roles and responsibilities {.unnumbered}
+
+Organisations may have their own titles for the main functional roles involved in analysis that are* set out here.  
+
+Each role may be fulfilled by a team or committee of people.  However, a single individual will have overall accountability (such as the chair of a committee) for each role. 
+
+The AQuA book defines the roles as: 
+
+* **Commissioner** (may be known as customer) 
+  + Requests the analysis and sets out their requirements  
+  + Agrees what the analyst is going to do will satisfy the need  
+  + Accepts the analysis and assurance as fit for purpose  
+
+* **Analyst**  
+  + Designs the approach, including the assurance, to meet the commissioner’s requirements 
+  + Agrees the approach with the commissioner 
+  + Carries out the analysis 
+  + Carries out their own assurance  
+  + Acts on findings from the assurer 
+  + Can be a group of analysts, in which case the lead analyst is responsible 
+
+* **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
+  + Reviews the assurance completed by the analyst  
+  + Carries out any further validation and verification they may see as appropriate  
+  + Reports errors and areas for improvement to the analyst  
+  + Re-reviews as required  
+  + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
+  + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
+
+ * **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))  
+  + Scrutinises the work of the analyst and assurer  
+  + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured  
+  + The roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.  
+  + In instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.  
+
+
+## Uncertainty {.unnumbered}
+
+The outcome of a decision is never known perfectly in advance. For each option within analysis, a range of real outcomes is possible: the outcome is uncertain. 
+
+::: {.callout-note}
+### Defining uncertainty
+
+[Wikipedia defines uncertainty](https://en.wikipedia.org/wiki/Uncertainty) as referring to [epistemic](https://en.wikipedia.org/wiki/Epistemology) situations involving imperfect or unknown information. It applies to predictions of future events, to physical measurements that are already made, or to the unknown. 
+
+:::
+
+There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
+
+The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) is a tool produced by a cross government group to help assessing and communicating uncertainty.

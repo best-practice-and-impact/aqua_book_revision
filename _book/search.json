@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The AQuA Book",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.\n\n\n\nPreface\nThe last version of the Analytical Quality Assurance (AQuA) Handbook was published in 2015, following Sir Nicholas Macpherson’s Review of quality assurance of government models. Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, delivery and operational excellence. The AQuA Book has made a significant contribution to the cultural change in assurance practices in government.\nThe AQuA Book is about the process for assuring analytical evidence in all forms. It sets out the core framework for assuring all forms of analytical evidence. It describes what you need to do but not how to do it, aqlthough it does contain many worked examples. Large organisations will have their own processes and practices covering “the how”. For those of you who do not work in places with bespoke guidance you will find a collection of helpful resources in chapter 10.\nThe AQuA Book is a key supporting guide for the Analysis Function Standard. It is referred to by the Green Book, Magenta Book and Finance Function Standards.\n\n\nAcknowledgements\nThe AQuA Book is the work of many authors from across the Government Analysis Function. The original version of the book was compiled by the Quality Assurance Working Group set up after Sir Nicholas Macpherson’s review of modelling in government. This revised edition of the book was produced by a task and finish group drawn from across the Analysis Function community. We would like to thank everybody who has given of their time and expertise to produce this revised edition.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Who is the AQuA Book for?\nIn this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. We would like to see analysts from all backgrounds using this book. Our intended audience includes;",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html",
+    "href": "definitions_and_key_concepts.html",
+    "title": "2  Definitions and key concepts",
+    "section": "",
+    "text": "Analysis\nAnalysis is the collection, manipulation and interpretation of information and data for use in decision making. Analysis can vary widely between situations and many different types of analysis may be used to form the evidence base that supports the decision-making process.\nExamples of types of analysis that are frequently encountered in government are:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#assurance-activities",
+    "href": "definitions_and_key_concepts.html#assurance-activities",
+    "title": "2  Definitions and key concepts",
+    "section": "Assurance activities",
+    "text": "Assurance activities\nAssurance activities are anything that is undertaken to validate and verify analysis\nFor example:\n\nanalyst testing\n\npeer review\n\nanalytical audits",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#analysis",
+    "href": "definitions_and_key_concepts.html#analysis",
+    "title": "2  Definitions and key concepts",
+    "section": "",
+    "text": "actuarial\n\ndata science\neconomic\nfinancial\n\ngeographical\noperational research\nscientific, technical and engineering research\n\nstatistical\n\nsocial research",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#who-is-the-aqua-book-for",
+    "href": "intro.html#who-is-the-aqua-book-for",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "customers – helping you to get the most out of your commission;\nmembers of the government analytical professions. This might include\n\nfinance professionals making spending forecasts\nsocial researchers carrying out qualitative research\ndata scientists developing advanced analytics;\nand anyone else carrying out analysis.\n\nsenior leaders with an interest in analytical assurance.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#footnotes",
+    "href": "intro.html#footnotes",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Black box: system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.↩︎\nManaging Public Money, Annex 4.2 Use of models↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#why-should-i-pay-any-attention-to-this-guidance",
+    "href": "intro.html#why-should-i-pay-any-attention-to-this-guidance",
+    "title": "1  Introduction",
+    "section": "1.2 Why should I pay any attention to this guidance?",
+    "text": "1.2 Why should I pay any attention to this guidance?\nHere are a few reasons why.\n\nYour insights will be used for major decisions and operations. You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage;\nTrust is hard to obtain but easy to lose. A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted;\nPrevention is better than cure. Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use;\nDelivering quality analysis provides the confidence that is necessary for transparency and public openness;\nAssurance is required for audit purposes2; and,\n\nProfessional pride in your work.\n\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#why-should-i-pay-attention-to-this-guidance",
+    "href": "intro.html#why-should-i-pay-attention-to-this-guidance",
+    "title": "1  Introduction",
+    "section": "1.2 Why should I pay attention to this guidance?",
+    "text": "1.2 Why should I pay attention to this guidance?\nHere are a few reasons why.\n\nYour insights will be used for major decisions and operations. You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage;\nTrust is hard to obtain but easy to lose. A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted;\nPrevention is better than cure. Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use;\nDelivering quality analysis provides the confidence that is needed for transparency and public openness;\nAssurance is required for audit purposes2; and,\n\nProfessional pride in your work.\n\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#quality-analysis",
+    "href": "definitions_and_key_concepts.html#quality-analysis",
+    "title": "2  Definitions and key concepts",
+    "section": "Quality analysis",
+    "text": "Quality analysis\nQuality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its impact, adequately communicated, documented and accepted by its commissioners.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#principles-of-analytical-quality-assurance",
+    "href": "definitions_and_key_concepts.html#principles-of-analytical-quality-assurance",
+    "title": "2  Definitions and key concepts",
+    "section": "Principles of analytical quality assurance",
+    "text": "Principles of analytical quality assurance\nNo single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:\nProportionate: Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational impacts. More details can be found in chapter [3]\nAssurance throughout development: Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].\nVerification and validation: Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9].\nAccept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io)\nAnalysis with RIGOUR: One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.\n\n\n\n\n\n\nRIGOUR\n\n\n\n\n\nThroughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic “RIGOUR” may assist:\n\nRepeatable\nIndependent\nGrounded in reality\nObjective\nUncertainty-managed\nRobust\n\nRepeatable: For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.\nIndependent: Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.\nGrounded in reality: Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.\nObjective: Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.\nUncertainty-managed: Uncertainty is identified, managed and communicated throughout the analytical process.\nRobust: Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#roles-and-responsibilities",
+    "href": "definitions_and_key_concepts.html#roles-and-responsibilities",
+    "title": "2  Definitions and key concepts",
+    "section": "Roles and responsibilities",
+    "text": "Roles and responsibilities\nOrganisations may have their own titles for the main functional roles involved in analysis that are* set out here.\nEach role may be fulfilled by a team or committee of people. However, a single individual will have overall accountability (such as the chair of a committee) for each role.\nThe AQuA book defines the roles as:\n\nCommissioner (may be known as customer)\n\nRequests the analysis and sets out their requirements\n\nAgrees what the analyst is going to do will satisfy the need\n\nAccepts the analysis and assurance as fit for purpose\n\nAnalyst\n\nDesigns the approach, including the assurance, to meet the commissioner’s requirements\nAgrees the approach with the commissioner\nCarries out the analysis\nCarries out their own assurance\n\nActs on findings from the assurer\nCan be a group of analysts, in which case the lead analyst is responsible\n\nAssurer (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner (“SRO”))\n\nReviews the assurance completed by the analyst\n\nCarries out any further validation and verification they may see as appropriate\n\nReports errors and areas for improvement to the analyst\n\nRe-reviews as required\n\nConfirms the work has been appropriately scoped, executed, validated and verified and documented to the approver\n\nCan be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.\n\nApprover (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))\n\nScrutinises the work of the analyst and assurer\n\nConfirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured\n\nThe roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.\n\nIn instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#business-critical-analysis",
+    "href": "definitions_and_key_concepts.html#business-critical-analysis",
+    "title": "2  Definitions and key concepts",
+    "section": "Business critical analysis",
+    "text": "Business critical analysis\nBusiness critical analysis is defined as analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or an error could have a significant reputational, economic or legal impact for the public sector.\nVersion 1 of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#multi-use-models",
+    "href": "definitions_and_key_concepts.html#multi-use-models",
+    "title": "2  Definitions and key concepts",
+    "section": "Multi-use models",
+    "text": "Multi-use models\nSome models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as multi-use models.\nOften, a Steering Group is created to oversee the analysis. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model, and contain senior, ideally empowered, representatives of each major user area.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#reproducible-analytical-pipelines",
+    "href": "definitions_and_key_concepts.html#reproducible-analytical-pipelines",
+    "title": "2  Definitions and key concepts",
+    "section": "Reproducible analytical pipelines",
+    "text": "Reproducible analytical pipelines\nReproducible Analytical Pipelines (RAPs) are automated analytical processes. They incorporate elements of software engineering best practice to ensure that the pipelines are reproducible, auditable, efficient, and high quality.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#change-control",
+    "href": "definitions_and_key_concepts.html#change-control",
+    "title": "2  Definitions and key concepts",
+    "section": "Change control",
+    "text": "Change control\nChange control is the set of processes followed when changes are made to a piece of analysis. For example, version numbering, documentation, assurance of changes.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#uncertainty",
+    "href": "definitions_and_key_concepts.html#uncertainty",
+    "title": "2  Definitions and key concepts",
+    "section": "Uncertainty",
+    "text": "Uncertainty\nThe outcome of a decision is never known perfectly in advance. For each option within analysis, a range of real outcomes is possible: the outcome is uncertain.\n\n\n\n\n\n\nDefining uncertainty\n\n\n\nWikipedia defines uncertainty as referring to epistemic situations involving imperfect or unknown information. It applies to predictions of future events, to physical measurements that are already made, or to the unknown.\n\n\nThere are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required.\nThe Uncertainty Toolkit for Analysts in Government is a tool produced by a cross government group to help assessing and communicating uncertainty.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#assurance",
+    "href": "definitions_and_key_concepts.html#assurance",
+    "title": "2  Definitions and key concepts",
+    "section": "Assurance",
+    "text": "Assurance\nAnalytical assurance is the process and set of practices to ensure that the analysis is fit for purpose.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#documentation",
+    "href": "definitions_and_key_concepts.html#documentation",
+    "title": "2  Definitions and key concepts",
+    "section": "Documentation",
+    "text": "Documentation\n\n2.0.1 Specification documentation\nThis documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.\n\n\n2.0.2 Design documentation\nThis document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.\n\n\n2.0.3 Assumptions log\nA register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.\n\n\n2.0.4 Decisions log\nA register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.\n\n\n2.0.5 Data log\nA register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.\n\n\n2.0.6 Quality assurance plan\nA detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.\n\n\n2.0.7 User / technical documentation\nAll analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial.\n\n\n2.0.8 Version control\nIt is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom.\n\n\n2.0.9 Assurance statement\nA brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  }
+]

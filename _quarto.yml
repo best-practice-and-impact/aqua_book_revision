@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "The AQuA Book"
+  author: "Government Analysis Function"
+  date: "06/13/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - definitions_and_key_concepts.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+  pdf:
+    documentclass: scrreprt
+
+
+

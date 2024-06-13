@@ -1,0 +1,47 @@
+::: {.callout-important}
+This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+
+The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+:::
+
+# Introduction
+
+The world of analysis has developed since we published the first edition of the AQuA Book. Increasingly in our data driven world, insights from analysis underpin almost all policies and support operational excellence. This underlines the continuing importance of assuring our evidence. In parallel our working practices have developed. The dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. Since then we have broadened the range of methods to include open-source software, machine learning and artificial intelligence.  
+
+Users of the AQuA book have pointed out some things we did not cover in the first edition and areas where guidance was unclear or insufficient. In this edition we have added guidance on:  
+
+* multi-use models - large models used for many purposes with many stakeholders;  
+* assuring "black box"[^1] analysis;  
+* development, maintenance and continuous review;  
+* working with third parties such as contractors and academic groups and,  
+* publishing models.  
+
+We provide improved guidance on what a proportionate approach to assurance means (in chapter X) and have made the whole guide applicable to all types of analysis.
+
+## Who is the AQuA Book for?
+
+In this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. We would like to see analysts from all backgrounds using this book. Our intended audience includes;  
+
+* customers – helping you to get the most out of your commission; 
+* members of the government analytical professions. This might include
+  + finance professionals making spending forecasts
+  + social researchers carrying out qualitative research
+  + data scientists developing advanced analytics;
+  + and anyone else carrying out analysis. 
+* senior leaders with an interest in analytical assurance.  
+
+## Why should I pay attention to this guidance? 
+
+Here are a few reasons why.
+
+* **Your insights will be used for major decisions and operations.** You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage; 
+* **Trust is hard to obtain but easy to lose.** A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted; 
+* **Prevention is better than cure.** Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use; 
+* **Delivering quality analysis provides the confidence that is needed for transparency and public openness;** 
+* **Assurance is required for audit purposes**[^2]; and,  
+* **Professional pride in your work.** 
+
+See @knuth84 for additional discussion of literate programming.
+
+[^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
+[^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
