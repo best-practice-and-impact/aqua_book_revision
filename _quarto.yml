@@ -9,6 +9,13 @@ book:
     - index.qmd
     - intro.qmd
     - definitions_and_key_concepts.qmd
+    - proportionality.qmd
+    - quality_assurance_culture.qmd
+    - analytical_lifecycle.qmd
+    - engagement_and_scoping.qmd
+    - design.qmd
+    - analysis.qmd
+    - delivery_and_communication.qmd
     - summary.qmd
     - references.qmd
 

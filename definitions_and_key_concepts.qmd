@@ -50,39 +50,39 @@ Change control is the set of processes followed when changes are made to a piece
 
 ## Documentation {.unnumbered}
 
-### Specification documentation 
+### Specification documentation {.unnumbered}
 
 This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
 
-### Design documentation 
+### Design documentation {.unnumbered}
 
 This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.  
 
-### Assumptions log
+### Assumptions log {.unnumbered}
 
 A register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.
 
-### Decisions log
+### Decisions log {.unnumbered}
 
 A register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
 
-### Data log 
+### Data log {.unnumbered}
 
 A register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.  
 
-### Quality assurance plan 
+### Quality assurance plan {.unnumbered}
 
 A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
 
-### User / technical documentation 
+### User / technical documentation {.unnumbered}
 
 All analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial. 
 
-### Version control 
+### Version control {.unnumbered}
 
 It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
 
-### Assurance statement 
+### Assurance statement {.unnumbered}
 
 A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis. 
 

@@ -204,9 +204,69 @@
     "href": "definitions_and_key_concepts.html#documentation",
     "title": "2  Definitions and key concepts",
     "section": "Documentation",
-    "text": "Documentation\n\n2.0.1 Specification documentation\nThis documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.\n\n\n2.0.2 Design documentation\nThis document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.\n\n\n2.0.3 Assumptions log\nA register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.\n\n\n2.0.4 Decisions log\nA register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.\n\n\n2.0.5 Data log\nA register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.\n\n\n2.0.6 Quality assurance plan\nA detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.\n\n\n2.0.7 User / technical documentation\nAll analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial.\n\n\n2.0.8 Version control\nIt is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom.\n\n\n2.0.9 Assurance statement\nA brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.",
+    "text": "Documentation\n\nSpecification documentation\nThis documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.\n\n\nDesign documentation\nThis document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.\n\n\nAssumptions log\nA register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.\n\n\nDecisions log\nA register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.\n\n\nData log\nA register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.\n\n\nQuality assurance plan\nA detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.\n\n\nUser / technical documentation\nAll analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial.\n\n\nVersion control\nIt is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom.\n\n\nAssurance statement\nA brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "engagement_and_scoping.html",
+    "href": "engagement_and_scoping.html",
+    "title": "6  Engagement and scoping",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Engagement and scoping</span>"
+    ]
+  },
+  {
+    "objectID": "design.html",
+    "href": "design.html",
+    "title": "7  Design",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Design</span>"
+    ]
+  },
+  {
+    "objectID": "proportionality.html",
+    "href": "proportionality.html",
+    "title": "3  Proportionality",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Proportionality</span>"
+    ]
+  },
+  {
+    "objectID": "quality_assurance_culture.html",
+    "href": "quality_assurance_culture.html",
+    "title": "4  Quality assurance culture",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Quality assurance culture</span>"
+    ]
+  },
+  {
+    "objectID": "analytical_lifecycle.html",
+    "href": "analytical_lifecycle.html",
+    "title": "5  Overview of the analytical lifecycle",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Overview of the analytical lifecycle</span>"
+    ]
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "8  Analysis",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Analysis</span>"
     ]
   }
 ]

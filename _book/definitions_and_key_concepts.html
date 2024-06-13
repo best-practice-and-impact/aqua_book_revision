@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./summary.html" rel="next">
+<link href="./proportionality.html" rel="next">
 <link href="./intro.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -126,8 +126,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./proportionality.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Proportionality</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./quality_assurance_culture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Quality assurance culture</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./analytical_lifecycle.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Overview of the analytical lifecycle</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./summary.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -153,15 +171,15 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#change-control" id="toc-change-control" class="nav-link" data-scroll-target="#change-control">Change control</a></li>
   <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a>
   <ul class="collapse">
-  <li><a href="#specification-documentation" id="toc-specification-documentation" class="nav-link" data-scroll-target="#specification-documentation"><span class="header-section-number">2.0.1</span> Specification documentation</a></li>
-  <li><a href="#design-documentation" id="toc-design-documentation" class="nav-link" data-scroll-target="#design-documentation"><span class="header-section-number">2.0.2</span> Design documentation</a></li>
-  <li><a href="#assumptions-log" id="toc-assumptions-log" class="nav-link" data-scroll-target="#assumptions-log"><span class="header-section-number">2.0.3</span> Assumptions log</a></li>
-  <li><a href="#decisions-log" id="toc-decisions-log" class="nav-link" data-scroll-target="#decisions-log"><span class="header-section-number">2.0.4</span> Decisions log</a></li>
-  <li><a href="#data-log" id="toc-data-log" class="nav-link" data-scroll-target="#data-log"><span class="header-section-number">2.0.5</span> Data log</a></li>
-  <li><a href="#quality-assurance-plan" id="toc-quality-assurance-plan" class="nav-link" data-scroll-target="#quality-assurance-plan"><span class="header-section-number">2.0.6</span> Quality assurance plan</a></li>
-  <li><a href="#user-technical-documentation" id="toc-user-technical-documentation" class="nav-link" data-scroll-target="#user-technical-documentation"><span class="header-section-number">2.0.7</span> User / technical documentation</a></li>
-  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control"><span class="header-section-number">2.0.8</span> Version control</a></li>
-  <li><a href="#assurance-statement" id="toc-assurance-statement" class="nav-link" data-scroll-target="#assurance-statement"><span class="header-section-number">2.0.9</span> Assurance statement</a></li>
+  <li><a href="#specification-documentation" id="toc-specification-documentation" class="nav-link" data-scroll-target="#specification-documentation">Specification documentation</a></li>
+  <li><a href="#design-documentation" id="toc-design-documentation" class="nav-link" data-scroll-target="#design-documentation">Design documentation</a></li>
+  <li><a href="#assumptions-log" id="toc-assumptions-log" class="nav-link" data-scroll-target="#assumptions-log">Assumptions log</a></li>
+  <li><a href="#decisions-log" id="toc-decisions-log" class="nav-link" data-scroll-target="#decisions-log">Decisions log</a></li>
+  <li><a href="#data-log" id="toc-data-log" class="nav-link" data-scroll-target="#data-log">Data log</a></li>
+  <li><a href="#quality-assurance-plan" id="toc-quality-assurance-plan" class="nav-link" data-scroll-target="#quality-assurance-plan">Quality assurance plan</a></li>
+  <li><a href="#user-technical-documentation" id="toc-user-technical-documentation" class="nav-link" data-scroll-target="#user-technical-documentation">User / technical documentation</a></li>
+  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version control</a></li>
+  <li><a href="#assurance-statement" id="toc-assurance-statement" class="nav-link" data-scroll-target="#assurance-statement">Assurance statement</a></li>
   </ul></li>
   <li><a href="#multi-use-models" id="toc-multi-use-models" class="nav-link" data-scroll-target="#multi-use-models">Multi-use models</a></li>
   <li><a href="#principles-of-analytical-quality-assurance" id="toc-principles-of-analytical-quality-assurance" class="nav-link" data-scroll-target="#principles-of-analytical-quality-assurance">Principles of analytical quality assurance</a></li>
@@ -256,40 +274,40 @@ Important
 </section>
 <section id="documentation" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="documentation">Documentation</h2>
-<section id="specification-documentation" class="level3" data-number="2.0.1">
-<h3 data-number="2.0.1" class="anchored" data-anchor-id="specification-documentation"><span class="header-section-number">2.0.1</span> Specification documentation</h3>
+<section id="specification-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="specification-documentation">Specification documentation</h3>
 <p>This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.</p>
 </section>
-<section id="design-documentation" class="level3" data-number="2.0.2">
-<h3 data-number="2.0.2" class="anchored" data-anchor-id="design-documentation"><span class="header-section-number">2.0.2</span> Design documentation</h3>
+<section id="design-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="design-documentation">Design documentation</h3>
 <p>This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.</p>
 </section>
-<section id="assumptions-log" class="level3" data-number="2.0.3">
-<h3 data-number="2.0.3" class="anchored" data-anchor-id="assumptions-log"><span class="header-section-number">2.0.3</span> Assumptions log</h3>
+<section id="assumptions-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="assumptions-log">Assumptions log</h3>
 <p>A register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.</p>
 </section>
-<section id="decisions-log" class="level3" data-number="2.0.4">
-<h3 data-number="2.0.4" class="anchored" data-anchor-id="decisions-log"><span class="header-section-number">2.0.4</span> Decisions log</h3>
+<section id="decisions-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="decisions-log">Decisions log</h3>
 <p>A register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.</p>
 </section>
-<section id="data-log" class="level3" data-number="2.0.5">
-<h3 data-number="2.0.5" class="anchored" data-anchor-id="data-log"><span class="header-section-number">2.0.5</span> Data log</h3>
+<section id="data-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="data-log">Data log</h3>
 <p>A register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.</p>
 </section>
-<section id="quality-assurance-plan" class="level3" data-number="2.0.6">
-<h3 data-number="2.0.6" class="anchored" data-anchor-id="quality-assurance-plan"><span class="header-section-number">2.0.6</span> Quality assurance plan</h3>
+<section id="quality-assurance-plan" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="quality-assurance-plan">Quality assurance plan</h3>
 <p>A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.</p>
 </section>
-<section id="user-technical-documentation" class="level3" data-number="2.0.7">
-<h3 data-number="2.0.7" class="anchored" data-anchor-id="user-technical-documentation"><span class="header-section-number">2.0.7</span> User / technical documentation</h3>
+<section id="user-technical-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="user-technical-documentation">User / technical documentation</h3>
 <p>All analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial.</p>
 </section>
-<section id="version-control" class="level3" data-number="2.0.8">
-<h3 data-number="2.0.8" class="anchored" data-anchor-id="version-control"><span class="header-section-number">2.0.8</span> Version control</h3>
+<section id="version-control" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="version-control">Version control</h3>
 <p>It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom.</p>
 </section>
-<section id="assurance-statement" class="level3" data-number="2.0.9">
-<h3 data-number="2.0.9" class="anchored" data-anchor-id="assurance-statement"><span class="header-section-number">2.0.9</span> Assurance statement</h3>
+<section id="assurance-statement" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="assurance-statement">Assurance statement</h3>
 <p>A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.</p>
 </section>
 </section>
@@ -833,8 +851,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./summary.html" class="pagination-link" aria-label="Summary">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Summary</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./proportionality.html" class="pagination-link" aria-label="Proportionality">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Proportionality</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

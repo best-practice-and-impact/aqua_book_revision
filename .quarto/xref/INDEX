@@ -13,5 +13,26 @@
   },
   "definitions_and_key_concepts.qmd": {
     "definitions_and_key_concepts.html": "a0b88893"
+  },
+  "proportionality.qmd": {
+    "proportionality.html": "dc4be9e4"
+  },
+  "quality_assurance_culture.qmd": {
+    "quality_assurance_culture.html": "906db6c8"
+  },
+  "analytical_lifecycle.qmd": {
+    "analytical_lifecycle.html": "9e6425ff"
+  },
+  "engagement_and_scoping.qmd": {
+    "engagement_and_scoping.html": "c82b04b9"
+  },
+  "design.qmd": {
+    "design.html": "5b0f710c"
+  },
+  "analysis.qmd": {
+    "analysis.html": "568b3f8d"
+  },
+  "delivery_and_communication.qmd": {
+    "delivery_and_communication.html": "61901341"
   }
 }
