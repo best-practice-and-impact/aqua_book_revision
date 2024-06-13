@@ -268,5 +268,35 @@
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Analysis</span>"
     ]
+  },
+  {
+    "objectID": "delivery_and_communication.html",
+    "href": "delivery_and_communication.html",
+    "title": "9  Delivery and communication",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Delivery and communication</span>"
+    ]
+  },
+  {
+    "objectID": "additional_resources.html",
+    "href": "additional_resources.html",
+    "title": "10  Additional resources",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Additional resources</span>"
+    ]
+  },
+  {
+    "objectID": "forward.html",
+    "href": "forward.html",
+    "title": "Forward",
+    "section": "",
+    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.\n\n\nThis guidance uses the following terms to indicate whether recommendations are mandatory or advisory.\nThe terms are:\n\n‘shall’ denotes a requirement, which applies in all circumstances, at all times\n‘should’ denotes a recommendation, to be met on a ‘comply or explain’ basis\n‘may’ denotes approval\n‘might’ denotes a possibility\n‘can’ denotes both capability and possibility\nis/are is used for a description\n\nThese are the same terms as those in the UK Government functional standards.",
+    "crumbs": [
+      "Forward"
+    ]
   }
 ]
