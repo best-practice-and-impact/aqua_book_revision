@@ -234,7 +234,7 @@
     "href": "proportionality.html",
     "title": "3  Proportionality",
     "section": "",
-    "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.",
+    "text": "3.1 Introduction\nThink about and deliver appropriate (proportionate) levels of assurance for your analysis. There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will inform a decision that will make minimal impact.\nTable 1 provides a list of key factors that should be considered when determining what level of assurance is appropriate.\nFurther detail and considerations may be found on the Analysis Function’s Quality Questions and Red Flags page.\nFigure 1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.\nThe interventions in Figure 1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing.\nOne way to view assurance interventions would be to consider individual interventions in a layer. An individual intervention will reduce risks in a particular area, but will leave many other risks unmitigated. Adding more interventions (layers) will start to increase coverage and reduce overall risk.\nThe total elimination of risk will never be achievable, and the balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate. Refer to the table in chapter 10.\nMany of these interventions are mentioned elsewhere in the AQUA Book, and are not repeated here.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Proportionality</span>"
     ]
@@ -297,6 +297,26 @@
     "text": "Important\n\n\n\nThis version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.\nThe draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.\n\n\nThis guidance uses the following terms to indicate whether recommendations are mandatory or advisory.\nThe terms are:\n\n‘shall’ denotes a requirement, which applies in all circumstances, at all times\n‘should’ denotes a recommendation, to be met on a ‘comply or explain’ basis\n‘may’ denotes approval\n‘might’ denotes a possibility\n‘can’ denotes both capability and possibility\nis/are is used for a description\n\nThese are the same terms as those in the UK Government functional standards.",
     "crumbs": [
       "Forward"
+    ]
+  },
+  {
+    "objectID": "proportionality.html#introduction",
+    "href": "proportionality.html#introduction",
+    "title": "3  Proportionality",
+    "section": "",
+    "text": "Table 1 - Factors for determining appropriate assurance\n\n\n\n\n\n\nFactor\nComments\n\n\n\n\nBusiness criticality\nDifferent issues will vary their financial, legal, operational, political and reputational impacts.\n\n\nRelevance of the analysis to the decision making process\nWhen analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the evidence base.\n\n\nType and complexity of analysis\nHighly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts.\n\n\nNovelty of approach\nA previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested.\n\n\nPrecision of the analysis outputs\nImprecise analysis can require different assurance than precise analysis, e.g. because of inherent limitations of the analytical technique, or lack of data on assumptions.\n\n\nAmount of resource available for the analysis and assurance\nThe value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Approaches that underpin a lot of different things may require greater levels of QA than might be suggested by any individual decision they support.\n\n\nLongevity of the analysis\nChange control.\n\n\nRepeat runs for the same analysis\nControl and assurance of data and parameters for each run\n\n\n\n\n\n\n\nFigure 1 - Types of quality assurance",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Proportionality</span>"
+    ]
+  },
+  {
+    "objectID": "proportionality.html#structured-assessment-of-business-risk-and-complexity",
+    "href": "proportionality.html#structured-assessment-of-business-risk-and-complexity",
+    "title": "3  Proportionality",
+    "section": "3.2 Structured assessment of business risk and complexity",
+    "text": "3.2 Structured assessment of business risk and complexity\nTo guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced.\nThis can be visualised by considering the situation as a risk matrix, illustrated in Figure 2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Proportionality</span>"
     ]
   }
 ]

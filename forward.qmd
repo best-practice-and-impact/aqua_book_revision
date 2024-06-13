@@ -10,11 +10,11 @@ This guidance uses the following terms to indicate whether recommendations are m
 
 The terms are:  
 
-* ‘shall’ denotes a requirement, which applies in all circumstances, at all times 
-* ‘should’ denotes a recommendation, to be met on a ‘comply or explain’ basis 
-* ‘may’ denotes approval 
-* ‘might’ denotes a possibility 
-* ‘can’ denotes both capability and possibility 
-* is/are is used for a description 
+* **‘shall’** denotes a requirement, which applies in all circumstances, at all times 
+* **‘should’** denotes a recommendation, to be met on a ‘comply or explain’ basis 
+* **‘may’** denotes approval 
+* **‘might’** denotes a possibility 
+* **‘can’** denotes both capability and possibility 
+* **is/are** is used for a description 
 
 These are the same terms as those in the [UK Government functional standards](https://www.gov.uk/government/collections/functional-standards). 

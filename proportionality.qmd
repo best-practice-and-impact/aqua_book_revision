@@ -6,3 +6,49 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Proportionality
 
+All analysis shall be assured, and the assurance should be proportionate to the potential impact, size and complexity of the analysis. The level of assurance shall be guided by structured assessment of the business risks. 
+
+There shall always be an element of independence between the assurer and the analyst. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance. It means that there should be some formal independent assurance. 
+
+## Introduction
+
+Think about and deliver appropriate (proportionate) levels of assurance for your analysis.  There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will inform a decision that will make minimal impact.  
+
+Table 1 provides a list of key factors that should be considered when determining what level of assurance is appropriate. 
+
+Further detail and considerations may be found on the Analysis Function's [Quality Questions and Red Flags](https://dataqualityhub.github.io/resources-for-quality-analysis-external/) page.
+
+
+| Factor  | Comments  |
+|:--------|:----------|
+| Business criticality | Different issues will vary their financial, legal, operational, political and reputational impacts. |
+| Relevance of the analysis to the decision making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the evidence base.  |
+| Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
+| Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
+| Precision of the analysis outputs | Imprecise analysis can require different assurance than precise analysis, e.g. because of inherent limitations of the analytical technique, or lack of data on assumptions. |
+| Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Approaches that underpin a lot of different things may require greater levels of QA than might be suggested by any individual decision they support.  |
+| Longevity of the analysis | Change control. |
+| Repeat runs for the same analysis | Control and assurance of data and parameters for each run |
+
+: Table 1 - Factors for determining appropriate assurance {.striped}
+
+
+Figure 1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.
+
+![Figure 1 - Types of quality assurance](types_of_quality_assurance.jpg){fig-alt="Figure 1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. One of them goes from simple to highly complex analysis and the other goes from low to high business risk. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit."}
+
+The interventions in Figure 1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing. 
+
+One way to view assurance interventions would be to consider individual interventions in a layer. An individual intervention will reduce risks in a particular area, but will leave many other risks unmitigated. Adding more interventions (layers) will start to increase coverage and reduce overall risk. 
+
+The total elimination of risk will never be achievable, and the balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate. Refer to the table in chapter 10.
+
+Many of these interventions are mentioned elsewhere in the AQUA Book, and are not repeated here.
+
+## Structured assessment of business risk and complexity
+
+To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced. 
+
+This can be visualised by considering the situation as a risk matrix, illustrated in Figure 2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
+
+
