@@ -14,15 +14,15 @@ The main folder contains the following key files:
 
 **_quarto.yml** - YAML file containing configuration information for the Quarto engine to render the website. Includes page structure and source files.    
 **.gitignore** - List of files not to upload to git repository.   
-**LICENSE** - licensing for re-use of the repository and its content. This repository is licensed under the [MIT license](https://opensource.org/license/MIT) in line with [Government Digital Service](https://gds-way.digital.cabinet-office.gov.uk/manuals/licensing.html) recommendations. The content of the AQuA Book itself is licensed under the [Open Government License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) in line with GDS guidance about how to license documentation.
+**LICENSE** - licensing for re-use of the repository and its content. This repository is licensed under the [MIT license](https://opensource.org/license/MIT) in line with [Government Digital Service](https://gds-way.digital.cabinet-office.gov.uk/manuals/licensing.html) recommendations. The content of the AQuA Book itself is licensed under the [Open Government License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) in line with GDS guidance about how to license documentation.    
 **aqua_style.css** - HTML style sheet which sets up table rendering formatting. Edit this to change the way the site renders tables and other non text content to HTML.       
-**README.md** - Repository README file (this document) written in markdown format.
-**index.qmd** - Main index to the Quarto book.
-**intro.qmd** - AQuA Chapter One - introduction.
-**definitions_and_key_concepts.qmd** - AQuA Chapter Two - definitions and key concepts.
-**references.bib** - Bibliography in Quarto supported bib format.
-**references.qmd** - List of references.
-**summary.qmd** - Document summary.
+**README.md** - Repository README file (this document) written in markdown format.    
+**index.qmd** - Main index to the Quarto book.    
+**intro.qmd** - AQuA Chapter One - introduction.    
+**definitions_and_key_concepts.qmd** - AQuA Chapter Two - definitions and key concepts.    
+**references.bib** - Bibliography in Quarto supported bib format.    
+**references.qmd** - List of references.    
+**summary.qmd** - Document summary.    
 
 # Working with the project code
 
