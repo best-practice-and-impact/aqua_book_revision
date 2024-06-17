@@ -38,7 +38,7 @@ Senior leaders should also develop processes so teams can report when things go 
 When the Department for Education made an error producing the schools national funding formula allocations for 2024-25, they ran a detailed internal review to understand what went wrong and why it was not detected by the QA process. The department also commissioned and published an [external, independent review](https://assets.publishing.service.gov.uk/media/65819c6f23b70a000d234c08/Independent_review_to_assess_the_error_made_in_the_production_of_the_schools_block_NFF.pdf) to assess the error and put forward recommendations. The independent review praised the team for its open learning culture and a culture of taking responsibility for mistakes. 
 :::
 
-# Capacity and capability
+## Capacity and capability
 
 Senior leaders should create the conditions in which quality assurance processes can operate effectively, by ensuring staff have time built-in for quality assurance and documentation, can draw on expertise and experience, and have the access to the tools and data they need. 
 
@@ -68,11 +68,11 @@ These sessions include an interactive activity looking at a purposefully sabotag
 College participants also join the Modelling Integrity Network, as potential Assuring Analysts where these cannot be found by Lead Analysts in their own policy areas.  
 :::
 
-### Tools
+## Tools
 
 There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of focussing on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
 
-### Data
+## Data
 
 There is a risk that data quality and data understanding cause quality issues with analysis. Senior leaders can escalate data quality issues with wider data teams, and champion and oversee changes to improve data quality.
 
