@@ -31,11 +31,11 @@ The Analyst should create a specification document which captures the initial en
 
 The Analyst should ensure they understand any risks, underlying assumptions, and the business criticality of the analysis. The Analyst should share this specification with the customer and seek agreement on the approach.
 
-# The Assurer's responsibilities during engagement and scoping
+## The Assurer's responsibilities during engagement and scoping
 
 The assurer should understand the assurance requirements and plan time in for the assurance activity.
 
-# The Approver's responsibilities during engagement and scoping
+## The Approver's responsibilities during engagement and scoping
 
 The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the analyst and assurer are aware of local assurance protocols. 
 
