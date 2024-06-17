@@ -6,3 +6,36 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Engagement and scoping
 
+## Introduction
+If the main purpose of analysis is to cut out irrelevance and to simplify, it is essential for to identify what is relevant for a piece of analysis. The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis. Problem Structuring Methods, such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can aid these discussions.
+
+## The Commissioner's responsibilities during engagement and scoping
+
+During engagement, the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context.
+
+The Commissioner is responsible for ensuring that:
+
+* Key aspects of the problem, scope, and programme constraints, are captured and clearly communicated to the Analyst.    
+* They are available to actively engage with the Analyst to appropriately shape the work.    
+* There is sufficient governance in place to support the analysis and its role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This proportionality may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).    
+* They understand risks where time and resource pressures constrain the approach.    
+* They request information on uncertainty from analysts and challenge them when it is absent, inadequate or ambiguous.    
+* Communicate to the analyst any sources of uncertainty they have identified as part of their wider considerations.    
+* If possible, indicate in advance the consequences for decision-making of different degrees of uncertainty, as this may enable the analyst to conduct their analysis at a proportionate level.    
+
+## The Analyst's responsibilities during engagement and scoping
+
+At this stage in the analytical lifecycle, the Commissioner and Analyst should work together to design analysis that suits the Commissioner’s requirements.
+
+The Analyst should create a specification document which captures the initial engagement with the Commissioner and identifies the question, the context, and any boundaries of the analysis. It should provide a definition of the scope and project constraints, for example deadlines, available resources, capturing what level of assurance is required by the Commissioner, and the degree of uncertainty allowed for decision-making.
+
+The Analyst should ensure they understand any risks, underlying assumptions, and the business criticality of the analysis. The Analyst should share this specification with the customer and seek agreement on the approach.
+
+# The Assurer's responsibilities during engagement and scoping
+
+The assurer should understand the assurance requirements and plan time in for the assurance activity.
+
+# The Approver's responsibilities during engagement and scoping
+
+The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the analyst and assurer are aware of local assurance protocols. 
+
