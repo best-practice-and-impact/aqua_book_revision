@@ -92,6 +92,10 @@ The Department for Energy Security and Net Zero and Department for Business and 
 
 :::
 
+## Materiality
+
+[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".
+
 ## Multi-use models {.unnumbered}
 
 Some models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as **multi-use models**.  
@@ -195,3 +199,11 @@ The outcome of a decision is never known perfectly in advance. For each option w
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
 
 The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) is a tool produced by a cross government group to help assessing and communicating uncertainty.
+
+## Validation {.unnumbered}
+
+Add definition of validation.
+
+## Verification {.unnumbered}
+
+Add definition of verification.
