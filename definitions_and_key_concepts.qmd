@@ -84,7 +84,13 @@ It is important to ensure that changes that have been made to analysis can be ea
 
 ### Assurance statement {.unnumbered}
 
-A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis. 
+A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.
+
+::: {.callout-tip}
+# Example of publishing quality assurance tools
+The Department for Energy Security and Net Zero and Department for Business and Trade have published a range of quality assurance tools and guidance to help people with Quality Assurance of analytical models. [Modelling Quality Assurance tools and guidance](https://www.gov.uk/government/publications/energy-security-and-net-zero-modelling-quality-assurance-qa-tools-and-guidance) are used across the two departments to ensureanalysis meets the standards set out in the AQuA book and provide assurance to users of the analysis that proportionate quality assurance has been completed. 
+
+:::
 
 ## Multi-use models {.unnumbered}
 
