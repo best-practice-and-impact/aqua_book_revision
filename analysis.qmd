@@ -6,3 +6,58 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Analysis
 
+## Introduction
+
+The analysis phase is where planned analysis is undertaken, and progress and relevance are monitored. During work, the design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered, and this phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping phase. 
+
+Throughout this phase, traceable documentation of the assurance activities undertaken shall also be produced. 
+
+In larger analytical projects, some outputs of the analysis may be completed at different times as work progresses, and aspects of other phases may therefore take place concurrently.
+
+## The Analyst's responsibilities during the analysis phase
+
+As the analyst manages their analysis and follows their analytical plan, they must provide documentation of the data and methods used to the assurers. The analyst shall ensure these are sufficient for the assurer to understand the approach.
+
+When the analysts are following the analytical plan, they must record any changes to their plan if they encounter difficulties or unexpected limitations. The analyst will also carry out the assurance plan and shall provide traceable documentation of the assurance they have undertaken. They shall act on any findings from the assurer. 
+Analysts shall maintain regular and agreed contact with the commissioner, for example through regular update reports on large projects. This provides an opportunity for the commissioner to advise on whether the analysis is still meeting their needs or whether there are any new requirements.
+
+When conducting the analysis, it is important that it is transparent that the Analytical Plan has been followed and, any changes have been recorded. The analyst shall inform the commissioner and approver of such changes. The commissioner and approver can then comment on whether the analysis is still meeting the needs of the commission. Best practice includes:
+
+* Maintaining a record of the work in a report;
+* Logging the data, assumptions and inputs used in the analysis. The log should detail the source, ownership and a fitness-for-purpose risk assessment;
+* Recording the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its impact on the analysis.
+
+## The Assurer's responsibilities during the analysis phase
+
+The analytical assurer shall review the assurance completed by the analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the analyst. The assurer may then need to re-review the assurance completed, as required. 
+
+The assurer shall also confirm the work has been appropriately scoped, executed, validated, and verified and documented to the approver. 
+
+## The Commissioner's responsibilities during the analysis phase
+
+The commissioner’s role is to review the analysis and assurance as fit for the purposes of the commission.
+
+## The Approver's responsibilities during the analysis phase
+
+The Approver scrutinises the work of the analyst and assurer and shall be confident that the analysis:
+
+* Meets its design requirements;
+* Is of sufficient quality and
+* Is adequately documented.
+
+## Uncertainty
+
+It is not sufficient to identify and describe risks and uncertainties. It is essential also to assess their impact on the outcome of the analysis and their contribution to the range and likelihoods of possible outcomes. Guidance on how to identify, mitigate, measure and communicate uncertainty can be found in the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
+
+## Limitations of data
+
+It is important to consider how well available data meet the needs of the analysis. It is rare to have the perfect dataset for an analytical commission. Reasons for this include:
+
+* The data is not available in the time frame required for the ideal analysis;    
+* The data definition does not perfectly align with the commission;    
+* There are data or coverage gaps;    
+* The data may be experimental or there are other reasons why it is not ‘mature’.    
+
+Often, no data are available that are directly and precisely relevant to the parameter and conditions of interest. In such cases, it is often possible to use surrogate data. These are measurements of another parameter, or of the parameter of interest under different conditions, that are related to the parameter and conditions of interest. This implies an extrapolation between parameters, or between conditions for the same parameter, which introduces further uncertainty, additional to that associated with the data themselves. It may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
+
+The impact of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large impact on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the analytical assurer. 
