@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.554">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>The AQuA Book - 2&nbsp; Definitions and key concepts</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./proportionality.html" rel="next">
+<link href="./intro.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./definitions_and_key_concepts.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">The AQuA Book</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forward.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Forward</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./definitions_and_key_concepts.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./proportionality.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Proportionality</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./quality_assurance_culture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Quality assurance culture</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./analytical_lifecycle.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Overview of the analytical lifecycle</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./engagement_and_scoping.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Engagement and scoping</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./design.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Design</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Analysis</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./delivery_and_communication.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Delivery and communication</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./additional_resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Additional resources</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#analysis" id="toc-analysis" class="nav-link active" data-scroll-target="#analysis">Analysis</a></li>
+  <li><a href="#assurance" id="toc-assurance" class="nav-link" data-scroll-target="#assurance">Assurance</a></li>
+  <li><a href="#assurance-activities" id="toc-assurance-activities" class="nav-link" data-scroll-target="#assurance-activities">Assurance activities</a></li>
+  <li><a href="#business-critical-analysis" id="toc-business-critical-analysis" class="nav-link" data-scroll-target="#business-critical-analysis">Business critical analysis</a></li>
+  <li><a href="#change-control" id="toc-change-control" class="nav-link" data-scroll-target="#change-control">Change control</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a>
+  <ul class="collapse">
+  <li><a href="#specification-documentation" id="toc-specification-documentation" class="nav-link" data-scroll-target="#specification-documentation">Specification documentation</a></li>
+  <li><a href="#design-documentation" id="toc-design-documentation" class="nav-link" data-scroll-target="#design-documentation">Design documentation</a></li>
+  <li><a href="#assumptions-log" id="toc-assumptions-log" class="nav-link" data-scroll-target="#assumptions-log">Assumptions log</a></li>
+  <li><a href="#decisions-log" id="toc-decisions-log" class="nav-link" data-scroll-target="#decisions-log">Decisions log</a></li>
+  <li><a href="#data-log" id="toc-data-log" class="nav-link" data-scroll-target="#data-log">Data log</a></li>
+  <li><a href="#quality-assurance-plan" id="toc-quality-assurance-plan" class="nav-link" data-scroll-target="#quality-assurance-plan">Quality assurance plan</a></li>
+  <li><a href="#user-technical-documentation" id="toc-user-technical-documentation" class="nav-link" data-scroll-target="#user-technical-documentation">User / technical documentation</a></li>
+  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version control</a></li>
+  <li><a href="#assurance-statement" id="toc-assurance-statement" class="nav-link" data-scroll-target="#assurance-statement">Assurance statement</a></li>
+  </ul></li>
+  <li><a href="#multi-use-models" id="toc-multi-use-models" class="nav-link" data-scroll-target="#multi-use-models">Multi-use models</a></li>
+  <li><a href="#principles-of-analytical-quality-assurance" id="toc-principles-of-analytical-quality-assurance" class="nav-link" data-scroll-target="#principles-of-analytical-quality-assurance">Principles of analytical quality assurance</a></li>
+  <li><a href="#quality-analysis" id="toc-quality-analysis" class="nav-link" data-scroll-target="#quality-analysis">Quality analysis</a></li>
+  <li><a href="#reproducible-analytical-pipelines" id="toc-reproducible-analytical-pipelines" class="nav-link" data-scroll-target="#reproducible-analytical-pipelines">Reproducible analytical pipelines</a></li>
+  <li><a href="#roles-and-responsibilities" id="toc-roles-and-responsibilities" class="nav-link" data-scroll-target="#roles-and-responsibilities">Roles and responsibilities</a></li>
+  <li><a href="#uncertainty" id="toc-uncertainty" class="nav-link" data-scroll-target="#uncertainty">Uncertainty</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.</p>
+<p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
+</div>
+</div>
+<p>This chapter sets out definitions and key concepts that are used throughout the rest of the book.</p>
+<section id="analysis" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="analysis">Analysis</h2>
+<p>Analysis is the collection, manipulation and interpretation of information and data for use in decision making. Analysis can vary widely between situations and many different types of analysis may be used to form the evidence base that supports the decision-making process.</p>
+<p>Examples of types of analysis that are frequently encountered in government are:</p>
+<ul>
+<li>actuarial<br>
+</li>
+<li>data science</li>
+<li>economic</li>
+<li>financial<br>
+</li>
+<li>geographical</li>
+<li>operational research</li>
+<li>scientific, technical and engineering research<br>
+</li>
+<li>statistical<br>
+</li>
+<li>social research</li>
+</ul>
+</section>
+<section id="assurance" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="assurance">Assurance</h2>
+<p>Analytical assurance is the process and set of practices to ensure that the analysis is fit for purpose.</p>
+</section>
+<section id="assurance-activities" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="assurance-activities">Assurance activities</h2>
+<p>Assurance activities are anything that is undertaken to validate and verify analysis</p>
+<p>For example:</p>
+<ul>
+<li>analyst testing<br>
+</li>
+<li>peer review<br>
+</li>
+<li>analytical audits</li>
+</ul>
+</section>
+<section id="business-critical-analysis" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="business-critical-analysis">Business critical analysis</h2>
+<p>Business critical analysis is defined as analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or an error could have a significant reputational, economic or legal impact for the public sector.</p>
+<p>Version 1 of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM).</p>
+</section>
+<section id="change-control" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="change-control">Change control</h2>
+<p>Change control is the set of processes followed when changes are made to a piece of analysis. For example, version numbering, documentation, assurance of changes.</p>
+</section>
+<section id="documentation" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="documentation">Documentation</h2>
+<section id="specification-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="specification-documentation">Specification documentation</h3>
+<p>This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.</p>
+</section>
+<section id="design-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="design-documentation">Design documentation</h3>
+<p>This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.</p>
+</section>
+<section id="assumptions-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="assumptions-log">Assumptions log</h3>
+<p>A register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.</p>
+</section>
+<section id="decisions-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="decisions-log">Decisions log</h3>
+<p>A register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.</p>
+</section>
+<section id="data-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="data-log">Data log</h3>
+<p>A register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.</p>
+</section>
+<section id="quality-assurance-plan" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="quality-assurance-plan">Quality assurance plan</h3>
+<p>A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.</p>
+</section>
+<section id="user-technical-documentation" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="user-technical-documentation">User / technical documentation</h3>
+<p>All analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial.</p>
+</section>
+<section id="version-control" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="version-control">Version control</h3>
+<p>It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom.</p>
+</section>
+<section id="assurance-statement" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="assurance-statement">Assurance statement</h3>
+<p>A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.</p>
+</section>
+</section>
+<section id="multi-use-models" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="multi-use-models">Multi-use models</h2>
+<p>Some models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as <strong>multi-use models</strong>.</p>
+<p>Often, a Steering Group is created to oversee the analysis. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model, and contain senior, ideally empowered, representatives of each major user area.</p>
+</section>
+<section id="principles-of-analytical-quality-assurance" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="principles-of-analytical-quality-assurance">Principles of analytical quality assurance</h2>
+<p>No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:</p>
+<p><strong>Proportionate:</strong> Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational impacts. More details can be found in chapter [3]</p>
+<p><strong>Assurance throughout development:</strong> Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].</p>
+<p><strong>Verification and validation:</strong> Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e.&nbsp;fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9].</p>
+<p><strong>Accept that uncertainty is inherent</strong> in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io)</p>
+<p><strong>Analysis with RIGOUR:</strong> One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+RIGOUR
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic “RIGOUR” may assist:</p>
+<ul>
+<li><strong>R</strong>epeatable</li>
+<li><strong>I</strong>ndependent</li>
+<li><strong>G</strong>rounded in reality</li>
+<li><strong>O</strong>bjective</li>
+<li><strong>U</strong>ncertainty-managed</li>
+<li><strong>R</strong>obust</li>
+</ul>
+<p><strong>Repeatable:</strong> For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.</p>
+<p><strong>Independent:</strong> Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.</p>
+<p><strong>Grounded in reality:</strong> Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.</p>
+<p><strong>Objective:</strong> Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.</p>
+<p><strong>Uncertainty-managed:</strong> Uncertainty is identified, managed and communicated throughout the analytical process.</p>
+<p><strong>Robust:</strong> Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="quality-analysis" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="quality-analysis">Quality analysis</h2>
+<p>Quality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its impact, adequately communicated, documented and accepted by its commissioners.</p>
+</section>
+<section id="reproducible-analytical-pipelines" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="reproducible-analytical-pipelines">Reproducible analytical pipelines</h2>
+<p><a href="https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/">Reproducible Analytical Pipelines (RAPs)</a> are automated analytical processes. They incorporate elements of software engineering best practice to ensure that the pipelines are reproducible, auditable, efficient, and high quality.</p>
+</section>
+<section id="roles-and-responsibilities" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="roles-and-responsibilities">Roles and responsibilities</h2>
+<p>Organisations may have their own titles for the main functional roles involved in analysis that are* set out here.</p>
+<p>Each role may be fulfilled by a team or committee of people. However, a single individual will have overall accountability (such as the chair of a committee) for each role.</p>
+<p>The AQuA book defines the roles as:</p>
+<ul>
+<li><strong>Commissioner</strong> (may be known as customer)
+<ul>
+<li>Requests the analysis and sets out their requirements<br>
+</li>
+<li>Agrees what the analyst is going to do will satisfy the need<br>
+</li>
+<li>Accepts the analysis and assurance as fit for purpose</li>
+</ul></li>
+<li><strong>Analyst</strong>
+<ul>
+<li>Designs the approach, including the assurance, to meet the commissioner’s requirements</li>
+<li>Agrees the approach with the commissioner</li>
+<li>Carries out the analysis</li>
+<li>Carries out their own assurance<br>
+</li>
+<li>Acts on findings from the assurer</li>
+<li>Can be a group of analysts, in which case the lead analyst is responsible</li>
+</ul></li>
+<li><strong>Assurer</strong> (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner (“SRO”))
+<ul>
+<li>Reviews the assurance completed by the analyst<br>
+</li>
+<li>Carries out any further validation and verification they may see as appropriate<br>
+</li>
+<li>Reports errors and areas for improvement to the analyst<br>
+</li>
+<li>Re-reviews as required<br>
+</li>
+<li>Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver<br>
+</li>
+<li>Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.</li>
+</ul></li>
+<li><strong>Approver</strong> (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))<br>
+</li>
+<li>Scrutinises the work of the analyst and assurer<br>
+</li>
+<li>Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured<br>
+</li>
+<li>The roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.<br>
+</li>
+<li>In instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.</li>
+</ul>
+</section>
+<section id="uncertainty" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="uncertainty">Uncertainty</h2>
+<p>The outcome of a decision is never known perfectly in advance. For each option within analysis, a range of real outcomes is possible: the outcome is uncertain.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Defining uncertainty
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="https://en.wikipedia.org/wiki/Uncertainty">Wikipedia defines uncertainty</a> as referring to <a href="https://en.wikipedia.org/wiki/Epistemology">epistemic</a> situations involving imperfect or unknown information. It applies to predictions of future events, to physical measurements that are already made, or to the unknown.</p>
+</div>
+</div>
+<p>There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required.</p>
+<p>The <a href="https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html">Uncertainty Toolkit for Analysts in Government</a> is a tool produced by a cross government group to help assessing and communicating uncertainty.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./intro.html" class="pagination-link" aria-label="Introduction">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./proportionality.html" class="pagination-link" aria-label="Proportionality">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Proportionality</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
