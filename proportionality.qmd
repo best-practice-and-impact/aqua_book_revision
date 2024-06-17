@@ -120,12 +120,12 @@ In cases where there is a need for analysis, but there are also significant time
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
-| High - RED       | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
+| High - Red       | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
 | Medium - Amber   | The risk should not be tolerated without SRO agreement. New assurance measures should be put in place to treat (mitigate) the likelihood of errors occurring. Continue with planned or existing mitigations. |
 | Low - Yellow     | The risk can be tolerated. Existing or planned mitigations should be continued, and new treatments may be considered.  |
 | Very Low - Green | The risk can be tolerated. Existing/planned mitigations measures should be continued.  |
 
-: Table X - Responses to risk assessment levels
+: Table X - Responses to risk assessment levels {.striped}
 
 ## Externally commissioned work
 
@@ -136,4 +136,4 @@ The difference will be in ensuring the assessment of risks and the applied mitig
 ## Artificial intelligence
 
 Increasingly analysis may be underpinned by Artificial Intelligence (AI). With AI-informed analysis the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.
- 
+
