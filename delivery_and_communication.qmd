@@ -6,3 +6,81 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Delivery and communication
 
+## Introduction
+
+The successful delivery of analysis to its Commissioner marks its transition from being a product under development to one that is fit and ready to be used to inform decision making in your organisation and possibly inform the public. 
+
+This chapter gives the Analyst, the Commissioner of analysis and other interested groups advice and information on how best to advise on the assurance and communicate analysis.
+
+## Delivering the analysis
+
+When delivering a piece of analysis, the Analyst and Assurer should communicate its assurance state to the Approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance and there is adequate evidence to demonstrate that the analysis is ready for delivery, for example:
+
+* That the analysis has undergone appropriate analytical governance (sign offs);    
+* It uses data and assumptions as agreed with the commissioner;    
+* It meets the purpose of its commission;    
+* It has been carried out correctly to its agreed specification;   
+* It has a risk assessment and statement against the programme risk register;    
+* Where appropriate the analysis is accompanied by a completed [assurance statement](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&wdOrigin=BROWSELINK).    
+
+Though not strictly assurance, the analyst should also consider areas such as security ratings, retention policies, intellectual property, ethics and related concerns.
+
+When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should also ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation could include:
+
+* Logs of data, assumptions and decisisions including their source, ownership, reliability and any sensitivity analysis carried out;    
+* Advice on uncertainty and its impact on the outputs of the analysis;    
+* A description of the limits of the analysis and what it can and cannot be used for;    
+* Any materials for presenting the analysis to the Commissioner, for example slide decks or reports;    
+* A record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting;    
+* When appropriate, make the code base available to the Commissioner or more widely;    
+* The test plan and results of the tests made against that plan;    
+* A statement of assurance;    
+* Any ethical concerns that have been addressed, especially for the application of Artificial Intelligence and machine learning algorithms;    
+* Where applicable ensuring that the analysis meets the [accessibility requirements for public bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and / or 
+* Where applicable the code of practice for publications has been followed.    
+
+Some groups find it helpful to communicate the assurance state to the commissioner in a formal assurance statement covering these points. Here is an example of [an assurance statement](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&wdOrigin=BROWSELINK).
+
+The exact nature of the approval process may vary depending on:
+
+* The impact of the analysis;    
+* The approval process of the organisation, and    
+* The nature of the programme, project or board approving the analysis.    
+
+For example, as well as delivering the required materials the analyst may also need to produce a summary slide pack for delivery at a project / programme board and be prepared to respond to challenge from the commissioner / board. The approver should provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose.
+
+On delivery, the Approver should scrutinise the evidence delivered with the analysis to undertake a formal review of the analysis and approve it if the analysis meets the agreed criteria. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required. The Approver should also provide the analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar. 
+
+The exact nature of any scrutiny made by the Approver should be proportionate to the impact of the analysis, the governance process of their programme / organisation and follow the principles of proportionality described in section Chapter 3 of this document. The analyst / lead analyst, Approver and Commissioner should liaise regularly through the development of the analysis to help mutual understanding of the ask and progress of the analysis to help ensure successful assurance of the analysis at delivery.
+
+To ensure that the analysis is used as intended, the Commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst. 
+
+## Communicating the analysis
+
+The effective and transparent communication of is essential to enable analysis to be adopted and trusted by its commissioners and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
+
+* Commissioners and Approvers of the analysis;    
+* External scrutiny including the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external audit;    
+* The public, through publications and [Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents) requests;    
+* Academic experts, possibly through a departmental [Areas of Research Interest]() document.    
+
+Government has produced a range of guidance to support analysts in presenting and communicating their analysis. This includes:
+
+* The Office for Statistical Regulation’s [Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/);    
+* The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html);    
+* The Government Analysis Function guidance note [Communicating quality, uncertainty and change](https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/);    
+
+Each provides valuable advice on how to estimate and present uncertainty when describing the limitations of use of a piece of analysis.
+
+The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
+
+Government has also produced guidance to support commissioners and users of analysis. The Analysis Function's [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) aims to help policy professionals to work effectively with analysts and analysis. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.
+
+If publishing the outcome of any analysis is required, the analyst should follow departmental and statutory guidance. The analyst must comply with the code of practice when they publish official statistics.  Some examples are given below:
+
+* If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/wp-content/uploads/2018/10/Publishing_official_statistics_National_Statistics_1218.pdf);    
+* If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
+* If you are publishing an evaluation, refer to any recommendations from the [Evaluation Task Force](https://www.gov.uk/government/organisations/evaluation-task-force);    
+* If you are publishing information about business-critical models you should follow PLACEHOLDER.    
+
+
