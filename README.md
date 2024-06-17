@@ -26,7 +26,7 @@ The main folder contains the following key files:
 
 # Working with the project code
 
-We recommend using [Visual Studio Code](https://code.visualstudio.com/) to work with this project. Open the code workspace in VS Code to load the project. To render the website, open any of the .qmd documents and select the Preview button. Edits to qmd files will only be reflected in the project website after you have re-rendered using Preview.
+We recommend using [Visual Studio Code](https://code.visualstudio.com/) to work with this project. Open the code workspace in VS Code to load the project. To render the website, open any of the .qmd documents and select the Preview button. Edits to qmd files will only be reflected in the project website after you have re-rendered using Preview and pushed the updated repo to Github.
 
 # Software requirements  
 Python 3.8 or later    
