@@ -2,3 +2,7 @@
 
 ::: {#refs}
 :::
+
+(For information, not part of the draft: example of a citation reference linked to references.bib file:
+ See @knuth84 for additional discussion of literate programming.
+)

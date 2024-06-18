@@ -28,8 +28,11 @@ We would like to see analysts from all backgrounds using this book. Our intended
 
 * customers – helping you to get the most out of your commission; 
 * members of the government analytical professions. This might include:
-  + finance professionals making spending forecasts
-  + social researchers carrying out qualitative research
+  + operational researchers, statisticians and economists;
+  + geographers;
+  + finance professionals making spending forecasts;
+  + actuaries;
+  + social researchers carrying out qualitative research;
   + data scientists developing advanced analytics;
   + and anyone else carrying out analysis. 
 * senior leaders with an interest in analytical assurance.  
@@ -42,12 +45,9 @@ Here are a few reasons why.
 * **Trust is hard to obtain but easy to lose.** A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted; 
 * **Prevention is better than cure.** Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use; 
 * **Delivering quality analysis provides the confidence that is needed for transparency and public openness;** 
-* **Assurance is required for audit purposes**[^2]; and,  
+* **Assurance is required for audit purposes**[^2]; and  
 * **Professional pride in your work.** 
 
-(For information, not part of the draft: example of a citation reference linked to references.bib file:
- See @knuth84 for additional discussion of literate programming.
-)
 
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
