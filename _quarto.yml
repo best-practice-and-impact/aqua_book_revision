@@ -19,6 +19,7 @@ book:
     - analysis.qmd
     - delivery_and_communication.qmd
     - additional_resources.qmd
+    - accessibility_statement.qmd
     - references.qmd
 
 bibliography: references.bib
