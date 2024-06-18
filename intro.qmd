@@ -18,16 +18,16 @@ Users of the AQuA book have pointed out some things we did not cover in the firs
 * working with third parties such as contractors and academic groups and,  
 * publishing models.  
 
-We provide improved guidance on what a proportionate approach to assurance means (in chapter X) and have made the whole guide applicable to all types of analysis.
+We provide improved guidance on what [a proportionate approach to assurance means](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html) and have made the whole guide applicable to all types of analysis.
 
 ## Who is the AQuA Book for?
 
 In this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. 
 
-We would like to see analysts from all backgrounds using this book. Our intended audience includes;  
+We would like to see analysts from all backgrounds using this book, especially those producing analysis, evidence and research to support decision making in government. Our intended audience includes:  
 
-* customers – helping you to get the most out of your commission; 
-* members of the government analytical professions. This might include:
+* Customers – helping you to get the most out of your commission; 
+* Members of the government analytical professions. This might include:
   + operational researchers, statisticians and economists;
   + geographers;
   + finance professionals making spending forecasts;
@@ -35,7 +35,7 @@ We would like to see analysts from all backgrounds using this book. Our intended
   + social researchers carrying out qualitative research;
   + data scientists developing advanced analytics;
   + and anyone else carrying out analysis. 
-* senior leaders with an interest in analytical assurance.  
+* Senior leaders with an interest in analytical assurance.  
 
 ## Why should I pay attention to this guidance? 
 
