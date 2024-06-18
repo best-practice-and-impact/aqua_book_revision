@@ -196,7 +196,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introduction-and-summary" id="toc-introduction-and-summary" class="nav-link active" data-scroll-target="#introduction-and-summary"><span class="header-section-number">7.1</span> Introduction and summary</a>
+  <ul class="collapse">
+  <li><a href="#the-commissioners-responsibilities-during-design" id="toc-the-commissioners-responsibilities-during-design" class="nav-link" data-scroll-target="#the-commissioners-responsibilities-during-design"><span class="header-section-number">7.1.1</span> The Commissioner’s responsibilities during design</a></li>
+  <li><a href="#the-analysts-responsibilities-during-design" id="toc-the-analysts-responsibilities-during-design" class="nav-link" data-scroll-target="#the-analysts-responsibilities-during-design"><span class="header-section-number">7.1.2</span> The Analyst’s responsibilities during design</a></li>
+  <li><a href="#the-assurers-responsibilities-during-design" id="toc-the-assurers-responsibilities-during-design" class="nav-link" data-scroll-target="#the-assurers-responsibilities-during-design"><span class="header-section-number">7.1.3</span> The Assurer’s responsibilities during design</a></li>
+  <li><a href="#the-approvers-responsibilities-during-design" id="toc-the-approvers-responsibilities-during-design" class="nav-link" data-scroll-target="#the-approvers-responsibilities-during-design"><span class="header-section-number">7.1.4</span> The Approver’s responsibilities during design</a></li>
+  </ul></li>
+  <li><a href="#designing-the-analysis" id="toc-designing-the-analysis" class="nav-link" data-scroll-target="#designing-the-analysis"><span class="header-section-number">7.2</span> Designing the analysis</a></li>
+  <li><a href="#testing-the-methodology" id="toc-testing-the-methodology" class="nav-link" data-scroll-target="#testing-the-methodology"><span class="header-section-number">7.3</span> Testing the methodology</a></li>
+  <li><a href="#documenting-the-design-of-the-analysis" id="toc-documenting-the-design-of-the-analysis" class="nav-link" data-scroll-target="#documenting-the-design-of-the-analysis"><span class="header-section-number">7.4</span> Documenting the design of the analysis</a></li>
+  <li><a href="#analysing-uncertainty" id="toc-analysing-uncertainty" class="nav-link" data-scroll-target="#analysing-uncertainty"><span class="header-section-number">7.5</span> Analysing uncertainty</a></li>
+  <li><a href="#reproducible-analytical-pipelines" id="toc-reproducible-analytical-pipelines" class="nav-link" data-scroll-target="#reproducible-analytical-pipelines"><span class="header-section-number">7.6</span> Reproducible analytical pipelines</a></li>
+  <li><a href="#artificial-intelligence-and-machine-learning" id="toc-artificial-intelligence-and-machine-learning" class="nav-link" data-scroll-target="#artificial-intelligence-and-machine-learning"><span class="header-section-number">7.7</span> Artificial intelligence and machine learning</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -234,8 +252,87 @@ Important
 <p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
 </div>
 </div>
+<section id="introduction-and-summary" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="introduction-and-summary"><span class="header-section-number">7.1</span> Introduction and summary</h2>
+<p>This chapter describes how the Analyst translates the scope for the analysis agreed with the Commissioner into the Design, an actionable plan of work. It sets out recommended practices for documenting the Design as an Analytical Plan, making changes to the plan and keeping an audit trail of those changes, testing for reproducibility and uncertainty, and agreeing this with the Approver. An Analysis Steering Group can be an effective means for communications about the Design.</p>
+<section id="the-commissioners-responsibilities-during-design" class="level3" data-number="7.1.1">
+<h3 data-number="7.1.1" class="anchored" data-anchor-id="the-commissioners-responsibilities-during-design"><span class="header-section-number">7.1.1</span> The Commissioner’s responsibilities during design</h3>
+<p>The Commissioner reviews the Plan and agrees that what the Analyst is going to do will satisfy the Commissioner’s need.</p>
+</section>
+<section id="the-analysts-responsibilities-during-design" class="level3" data-number="7.1.2">
+<h3 data-number="7.1.2" class="anchored" data-anchor-id="the-analysts-responsibilities-during-design"><span class="header-section-number">7.1.2</span> The Analyst’s responsibilities during design</h3>
+<p>The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity.</p>
+</section>
+<section id="the-assurers-responsibilities-during-design" class="level3" data-number="7.1.3">
+<h3 data-number="7.1.3" class="anchored" data-anchor-id="the-assurers-responsibilities-during-design"><span class="header-section-number">7.1.3</span> The Assurer’s responsibilities during design</h3>
+<p>The Assurer should agree with Analyst and Commissioner what the assurance requirements will be and plan sufficient time for the assurance activity.</p>
+</section>
+<section id="the-approvers-responsibilities-during-design" class="level3" data-number="7.1.4">
+<h3 data-number="7.1.4" class="anchored" data-anchor-id="the-approvers-responsibilities-during-design"><span class="header-section-number">7.1.4</span> The Approver’s responsibilities during design</h3>
+<p>The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.</p>
+</section>
+</section>
+<section id="designing-the-analysis" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="designing-the-analysis"><span class="header-section-number">7.2</span> Designing the analysis</h2>
+<p>The Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. The Engagement and Scoping stage provides the Analyst with an understanding of the Commissioner’s requirements in terms of outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. During the Design phase, the Analyst will translate the delivery of the agreed outputs into an Analytical Plan. The Analytical Plan should consider:</p>
+<ul>
+<li>Methodology for producing results, including the treatment of uncertainty;</li>
+<li>Project management approach (for example Agile, Waterfall or a combination of approaches);</li>
+<li>Sourcing of inputs and assumptions;</li>
+<li>Data and file management;</li>
+<li>Change management and version control;</li>
+<li>Code management, documentation and testing;</li>
+<li>Communication between stakeholders;</li>
+<li>Quality assurance procedures during the project lifetime;</li>
+<li>Documentation to be delivered;</li>
+<li>Process for updating the Analytical Plan;</li>
+<li>Ethics;</li>
+<li>Reporting;</li>
+<li>Downstream application.</li>
+</ul>
+<p>Documentation of the Analytical Plan should be proportionate to the Design. For larger or more complex projects, the Analyst might request assurance of the Analytical Plan.</p>
+</section>
+<section id="testing-the-methodology" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="testing-the-methodology"><span class="header-section-number">7.3</span> Testing the methodology</h2>
+<p>Best practice is to dry run with independent assurance of the proposed approach to see if the plan:</p>
+<ul>
+<li>Delivers as intended</li>
+<li>Adequately addresses the complexities of the customer issue for this purpose</li>
+<li>Is well-structured for the purpose, data driven, and reflects a robust overall design.</li>
+</ul>
+<p>It is good practice to engage subject matter experts in this review, independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.</p>
+<p>If the analysis is written in code, this should include appropriate testing to ensure that the code works as intended to deliver expected outcomes. Following <a href="https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html">recommended good practices for code development</a> is the best way to ensure that code is fit for purpose.</p>
+<p>On completion of the Design phase, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.</p>
+<p>Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. Considering analytical quality assurance and the acceptable margin of error for the Commissioner is essential to define how good is good enough.</p>
+<p>Agreeing the extent of the importance of the analysis output to decision making will set the level of <a href="https://en.wikipedia.org/wiki/Materiality_(auditing)">materiality</a> (see also Definitions and Key Concepts), which will indicate what would be proportionate assurance.</p>
+<p>The Commissioner remains important through the analysis cycle, since they may well have greater expertise in the subject than the Analyst. Their contribution towards the input assumptions, data requirements and the most effective ways to present the outputs can prove invaluable.</p>
+<p>The Analytical plan should be updated with formal version control to reflect revisions to the design including assurance activities.</p>
+</section>
+<section id="documenting-the-design-of-the-analysis" class="level2" data-number="7.4">
+<h2 data-number="7.4" class="anchored" data-anchor-id="documenting-the-design-of-the-analysis"><span class="header-section-number">7.4</span> Documenting the design of the analysis</h2>
+<p>Best practice is to document the design process recording how the proposed analytical process generates the requested insights. This plan should be supported by the design documentation.</p>
+</section>
+<section id="analysing-uncertainty" class="level2" data-number="7.5">
+<h2 data-number="7.5" class="anchored" data-anchor-id="analysing-uncertainty"><span class="header-section-number">7.5</span> Analysing uncertainty</h2>
+<p>During the design phase, Analysts should examine the planned analysis systematically for possible sources and types of uncertainty, to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error.</p>
+<p>Analysts should make sure that they report identified sources of uncertainty appropriately and proportionately to enable an assessment of whether results are within the Commissioner’s acceptable margin of error.</p>
+<p>The <a href="https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html">Uncertainty Toolkit for Analysts</a> provides advice on the treatment of uncertainty. Other authorities provide guidance for specific purposes, such as the <a href="https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/pages/1/">Office for Statistics Regulation’s Approaches to presenting uncertainty in the statistical system</a>.</p>
+</section>
+<section id="reproducible-analytical-pipelines" class="level2" data-number="7.6">
+<h2 data-number="7.6" class="anchored" data-anchor-id="reproducible-analytical-pipelines"><span class="header-section-number">7.6</span> Reproducible analytical pipelines</h2>
+<p>The recommended approach for developing analysis in code is to use a <a href="https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/">Reproducible Analytical Pipeline (RAP)</a>. Reproducible Analytical Pipelines shall:</p>
+<ul>
+<li>Follow the practices set out in the <a href="https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html">Analysis Function Quality Assurance of Code for Analysis and Research manual</a>.</li>
+<li>Meet the requirements of the <a href="https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md">Reproducible Analytical Pipelines minimum viable product</a>.</li>
+</ul>
+</section>
+<section id="artificial-intelligence-and-machine-learning" class="level2" data-number="7.7">
+<h2 data-number="7.7" class="anchored" data-anchor-id="artificial-intelligence-and-machine-learning"><span class="header-section-number">7.7</span> Artificial intelligence and machine learning</h2>
+<p>Artificial Intelligence (AI) and some classes of Machine Learning (ML) methods have opaque algorithms processing their inputs. These belong to a class of models known as “black boxes” - devices, systems, or objects which produce useful information without revealing any information about their internal workings.</p>
+<p>Using a black box model places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts, particularly Assurers, Approvers and Commissioners. <a href="https://validateai.org/">Validate AI</a> offers resources.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
