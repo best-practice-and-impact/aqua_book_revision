@@ -30,7 +30,7 @@ Analytical assurance is the process and set of practices to ensure that the anal
 
 ## Assurance activities {.unnumbered}
 
-Assurance activities are anything that is undertaken to validate and verify analysis 
+Assurance activities are anything that is undertaken to validate and verify analysis. 
 
 For example:   
 
@@ -40,9 +40,9 @@ For example:
 
 ## Business critical analysis {.unnumbered}
 
-Business critical analysis is defined as analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or an error could have a significant reputational, economic or legal impact for the public sector. 
+Business critical analysis is analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or where an error could have a significant reputational, economic or legal impact for the public sector. 
 
-Version 1 of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM). 
+The first edition of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM). 
 
 ## Change control {.unnumbered}
 
@@ -52,27 +52,27 @@ Change control is the set of processes followed when changes are made to a piece
 
 ### Specification documentation {.unnumbered}
 
-This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing the project constraints, e.g., deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
+This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing project constraints such as deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
 
 ### Design documentation {.unnumbered}
 
-This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem, and forms an important tool for ensuring that the analytical assurer has the confidence that the analyst can deliver quality analysis.  
+This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem. It forms an important tool for ensuring that the Analytical Assurer has the confidence that the Analyst can deliver quality analysis.  
 
 ### Assumptions log {.unnumbered}
 
-A register of assumptions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.
+A register of assumptions, whether provided by the Commissioner or derived by the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.
 
 ### Decisions log {.unnumbered}
 
-A register of decisions whether provided by the commissioner or derived by the analysis that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
+A register of decisions, whether provided by the Commissioner or derived by the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
 
 ### Data log {.unnumbered}
 
-A register of data provided by the commissioner or derived by the analysis that have been risked assessed and signed-off by an appropriate governance group or stakeholder.  
+A register of data provided by the Commissioner or derived by the analysis that has been risked assessed and signed-off by an appropriate governance group or stakeholder.  
 
 ### Quality assurance plan {.unnumbered}
 
-A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. This should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
+A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. The plan should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
 
 ### User / technical documentation {.unnumbered}
 
@@ -202,8 +202,9 @@ The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertainty
 
 ## Validation {.unnumbered}
 
-Add definition of validation.
+Literally meaning to make valid, through the agreement of those judged competent to take such views. The central question that validation raises is the extent to which the right work is being engaged in, given the purpose and constraints placed upon that work. The key output from the validation process is a judgment, based on evidence, concerning the extent to which the work is "fit for purpose". 
+
 
 ## Verification {.unnumbered}
 
-Add definition of verification.
+The extent to which the work that has been agreed to is being done in the 'right' or 'accepted' way, given the 'art of the possible'. The key output from the verification process is a judgment, based on evidence, concerning the extent to which the agreed work has been conducted appropriately. 
