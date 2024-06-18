@@ -6,7 +6,9 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Introduction
 
-The world of analysis has developed since we published the first edition of the AQuA Book. Increasingly in our data driven world, insights from analysis underpin almost all policies and support operational excellence. This underlines the continuing importance of assuring our evidence. In parallel our working practices have developed. The dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. Since then we have broadened the range of methods to include open-source software, machine learning and artificial intelligence.  
+The world of analysis has developed since we published the first edition of the AQuA Book. 
+
+Increasingly in our data driven world, insights from analysis underpin almost all policies and support operational excellence. This underlines the continuing importance of assuring our evidence. In parallel our working practices have developed. The dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. Since then we have broadened the range of methods to include open-source software, machine learning and artificial intelligence.  
 
 Users of the AQuA book have pointed out some things we did not cover in the first edition and areas where guidance was unclear or insufficient. In this edition we have added guidance on:  
 
