@@ -1,0 +1,42 @@
+::: {.callout-important}
+This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. **At this stage, the site does not fully incorporate requirements from accessibility legislation.**
+
+The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+:::
+
+# Accessibility statement {.unnumbered}
+
+This accessibility statement applies to this online version of the AQuA Book.
+Please note that this does not include third-party content that is referenced from this guidance.
+
+The website is managed by the Quality and Improvement division of the Office for National Statistics.
+
+We would like this guidance to be accessible for as many people as possible.
+This means that you should be able to:
+
+- change colours, contrast levels and fonts
+- zoom in up to 300% without the text spilling off the screen
+- navigate most of the website using just a keyboard
+- navigate most of the website using speech recognition software
+- listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+
+For keyboard navigation, {kbd}`Up Arrow` and {kbd}`Down Arrow`keys can be used to scroll up and down on the current page.
+{kbd}`Left Arrow` and {kbd}`Right Arrow` keys can be used to move forwards and backwards through the pages of the book.
+Tabbed content (including code example) can be focused using the {kbd}`Tab` key.
+{kbd}`Left Arrow` and {kbd}`Right Arrow` keys are then used to focus the required tab option,
+where {kbd}`Enter` can be used to select that option and display the associated content.
+
+### Help us improve this book {.unnumbered}
+
+We’re always looking to improve the accessibility of our guidance.
+
+If you find any problems not listed on this page or think that we’re not meeting accessibility requirements, please contact us by emailing [AQUA Book](mailto:tbc@tbc.tbc.gov.uk).
+Please also get in touch if you are unable to access any part of this guidance, or require the content in a different format.
+
+We will consider your request and aim to get back to you within five working days.
+
+### Enforcement procedure {.unnumbered}
+
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the
+[Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’)](https://www.legislation.gov.uk/uksi/2018/952/made).
+If you’re not happy with how we respond to your complaint, you should [contact the Equality Advisory and Support Service (EASS)](https://www.equalityadvisoryservice.com/).
