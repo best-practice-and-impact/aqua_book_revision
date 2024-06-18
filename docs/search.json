@@ -24,7 +24,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "1.1 Who is the AQuA Book for?\nIn this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. We would like to see analysts from all backgrounds using this book. Our intended audience includes;",
+    "text": "1.1 Who is the AQuA Book for?\nIn this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed.\nWe would like to see analysts from all backgrounds using this book. Our intended audience includes;",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "intro.html#who-is-the-aqua-book-for",
     "title": "1  Introduction",
     "section": "",
-    "text": "customers – helping you to get the most out of your commission;\nmembers of the government analytical professions. This might include\n\nfinance professionals making spending forecasts\nsocial researchers carrying out qualitative research\ndata scientists developing advanced analytics;\nand anyone else carrying out analysis.\n\nsenior leaders with an interest in analytical assurance.",
+    "text": "customers – helping you to get the most out of your commission;\nmembers of the government analytical professions. This might include:\n\nfinance professionals making spending forecasts\nsocial researchers carrying out qualitative research\ndata scientists developing advanced analytics;\nand anyone else carrying out analysis.\n\nsenior leaders with an interest in analytical assurance.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "intro.html#why-should-i-pay-attention-to-this-guidance",
     "title": "1  Introduction",
     "section": "1.2 Why should I pay attention to this guidance?",
-    "text": "1.2 Why should I pay attention to this guidance?\nHere are a few reasons why.\n\nYour insights will be used for major decisions and operations. You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage;\nTrust is hard to obtain but easy to lose. A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted;\nPrevention is better than cure. Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use;\nDelivering quality analysis provides the confidence that is needed for transparency and public openness;\nAssurance is required for audit purposes2; and,\n\nProfessional pride in your work.\n\n(For information, not part of the draft: example of a citation reference in use: Knuth (1984) for additional discussion of literate programming. )\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.2 Why should I pay attention to this guidance?\nHere are a few reasons why.\n\nYour analytical insights will be used for major decisions and operations. You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage;\nTrust is hard to obtain but easy to lose. A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted;\nPrevention is better than cure. Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use;\nDelivering quality analysis provides the confidence that is needed for transparency and public openness;\nAssurance is required for audit purposes2; and,\n\nProfessional pride in your work.\n\n(For information, not part of the draft: example of a citation reference linked to references.bib file: See Knuth (1984) for additional discussion of literate programming. )\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -133,8 +133,8 @@
     "objectID": "definitions_and_key_concepts.html#materiality",
     "href": "definitions_and_key_concepts.html#materiality",
     "title": "2  Definitions and key concepts",
-    "section": "2.1 Materiality",
-    "text": "2.1 Materiality\nMateriality is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is “an entity-specific aspect of relevance, based on size, magnitude or both”.",
+    "section": "Materiality",
+    "text": "Materiality\nMateriality is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is “an entity-specific aspect of relevance, based on size, magnitude or both”.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
     ]
