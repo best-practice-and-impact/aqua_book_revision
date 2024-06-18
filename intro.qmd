@@ -41,7 +41,9 @@ Here are a few reasons why.
 * **Assurance is required for audit purposes**[^2]; and,  
 * **Professional pride in your work.** 
 
-See @knuth84 for additional discussion of literate programming.
+(For information, not part of the draft: example of a citation reference in use:
+ @knuth84 for additional discussion of literate programming.
+)
 
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
