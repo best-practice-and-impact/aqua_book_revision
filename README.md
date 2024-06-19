@@ -28,6 +28,8 @@ The main folder contains the following key files:
 
 We recommend using [Visual Studio Code](https://code.visualstudio.com/) to work with this project. Open the code workspace in VS Code to load the project. To render the website, open any of the .qmd documents and select the Preview button, or run `quarto preview` from the terminal. Edits to qmd files will only be reflected in the project website after you have re-rendered using Preview and pushed the updated repo to Github.
 
+When adding issues to the repo, give the issue a name starting with the first word of the chapter heading to which it refers (unless it is a multi-chapter issue)
+
 # Software requirements  
 Python 3.8 or later    
 [Visual Studio Code](https://code.visualstudio.com/) with the Quarto, Python and autopep8 extensions    
