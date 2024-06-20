@@ -78,10 +78,6 @@ A detailed plan of what verification and validation activities should be produce
 
 All analysis shall have user-documentation, even if the user is only the analyst leading the analysis. This is to ensure that they have captured sufficient material to assist them if the analysis is revisited in due course. For analysis that is likely to be revisited or updated in the future, documentation should be provided to assist a future analyst and should be more comprehensive. This documentation should include a summary of the analysis including the context to the question being asked, what analytical methods were considered, what analysis was planned and why, what challenges were encountered and how they were overcome and what verification and validation steps were performed. In addition, guidance on what should be considered if the analysis is to be revisited or updated is beneficial. 
 
-### Version control {.unnumbered}
-
-It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
-
 ### Assurance statement {.unnumbered}
 
 A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.
@@ -207,3 +203,7 @@ Literally meaning to make valid, through the agreement of those judged competent
 ## Verification {.unnumbered}
 
 The extent to which the work that has been agreed to is being done in the 'right' or 'accepted' way, given the 'art of the possible'. The key output from the verification process is a judgment, based on evidence, concerning the extent to which the agreed work has been conducted appropriately. See @glover2014 for more information.
+
+## Version control {.unnumbered}
+
+It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
