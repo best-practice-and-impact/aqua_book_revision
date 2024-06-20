@@ -158,32 +158,31 @@ Each role may be fulfilled by a team or committee of people.  However, a single 
 The AQuA book defines the roles as: 
 
 * **Commissioner** (may be known as customer) 
-  + Requests the analysis and sets out their requirements  
-  + Agrees what the analyst is going to do will satisfy the need  
-  + Accepts the analysis and assurance as fit for purpose  
+    + Requests the analysis and sets out their requirements  
+    + Agrees what the analyst is going to do will satisfy the need  
+    + Accepts the analysis and assurance as fit for purpose  
 
 * **Analyst**  
-  + Designs the approach, including the assurance, to meet the commissioner’s requirements 
-  + Agrees the approach with the commissioner 
-  + Carries out the analysis 
-  + Carries out their own assurance  
-  + Acts on findings from the assurer 
-  + Can be a group of analysts, in which case the lead analyst is responsible 
+    + Designs the approach, including the assurance, to meet the commissioner’s requirements 
+    + Agrees the approach with the commissioner 
+    + Carries out the analysis 
+    + Carries out their own assurance  
+    + Acts on findings from the assurer 
+    + Can be a group of analysts, in which case the lead analyst is responsible 
 
 * **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
-  + Reviews the assurance completed by the analyst  
-  + Carries out any further validation and verification they may see as appropriate  
-  + Reports errors and areas for improvement to the analyst  
-  + Re-reviews as required  
-  + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
-  + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
+    + Reviews the assurance completed by the analyst  
+    + Carries out any further validation and verification they may see as appropriate  
+    + Reports errors and areas for improvement to the analyst  
+    + Re-reviews as required  
+    + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
+    + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
 
- * **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))  
-  + Scrutinises the work of the analyst and assurer  
-  + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured  
-  + The roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.  
-  + In instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.  
-
+* **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))
+    + Scrutinises the work of the analyst and assurer    
+    + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured    
+    + The roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.    
+    + In instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.    
 
 ## Uncertainty {.unnumbered}
 
