@@ -56,10 +56,13 @@ Many of these interventions are mentioned elsewhere in the AQUA Book, and are no
 
 To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced. 
 
-This can be visualised by considering the situation as a risk matrix, illustrated in Figure 2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
+This can be visualised by considering the situation as a risk matrix, illustrated in Table X. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
 
 
 <table class="riskTable">
+<caption>
+Table X - Example of a risk matrix
+</caption>
 <tr>
   <th></th>
   <th></th>
