@@ -1,0 +1,27 @@
+
+table.riskTable {
+    width: 100%;
+    text-align: left;
+    vertical-align: text-top;
+    background-color: #ffffff;
+}
+
+td.very_low_risk {
+    background-color:#f0f9e8;
+}
+
+td.low_risk {
+    background-color:#bae4bc;
+}
+
+td.medium_risk {
+    background-color:#7bccc4;
+}
+
+td.high_risk {
+    background-color:#43a2ca;
+}
+
+td.very_high_risk {
+    background-color:#0868ac;
+}
