@@ -42,7 +42,7 @@ Further detail and considerations may be found on the Analysis Function's [Quali
 
 Figure 1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.
 
-![Figure 1 - Types of quality assurance](types_of_quality_assurance.jpg){fig-alt="Figure 1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. One of them goes from simple to highly complex analysis and the other goes from low to high business risk. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit."}
+![Figure 1 - Types of quality assurance](types_of_quality_assurance_accessible.jpg){fig-alt="Figure 1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. One of them goes from simple to highly complex analysis and the other goes from low to high business risk. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit."}
 
 The interventions in Figure 1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing. 
 
@@ -127,10 +127,10 @@ In cases where there is a need for analysis, but there are also significant time
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
-| High - Red       | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
-| Medium - Amber   | The risk should not be tolerated without SRO agreement. New assurance measures should be put in place to treat (mitigate) the likelihood of errors occurring. Continue with planned or existing mitigations. |
-| Low - Yellow     | The risk can be tolerated. Existing or planned mitigations should be continued, and new treatments may be considered.  |
-| Very Low - Green | The risk can be tolerated. Existing/planned mitigations measures should be continued.  |
+| High     | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
+| Medium   | The risk should not be tolerated without SRO agreement. New assurance measures should be put in place to treat (mitigate) the likelihood of errors occurring. Continue with planned or existing mitigations. |
+| Low      | The risk can be tolerated. Existing or planned mitigations should be continued, and new treatments may be considered.  |
+| Very Low | The risk can be tolerated. Existing/planned mitigations measures should be continued.  |
 
 : Table X - Responses to risk assessment levels {.striped}
 
