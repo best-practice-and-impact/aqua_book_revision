@@ -1,3 +1,10 @@
+---
+format:
+  html:
+    css: aqua_style.css
+    html-table-processing: none
+---
+
 ::: {.callout-important}
 This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
@@ -52,7 +59,7 @@ To guide what assurance is needed it is necessary to take a structured approach 
 This can be visualised by considering the situation as a risk matrix, illustrated in Figure 2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
 
 
-<table>
+<table class="riskTable">
 <tr>
   <th></th>
   <th></th>
@@ -70,47 +77,47 @@ This can be visualised by considering the situation as a risk matrix, illustrate
 <tr>
   <td> </td>
   <th> Critical </th>
-  <td> Medium </td>
-  <td> Medium </td>
-  <td> High </td>
-  <td> High </td>
-  <td> High </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="high_risk"> High </td>
+  <td class="high_risk"> High </td>
+  <td class="high_risk"> High </td>
 </tr>
 <tr>
  <td> </td>
   <th> Severe </th>
-    <td> Low </td>
-  <td> Medium </td>
-  <td> Medium </td>
-  <td> High </td>
-  <td> High </td>
+    <td class="low_risk"> Low </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="high_risk"> High </td>
+  <td class="high_risk"> High </td>
  </tr>
  <tr>
   <td></td>
   <th> Major </th>
-    <td> Low </td>
-  <td> Medium </td>
-  <td> Medium </td>
-  <td> Medium </td>
-  <td> High </td>
+    <td class="low_risk"> Low </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="high_risk"> High </td>
 </tr>
 <tr>
   <td></td>
   <th> Moderate </th>
-  <td> Very Low </td>
-  <td> Low </td>
-  <td> Medium </td>
-  <td> Medium </td>
-  <td> Medium </td>
+  <td class="very_low_risk"> Very Low </td>
+  <td class="low_risk"> Low </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
+  <td class="medium_risk"> Medium </td>
 </tr>
 <tr>
   <td></td>
   <th> Minor </th>
-  <td> Very Low </td>
-  <td> Very Low </td>
-  <td> Low </td>
-  <td> Low </td>
-  <td> Medium </td>
+  <td class="very_low_risk"> Very Low </td>
+  <td class="very_low_risk"> Very Low </td>
+  <td class="low_risk"> Low </td>
+  <td class="low_risk"> Low </td>
+  <td class="medium_risk"> Medium </td>
 </tr>
 </table>
 
