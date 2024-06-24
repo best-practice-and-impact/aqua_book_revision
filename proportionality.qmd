@@ -68,7 +68,7 @@ This can be visualised by considering the situation as a risk matrix, illustrate
   <th rowspan = "7">Impact of errors occurring</th>
   <td></td>
   <td></td>
-  <th> Highly Unlikely </th>
+  <th> Highly unlikely </th>
   <th> Unlikely </th>
   <th> Realistic possibility </th>
   <th> Likely or probably </th>
