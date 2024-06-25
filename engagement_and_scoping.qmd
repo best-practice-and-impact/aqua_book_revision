@@ -22,6 +22,7 @@ The Commissioner is responsible for ensuring that:
 * They request information on uncertainty from analysts and challenge them when it is absent, inadequate or ambiguous.    
 * Communicate to the analyst any sources of uncertainty they have identified as part of their wider considerations.    
 * If possible, indicate in advance the consequences for decision-making of different degrees of uncertainty, as this may enable the analyst to conduct their analysis at a proportionate level.    
+* Commisioner should sign off on the specification
 
 ## The Analyst's responsibilities during engagement and scoping
 
