@@ -204,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">3.1</span> Introduction</a></li>
   <li><a href="#structured-assessment-of-business-risk-and-complexity" id="toc-structured-assessment-of-business-risk-and-complexity" class="nav-link" data-scroll-target="#structured-assessment-of-business-risk-and-complexity"><span class="header-section-number">3.2</span> Structured assessment of business risk and complexity</a></li>
   <li><a href="#externally-commissioned-work" id="toc-externally-commissioned-work" class="nav-link" data-scroll-target="#externally-commissioned-work"><span class="header-section-number">3.3</span> Externally commissioned work</a></li>
-  <li><a href="#artificial-intelligence" id="toc-artificial-intelligence" class="nav-link" data-scroll-target="#artificial-intelligence"><span class="header-section-number">3.4</span> Artificial intelligence</a></li>
+  <li><a href="#artificial-intelligence-and-business-risk" id="toc-artificial-intelligence-and-business-risk" class="nav-link" data-scroll-target="#artificial-intelligence-and-business-risk"><span class="header-section-number">3.4</span> Artificial intelligence and business risk</a></li>
   </ul>
 </nav>
     </div>
@@ -249,10 +249,10 @@ Important
 <section id="introduction" class="level2" data-number="3.1">
 <h2 data-number="3.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">3.1</span> Introduction</h2>
 <p>Think about and deliver appropriate (proportionate) levels of assurance for your analysis. There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will inform a decision that will make minimal impact.</p>
-<p>Table 1 provides a list of key factors that should be considered when determining what level of assurance is appropriate.</p>
+<p>Table 3-1 provides a list of key factors that should be considered when determining what level of assurance is appropriate.</p>
 <p>Further detail and considerations may be found on the Analysis Function’s <a href="https://dataqualityhub.github.io/resources-for-quality-analysis-external/">Quality Questions and Red Flags</a> page.</p>
 <table class="table-striped table">
-<caption>Table 1 - Factors for determining appropriate assurance</caption>
+<caption>Table 3-1 - Factors for determining appropriate assurance</caption>
 <colgroup>
 <col style="width: 45%">
 <col style="width: 55%">
@@ -298,25 +298,25 @@ Important
 </tr>
 </tbody>
 </table>
-<p>Figure 1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.</p>
+<p>Figure 3-1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="types_of_quality_assurance_accessible.jpg" class="img-fluid figure-img" alt="Figure 1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. One of them goes from simple to highly complex analysis and the other goes from low to high business risk. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit."></p>
-<figcaption>Figure 1 - Types of quality assurance</figcaption>
+<figcaption>Figure 3-1 - Types of quality assurance</figcaption>
 </figure>
 </div>
-<p>The interventions in Figure 1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing.</p>
+<p>The interventions in Figure 3-1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing.</p>
 <p>One way to view assurance interventions would be to consider individual interventions in a layer. An individual intervention will reduce risks in a particular area, but will leave many other risks unmitigated. Adding more interventions (layers) will start to increase coverage and reduce overall risk.</p>
-<p>The total elimination of risk will never be achievable, and the balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate. Refer to the table in chapter 10.</p>
+<p>The total elimination of risk will never be achievable, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate. Refer to the table in chapter 10.</p>
 <p>Many of these interventions are mentioned elsewhere in the AQUA Book, and are not repeated here.</p>
 </section>
 <section id="structured-assessment-of-business-risk-and-complexity" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="structured-assessment-of-business-risk-and-complexity"><span class="header-section-number">3.2</span> Structured assessment of business risk and complexity</h2>
 <p>To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced.</p>
-<p>This can be visualised by considering the situation as a risk matrix, illustrated in Table X. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.</p>
+<p>This can be visualised by considering the situation as a risk matrix, illustrated in Table 3-2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.</p>
 <table class="riskTable">
 <caption>
-Table X - Example of a risk matrix
+Table 3-2 - Example of a risk matrix
 </caption>
 <tbody><tr>
 <th>
@@ -461,10 +461,10 @@ Medium
 </td>
 </tr>
 </tbody></table>
-<p>Table X shows appropriate responses to a risk assessment. Where business risk is high, appropriate treatment(s) must be considered to reduce the probability of errors occurring. The choice of treatment will depend on the mitigations already in place and on the complexity of the analysis (see Figure 1). For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures, options like external peer review may be necessary. For situations where the business risk is ‘very low’, there would be very little benefit in applying further assurance mitigations, . Aalthough to avoid the risk growing it remains important to ensure existing or planned mitigations aren’t lost.</p>
+<p>Table 3-2 shows appropriate responses to a risk assessment. Where business risk is high, appropriate treatment(s) must be considered to reduce the probability of errors occurring. The choice of treatment will depend on the mitigations already in place and on the complexity of the analysis (see Figure 3-1). For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures, options like external peer review may be necessary. For situations where the business risk is ‘very low’, there would be very little benefit in applying further assurance mitigations, . Aalthough to avoid the risk growing it remains important to ensure existing or planned mitigations aren’t lost.</p>
 <p>In cases where there is a need for analysis, but there are also significant time and/or resource constraints, it may not be possible to do as much assurance as usual. In these situations, the focus should be on areas of greatest risk. These risks and limitations must also be communicated, along with appropriate caveats.</p>
 <table class="table-striped table">
-<caption>Table X - Responses to risk assessment levels</caption>
+<caption>Table 3-1 - Responses to risk assessment levels</caption>
 <colgroup>
 <col style="width: 25%">
 <col style="width: 75%">
@@ -500,8 +500,8 @@ Medium
 <p>Proportionate assurance of externally commissioned work is just as important as for internally produced analysis. For the commissioner, to use the work they should be fully informed of the business risk associated with it. This should be provided by an appropriate mix of documented risk assessments provided as part of the work, and by joint risk assessments planned throughout the life of the project. For commissioned work the options for mitigation will be similar to those for internal analysis.</p>
 <p>The difference will be in ensuring the assessment of risks and the applied mitigations are fully understood by the commissioner.</p>
 </section>
-<section id="artificial-intelligence" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="artificial-intelligence"><span class="header-section-number">3.4</span> Artificial intelligence</h2>
+<section id="artificial-intelligence-and-business-risk" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="artificial-intelligence-and-business-risk"><span class="header-section-number">3.4</span> Artificial intelligence and business risk</h2>
 <p>Increasingly analysis may be underpinned by Artificial Intelligence (AI). With AI-informed analysis the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.</p>
 
 
