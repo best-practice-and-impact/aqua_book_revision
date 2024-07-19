@@ -10,25 +10,22 @@ The draft currently has no official status. It is a work in progress and is subj
 
 The design phase is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. It sets out recommended practices for documenting the design, making changes to the plan and keeping an audit trail of those changes, testing for reproducibility and uncertainty, and agreeing this with the Approver. An Analysis Steering Group can be an effective means for communications about the Design.
 
-### The Analyst's responsibilities during design
-The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity. The analyst is responsible for documenting the analytical and assurance plans.
+### The Analyst's responsibilities during the design phase
+The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity. The analyst is responsible for documenting the analytical plan in a proportionate manner.
 
-### The Assurer's responsibilities during design
-The Assurer should review the analytical and assurance plans to ensure that they are able to conduct the required assurance activities. They may provide feedback to the analyst on the design. The Assurer should plan sufficient time for the assurance activity. 
+### The Assurer's responsibilities during the design phase
+The Assurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback to the analyst on the design. The Assurer should plan sufficient time for the assurance activity. 
 
-### The Commissioner's responsibilities during design
+### The Commissioner's responsibilities during the design phase
 The Commissioner should review the approach described in the analytical plan, and confirm that the analytical approach will satisfy their need.
 
-  
 
-   
-
-### The Approver's responsibilities during design
+### The Approver's responsibilities during the design phase
 The Approver should note the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.    
 
 ## Designing the analysis
 
-The Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work.   The Engagement and Scoping stage provides the Analyst with an understanding of the Commissioner's requirements in terms of outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. During the Design phase, the Analyst will translate the delivery of the agreed outputs into an Analytical Plan. The Analytical Plan should consider:
+The Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work.   The Engagement and Scoping stage provides the Analyst with an understanding of the Commissioner's requirements in terms of outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. During the Design phase, the Analyst will translate the delivery of the agreed outputs into an analytical plan. The analytical plan should consider:
 
 * Methodology for producing results, including the treatment of uncertainty;
 * Project management approach (for example Agile, Waterfall or a combination of approaches);
@@ -37,26 +34,31 @@ The Analyst translates the scope for the analysis agreed with the Commissioner i
 * Change management and version control;
 * Code management, documentation and testing;
 * Communication between stakeholders;
-* Quality assurance procedures during the project lifetime;
+* Verification and validation procedures during the project lifetime;
 * Documentation to be delivered;
 * Process for updating the Analytical Plan;
 * Ethics;
 * Reporting;
 * Downstream application.
 
-Documentation of the Analytical Plan should be proportionate to the Design. For larger or more complex projects, the Analyst might request assurance of the Analytical Plan.
 
-## Testing the methodology
 
-Best practice is to dry run with independent assurance of the proposed approach to see if the plan:    
+## Documenting the design of the analysis
 
-* Delivers as intended 
+The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the Analyst, and signed-off by the commissioner. The design document may be reviewed by the Assurer, particularly in the case of more complex analysis.
+
+It is best practice to use formal version control to track changes in the design document. 
+
+
+## Assuring the design phase
+
+The assurance of the design phase should consider whether the analytical plan:  
+
+* Delivers as intended
 * Adequately addresses the complexities of the customer issue for this purpose 
 * Is well-structured for the purpose, data driven, and reflects a robust overall design.
 
 It is good practice to engage subject matter experts in this review, independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
-
-If the analysis is written in code, this should include appropriate testing to ensure that the code works as intended to deliver expected outcomes. Following [recommended good practices for code development](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) is the best way to ensure that code is fit for purpose.
 
 On completion of the Design phase, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.
 
@@ -66,11 +68,10 @@ Agreeing the extent of the importance of the analysis output to decision making 
 
 The Commissioner remains important through the analysis cycle, since they may well have greater expertise in the subject than the Analyst. Their contribution towards the input assumptions, data requirements and the most effective ways to present the outputs can prove invaluable.
 
-The Analytical plan should be updated with formal version control to reflect revisions to the design including assurance activities.  
+ 
 
-## Documenting the design of the analysis
 
-Best practice is to document the design process recording how the proposed analytical process generates the requested insights. This plan should be supported by the design documentation.
+
 
 ## Analysing uncertainty
 
