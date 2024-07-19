@@ -59,7 +59,7 @@ The recommended approach for developing analysis in code is to use a [Reproducib
 
 ## Documenting the design of the analysis
 
-The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the Analyst, and signed-off by the commissioner. The design document may be reviewed by the Assurer, particularly in the case of more complex analysis.
+The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the Analyst, and signed-off by the commissioner. The design document may be reviewed by the Assurer.
 
 It is best practice to use formal version control to track changes in the design document. 
 
@@ -98,8 +98,8 @@ Designing multi-use models should take into account the needs of all users of th
 
 The design of multi-use models may entail a modular structure with different analysts and assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
 
-## Artificial intelligence and the design phase
+## Black box models and the design phase
 
-Artificial Intelligence (AI) and some classes of Machine Learning (ML)  methods have opaque algorithms processing their inputs. These belong to a class of models known as “black boxes” - devices, systems, or objects which produce useful information without revealing any information about their internal workings.
+AI and some classes of machine learning methods have opaque algorithms processing their inputs. These belong to a class of models known as “black boxes” - devices, systems, or objects which produce useful information without revealing any information about their internal workings.
 
 Using a black box model places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts, particularly Assurers, Approvers and Commissioners.    This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
