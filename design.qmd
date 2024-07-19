@@ -41,6 +41,7 @@ The Analyst translates the scope for the analysis agreed with the Commissioner i
 * Reporting;
 * Downstream application.
 
+Designing the assurance activities for subsequent analytical phases is a key part of the design phase. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). 
 
 
 ## Documenting the design of the analysis
@@ -63,8 +64,6 @@ It is good practice to engage subject matter experts in this review, independent
 On completion of the Design phase, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.
 
 Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. Considering analytical quality assurance and the acceptable margin of error for the Commissioner is essential to define how good is good enough. 
-
-Agreeing the extent of the importance of the analysis output to decision making will set the level of materiality ^[[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".], which will indicate what would be proportionate assurance.
 
 The Commissioner remains important through the analysis cycle, since they may well have greater expertise in the subject than the Analyst. Their contribution towards the input assumptions, data requirements and the most effective ways to present the outputs can prove invaluable.
 
