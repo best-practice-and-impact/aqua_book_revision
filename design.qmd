@@ -43,7 +43,7 @@ The Analyst translates the scope for the analysis agreed with the Commissioner i
 
 Designing the assurance activities for subsequent analytical phases is a key part of the design phase. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). 
 
-Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. Considering the acceptable margin of error for the Commissioner is essential to define how good is good enough.  
+Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. 
 
 The Commissioner's domain expertise can be a useful resource for the analyst in the design phase. For example, they can have information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 
