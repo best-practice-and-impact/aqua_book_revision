@@ -8,19 +8,23 @@ The draft currently has no official status. It is a work in progress and is subj
 
 ## Introduction and summary
 
-This chapter describes how the Analyst translates the scope for the analysis agreed with the Commissioner into the Design, an actionable plan of work. It sets out recommended practices for documenting the Design as an Analytical Plan, making changes to the plan and keeping an audit trail of those changes, testing for reproducibility and uncertainty, and agreeing this with the Approver. An Analysis Steering Group can be an effective means for communications about the Design.
-
-### The Commissioner's responsibilities during design
-The Commissioner reviews the Plan and agrees that what the Analyst is going to do will satisfy the Commissioner’s need.
+The design phase is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. It sets out recommended practices for documenting the design, making changes to the plan and keeping an audit trail of those changes, testing for reproducibility and uncertainty, and agreeing this with the Approver. An Analysis Steering Group can be an effective means for communications about the Design.
 
 ### The Analyst's responsibilities during design
-The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity.    
+The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity. The analyst is responsible for documenting the analytical and assurance plans.
 
 ### The Assurer's responsibilities during design
-The Assurer should agree with Analyst and Commissioner what the assurance requirements will be and plan sufficient time for the assurance activity.    
+The Assurer should review the analytical and assurance plans to ensure that they are able to conduct the required assurance activities. They may provide feedback to the analyst on the design. The Assurer should plan sufficient time for the assurance activity. 
+
+### The Commissioner's responsibilities during design
+The Commissioner should review the approach described in the analytical plan, and confirm that the analytical approach will satisfy their need.
+
+  
+
+   
 
 ### The Approver's responsibilities during design
-The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.    
+The Approver should note the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.    
 
 ## Designing the analysis
 
@@ -58,7 +62,7 @@ On completion of the Design phase, the Assurer should be aware of the quality as
 
 Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. Considering analytical quality assurance and the acceptable margin of error for the Commissioner is essential to define how good is good enough. 
 
-Agreeing the extent of the importance of the analysis output to decision making will set the level of [materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) (see also Definitions and Key Concepts), which will indicate what would be proportionate assurance.
+Agreeing the extent of the importance of the analysis output to decision making will set the level of materiality ^[[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".], which will indicate what would be proportionate assurance.
 
 The Commissioner remains important through the analysis cycle, since they may well have greater expertise in the subject than the Analyst. Their contribution towards the input assumptions, data requirements and the most effective ways to present the outputs can prove invaluable.
 
