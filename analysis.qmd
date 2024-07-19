@@ -56,7 +56,7 @@ While the Scoping and Design phases identified and described risks and uncertain
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This calls for mechanisms for assuring that the changes integrate into the larger model as expected, for example, through the use of test-suites.
 
-## Black box and the analysis phase
+## Black box models and the analysis phase
 
 The lack of transparency of AI and ML models adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during this phase include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
 
