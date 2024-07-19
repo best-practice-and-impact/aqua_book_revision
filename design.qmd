@@ -8,7 +8,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 ## Introduction and summary
 
-The design phase is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. It sets out recommended practices for documenting the design, making changes to the plan and keeping an audit trail of those changes, testing for reproducibility and uncertainty, and agreeing this with the Approver. 
+The design phase is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. This chapter sets out recommended practices around designing the analysis and associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design, and design of multi-use and AI models.
 
 ### The Analyst's responsibilities during the design phase
 The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity. The analyst is responsible for documenting the analytical plan in a proportionate manner.
@@ -49,6 +49,13 @@ The Commissioner's domain expertise can be a useful resource for the analyst in 
 
 On completion of the design phase, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.
 
+### Reproducible analytical pipelines
+
+The recommended approach for developing analysis in code is to use a [Reproducible Analytical Pipeline (RAP)](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/). Reproducible Analytical Pipelines shall:
+
+* Follow the practices set out in the [Analysis Function Quality Assurance of Code for Analysis and Research manual](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html).
+* Meet the requirements of the [Reproducible Analytical Pipelines minimum viable product](https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md).
+
 
 ## Documenting the design of the analysis
 
@@ -82,12 +89,7 @@ Analysts should make sure that they report identified sources of uncertainty app
 
 The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) provides advice on the treatment of uncertainty. Other authorities provide guidance for specific purposes, such as the [Office for Statistics Regulation's Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/pages/1/).
 
-## Reproducible analytical pipelines
 
-The recommended approach for developing analysis in code is to use a [Reproducible Analytical Pipeline (RAP)](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/). Reproducible Analytical Pipelines shall:
-
-* Follow the practices set out in the [Analysis Function Quality Assurance of Code for Analysis and Research manual](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html).
-* Meet the requirements of the [Reproducible Analytical Pipelines minimum viable product](https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md).
 
 
 ## Multi-use models and the design phase
