@@ -13,7 +13,7 @@ Increasingly in our data driven world, insights from analysis underpin almost al
 Users of the AQuA book have pointed out some things we did not cover in the first edition and areas where guidance was unclear or insufficient. In this edition we have added guidance on:  
 
 * multi-use models - large models used for many purposes with many stakeholders;  
-* assuring "black box"[^1] analysis;  
+* assuring "black box"[^1] analysis, including artificial intelligence;  
 * development, maintenance and continuous review;  
 * working with third parties such as contractors and academic groups and,  
 * publishing models.  
@@ -24,9 +24,9 @@ We provide improved guidance on what [a proportionate approach to assurance mean
 
 In this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. 
 
-We would like to see analysts from all backgrounds using this book, especially those producing analysis, evidence and research to support decision making in government. Our intended audience includes:  
+We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision making in government. Our intended audience includes:  
 
-* Customers – helping you to get the most out of your commission; 
+* Users of analysis – helping you to get the most out of your commission; 
 * Members of the government analytical professions. This might include:
   + operational researchers, statisticians and economists;
   + geographers;
@@ -47,6 +47,23 @@ Here are a few reasons why.
 * **Delivering quality analysis provides the confidence that is needed for transparency and public openness;** 
 * **Assurance is required for audit purposes**[^2]; and  
 * **Professional pride in your work.** 
+
+## How to use this book
+
+The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the assurance activities needed at each stage of the assurance life cycle.
+
+This guidance uses the following terms to indicate whether recommendations are mandatory or advisory.  
+
+The terms are:  
+
+* **‘shall’** denotes a requirement, which applies in all circumstances, at all times 
+* **‘should’** denotes a recommendation, to be met on a ‘comply or explain’ basis 
+* **‘may’** denotes approval 
+* **‘might’** denotes a possibility 
+* **‘can’** denotes both capability and possibility 
+* **is/are** is used for a description 
+
+These are the same terms as those in the [UK Government functional standards](https://www.gov.uk/government/collections/functional-standards). 
 
 
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
