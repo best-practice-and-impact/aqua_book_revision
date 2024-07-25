@@ -15,7 +15,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 All analysis shall be assured, and the assurance should be proportionate to the potential impact, size and complexity of the analysis. The level of assurance shall be guided by structured assessment of the business risks. 
 
-There shall always be an element of independence between the assurer and the analyst. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance. It means that there should be some formal independent assurance. 
+The assurer and the analyst shall be independent. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance, rather that there shall also be some formal independent assurance. 
 
 ## Introduction
 
