@@ -48,7 +48,7 @@ The interventions in Figure 3-1 must not be viewed in isolation. Some complex an
 
 One way to view assurance interventions would be to consider individual interventions in a layer. An individual intervention will reduce risks in a particular area, but will leave many other risks unmitigated. Adding more interventions (layers) will start to increase coverage and reduce overall risk. 
 
-The total elimination of risk will never be achievable, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate. Refer to the table in chapter 10.
+The total elimination of risk will never be achievable, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate.
 
 Many of these interventions are mentioned elsewhere in the AQUA Book, and are not repeated here.
 
