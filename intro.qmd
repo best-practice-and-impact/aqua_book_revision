@@ -66,8 +66,8 @@ This guidance uses the following terms to indicate whether recommendations are m
 
 The terms are:  
 
-* **‘shall’** denotes a requirement, which applies in all circumstances, at all times 
-* **‘should’** denotes a recommendation, to be met on a ‘comply or explain’ basis 
+* **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances, at all times 
+* **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
 * **‘may’** denotes approval 
 * **‘might’** denotes a possibility 
 * **‘can’** denotes both capability and possibility 
