@@ -6,15 +6,4 @@ This version of the AQuA book is a preliminary ALPHA draft.  It is still in deve
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
-This guidance uses the following terms to indicate whether recommendations are mandatory or advisory.  
-
-The terms are:  
-
-* **‘shall’** denotes a requirement, which applies in all circumstances, at all times 
-* **‘should’** denotes a recommendation, to be met on a ‘comply or explain’ basis 
-* **‘may’** denotes approval 
-* **‘might’** denotes a possibility 
-* **‘can’** denotes both capability and possibility 
-* **is/are** is used for a description 
-
-These are the same terms as those in the [UK Government functional standards](https://www.gov.uk/government/collections/functional-standards). 
+Placeholder text
