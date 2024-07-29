@@ -7,7 +7,7 @@ The draft currently has no official status. It is a work in progress and is subj
 # Engagement and scoping
 
 ## Introduction
-If the main purpose of analysis is to cut out irrelevance and to simplify, it is essential for to identify what is relevant for a piece of analysis. The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis. Problem Structuring Methods, such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can aid these discussions (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information).
+The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis. Problem Structuring Methods, such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can aid these discussions (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information).
 
 During engagement and scoping , the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. They should work together to design analysis that suits the Commissioner’s requirements.
 
