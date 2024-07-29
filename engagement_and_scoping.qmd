@@ -9,9 +9,9 @@ The draft currently has no official status. It is a work in progress and is subj
 ## Introduction
 The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis. Problem Structuring Methods, such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can aid these discussions (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information).
 
-During engagement and scoping , the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. They should work together to design analysis that suits the Commissioner’s requirements.
+During engagement and scoping, the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. This shared understanding will be used as the basis for designing analysis that suits the Commissioner’s requirements.
 
-## The Commissioner's responsibilities during engagement and scoping
+### The Commissioner's responsibilities during engagement and scoping
 
 The Commissioner is responsible for ensuring that:
 
@@ -19,22 +19,22 @@ The Commissioner is responsible for ensuring that:
 * They are available to actively engage with the Analyst to appropriately shape the work.    
 * There is sufficient governance in place to support the analysis and its role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This proportionality may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).    
 * They understand risks where time and resource pressures constrain the approach.    
-* They request information on uncertainty from analysts and challenge them when it is absent, inadequate or ambiguous.    
-* Communicate to the analyst any sources of uncertainty they have identified as part of their wider considerations.    
-* If possible, indicate in advance the consequences for decision-making of different degrees of uncertainty, as this may enable the analyst to conduct their analysis at a proportionate level.    
-* Commissioner should sign off on the specification
+* They request information from the Analyst on accounting for uncertainty, and challenge them when it is absent, inadequate or ambiguous.    
+* They Communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
+* If possible, indicate in advance the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
+* The specification document produced by the analyst is signed off.
 
-## The Analyst's responsibilities during engagement and scoping
+### The Analyst's responsibilities during engagement and scoping
 
-The Analyst should create a specification document which captures the initial engagement with the Commissioner and identifies the question, the context, and any boundaries of the analysis. It should provide a definition of the scope and project constraints, for example deadlines, available resources, capturing what level of assurance is required by the Commissioner, and the degree of uncertainty allowed for decision-making.
+* The Analyst is responsible for engaging with the Commissioner to identify the question, the context, boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, and business-criticality. 
+* The Analyst should create a specification document which captures the initial engagement with the Commissioner. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance and the degree of uncertainty allowed for decision-making.
+* The Analyst should share this specification with the customer and seek agreement on the approach.
 
-The Analyst should ensure they understand any risks, underlying assumptions, and the business criticality of the analysis. The Analyst should share this specification with the customer and seek agreement on the approach.
-
-## The Assurer's responsibilities during engagement and scoping
+### The Assurer's responsibilities during engagement and scoping
 
 The assurer should understand the assurance requirements and plan time in for the assurance activity.
 
-## The Approver's responsibilities during engagement and scoping
+### The Approver's responsibilities during engagement and scoping
 
-The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the analyst and assurer are aware of local assurance protocols. 
+The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and assurer are aware of local assurance protocols. 
 
