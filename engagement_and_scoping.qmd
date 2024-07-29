@@ -7,7 +7,7 @@ The draft currently has no official status. It is a work in progress and is subj
 # Engagement and scoping
 
 ## Introduction
-The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis. Problem Structuring Methods, such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can aid these discussions (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information).
+The first stage of the analytical cycle is initial customer engagement and scoping identifying what the Commissioner requires and so what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis.
 
 During engagement and scoping, the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. This shared understanding will be used as the basis for designing analysis that suits the Commissioner’s requirements.
 
@@ -26,15 +26,33 @@ The Commissioner is responsible for ensuring that:
 
 ### The Analyst's responsibilities during engagement and scoping
 
-* The Analyst is responsible for engaging with the Commissioner to identify the question, the context, boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, and business-criticality. 
+* The Analyst is responsible for engaging with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, and business-criticality. 
 * The Analyst should create a specification document which captures the initial engagement with the Commissioner. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance and the degree of uncertainty allowed for decision-making.
 * The Analyst should share this specification with the customer and seek agreement on the approach.
 
 ### The Assurer's responsibilities during engagement and scoping
 
-The assurer should understand the assurance requirements and plan time in for the assurance activity.
+The Assurer might be required to provide assurance that the engagement process has been sufficient to fully understand the problem, and that the specification document adequately captures the outcomes of the engagement process.
 
 ### The Approver's responsibilities during engagement and scoping
 
-The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and assurer are aware of local assurance protocols. 
+The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols. 
+
+## Assurance and engagement
+
+The engagement and scoping stage provides the Analyst with an understanding of the Commissioner's requirements. In some cases, the Commissioner may present a well-defined problem, while in other instances, the engagement stage may require problem structuring methods. Techniques such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can help the Analyst and Commissioner to reach a joint understanding of the problem (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information). Through the engagement, the Analyst and Commissioner will be in a position to define the scope of the project in terms of the context and bounds of the analysis.
+
+In addition the engagement stage should lead to agreement between the Analyst and Commissioner around the outputs to be delivered, including acceptable levels of accuracy, precision and margins of error.
+
+
+The Analyst and Commissioner should also clarify risks and potential impacts of the project which will inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
+
+The output of this phase should be a [specfication document](Add hyperlink) that captures the joint understanding. This document provides a reference for later [validation](#def_validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.qmd) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
+
+## Multi-use models and engagement and scoping
+
+In the case of multi-use models, the Analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. As requirements might differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Modelling]**ADD HYPERLINK** may be used to develop a shared understanding across multiple groups.
+
+## Black-box models and engagement and scoping
+
 
