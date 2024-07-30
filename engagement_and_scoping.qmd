@@ -38,21 +38,23 @@ The Assurer might be required to provide assurance that the engagement process h
 
 The Approver should document the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols. 
 
-## Assurance and engagement
+## Assurance of the engagement and scoping stage
 
-The engagement and scoping stage provides the Analyst with an understanding of the Commissioner's requirements. In some cases, the Commissioner may present a well-defined problem, while in other instances, the engagement stage may require problem structuring methods. Techniques such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can help the Analyst and Commissioner to reach a joint understanding of the problem (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information). Through the engagement, the Analyst and Commissioner will be in a position to define the scope of the project in terms of the context and bounds of the analysis.
+The engagement and scoping stage provides the Analyst with an understanding of the Commissioner's requirements. In some cases, the Commissioner may present a well-defined problem, while in other instances, the engagement stage may require problem structuring methods. Techniques such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can help the Analyst and Commissioner to reach a joint understanding of the problem (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information). Through the engagement, the Analyst and Commissioner will be in a position to define the scope of the project in terms of the context and bounds of the analysis. In cases where the engagement and scoping techniques are complex and/or the project is deemed business critical, the Assurer might provide assurance of the engagement methodology (https://publications.tno.nl/publication/100301/Zs2SUz/wijnmalen-2012-natoclient.pdf)
 
-In addition the engagement stage should lead to agreement between the Analyst and Commissioner around the outputs to be delivered, including acceptable levels of accuracy, precision and margins of error.
+In addition to understanding the problem, the engagement and scoping stage should lead to agreement between the Analyst and Commissioner around the outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. This will inform the handling of uncertainty and the assurance of thereof in later stages.
 
 
 The Analyst and Commissioner should also clarify risks and potential impacts of the project which will inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
 
 The output of this phase should be a [specfication document](Add hyperlink) that captures the joint understanding. This document provides a reference for later [validation](#def_validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.qmd) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
 
-## Multi-use models and engagement and scoping
+## Multi-use models and the engagement and scoping stage
 
-In the case of multi-use models, the Analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. As requirements might differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Modelling]**ADD HYPERLINK** may be used to develop a shared understanding across multiple groups.
+In the case of multi-use models, the Analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. As requirements might differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Methodology]**ADD HYPERLINK** may be used to develop a shared understanding across multiple groups.
 
-## Black-box models and engagement and scoping
+## Black-box models and the engagement and scoping stage
+
+Where the Commissioner has engaged with the Analyst to deliver AI/ML models, the engagement and scoping stage should include discussions around ethics and risks in order to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, and internal governance and risk management. For further details see https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance.
 
 
