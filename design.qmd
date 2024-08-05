@@ -12,9 +12,9 @@ The design phase is where the Analyst translates the scope for the analysis agre
 
 ### The Analyst's responsibilities during the design phase
 The Analyst should : 
--   develop the method and plan  to address the Commissioner’s needs, 
--   develop the assurance requirements will be and 
--   plan in sufficient time for the assurance activity. 
+*   develop the method and plan  to address the Commissioner’s needs, 
+*   develop the assurance requirements will be and 
+*   plan in sufficient time for the assurance activity. 
 The Analyst is responsible for documenting the analytical plan in a proportionate manner.
 
 ### The Assurer's responsibilities during the design phase
@@ -28,7 +28,7 @@ The Approver should note the new project and ensure that required mechanisms are
 
 ## Designing the analysis
 
-The Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work.   The Engagement and Scoping stage provides the Analyst with an understanding of the Commissioner's requirements in terms of outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. During the design phase, the Analyst will translate the delivery of the agreed outputs into an analytical plan. The analytical plan should consider:
+The Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan.   The Engagement and Scoping stage provides the Analyst with an understanding of the Commissioner's requirements in terms of outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. During the design phase, the Analyst will translate the delivery of the agreed outputs into an analytical plan. The analytical plan should consider:
 
 * Methodology for producing results, including the treatment of uncertainty;
 * Project management approach (for example Agile, Waterfall or a combination of approaches);
