@@ -11,14 +11,17 @@ The draft currently has no official status. It is a work in progress and is subj
 The design phase is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable plan of work. This chapter sets out recommended practices around designing the analysis and associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design, and design of multi-use and AI models.
 
 ### The Analyst's responsibilities during the design phase
-The Analyst should develop the method and plan how to address the Commissioner’s needs, what the assurance requirements will be and plan for sufficient time for the assurance activity. The analyst is responsible for documenting the analytical plan in a proportionate manner.
+The Analyst should : 
+-   develop the method and plan  to address the Commissioner’s needs, 
+-   develop the assurance requirements will be and 
+-   plan in sufficient time for the assurance activity. 
+The Analyst is responsible for documenting the analytical plan in a proportionate manner.
 
 ### The Assurer's responsibilities during the design phase
 The Assurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback to the analyst on the design. The Assurer should plan sufficient time for the assurance activity. 
 
 ### The Commissioner's responsibilities during the design phase
 The Commissioner should review the approach described in the analytical plan, and confirm that the analytical approach will satisfy their need.
-
 
 ### The Approver's responsibilities during the design phase
 The Approver should note the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.    
