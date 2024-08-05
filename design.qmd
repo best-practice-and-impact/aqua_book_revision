@@ -106,3 +106,10 @@ The design of multi-use models may entail a modular structure with different ana
 AI and some classes of machine learning methods have opaque algorithms processing their inputs. These belong to a class of models known as “black boxes” - devices, systems, or objects which produce useful information without revealing any information about their internal workings.
 
 Using a black box model places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts, particularly Assurers, Approvers and Commissioners.    This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
+
+In this phase the Analyst should:
+* define the situation they wish to model:
+** the prediction they wish to make
+** the data that could be used to make the prodiction
+** consider how to treat the data in design and testing - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design
+** identify potential modelling methods
