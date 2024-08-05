@@ -36,7 +36,7 @@ The assurer shall review the assurance completed by the analyst, carry out any f
 
 ### The Commissioner's responsibilities during the analysis phase
 
-The Commissioner’s role is to review any changes in design or methodology that the Analyst brings to their attention. The Commissioner should be available to provide input and clarifications to the Analyst
+The Commissioner’s role is to review any changes in design or methodology that the Analyst brings to their attention. The Commissioner should be available to provide input and clarifications to the Analyst. The aim is for the Commissioner to be aware of and accept changes to the design or methodology providing they meet their requirements. 
 
 ### The Approver's responsibilities during the analysis phase
 
