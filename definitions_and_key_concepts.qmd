@@ -46,7 +46,7 @@ The first edition of the AQuA book described business critical models. This has 
 
 ## Change control {.unnumbered}
 
-Change control is the set of processes followed when changes are made to a piece of analysis. For example, version numbering, documentation, assurance of changes. 
+Change control is the set of processes followed when changes are made to a piece of analysis. For example, authorising and accepting changes, version numbering, documentation, assurance of changes. 
 
 ## Documentation {.unnumbered}
 
@@ -64,7 +64,7 @@ A register of assumptions, whether provided by the Commissioner or derived by th
 
 ### Decisions log {.unnumbered}
 
-A register of decisions, whether provided by the Commissioner or derived by the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
+A register of decisions, whether provided by the Commissioner or derived by the analysis. Decisions logs should describe each decision and set out when it was made, why it was made, who made it and who signed it off.
 
 ### Data log {.unnumbered}
 
