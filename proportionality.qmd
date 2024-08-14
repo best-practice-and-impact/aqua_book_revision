@@ -23,7 +23,7 @@ Think about and deliver appropriate (proportionate) levels of assurance for your
 
 Table 3-1 provides a list of key factors that should be considered when determining what level of assurance is appropriate. 
 
-Further detail and considerations may be found on the Analysis Function's [Quality Questions and Red Flags](https://dataqualityhub.github.io/resources-for-quality-analysis-external/) page.
+Further detail and considerations may be found on the Data Quality Hub's [Quality Questions and Red Flags](https://dataqualityhub.github.io/resources-for-quality-analysis-external/) page.
 
 
 | Factor  | Comments  |
