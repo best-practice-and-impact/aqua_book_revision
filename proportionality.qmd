@@ -23,12 +23,12 @@ Think about and deliver appropriate (proportionate) levels of assurance for your
 
 Table 3-1 provides a list of key factors that should be considered when determining what level of assurance is appropriate. 
 
-Further detail and considerations may be found on the Analysis Function's [Quality Questions and Red Flags](https://dataqualityhub.github.io/resources-for-quality-analysis-external/) page.
+Further detail and considerations may be found on the Data Quality Hub's [Quality Questions and Red Flags](https://dataqualityhub.github.io/resources-for-quality-analysis-external/) page.
 
 
 | Factor  | Comments  |
 |:--------|:----------|
-| Business criticality | Different issues will vary their financial, legal, operational, political and reputational impacts. |
+| Business criticality | Different issues will impact on business criticality such as financial, legal, operational, political and reputational impacts. |
 | Relevance of the analysis to the decision making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the evidence base.  |
 | Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
