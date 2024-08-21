@@ -34,8 +34,8 @@ Assurance activities are anything that is undertaken to validate and verify anal
 
 For example:   
 
- analyst testing    
- peer review  
+* analyst testing    
+* peer review  
 * analytical audits  
 
 ## Business critical analysis {.unnumbered}
@@ -171,7 +171,7 @@ The AQuA book defines the roles as:
 
 * **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
     + Reviews the assurance completed by the analyst  
-    + Carries out any further validation and verification they may see as appropriate  
+    + Carries out any further validation and verification they may see as appropriate 
     + Reports errors and areas for improvement to the analyst  
     + Re-reviews as required  
     + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
