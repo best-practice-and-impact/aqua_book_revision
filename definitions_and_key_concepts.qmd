@@ -34,8 +34,8 @@ Assurance activities are anything that is undertaken to validate and verify anal
 
 For example:   
 
-* analyst testing    
-* peer review  
+ analyst testing    
+ peer review  
 * analytical audits  
 
 ## Business critical analysis {.unnumbered}
@@ -147,7 +147,7 @@ Quality analysis is analysis which is fit for the purpose(s) it was commissioned
 
 ## Roles and responsibilities {.unnumbered}
 
-Organisations may have their own titles for the main functional roles involved in analysis that are* set out here.  
+Organisations may have their own titles for the main functional roles involved in analysis that are set out here.  
 
 Each role may be fulfilled by a team or committee of people.  However, a single individual will have overall accountability (such as the chair of a committee) for each role. 
 
