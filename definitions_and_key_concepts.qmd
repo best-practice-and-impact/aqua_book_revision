@@ -40,7 +40,7 @@ For example:
 
 ## Artificial Intelligence {.unnumbered}
 
-Artificial intelligence (AI) refers to the simulation of human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are Black Box Models 
+Artificial intelligence (AI) attmpts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are Black Box Models 
 
 ## Black box models {.unnumbered}
 
