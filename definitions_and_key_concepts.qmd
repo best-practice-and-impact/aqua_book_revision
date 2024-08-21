@@ -147,9 +147,12 @@ Quality analysis is analysis which is fit for the purpose(s) it was commissioned
 
 ## Roles and responsibilities {.unnumbered}
 
-Organisations may have their own titles for the main functional roles involved in analysis that are* set out here.  
+Organisations may have their own titles for the main functional roles involved in analysis that are set out here.  
 
 Each role may be fulfilled by a team or committee of people.  However, a single individual will have overall accountability (such as the chair of a committee) for each role. 
+
+The roles of Analyst and Assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.    
+In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analytical roles which shall be seperate from one another in all cases   
 
 The AQuA book defines the roles as: 
 
@@ -168,7 +171,7 @@ The AQuA book defines the roles as:
 
 * **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
     + Reviews the assurance completed by the analyst  
-    + Carries out any further validation and verification they may see as appropriate  
+    + Carries out any further validation and verification they may see as appropriate 
     + Reports errors and areas for improvement to the analyst  
     + Re-reviews as required  
     + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
@@ -177,8 +180,6 @@ The AQuA book defines the roles as:
 * **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))
     + Scrutinises the work of the analyst and assurer    
     + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured    
-    + The roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.    
-    + In instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.    
 
 ## Uncertainty {.unnumbered}
 
