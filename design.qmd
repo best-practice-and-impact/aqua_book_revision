@@ -11,22 +11,27 @@ The draft currently has no official status. It is a work in progress and is subj
 The design stage is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable analytical plan. This chapter sets out recommended practices around designing the analysis and associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design, and design of multi-use and AI models.
 
 ### The Analyst's responsibilities during the design stage
-The Analyst should : 
+The Analyst should: 
+
 *   develop the method and plan  to address the Commissioner’s needs, 
 *   develop the assurance requirements will be and 
 *   plan in sufficient time for the assurance activity. 
-The Analyst is responsible for documenting the analytical plan in a proportionate manner.
+*   document the analytical plan in a proportionate manner.
+*   follow any organisation governance procedures for project design.
 
 ### The Assurer's responsibilities during the design stage
 The Assurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback on the analytical plan. The Assurer should plan sufficient time for the assurance activity. 
 
 ### The Commissioner's responsibilities during the design stage
-The Commissioner should review the approach described in the analytical plan, and confirm that the analytical approach will satisfy their need. They should sign-off the design document.
+The Commissioner should review the approach described in the analytical plan. They should sign-off the design document to confirm that the analytical approach will satisfy their needs.
+
+The Commissioner's domain expertise can be a useful resource for the analyst in the design phase. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 
 ### The Approver's responsibilities during the design stage
-The Approver should note the new project and ensure that required mechanisms are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.
+In smaller projects, the Approver may not be heavily involved in the design stage. However, for business critical analysis, the Approver may want to confirm that organisational governance procedures for design have been followed.
 
-### The design phase 
+
+### The design stage 
 
 The development of the analytical plan should consider:
 
@@ -47,11 +52,11 @@ The development of the analytical plan should consider:
 
 The use of [Reproducible Analytical Pipelines (RAP)](#rap) is encouraged as a means of effective project design.
 
-Designing the assurance activities for subsequent analytical phases is a key part of the design phase. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). 
+Designing the assurance activities for subsequent analytical stages is a key part of the design phase. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). Assurance of data quality should be considered in the analytical plan.
 
 Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. 
 
-The Commissioner's domain expertise can be a useful resource for the analyst in the design phase. For example, they can have information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
+
 
 
 
@@ -82,29 +87,38 @@ The assurance of the design phase should consider whether the analytical plan:
 * Adequately addresses the complexities of the customer issue for this purpose 
 * Is well-structured for the purpose, data driven, and reflects a robust overall design.
 
-The assurance of the design may be carried out by the Assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
+The assurance of the design stage may be carried out by the Assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
 
 
-## Treatement of uncertainty in the design phase
+
+
+
+
+## Treatement of uncertainty in the design stage
 
 During the design phase, Analysts should examine the planned analysis systematically for possible sources and types of uncertainty, to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. This is discussed in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html)
 
 
 ## AI/ML and the design stage
 
-AI and some classes of machine learning methods have opaque algorithms processing their inputs. These belong to a class of models known as “black boxes” - devices, systems, or objects which produce useful information without revealing any information about their internal workings.
+Using [black box models](definitions_and_key_concepts.qmd/#black_box) places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.
 
-Using a black box model places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts, particularly Assurers, Approvers and Commissioners.    This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
+This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
 
-In this phase the Analyst should:
-* define the situation they wish to model:
+In the Design of AI/ML models, the Analyst should:
+
+* define the situation they wish to model
 * the prediction they wish to make
-* the data that could be used to make the prodiction
-* consider how to treat the data in design and testing - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design
+* the data that could be used to make the prediction
+* consider how to separate the data for the design and testing of models - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design
 * identify potential modelling methods
 
 ## Multi-use models and the design stage
 
 Designing multi-use models should take into account the needs of all users of the analysis. An Analysis Steering Group can be an effective means for communication about the design with a range of user groups. 
 
-The design of multi-use models may entail a modular structure with different analysts and assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
+The design of multi-use models may entail a modular structure with different Analysts and Assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
+
+## Designing the analysis when working with third-parties
+
+TBC
