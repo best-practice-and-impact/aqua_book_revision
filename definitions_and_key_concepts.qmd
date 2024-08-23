@@ -178,7 +178,6 @@ The AQuA book defines the roles as:
     + Accepts the analysis and assurance as fit for purpose  
 
 * **Analyst**  
-    + Designs the approach, including the assurance, to meet the commissionerb
     + Designs the approach, including the assurance, to meet the commissioner’s requirements 
     + Agrees the approach with the commissioner 
     + Carries out the analysis 
