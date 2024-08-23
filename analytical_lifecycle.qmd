@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Roles and the analytical lifecycle
 
-An analytical project can be viewed as a variation on an archetypal project defined by roles and stages. This chapter gives an overview of the roles and the project stages in the analytical lifecycle.
+An analytical project can be viewed as a variation on an archetypal project defined by roles and stages. This chapter gives an overview of the roles and the project stages in the analytical lifecycle. Subsequent chapters go into the details of each stage, and the responsibilities of each role during a given stage.
 
 ## Roles and responsibilities <a name="roles_and_responsibilities"></a>
 
