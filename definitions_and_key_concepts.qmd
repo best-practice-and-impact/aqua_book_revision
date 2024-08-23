@@ -163,9 +163,12 @@ Quality analysis is analysis which is fit for the purpose(s) it was commissioned
 
 ## Roles and responsibilities {.unnumbered}
 
-Organisations may have their own titles for the main functional roles involved in analysis that are* set out here.  
+Organisations may have their own titles for the main functional roles involved in analysis that are set out here.  
 
 Each role may be fulfilled by a team or committee of people.  However, a single individual will have overall accountability (such as the chair of a committee) for each role. 
+
+The roles of Analyst and Assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.    
+In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analytical roles which shall be seperate from one another in all cases   
 
 The AQuA book defines the roles as: 
 
@@ -176,3 +179,50 @@ The AQuA book defines the roles as:
 
 * **Analyst**  
     + Designs the approach, including the assurance, to meet the commissionerb
+    + Designs the approach, including the assurance, to meet the commissioner’s requirements 
+    + Agrees the approach with the commissioner 
+    + Carries out the analysis 
+    + Carries out their own assurance  
+    + Acts on findings from the assurer 
+    + Can be a group of analysts, in which case the lead analyst is responsible 
+
+* **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
+    + Reviews the assurance completed by the analyst  
+    + Carries out any further validation and verification they may see as appropriate 
+    + Reports errors and areas for improvement to the analyst  
+    + Re-reviews as required  
+    + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
+    + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
+
+* **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))
+    + Scrutinises the work of the analyst and assurer    
+    + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured    
+
+## Uncertainty {.unnumbered}
+
+The outcome of a decision is never known perfectly in advance. For each option within analysis, a range of real outcomes is possible: the outcome is uncertain. 
+
+::: {.callout-note}
+### Defining uncertainty
+
+[Wikipedia defines uncertainty](https://en.wikipedia.org/wiki/Uncertainty) as referring to [epistemic](https://en.wikipedia.org/wiki/Epistemology) situations involving imperfect or unknown information. It applies to predictions of future events, to physical measurements that are already made, or to the unknown. 
+
+:::
+
+There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
+
+The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) is a tool produced by a cross government group to help assessing and communicating uncertainty.
+
+## Validation {.unnumbered}<a name="def_validation"></a>
+
+Literally meaning to make valid, through the agreement of those judged competent to take such views. The central question that validation raises is the extent to which the right work is being engaged in, given the purpose and constraints placed upon that work. The key output from the validation process is a judgment, based on evidence, concerning the extent to which the work is "fit for purpose". See @glover2014 for more information.
+
+
+## Verification {.unnumbered}
+
+The extent to which the work that has been agreed to is being done in the 'right' or 'accepted' way, given the 'art of the possible'. The key output from the verification process is a judgment, based on evidence, concerning the extent to which the agreed work has been conducted appropriately. See @glover2014 for more information.
+
+## Version control {.unnumbered}
+
+It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
+
