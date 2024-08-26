@@ -154,7 +154,7 @@ The AQuA book defines the following roles:
 * **Assurer** 
 * **Approver** 
 
-See [Roles and Responsibilities](#roles_and_responsibilities) for details.
+See [Roles and Responsibilities](analytical_lifecycle.qmd/#roles_and_responsibilities) for details.
 
 
 ## Uncertainty {.unnumbered}
