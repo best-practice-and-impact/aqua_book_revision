@@ -27,37 +27,59 @@ The analysis stage is where planned analysis is undertaken and assured, and prog
 
 ### The Assurer's responsibilities during the analysis stage
 
-The Assurer shall review the assurance completed by the analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the analyst. The Assurer may then need to re-review the analytical work completed, as required. 
+The Assurer shall review the assurance completed by the Analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the Analyst. The Assurer may then need to re-review the analytical work completed, as required. 
 
 The Assurer may be required to provide feedback on changes to the analytical plan, and consider whether they are qualified to provide rigorous assurance on the revised methodology.
 
 
 ### The Commissioner's responsibilities during the analysis stage
 
-The Commissioner’s role is to review any changes in design or methodology that the Analyst brings to their attention. The Commissioner should be available to provide input and clarifications to the Analyst. The aim is for the Commissioner to be aware of and accept changes to the design or methodology providing they meet their requirements. 
+* The Commissioner should be available to provide input and clarifications to the Analyst.
+
+* The Commissioner’s should review any changes in design or methodology that the Analyst brings to their attention. 
+
 
 ### The Approver's responsibilities during the analysis stage
 
-The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the Delivery stage.
+The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the delivery stage.
+
+
 
 ## Assuring the analysis stage
 
 ### Verification and validation
 
-TBC
+Verification that the implemented methodology meets the intended plan should be incorporated as part the analysis. [Whitener and Balci (1989)](https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf) review verification techniques in relation to simulation modelling, but these techniques extend to analysis more broadly. These include:
 
-### Data considerations 
+- Informal analysis: techniques that rely on human reasoning and subjectivity.
+- Static analysis: tests that the implementation of the analysis before it is run. For example, checking that code adheres to code conventions, structural analysis of the code by examining graphs of control and data flows, .
+- Dynamic analysis: tests the behaviour of the system or code to find errors that arise during execution. This includes [unit testing](https://en.wikipedia.org/wiki/Unit_testing), [integration testing](https://en.wikipedia.org/wiki/Integration_testing) and [stress testing](https://en.wikipedia.org/wiki/Stress_testing_(computing))
+- Symbolic analysis:  particularly relevant to modelling and tests the transformation of symbolic proxies of model inputs into outputs during the execution of a model. Includes path tracing and cause-effect testing (see [Whitener and Balci (1989)](https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf) )
+- Constraint analysis: particularly relevant to modelling and tests the implementation of constraints during model execution. This includes checking the assertions of the model and boundary analysis.
+- Formal analysis: tests logical correctness through [formal verification](https://en.wikipedia.org/wiki/Formal_verification#Formal_verification_for_software) such as logic or mathematical proofs
 
-It is important to consider how well available data meet the needs of the analysis. It is rare to have the perfect dataset for an analytical commission. Reasons for this include:
 
-* The data is not available in the time frame required for the ideal analysis;    
+
+Validation refers to testing whether the product meets the requirements of users. Hence, it is important to involve the users in the process. [Methods for validation](https://en.wikipedia.org/wiki/Verification_and_validation#Aspects_of_analytical_methods_validation_) include quantification and judgment of acceptable sensitivity, specificity, accuracy, precision and reproducibility.
+
+Validation of models includes testing the validity of the conceptual model, and testing the operational validity of any computerized model.  Techniques that may be useful in validation of models are reviewed by [Sargent (2011)](https://www.informs-sim.org/wsc11papers/016.pdf).
+
+The Analyst has primary responsibility for conducting verification and validation. The Assurer is responsible for reviewing the verification and validation that is carried out by the Analyst, and for conducting or recommending additional verification and validation as required.
+
+### Data validity and considerations 
+
+Testing data validity (i.e. that data meet the specification for which they are used) is a key part of analysis. Procedures for assuring data validity include testing for internal consistency, screening for data characteristics (outliers, trends, expected distributions etc), and assuring robust data management practices (e.g. automating data creation and data sourcing).
+
+It is rare to have the perfect dataset for an analytical commission. Reasons for this include:
+
+* The data is not available in the time frame required for the ideal analysis;  
 * The data definition does not perfectly align with the commission;    
 * There are data or coverage gaps;    
 * The data may be experimental or there are other reasons why it is not ‘mature’.    
 
 Often, no data are available that are directly and precisely relevant to the parameter and conditions of interest. In such cases, it is often possible to use surrogate data. These are measurements of another parameter, or of the parameter of interest under different conditions, that are related to the parameter and conditions of interest. This implies an extrapolation between parameters, or between conditions for the same parameter, which introduces further uncertainty, additional to that associated with the data themselves. It may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
 
-The impact of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large impact on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the analytical assurer. 
+The impact of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large impact on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the Assurer. 
 
 
 
@@ -69,7 +91,7 @@ Best practice includes:
 * Logging the data, assumptions and inputs used in the analysis (see ADD HYPERLINK TO LOGS);
 * Recording the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its impact on the analysis.
 
-## Treatement of uncertainty in the analysis stage
+## Treatment of uncertainty in the analysis stage
 
 While the Scoping and Design stages identified and described risks and uncertainties, the Analysis stage aims to assess and quantify the impact of uncertainty on the analytical outcome and their contribution to the range and likelihoods of possible outcomes. Guidance on how to identify, mitigate, measure and communicate uncertainty can be found in the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html). The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.
 
