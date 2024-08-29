@@ -30,7 +30,7 @@ Analytical assurance is the process and set of practices to ensure that the anal
 
 ## Assurance activities {.unnumbered}
 
-Assurance activities are anything that is undertaken to validate and verify analysis. 
+Assurance activities are any actions carried out in order to validate and verify analysis. 
 
 For example:   
 
