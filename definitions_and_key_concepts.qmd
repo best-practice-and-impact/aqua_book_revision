@@ -88,10 +88,6 @@ The Department for Energy Security and Net Zero and Department for Business and 
 
 :::
 
-## Materiality {.unnumbered}
-
-[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".
-
 ## Multi-use models {.unnumbered}
 
 Some models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as **multi-use models**.  
