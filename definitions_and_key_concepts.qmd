@@ -36,7 +36,7 @@ For example:
 
 * analyst testing    
 * peer review  
-* analytical audits  
+* reconciliation of results to independent sources  
 
 ## Business critical analysis {.unnumbered}
 
