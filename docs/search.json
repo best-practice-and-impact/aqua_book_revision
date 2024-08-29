@@ -194,7 +194,7 @@
     "href": "definitions_and_key_concepts.html#roles-and-responsibilities",
     "title": "2  Definitions and key concepts",
     "section": "Roles and responsibilities",
-    "text": "Roles and responsibilities\nOrganisations may have their own titles for the main functional roles involved in analysis that are* set out here.\nEach role may be fulfilled by a team or committee of people. However, a single individual will have overall accountability (such as the chair of a committee) for each role.\nThe AQuA book defines the roles as:\n\nCommissioner (may be known as customer)\n\nRequests the analysis and sets out their requirements\n\nAgrees what the analyst is going to do will satisfy the need\n\nAccepts the analysis and assurance as fit for purpose\n\nAnalyst\n\nDesigns the approach, including the assurance, to meet the commissioner’s requirements\nAgrees the approach with the commissioner\nCarries out the analysis\nCarries out their own assurance\n\nActs on findings from the assurer\nCan be a group of analysts, in which case the lead analyst is responsible\n\nAssurer (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner (“SRO”))\n\nReviews the assurance completed by the analyst\n\nCarries out any further validation and verification they may see as appropriate\n\nReports errors and areas for improvement to the analyst\n\nRe-reviews as required\n\nConfirms the work has been appropriately scoped, executed, validated and verified and documented to the approver\n\nCan be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.\n\nApprover (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))\n\nScrutinises the work of the analyst and assurer\n\nConfirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured\n\nThe roles of analyst and analytical assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.\n\nIn instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles.",
+    "text": "Roles and responsibilities\nOrganisations may have their own titles for the main functional roles involved in analysis that are set out here.\nEach role may be fulfilled by a team or committee of people. However, a single individual will have overall accountability (such as the chair of a committee) for each role.\nThe roles of Analyst and Assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.\nIn some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analytical roles which shall be seperate from one another in all cases\nThe AQuA book defines the roles as:\n\nCommissioner (may be known as customer)\n\nRequests the analysis and sets out their requirements\n\nAgrees what the analyst is going to do will satisfy the need\n\nAccepts the analysis and assurance as fit for purpose\n\nAnalyst\n\nDesigns the approach, including the assurance, to meet the commissioner’s requirements\nAgrees the approach with the commissioner\nCarries out the analysis\nCarries out their own assurance\n\nActs on findings from the assurer\nCan be a group of analysts, in which case the lead analyst is responsible\n\nAssurer (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner (“SRO”))\n\nReviews the assurance completed by the analyst\n\nCarries out any further validation and verification they may see as appropriate\nReports errors and areas for improvement to the analyst\n\nRe-reviews as required\n\nConfirms the work has been appropriately scoped, executed, validated and verified and documented to the approver\n\nCan be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.\n\nApprover (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))\n\nScrutinises the work of the analyst and assurer\n\nConfirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
     ]
@@ -637,6 +637,36 @@
     "text": "Glover, Paul. 2014. Verification and Validation for the AQuA\nBook. DSTL Portsdown West Portsdown Hill Road Fareham PO17 6AD: HM\nGovernment. https://www.gov.uk/government/publications/verification-and-validation-for-the-aqua-book.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\n(For information, not part of the draft: example of a citation reference linked to references.bib file: See Knuth (1984) for additional discussion of literate programming. )",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#artificial-intelligence",
+    "href": "definitions_and_key_concepts.html#artificial-intelligence",
+    "title": "2  Definitions and key concepts",
+    "section": "Artificial Intelligence",
+    "text": "Artificial Intelligence\nArtificial intelligence (AI) attempts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are a subset of Black Box Models",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#machine-learning",
+    "href": "definitions_and_key_concepts.html#machine-learning",
+    "title": "2  Definitions and key concepts",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nMachine Learning (ML) is a class of Artificial Intelligence. ML models aim to learn and improve from experience without being explicitly programmed. They use algorithms that analyze data, identify patterns, and make decisions with minimal human intervention. ML models are part of the class of models known as Black Box models.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#black-box-models",
+    "href": "definitions_and_key_concepts.html#black-box-models",
+    "title": "2  Definitions and key concepts",
+    "section": "Black box models",
+    "text": "Black box models\nBlack Box models internal workings are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. Artificial Intelligence models (including Machine Learning) are the most common type of black box models used today. Other forms of black box models may arise in future.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
     ]
   }
 ]

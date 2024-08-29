@@ -40,14 +40,13 @@ For example:
 
 ## Artificial Intelligence {.unnumbered}
 
-Artificial intelligence (AI) attmpts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are [Black Box Models](#black_box_models)
+Artificial intelligence (AI) attempts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are a subset of [black box models](#black_box_models)
 
-::: {.callout-tip}
-## Black box models <a name="black_box_models"></a> {.unnumbered}
 
-Black Box models internal workings are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. Artificial Intelligence models (including Machine Learning) are the most common type of black box models used today. Other forms of black box models may arise in future.  
+## Black box models {.unnumbered}
 
-:::
+Black box models internal workings are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. [Artificial Intelligence](#Artificial Intelligence) models (including [Machine Learning](#Machine Learning)) are the most common type of black box models used today. Other forms of black box models may arise in future.  
+
 
 ## Business critical analysis {.unnumbered}
 
@@ -101,7 +100,7 @@ The Department for Energy Security and Net Zero and Department for Business and 
 
 ## Machine Learning {.unnumbered}
 
-Machine Learning (ML) is a class of Artificial Intelligence. ML models aim to learn and improve from experience without being explicitly programmed. They use algorithms that analyze data, identify patterns, and make
+Machine Learning (ML) is a class of [Artificial Intelligence](#Artificial Intelligence). ML models aim to learn and improve from experience without being explicitly programmed. They use algorithms that analyze data, identify patterns, and make
 decisions with minimal human intervention. ML models are part of the class of models known as [Black Box models](#black_box_models).
 
 ## Materiality {.unnumbered}
