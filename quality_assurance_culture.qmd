@@ -8,7 +8,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 Creating and maintaining a strong culture of quality assurance is a key element of ensuring analysis is high quality and robust. 
 
-This chapter is aimed at senior leaders and describes their role in developing a strong culture of quality assurance. The chapter outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. 
+This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. However, everyone has a role to play in creating a strong quality assurance culture. As such, the approaches outlined are useful for everyone to understand, regardless of their role in a given team.
 
 For purposes of this chapter, culture is defined as the shared ways of working, beliefs and habits of an organisation.  
 
