@@ -52,11 +52,11 @@ Change control is the set of processes followed when changes are made to a piece
 
 ### Specification documentation {.unnumbered}
 
-This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing project constraints such as deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
+Specifications capture initial engagements with the commissioner. They describe the question, the context, and any boundaries of the analysis. This provides a definition of the scope and a mechanism for agreeing project constraints such as deadlines, available resources, and capturing what level of assurance is required by the commissioner.
 
 ### Design documentation {.unnumbered}
 
-This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem. It forms an important tool for ensuring that the Analytical Assurer has the confidence that the Analyst can deliver quality analysis.  
+Design documents describe design of the analysis, including conceptual models to illustrate the analytical problem. They are important as they provide a basis Analytical Assurer to verify whether the analysis meets the specified requirements.  
 
 ### Assumptions log {.unnumbered}
 
