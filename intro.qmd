@@ -62,7 +62,11 @@ Here are a few reasons why.
 
 ## How to use this book
 
-The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the assurance activities needed at each stage of the assurance life cycle.
+The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the analytical life cycle, including:
+* the responsibilities by role, 
+* assurance activities needed, 
+* consideration of uncertainty, AI/ML and multi-use models and working with third parties 
+at each stage of the life cycle.
 
 This guidance uses the following terms to indicate whether recommendations are mandatory or advisory.  
 
