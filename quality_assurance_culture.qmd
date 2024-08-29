@@ -86,6 +86,8 @@ Project level governance can provide oversight over a particular model or work a
 
 Analytical governance boards for new, high-profile or complex pieces of analysis, can allow senior analytical leaders and experts to provide oversight and challenge of analysis and ensure best practice is followed. These groups are multi-disciplinary and can cover a range of analytical approaches based on their expertise and experience. This can help ensure that innovations and new approaches are disseminated across teams, and standards are applied equally across similar work.  
 
+### Externally commissioned analysis
+
 When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
 For Arm’s Length Bodies (ALBs) the Accounting Officer is accountable for ensuring the requirements set out in the AQuA Book are met. 
