@@ -70,9 +70,6 @@ A register of decisions, whether provided by the Commissioner or derived by the 
 
 A register of data provided by the Commissioner or derived by the analysis that has been risked assessed and signed-off by an appropriate governance group or stakeholder.  
 
-### Quality assurance plan {.unnumbered}
-
-A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. The plan should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
 
 ### User / technical documentation {.unnumbered}
 
