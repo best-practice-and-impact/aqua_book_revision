@@ -1,4 +1,4 @@
-# Forward {.unnumbered}
+# Foreward {.unnumbered}
 
 ::: {.callout-important}
 This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
