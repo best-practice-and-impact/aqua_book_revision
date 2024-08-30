@@ -8,12 +8,12 @@ The draft currently has no official status. It is a work in progress and is subj
 
 ## Introduction and summary
 
-The analysis phase is where planned analysis is undertaken and assured, and progress and relevance are monitored. During this phase, the design may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This phase also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping phase. 
+The analysis stage is where planned analysis is undertaken and assured, and progress and relevance are monitored. During this stage, the design may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping stage. 
 
 
 
 
-### The Analyst's responsibilities during the analysis phase
+### The Analyst's responsibilities during the analysis stage
 
 As the analyst manages their analysis and follows their analytical plan, they must provide documentation of the data and methods used to the assurers. The analyst shall ensure these are sufficient for the assurer to understand the approach.
 
@@ -29,36 +29,36 @@ When conducting the analysis, it is important that it is transparent that the An
 * Logging the data, assumptions and inputs used in the analysis (see ADD HYPERLINK TO LOGS);
 * Recording the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its impact on the analysis.
 
-### The Assurer's responsibilities during the analysis phase
+### The Assurer's responsibilities during the analysis stage
 
 The assurer shall review the assurance completed by the analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the analyst. The assurer may then need to re-review the analytical work completed, as required. 
 
 
-### The Commissioner's responsibilities during the analysis phase
+### The Commissioner's responsibilities during the analysis stage
 
 The Commissioner’s role is to review any changes in design or methodology that the Analyst brings to their attention. The Commissioner should be available to provide input and clarifications to the Analyst. The aim is for the Commissioner to be aware of and accept changes to the design or methodology providing they meet their requirements. 
 
-### The Approver's responsibilities during the analysis phase
+### The Approver's responsibilities during the analysis stage
 
-The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the Delivery phase.
+The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the Delivery stage.
 
-## Assurance during the analysis phase
+## Assurance during the analysis stage
 
 ### Verification and validation
 
 TBC
 
-### Handling Uncertainty during the analysis phase
+### Handling Uncertainty during the analysis stage
 
-While the Scoping and Design phases identified and described risks and uncertainties, the Analysis phase aims to assess and quantify the impact of uncertainty on the analytical outcome and their contribution to the range and likelihoods of possible outcomes. Guidance on how to identify, mitigate, measure and communicate uncertainty can be found in the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html). The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.
+While the Scoping and Design stages identified and described risks and uncertainties, the Analysis stage aims to assess and quantify the impact of uncertainty on the analytical outcome and their contribution to the range and likelihoods of possible outcomes. Guidance on how to identify, mitigate, measure and communicate uncertainty can be found in the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html). The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.
 
-## Multi-use models and the analysis phase
+## Multi-use models and the analysis stage
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This calls for mechanisms for assuring that the changes integrate into the larger model as expected, for example, through the use of test-suites.
 
-## Artificial Intellingence and Machine Learning (Black Box) models and the analysis phase
+## Artificial Intellingence and Machine Learning (Black Box) models and the analysis stage
 
-AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during this phase include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
+AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during this stage include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
 
 ## Working with third parties
 
