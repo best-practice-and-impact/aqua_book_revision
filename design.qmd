@@ -25,7 +25,7 @@ The Assurer should review the analytical plan to ensure that they are able to co
 ### The Commissioner's responsibilities during the design stage
 The Commissioner should review the approach described in the analytical plan. They should sign-off the design document to confirm that the analytical approach will satisfy their needs.
 
-The Commissioner's domain expertise can be a useful resource for the analyst in the design phase. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
+The Commissioner's domain expertise can be a useful resource for the analyst in the design stage. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 
 ### The Approver's responsibilities during the design stage
 In smaller projects, the Approver may not be heavily involved in the design stage. However, for business critical analysis, the Approver may want to confirm that organisational governance procedures for design have been followed.
@@ -52,7 +52,7 @@ The development of the analytical plan should consider:
 
 The use of [Reproducible Analytical Pipelines (RAP)](#rap) is encouraged as a means of effective project design.
 
-Designing the assurance activities for subsequent analytical stages is a key part of the design phase. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). Assurance of data quality should be considered in the analytical plan.
+Designing the assurance activities for subsequent analytical stages is a key part of the design stage. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). Assurance of data quality should be considered in the analytical plan.
 
 Iteration between the Commissioner and the Analyst is normal and expected whilst the analytical design develops. 
 
@@ -73,9 +73,9 @@ The recommended approach for developing analysis in code is to use a [Reproducib
 
 ## Assurance activities in the design stage
 
-On completion of the design phase, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.
+On completion of the design stage, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the Analytical plan.
 
-The assurance of the design phase should consider whether the analytical plan:  
+The assurance of the design stage should consider whether the analytical plan:  
 
 * Delivers as intended
 * Adequately addresses the complexities of the customer issue for this purpose 
@@ -94,7 +94,7 @@ It is best practice to use formal version control to track changes in the design
 
 ## Treatment of uncertainty in the design stage
 
-During the design phase, Analysts should examine the planned analysis systematically for possible sources and types of uncertainty, to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. This is discussed in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html)
+During the design stage, Analysts should examine the planned analysis systematically for possible sources and types of uncertainty, to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. This is discussed in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html)
 
 
 ## AI/ML and the design stage
