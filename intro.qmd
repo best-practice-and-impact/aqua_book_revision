@@ -73,7 +73,7 @@ The terms are:
 * **‘can’** denotes both capability and possibility 
 * **is/are** is used for a description 
 
-These are the same terms as those in the [UK Government functional standards](https://www.gov.uk/government/collections/functional-standards). 
+These are the same terms as those in the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
 
 # Acknowledgements {.unnumbered}
 
