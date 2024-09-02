@@ -678,5 +678,35 @@
     "crumbs": [
       "References"
     ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#artificial-intelligence",
+    "href": "definitions_and_key_concepts.html#artificial-intelligence",
+    "title": "2  Definitions and key concepts",
+    "section": "Artificial Intelligence",
+    "text": "Artificial Intelligence\nArtificial intelligence (AI) attempts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are a subset of Black Box Models",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#machine-learning",
+    "href": "definitions_and_key_concepts.html#machine-learning",
+    "title": "2  Definitions and key concepts",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nMachine Learning (ML) is a class of Artificial Intelligence. ML models aim to learn and improve from experience without being explicitly programmed. They use algorithms that analyze data, identify patterns, and make decisions with minimal human intervention. ML models are part of the class of models known as Black Box models.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
+  },
+  {
+    "objectID": "definitions_and_key_concepts.html#black-box-models",
+    "href": "definitions_and_key_concepts.html#black-box-models",
+    "title": "2  Definitions and key concepts",
+    "section": "Black box models",
+    "text": "Black box models\nBlack Box models internal workings are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. Artificial Intelligence models (including Machine Learning) are the most common type of black box models used today. Other forms of black box models may arise in future.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Definitions and key concepts</span>"
+    ]
   }
 ]
