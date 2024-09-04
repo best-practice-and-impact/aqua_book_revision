@@ -30,13 +30,13 @@ Analytical assurance is the process and set of practices to ensure that the anal
 
 ## Assurance activities {.unnumbered}
 
-Assurance activities are anything that is undertaken to validate and verify analysis. 
+Assurance activities are any actions carried out in order to validate and verify analysis. 
 
 For example:   
 
 * analyst testing    
 * peer review  
-* analytical audits  
+* reconciliation of results to independent sources  
 
 ## Business critical analysis {.unnumbered}
 
@@ -52,11 +52,11 @@ Change control is the set of processes followed when changes are made to a piece
 
 ### Specification documentation {.unnumbered}
 
-This documentation captures the initial engagement with the commissioner and identifies the question, the context, and any boundaries of the analysis. It provides a definition of the scope and a mechanism for agreeing project constraints such as deadlines, available resources, and capturing what level of assurance is required by the commissioner.  
+Specifications capture initial engagements with the commissioner. They describe the question, the context, and any boundaries of the analysis. This provides a definition of the scope and a mechanism for agreeing project constraints such as deadlines, available resources, and capturing what level of assurance is required by the commissioner.
 
 ### Design documentation {.unnumbered}
 
-This document outlines the design of the analysis, including conceptual models to illustrate the analytical problem. It forms an important tool for ensuring that the Analytical Assurer has the confidence that the Analyst can deliver quality analysis.  
+Design documents describe design of the analysis, including conceptual models to illustrate the analytical problem. They are important as they provide a basis Analytical Assurer to verify whether the analysis meets the specified requirements.  
 
 ### Assumptions log {.unnumbered}
 
@@ -70,9 +70,6 @@ A register of decisions, whether provided by the Commissioner or derived by the 
 
 A register of data provided by the Commissioner or derived by the analysis that has been risked assessed and signed-off by an appropriate governance group or stakeholder.  
 
-### Quality assurance plan {.unnumbered}
-
-A detailed plan of what verification and validation activities should be produced identifying the key risk areas within the analysis. The plan should be thought about throughout the analytical lifecycle, from initial scoping, designing the analysis, to delivering the analysis. The areas identified in the plan can also form the basis of a log for those analysts conducting the verification and validation checks. Any additional verification and validation checks that have been performed should be recorded on the quality assurance plan.  
 
 ### User / technical documentation {.unnumbered}
 
@@ -87,10 +84,6 @@ A brief description of the analytical assurance that have been performed to assu
 The Department for Energy Security and Net Zero and Department for Business and Trade have published a range of quality assurance tools and guidance to help people with Quality Assurance of analytical models. [Modelling Quality Assurance tools and guidance](https://www.gov.uk/government/publications/energy-security-and-net-zero-modelling-quality-assurance-qa-tools-and-guidance) are used across the two departments to ensureanalysis meets the standards set out in the AQuA book and provide assurance to users of the analysis that proportionate quality assurance has been completed. 
 
 :::
-
-## Materiality {.unnumbered}
-
-[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".
 
 ## Multi-use models {.unnumbered}
 
@@ -147,39 +140,15 @@ Quality analysis is analysis which is fit for the purpose(s) it was commissioned
 
 ## Roles and responsibilities {.unnumbered}
 
-Organisations may have their own titles for the main functional roles involved in analysis that are set out here.  
+The AQuA book defines the following roles:
 
-Each role may be fulfilled by a team or committee of people.  However, a single individual will have overall accountability (such as the chair of a committee) for each role. 
-
-The roles of Analyst and Assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the commissioner lies with the assurer.    
-In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analytical roles which shall be seperate from one another in all cases   
-
-The AQuA book defines the roles as: 
-
-* **Commissioner** (may be known as customer) 
-    + Requests the analysis and sets out their requirements  
-    + Agrees what the analyst is going to do will satisfy the need  
-    + Accepts the analysis and assurance as fit for purpose  
-
+* **Commissioner**
 * **Analyst**  
-    + Designs the approach, including the assurance, to meet the commissioner’s requirements 
-    + Agrees the approach with the commissioner 
-    + Carries out the analysis 
-    + Carries out their own assurance  
-    + Acts on findings from the assurer 
-    + Can be a group of analysts, in which case the lead analyst is responsible 
+* **Assurer** 
+* **Approver** 
 
-* **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
-    + Reviews the assurance completed by the analyst  
-    + Carries out any further validation and verification they may see as appropriate 
-    + Reports errors and areas for improvement to the analyst  
-    + Re-reviews as required  
-    + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
-    + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
+See [Roles and Responsibilities](analytical_lifecycle.qmd/#roles_and_responsibilities) for details.
 
-* **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))
-    + Scrutinises the work of the analyst and assurer    
-    + Confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured    
 
 ## Uncertainty {.unnumbered}
 
@@ -196,14 +165,13 @@ There are different types of uncertainty. A common classification divides uncert
 
 The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) is a tool produced by a cross government group to help assessing and communicating uncertainty.
 
-## Validation {.unnumbered}<a name="def_validation"></a>
+## Validation <a name="def_validation"></a>{.unnumbered}
 
-Literally meaning to make valid, through the agreement of those judged competent to take such views. The central question that validation raises is the extent to which the right work is being engaged in, given the purpose and constraints placed upon that work. The key output from the validation process is a judgment, based on evidence, concerning the extent to which the work is "fit for purpose". See @glover2014 for more information.
-
+Ensuring the analysis meets the needs of its intended users and the intended use environment.  See @glover2014 for more information.
 
 ## Verification {.unnumbered}
 
-The extent to which the work that has been agreed to is being done in the 'right' or 'accepted' way, given the 'art of the possible'. The key output from the verification process is a judgment, based on evidence, concerning the extent to which the agreed work has been conducted appropriately. See @glover2014 for more information.
+Ensuring the analysis meets it specified design requirements. See @glover2014 for more information.
 
 ## Version control {.unnumbered}
 

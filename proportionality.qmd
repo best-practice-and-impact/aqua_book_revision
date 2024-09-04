@@ -32,6 +32,7 @@ Further detail and considerations may be found on the Data Quality Hub's [Qualit
 | Relevance of the analysis to the decision making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the evidence base.  |
 | Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
+| Reusing or repurposing existing work | Reusing work that was carried out previously may require validation and verification to confirm that original apporach - method, assumptions data etc. are still appropropriate for the new requirement|
 | Precision of the analysis outputs | Imprecise analysis can require different assurance than precise analysis, e.g. because of inherent limitations of the analytical technique, or lack of data on assumptions. |
 | Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Approaches that underpin a lot of different things may require greater levels of QA than might be suggested by any individual decision they support.  |
 | Longevity of the analysis | Ongoing analysis will require robust change control. |
@@ -45,7 +46,7 @@ Figure 3-1 shows some assurance techniques that might be considered for differen
 
 ![Figure 3-1 - Types of quality assurance](types_of_quality_assurance_redorange.jpg){fig-alt="Figure 1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. The X axis goes from simple analysis on the left to highly complex analysis on the right. The y axis goes from low business risk at the bottom to high business risk at the top. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit. On the diagram, the increasing level of risk as we move from bottom left to top right is represented by darker shades."}
 
-The interventions in Figure 3-1 must not be viewed in isolation. Some complex and risky analysis that would benefit from an external review will still require the interventions closer to the axes, for example version control and analyst led testing. 
+The interventions in Figure 3-1 must not be viewed in isolation. The interventions should build on each other, for example some complex and risky analysis that would benefit from an external review should also use interventions closer to the axes, for example version control and analyst led testing. 
 
 The total elimination of risk will never be achievable, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. In practice there are many different techniques that need to be considered and implemented as appropriate.
 
