@@ -11,7 +11,26 @@ The draft currently has no official status. It is a work in progress and is subj
 The analysis stage is where planned analysis is undertaken and assured, and progress and relevance are monitored. During this stage, the design may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping stage. 
 
 
-## Roles and responsibilities in the analysis stage
+
+
+### The Analyst's responsibilities during the analysis stage
+
+* The Analyst shall follow the assurance plan, and conduct the specified verification and validation. They shall provide traceable documentation of the assurance they have undertaken. They shall respond to recommendations from the Assurer and act on them as appropriate.
+
+* The Analyst shall produce documentation of the data and methods used. The Analyst shall ensure these are sufficient for the Assurer to understand the approach.
+
+* The Analyst shall document any changes to the analytical plan in a proportionate manner.
+
+* The Analyst shall maintain appropriate contact with Commissioner and Assurer. This provides and opportunity for them to advise on whether the analysis is still meeting the Commissioner's needs or whether there are any new requirements.
+
+
+
+### The Assurer's responsibilities during the analysis stage
+
+The Assurer shall review the assurance completed by the Analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the Analyst. The Assurer may then need to re-review the analytical work completed, as required. 
+
+The Assurer may be required to provide feedback on changes to the analytical plan, and consider whether they are qualified to provide rigorous assurance on the revised methodology.
+
 
 ### The Commissioner's responsibilities during the analysis stage
 
