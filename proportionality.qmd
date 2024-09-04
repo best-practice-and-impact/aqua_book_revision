@@ -34,7 +34,7 @@ Further detail and considerations may be found on the Data Quality Hub's [Qualit
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
 | Reusing or repurposing existing work | Reusing work that was carried out previously may require validation and verification to confirm that original apporach - method, assumptions data etc. are still appropropriate for the new requirement|
 | Precision of the analysis outputs | Imprecise analysis can require different assurance than precise analysis, e.g. because of inherent limitations of the analytical technique, or lack of data on assumptions. |
-| Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Approaches that underpin a lot of different things may require greater levels of QA than might be suggested by any individual decision they support.  |
+| Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists.Analysis that is used for many purposes (e.g. population projections) may require greater levels of QA than might be suggested by any individual decision they support.  |
 | Longevity of the analysis | Ongoing analysis will require robust change control. |
 | Public impact | Analysis which will have a significant impact on the public may require more assurance than it otherwise would. |
 | Repeat runs for the same analysis | The focus for repeat analysis will be on version control and assurance of data and parameters for each run. |
