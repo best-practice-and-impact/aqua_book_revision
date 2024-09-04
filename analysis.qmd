@@ -60,9 +60,6 @@ In multi-use models, analysis and edits may be carried out on individual element
 
 AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during this phase include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
 
-## Working with third parties
-
-
 ## Limitations of data
 
 It is important to consider how well available data meet the needs of the analysis. It is rare to have the perfect dataset for an analytical commission. Reasons for this include:
