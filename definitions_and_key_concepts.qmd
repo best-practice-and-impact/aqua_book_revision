@@ -101,7 +101,7 @@ No single piece of guidance provides a definitive assessment of whether a piece 
 
 **Verification and validation:** Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9]. 
 
-**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
+**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical stage of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
 
 **Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
 

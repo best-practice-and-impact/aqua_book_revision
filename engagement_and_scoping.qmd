@@ -51,7 +51,7 @@ The Analyst and Commissioner should also clarify risks and potential impacts of 
 
 ## Documenting the engagement and scoping stage
 
-The output of this phase should be a [specfication document](Add hyperlink) that captures the joint understanding. This document provides a reference for later [validation](definitions.qmd/#def_validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.qmd) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
+The output of this stage should be a [specfication document](Add hyperlink) that captures the joint understanding. This document provides a reference for later [validation](definitions.qmd/#def_validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.qmd) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
 
 ## Treatment of uncertainty in the engagement and scoping stage
 
