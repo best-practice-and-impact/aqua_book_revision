@@ -8,13 +8,13 @@ The draft currently has no official status. It is a work in progress and is subj
 
 Creating and maintaining a strong culture of quality assurance is a key element of ensuring analysis is high quality and robust. 
 
-This chapter is aimed at senior leaders and their role in developing a strong culture of quality assurance. The chapter outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. 
+This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. However, everyone has a role to play in creating a strong quality assurance culture. As such, the approaches outlined are useful for everyone to understand, regardless of their role in a given team.
 
 For purposes of this chapter, culture is defined as the shared ways of working, beliefs and habits of an organisation.  
 
 A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including analysts, managers, senior leaders and stakeholders.   
 
-Culture enables the risk management described elsewhere.
+Culture enables the risk management described elsewhere in this document.
 
 ## Leadership
 
@@ -48,7 +48,7 @@ There is a risk that work, and time pressures mean teams cut corners on quality 
 
 If time constraints mean insufficient assurance has taken place, senior leaders should ensure this is explicitly acknowledged and reported. This should be reported via an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-Analysis should be peer reviewed by independent individuals or groups, who are independent of operational management and where the review is carried out by skilled and competent persons. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an an independant review from an independant source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
+Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an an independant review from an independant source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
 
 ::: {.callout-tip}
 # HM Revenue and Customs independent review team
@@ -57,7 +57,7 @@ HMRC has a small analytical team which independently reviews analysis from acros
 
 ### Capability
 
-There is a risk that errors occur because of a lack of skills or experience. Senior leaders can identify common skills gaps, creating training or mentoring to help fill gaps in analyst's knowledge. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
+There is a risk that errors occur because of a lack of skills or experience. Senior leaders can identify common skills gaps, creating training or mentoring to help fill gaps in analysts' knowledge. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
 
 ::: {.callout-tip}
 # Building assurance capability
@@ -78,13 +78,13 @@ There is a risk that data quality and data understanding cause quality issues wi
 
 ## Governance and control
 
-Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The analysis functional standard sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
+Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The [Analysis Function Standard] (https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
 
-A governance process should include a well understood chain of responsibility and accountability. For example, the analyst producing the analysis is expected to review their own analysis and may also be required to check other people’s analysis. Senior analysts and managers are expected to provide assurance through peer review or acting as an Analytical Assurer or Approver of the analysis and requirements. Commissioners of the analysis should ask questions about quality and ensure it is fit for purpose and understand uncertainties around the analysis. Therefore, everyone involved in the analytical process has responsibility for Quality Assurance activities. These roles are further described in Chapter 2.  
+Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within wider programme level governance.  
 
-Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions will reduce the need for reworking the analysis providing more time for assurance. These groups help to instil the quality assurance culture by providing clear routes and processes where the quality of analysis can be tested and signed off. Projects governance can also fit within wider programme level governance.  
+Analytical governance boards for new, high-profile or complex pieces of analysis, can allow senior analytical leaders and experts to provide oversight and challenge of analysis and ensure best practice is followed. These groups are multi-disciplinary and can cover a range of analytical approaches based on their expertise and experience. This can help ensure that innovations and new approaches are disseminated across teams, and standards are applied equally across similar work.  
 
-Analytical governance boards for new, high-profile or complex pieces of analysis, can allow senior analytical leaders and experts to provide oversight and challenge of analysis and ensure best practice is followed. These groups are often cross cutting in nature, covering a range of analytical approaches and work areas. This can help ensure that innovations and new approaches are disseminated across teams, and standards are applied equally across similar work.  
+### Externally commissioned analysis
 
 When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
