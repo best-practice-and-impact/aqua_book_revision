@@ -139,6 +139,8 @@ In cases where there is a need for analysis, but there are also significant time
 
 : Table 3-3 - Responses to risk assessment levels {.striped}
 
+For further guidance on risk management, refer to the [Orange book](https://www.gov.uk/government/publications/orange-book) which covers risk management principles and risk control frameworks.
+
 ## Externally commissioned work
 
 Proportionate assurance of externally commissioned work is just as important as for internally produced analysis. For the commissioner, to use the work they should be fully informed of the business risk associated with it. This should be provided by an appropriate mix of documented risk assessments provided as part of the work, and by joint risk assessments planned throughout the life of the project. For commissioned work the options for mitigation will be similar to those for internal analysis.
