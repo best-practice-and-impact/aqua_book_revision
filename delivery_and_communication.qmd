@@ -120,7 +120,7 @@ Government has produced a range of guidance to support analysts in presenting an
 
 Each provides valuable advice on how to estimate and present uncertainty when describing the limitations of use of a piece of analysis.
 
-## AI/ML and the delivery, communication and sign-off stage
+## Black-box models and the delivery, communication and sign-off stage
 
 The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
