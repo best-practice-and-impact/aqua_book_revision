@@ -31,7 +31,7 @@ The AQuA book defines the following roles:
     + Acts on findings from the Assurer 
     + Can be a group of analysts, in which case the lead analyst is responsible 
 
-* **Assurer** (may be known as Analytical Assurer, Assuring Analyst, or Model Senior Responsible Owner ("SRO"))  
+* **Assurer** (may be known as Analytical Assurer, Assuring Analyst)  
     + Reviews the assurance completed by the Analyst  
     + Carries out any further validation and verification they may see as appropriate 
     + Reports errors and areas for improvement to the analyst  
