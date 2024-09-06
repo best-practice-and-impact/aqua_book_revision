@@ -6,13 +6,11 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Delivery, communication and sign-off
 
-## Introduction and overview
+## Introduction and summary
 
 The successful delivery of analysis to its Commissioner marks its transition from being a product under development to one that is fit and ready to be used to inform decision making in your organisation and possibly inform the public. 
 
 This chapter provides information on the processes around assurance of communication of analysis and delivery of analytical output.
-
-
 
 
 
@@ -29,8 +27,9 @@ The Commissioner shall use the analysis as specified at the start of the analyti
 
 - The Analyst shall follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register), and making the analysis [publicly available](#open-publishing-of-analysis).
 - The Analyst should ensure that communication meets audience requirements, including accessibility.
-- The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
 - The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
+- The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
+
 
 ### The Assurer's responsibilities during delivery, communication and sign-off
 
@@ -48,6 +47,7 @@ The Assurer shall communicate the assurance state to the Approver. This includes
 ## Assurance activities in the delivery, communication and sign-off stage
 
 
+
 ### Delivery
 
 When delivering a piece of analysis, the Analyst and/or Assurer should communicate its assurance state to the Approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance and  to demonstrate that the analysis is ready for delivery, for example:
@@ -63,13 +63,15 @@ When delivering a piece of analysis, the Analyst and/or Assurer should communica
 Though not strictly assurance, the analyst should also consider areas such as security ratings, retention policies, intellectual property, ethics and related concerns.
 
 
+
 The Approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard, which considers the [proportionality](proportionality.html) of the work. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
+
 
 The exact nature of any scrutiny made by the Approver should be proportionate to the impact of the analysis, the governance process of their programme/ organisation, and follow the principles of proportionality described in [Chapter 3](proportionality.html) of this document. 
 
 To ensure that the analysis is used as intended, the Commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst. 
 
-### Communication
+## Communication
 
 The effective and transparent communication is essential to enable analysis to be adopted and trusted by the Commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
@@ -83,7 +85,7 @@ The form of communication should be tailored to the audience. The communication 
 
 The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
 
-If publishing the outcome of any analysis is required, the Analyst should follow departmental and statutory guidance.Some examples are given below:
+If publishing the outcome of any analysis is required, the analyst should follow departmental and statutory guidance.Some examples are given below:
 
 * If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-publishing-official-statistics-and-national-statistics/) ;    
 * If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
@@ -98,9 +100,10 @@ The exact nature of the approval process may vary depending on:
 
 The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
 
-The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
+The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project/programme board where the decision to approve the analysis was made or similar.
 
-## Documention in the delivery, communication and sign-off stage
+
+## Documentation
 
 When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation might include:
 
@@ -115,6 +118,7 @@ When the Analyst and Assurer are satisfied that the analysis is ready to hand ov
 * The test plan and results of the tests made against that plan;    
 * A statement of assurance;    
 * A statement that ethical concerns  have been addressed, especially in cases that include the application of [black-box models](definitions_and_key_concepts.html#black-box-models);    
+
 
   
 
@@ -182,5 +186,4 @@ Publication of analysis should also draw on the [guidance for BCA lists](#busine
 
 
 
-[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, 
-please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
+[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
