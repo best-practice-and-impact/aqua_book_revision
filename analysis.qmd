@@ -65,7 +65,7 @@ Validation of models includes testing the validity of the conceptual model, and 
 
 The Analyst has primary responsibility for conducting verification and validation. The Assurer is responsible for reviewing the verification and validation that is carried out by the Analyst, and for conducting or recommending additional verification and validation as required. The Assurer may refer to the specification document to assure that the analysis meets the specification.
 
-### Data validity and considerations 
+### Data validity and data considerations 
 
 Testing data validity (i.e. that data meet the specification for which they are used) is a key part of analysis. Procedures for assuring data validity include testing for internal consistency, screening for data characteristics (outliers, trends, expected distributions etc), and assuring robust data management practices (e.g. automating data creation and data sourcing).
 
@@ -80,6 +80,9 @@ Often, no data is available that are directly and precisely relevant to the para
 
 The impact of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large impact on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the Assurer. 
 
+### Assurance of code
+
+The [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed guidance on developing and assurance for delivering quality code. This includes guidance on structuring code, producing documentation, using version control, data management, testing, peer review, and automation.
 
 
 ## Documenting the analysis stage 
