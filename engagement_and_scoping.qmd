@@ -41,7 +41,7 @@ The Approver should note the new project, confirm that resources and plans are i
 
 The Approver should ensure that there is sufficient governance in place to support the analysis and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This  may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).
 
-## Assurance of the engagement and scoping stage
+## Assurance activities in the engagement and scoping stage
 
 The engagement and scoping stage provides the Analyst with an understanding of the Commissioner's requirements. In some cases, the Commissioner may present a well-defined problem, while in other instances, the engagement stage may require problem structuring methods. Techniques such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can help the Analyst and Commissioner to reach a joint understanding of the problem (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information). The engagement will lead to the Analyst and Commissioner being able to define the scope of the project in terms of the context and bounds of the analysis. In cases where the engagement and scoping techniques are complex and/or the project is deemed business critical, the Assurer might provide assurance of the engagement methodology (https://publications.tno.nl/publication/100301/Zs2SUz/wijnmalen-2012-natoclient.pdf)
 
