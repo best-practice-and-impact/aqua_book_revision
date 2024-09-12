@@ -28,7 +28,6 @@ The Commissioner:
 * Should be available to engage with the Analyst to appropriately shape the work.
 * Should ensure that they understand risks where time and resource pressures constrain the approach. 
 * Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
-* Should request information from the Analyst on accounting for uncertainty, and challenge them when it is absent, inadequate or ambiguous.
 * Should, if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
 * Should sign-off on the specification document produced by the analyst.
 
