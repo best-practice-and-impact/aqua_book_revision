@@ -7,7 +7,7 @@ The draft currently has no official status. It is a work in progress and is subj
 # Engagement and scoping
 
 ## Introduction
-The first stage of the analytical lifecycle is initial engagement and scoping  what the Commissioner requires. This information constrains what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis.
+The first stage of the analytical lifecycle is initial engagement and scoping out what the Commissioner requires. This information constrains what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis.
 
 During engagement and scoping, the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. This shared understanding will be used as the basis for designing analysis that suits the Commissioner’s requirements.
 
@@ -16,7 +16,7 @@ During engagement and scoping, the Commissioner and the Analyst shape the analys
 
 The Analyst:
 
-* Should engaging with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
+* Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
 * Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
 
 
@@ -26,30 +26,28 @@ The Commissioner:
 
 * Should communicate to the Analyst the key aspects of the problem, scope, and programme constraints.    
 * Should be available to engage with the Analyst to appropriately shape the work.
-* Must ensure that they understand risks where time and resource pressures constrain the approach. 
+* Should ensure that they understand risks where time and resource pressures constrain the approach. 
 * Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
-* [Not sure about this] Should request information from the Analyst on accounting for uncertainty, and challenge them when it is absent, inadequate or ambiguous.
-* If possible, the  indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
+* Should, if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
 * Should sign-off on the specification document produced by the analyst.
 
 ### The Assurer's responsibilities during the engagement and scoping stage
 
-The Assurer might confirm that the engagement process has been sufficient to fully understand the problem. For more business critical projects, they might wish to confirm that the specification document adequately captures the outcomes of the engagement process.
+The Assurer may confirm that the engagement process has been sufficient to fully understand the problem. For more business critical projects, they may wish to confirm that the specification document adequately captures the outcomes of the engagement process.
 
 ### The Approver's responsibilities during the engagement and scoping stage
 
-The Approver may note the new project, confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.  
+The Approver should note the new project, confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.  
 
 The Approver should ensure that there is sufficient governance in place to support the analyst and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This  may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).
 
-## Assurance of the engagement and scoping stage
+## Assurance activities in the engagement and scoping stage
 
 The engagement and scoping stage provides the Analyst with an understanding of the Commissioner's requirements. In some cases, the Commissioner may present a well-defined problem, while in other instances, the engagement stage may require problem structuring methods. Techniques such as the Strategic Choice Approach, Rich Pictures and Systems Thinking can help the Analyst and Commissioner to reach a joint understanding of the problem (see the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit) for further information). The engagement will lead to the Analyst and Commissioner being able to define the scope of the project in terms of the context and bounds of the analysis. In cases where the engagement and scoping techniques are complex and/or the project is deemed business critical, the Assurer might provide assurance of the engagement methodology (https://publications.tno.nl/publication/100301/Zs2SUz/wijnmalen-2012-natoclient.pdf)
 
 In addition to understanding the problem, the engagement and scoping stage should lead to agreement between the Analyst and Commissioner about the outputs to be delivered, including acceptable levels of accuracy, precision and margins of error. This will inform the handling of uncertainty and the assurance thereof in later stages.
 
 The Commissioner should communicate to the Analyst what is known about data sources and data quality. This will be used to guide the design of data processing.
-
 
 The Analyst and Commissioner should also clarify risks and potential impacts of the project which will inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
 
