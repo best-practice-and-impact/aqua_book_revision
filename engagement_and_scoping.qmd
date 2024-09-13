@@ -40,7 +40,7 @@ The Assurer might confirm that the engagement process has been sufficient to ful
 
 The Approver may note the new project, confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.  
 
-The Approver should ensure that there is sufficient governance in place to support the analysis and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This  may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).
+The Approver should ensure that there is sufficient governance in place to support the analyst and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This  may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).
 
 ## Assurance of the engagement and scoping stage
 
