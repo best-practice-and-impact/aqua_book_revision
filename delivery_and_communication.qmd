@@ -53,7 +53,7 @@ When delivering a piece of analysis, the Analyst and/or Assurer should communica
 Though not strictly assurance, the analyst should also consider areas such as security ratings, retention policies, intellectual property, ethics and related concerns.
 
 
-The Approver should scrutinise the evidence delivered and approve the work if the analysis meets specified organisational criteria. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
+The Approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard, which considers the [proportionality](proportionality.html) of the work. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
 
 The exact nature of any scrutiny made by the Approver should be proportionate to the impact of the analysis, the governance process of their programme/ organisation, and follow the principles of proportionality described in [Chapter 3](proportionality.html) of this document. 
 
