@@ -37,7 +37,7 @@ The Assurer may confirm that the engagement process has been sufficient to fully
 
 ### The Approver's responsibilities during the engagement and scoping stage
 
-The Approver should note the new project, confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols.  
+The Approver should note the new project, confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the Analyst and Assurer are aware of local assurance protocols. The Approver might provide support in securing a sufficiently qualified and experienced Assurer.  
 
 The Approver should ensure that there is sufficient governance in place to support the analyst and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This  may need to be revisited at the design stage if a novel or riskier approach is required (for example if AI models are used).
 
