@@ -23,7 +23,7 @@ The Analyst should:
 The Assurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback on the analytical plan. The Assurer should plan sufficient time for the assurance activity. 
 
 ### The Commissioner's responsibilities during the design stage
-The Commissioner may review the analytical plan. They should confirm that the analytical approach will satisfy their needs.
+The Commissioner should confirm that the analytical approach will satisfy their needs. To assist in this, the Commissioner may review the analytical plan.
 
 The Commissioner's domain expertise can be a useful resource for the analyst in the design stage. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 
