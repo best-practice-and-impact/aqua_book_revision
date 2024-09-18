@@ -85,13 +85,13 @@ In larger analytical projects, some outputs of the analysis may be completed at 
 
 During the delivery phase, insights and analytical assurances are communicated to the Approver and then to the Commissioner, ensuring they are sufficiently understood in order for them to determine whether the format and interpretations have been appropriately assured and meet their requirements. As analytical projects frequently involve further iteration or extension this consideration may be the trigger for additional analysis. 
 
-Depending on the commission, impact, approval processes and the nature of the project, work in this phase can vary considerably and may include summary packs, documentation to facilitate repeatability, or consideration of governance, version control and maintenance.
+Depending on the commission, impact, approval processes and the nature of the project, work in this phase can vary considerably and may include producing summary packs, presentation to boards, launching websites to users and sharing documentation to facilitate repeatability.
 
 ### Sign off
 
 After analysis results have been determined to meet the requirements in the delivery phase, they are formally approved for dissemination during the sign-off phase, which includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work progresses and insights are produced.
 
-The analytical assurer should review evidence during and after an analytical project, to confirm the following have been completed over the life cycle of the analysis:  
+The analytical Assurer should review evidence during and after an analytical project, to confirm the following have been completed over the life cycle of the analysis:  
 
 * Evidence that the requirements have been captured, agreed through an appropriate governance process, and shared with the commissioner, analysts and other stakeholders.      
 * Supplementary evidence of agreement and scrutiny of assumptions, analytical requirements and design considerations, including an analytical appraisal of options with considerations to uncertainty, limitations and weaknesses.      
