@@ -47,6 +47,11 @@ When fixing issues, please use a pull request to get your changes reviewed if th
 [Visual Studio Code](https://code.visualstudio.com/) with the [Quarto VSCode extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto).   
 [Quarto](https://quarto.org/docs/get-started/)
 
+# When to use footnotes rather than definitions
+Terms only used in one chapter should be defined as footnotes
+Terms used across the book should be defined in Chapter 2
+
+
 # Useful links
 HM Government [AQuA book analytical quality assurance manual](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government). HM Government.
 
