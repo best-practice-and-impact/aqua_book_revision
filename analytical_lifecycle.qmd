@@ -83,9 +83,12 @@ In larger analytical projects, some outputs of the analysis may be completed at 
 
 ### Delivery and communication
 
-During the delivery phase, insights and analytical assurances are communicated to the Approver and then to the Commissioner, ensuring they are sufficiently understood in order for them to determine whether the format and interpretations have been appropriately assured and meet their requirements. As analytical projects frequently involve further iteration or extension this consideration may be the trigger for additional analysis. 
+During the delivery stage, insights and analytical assurances are communicated to the Approver and the Commissioner. The aim is ensuring that these are sufficiently understood in order for the Approver and Commissioner to determine whether the work has been appropriately assured and meets their requirements. This may then trigger additional analysis and further assurance as analytical projects frequently need further iteration or extension to satisfy the Commissioner's needs.
 
-Depending on the commission, impact, approval processes and the nature of the project, work in this phase can vary considerably and may include producing summary packs, presentation to boards, launching websites to users and sharing documentation to facilitate repeatability.
+Work in this stage can vary considerably depending on the commission, impact, approval processes and the nature of the project. Delivery and communication activities may include producing summary packs and reports, launching dashboards or websites and presentations to boards.
+
+
+
 
 ### Sign off
 
