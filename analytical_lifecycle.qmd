@@ -25,7 +25,7 @@ The AQuA book defines the following roles:
 
 * **Analyst**  
     + Designs the approach, including the assurance, to meet the commissioner’s requirements 
-    + Agrees the approach with the commissioner 
+    + Agrees the approach with the Commissioner 
     + Carries out the analysis 
     + Carries out their own assurance  
     + Acts on findings from the Assurer 
@@ -36,12 +36,12 @@ The AQuA book defines the following roles:
     + Carries out any further validation and verification they may see as appropriate 
     + Reports errors and areas for improvement to the analyst  
     + Re-reviews as required  
-    + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
+    + Confirms the work has been appropriately scoped, executed, validated and verified and documented to the Approver  
     + Can be a group of assurers. In which case the leader of the group is responsible. They must be independent from the analysts.  
 
 * **Approver** (may be known as Senior Analyst or Senior Responsible Officer (“SRO”))
     + Scrutinises the work of the Analyst and Assurer    
-    + Confirms (if necessary) to the analyst, Assurer and commissioner that the work has been appropriately assured   
+    + Confirms (if necessary) to the Analyst, Assurer and Commissioner that the work has been appropriately assured   
     
 The roles of Analyst and Assurer shall be distinct from each other. The Analyst should carry out their own assurance but responsibility for formal assurance to the Commissioner lies with the Assurer. In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analyst roles which shall be separate from one another in all cases.
 
