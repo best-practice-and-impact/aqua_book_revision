@@ -13,6 +13,7 @@ The successful delivery of analysis to its Commissioner marks its transition fro
 This chapter provides information on the processes around assurance of communication of analysis and delivery of analytical output.
 
 
+
 ## Roles and responsibilities in delivery, communication and sign-off
 
 
@@ -45,6 +46,8 @@ The Assurer shall communicate the assurance state to the Approver. This includes
 
 
 ## Assurance activities in the delivery, communication and sign-off stage
+
+
 
 
 ### Delivery
@@ -98,6 +101,8 @@ The exact nature of the approval process may vary depending on:
 The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
 
 The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
+
+
 
 ## Documention in the delivery, communication and sign-off stage
 

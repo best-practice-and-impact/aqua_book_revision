@@ -7,7 +7,9 @@ The draft currently has no official status. It is a work in progress and is subj
 # Engagement and scoping
 
 
+
 ## Introduction and overview
+
 
 The first stage of the analytical lifecycle is initial engagement and scoping out what the Commissioner requires. This information constrains what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis.
 
