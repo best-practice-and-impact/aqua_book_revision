@@ -46,6 +46,12 @@ The recommended approach for developing analysis in code is to use a [Reproducib
 
 
 ## Roles and responsibilities in the design stage
+
+### The Commissioner's responsibilities during the design stage
+The Commissioner should confirm that the analytical approach will satisfy their needs. To assist in this, the Commissioner may review the analytical plan.
+
+The Commissioner's domain expertise can be a useful resource for the analyst in the design stage. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
+
 ### The Analyst's responsibilities during the design stage
 The Analyst should: 
 
@@ -55,10 +61,7 @@ The Analyst should:
 *   document the analytical plan in a proportionate manner.
 *   follow any organisation governance procedures for project design.
 
-### The Commissioner's responsibilities during the design stage
-The Commissioner should confirm that the analytical approach will satisfy their needs. To assist in this, the Commissioner may review the analytical plan.
 
-The Commissioner's domain expertise can be a useful resource for the analyst in the design stage. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 ### The Assurer's responsibilities during the design stage
 The Assurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback on the analytical plan. The Assurer should plan sufficient time for the assurance activity. 
 

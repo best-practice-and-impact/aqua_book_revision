@@ -13,12 +13,7 @@ During engagement and scoping, the Commissioner and the Analyst shape the analys
 
 ## Roles and responsibilities in the engagement and scoping stage
 
-### The Analyst's responsibilities during the engagement and scoping stage
 
-The Analyst:
-
-* Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
-* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
 
 
 ### The Commissioner's responsibilities during the engagement and scoping stage
@@ -31,6 +26,13 @@ The Commissioner:
 * Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
 * Should, if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
 * Should sign-off on the specification document produced by the analyst.
+
+### The Analyst's responsibilities during the engagement and scoping stage
+
+The Analyst:
+
+* Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
+* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
 
 ### The Assurer's responsibilities during the engagement and scoping stage
 
