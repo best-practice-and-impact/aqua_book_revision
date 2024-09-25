@@ -14,6 +14,7 @@ This chapter provides information on the processes around assurance of communica
 
 
 
+
 ## Roles and responsibilities in delivery, communication and sign-off
 
 
@@ -31,7 +32,6 @@ The Commissioner shall use the analysis as specified at the start of the analyti
 - The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
 
 
-
 ### The Assurer's responsibilities during delivery, communication and sign-off
 
 The Assurer shall communicate the assurance state to the Approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented, and provides adequate handling of uncertainty. This communication may go via the Analyst.
@@ -46,7 +46,6 @@ The Assurer shall communicate the assurance state to the Approver. This includes
 
 
 ## Assurance activities in the delivery, communication and sign-off stage
-
 
 
 
@@ -101,6 +100,8 @@ The exact nature of the approval process may vary depending on:
 The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
 
 The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
+<<<<<<< HEAD
+
 
 
 
