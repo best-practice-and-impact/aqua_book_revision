@@ -12,6 +12,42 @@ The successful delivery of analysis to its Commissioner marks its transition fro
 
 This chapter provides information on the processes around assurance of communication of analysis and delivery of analytical output.
 
+
+
+
+
+## Roles and responsibilities in delivery, communication and sign-off
+
+
+
+### The Commissioner's responsibilities during delivery, communication and sign-off
+
+The Commissioner shall use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst.
+
+
+### The Analyst's responsibilities during delivery, communication and sign-off
+
+- The Analyst shall follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register), and making the analysis [publicly available](#open-publishing-of-analysis).
+- The Analyst should ensure that communication meets audience requirements, including accessibility.
+- The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
+- The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
+
+### The Assurer's responsibilities during delivery, communication and sign-off
+
+The Assurer shall communicate the assurance state to the Approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented, and provides adequate handling of uncertainty. This communication may go via the Analyst.
+
+
+### The Approver's responsibilities during delivery, communication and sign-off
+* The Approver shall review the assurance evidence that has been provided to them.
+* The Approver should provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose. 
+* When they are satisfied with the validity and robustness of the analysis, the Approver should  provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved.
+* The Approver shall follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate.
+
+
+
+## Assurance activities in the delivery, communication and sign-off stage
+
+
 ### Delivery
 
 When delivering a piece of analysis, the Analyst and/or Assurer should communicate its assurance state to the Approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance and  to demonstrate that the analysis is ready for delivery, for example:
@@ -47,7 +83,7 @@ The form of communication should be tailored to the audience. The communication 
 
 The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
 
-If publishing the outcome of any analysis is required, the analyst should follow departmental and statutory guidance.Some examples are given below:
+If publishing the outcome of any analysis is required, the Analyst should follow departmental and statutory guidance.Some examples are given below:
 
 * If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-publishing-official-statistics-and-national-statistics/) ;    
 * If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
@@ -62,41 +98,7 @@ The exact nature of the approval process may vary depending on:
 
 The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
 
-The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project/programme board where the decision to approve the analysis was made or similar.
-
-
-
-## Roles and responsibilities in delivery, communication and sign-off
-
-
-
-### The Commissioner's responsibilities during delivery, communication and sign-off
-
-The Commissioner shall use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst.
-
-
-### The Analyst's responsibilities during delivery, communication and sign-off
-
-- The Analyst shall follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register), and making the analysis [publicly available](#open-publishing-of-analysis).
-- The Analyst should ensure that communication meets audience requirements, including accessibility.
-- The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
-- The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
-
-### The Assurer's responsibilities during delivery, communication and sign-off
-
-The Assurer shall communicate the assurance state to the Approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented, and provides adequate handling of uncertainty. This communication may go via the Analyst.
-
-
-### The Approver's responsibilities during delivery, communication and sign-off
-* The Approver shall review the assurance evidence that has been provided to them.
-* The Approver should provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose. 
-* When they are satisfied with the validity and robustness of the analysis, the Approver should  provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved.
-* The Approver shall follow organisation governance procedures for sign-off.
-
-
-
-## Assurance activities in the delivery, communication and sign-off stage
-
+The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
 
 ## Documention in the delivery, communication and sign-off stage
 
@@ -112,7 +114,7 @@ When the Analyst and Assurer are satisfied that the analysis is ready to hand ov
 * The code-base, when it has been agreed to [publish the analysis openly](#open-publishing-of-analysis)
 * The test plan and results of the tests made against that plan;    
 * A statement of assurance;    
-* A statement that ethical concerns  have been addressed, especially for the application of [black-box models](definitions_and_key_concepts.html#black-box-models);    
+* A statement that ethical concerns  have been addressed, especially in cases that include the application of [black-box models](definitions_and_key_concepts.html#black-box-models);    
 
   
 
