@@ -68,7 +68,7 @@ Futher details on Uncertainty in engagement and scoping can be found in the [Unc
 
 ## Black box models and the engagement and scoping stage
 
-Where the Commissioner has engaged with the Analyst to deliver AI/ML models, the engagement and scoping stage should include discussions around ethics and risks in order to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, and internal governance and risk management. For further details see https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance.
+Where the Commissioner has engaged with the Analyst to deliver [black box models](definitions_and_key_concepts.qmd/#black_box) models such as AI/ML, the engagement and scoping stage should include discussions around ethics and risks in order to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, and internal governance and risk management. For further details see https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance.
 
 ## Multi-use models and the engagement and scoping stage
 

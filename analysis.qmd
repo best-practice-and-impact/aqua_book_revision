@@ -105,7 +105,7 @@ While the Scoping and Design stages identified and described risks and uncertain
 
 ## Black box models and the analysis stage
 
-Black box models such as AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during the Analysis stage include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
+B[black box models](definitions_and_key_concepts.qmd/#black_box)  such as AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during the Analysis stage include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
 
 
 
