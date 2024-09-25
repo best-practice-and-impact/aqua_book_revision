@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Analysis
 
-## Introduction and summary
+## Introduction and overview
 
 The analysis stage is where planned analysis is undertaken and assured, and progress and relevance are monitored. During this stage, the design may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping stage. 
 

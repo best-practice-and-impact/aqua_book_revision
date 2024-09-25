@@ -65,7 +65,7 @@ Here are a few reasons why.
 ## How to use this book
 
 The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the analytical life cycle. Each chapter in the second half of the book is structured as follows:
-* Introduction and summary
+* Introduction and overview
 * Roles and responsibilities, 
 * Assurance activities,
 * Documentation
