@@ -13,9 +13,6 @@ The successful delivery of analysis to its Commissioner marks its transition fro
 This chapter provides information on the processes around assurance of communication of analysis and delivery of analytical output.
 
 
-
-
-
 ## Roles and responsibilities in delivery, communication and sign-off
 
 
@@ -31,6 +28,8 @@ The Commissioner shall use the analysis as specified at the start of the analyti
 - The Analyst should ensure that communication meets audience requirements, including accessibility.
 - The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
 - The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
+
+
 
 ### The Assurer's responsibilities during delivery, communication and sign-off
 
