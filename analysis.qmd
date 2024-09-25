@@ -14,6 +14,7 @@ The analysis stage is where planned analysis is undertaken and assured, and prog
 ## Roles and responsibilities in the analysis stage
 
 
+
 ### The Commissioner's responsibilities during the analysis stage
 
 * The Commissioner should be available to provide input and clarifications to the Analyst.
@@ -27,6 +28,7 @@ The analysis stage is where planned analysis is undertaken and assured, and prog
 * The Analyst shall follow the  conduct the verification and validation activities that were designed as part of the analytical plan in [the design stage](design.html#the-design-stage). They shall provide traceable documentation of the assurance they have undertaken. They shall respond to recommendations from the Assurer and act on them as appropriate.
 
 * The Analyst shall produce documentation of the data and methods used. The Analyst shall ensure these are sufficient for the Assurer to understand the approach.
+
 
 * The Analyst shall document any changes to the analytical plan in a proportionate manner.
 
