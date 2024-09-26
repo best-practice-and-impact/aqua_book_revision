@@ -38,6 +38,16 @@ For example:
 * peer review  
 * reconciliation of results to independent sources  
 
+## Artificial Intelligence {.unnumbered}
+
+Artificial intelligence (AI) attempts to simulate human intelligence using techniques and methods such as machine learning, natural language processing, and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. Artificial Intelligence models are a subset of [black box models](#black_box_models)
+
+
+## Black box models {.unnumbered}
+
+Black box models internal workings are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. [Artificial Intelligence](#Artificial Intelligence) models (including [Machine Learning](#Machine Learning)) are the most common type of black box models used today. Other forms of black box models may arise in future.  
+
+
 ## Business critical analysis {.unnumbered}
 
 Business critical analysis is analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or where an error could have a significant reputational, economic or legal impact for the public sector. 
@@ -84,6 +94,10 @@ A brief description of the analytical assurance that have been performed to assu
 The Department for Energy Security and Net Zero and Department for Business and Trade have published a range of quality assurance tools and guidance to help people with Quality Assurance of analytical models. [Modelling Quality Assurance tools and guidance](https://www.gov.uk/government/publications/energy-security-and-net-zero-modelling-quality-assurance-qa-tools-and-guidance) are used across the two departments to ensureanalysis meets the standards set out in the AQuA book and provide assurance to users of the analysis that proportionate quality assurance has been completed. 
 
 :::
+
+## Materiality {.unnumbered}
+
+[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".
 
 ## Multi-use models {.unnumbered}
 
@@ -178,3 +192,4 @@ Ensuring the analysis meets it specified design requirements. See @glover2014 fo
 ## Version control {.unnumbered}
 
 It is important to ensure that changes that have been made to analysis can be easily seen and quality assured by the analytical assurer, and the latest version of the analysis is being used. Tools and templates can be used to support with evidencing updates and the checks completed throughout a project providing a log of changes that have occurred, why, when, and by whom. 
+
