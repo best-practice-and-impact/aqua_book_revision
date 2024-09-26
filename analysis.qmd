@@ -111,6 +111,4 @@ B[black box models](definitions_and_key_concepts.qmd/#black_box)  such as AI and
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This calls for mechanisms for assuring that the changes integrate into the larger model as expected, for example, through the use of test-suites.
 
-## The analysis stage when working with third-parties
-TBC
 
