@@ -52,7 +52,6 @@ The Commissioner should confirm that the analytical approach will satisfy their 
 
 The Commissioner's domain expertise can be a useful resource for the analyst in the design stage. The Commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
 
-<
 
 
 ### The Analyst's responsibilities during the design stage
