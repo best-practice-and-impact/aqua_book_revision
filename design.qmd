@@ -131,4 +131,3 @@ In the Design of AI/ML models, the Analyst should:
 Designing multi-use models should take into account the needs of all users of the analysis. An Analysis Steering Group can be an effective means for communication about the design with a range of user groups. 
 
 The design of multi-use models may entail a modular structure with different Analysts and Assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
-
