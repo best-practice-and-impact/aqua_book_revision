@@ -41,7 +41,7 @@ In this edition we have tried to make our guidance relevant to anyone who commis
 We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision making in government. Our intended audience includes:  
 
 * Users of analysis – helping you to get the most out of your commission; 
-* Members of the government analytical professions. This might include:
+* Those who carry out analysis such as members of the government analytical professions, including:
   + operational researchers, statisticians and economists;
   + geographers;
   + finance professionals making spending forecasts;
@@ -65,7 +65,7 @@ Here are a few reasons why.
 ## How to use this book
 
 The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the analytical life cycle. Each chapter in the second half of the book is structured as follows:
-* Introduction and summary
+* Introduction and overview
 * Roles and responsibilities, 
 * Assurance activities,
 * Documentation

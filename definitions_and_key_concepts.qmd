@@ -66,7 +66,7 @@ Specifications capture initial engagements with the commissioner. They describe 
 
 ### Design documentation {.unnumbered}
 
-Design documents describe design of the analysis, including conceptual models to illustrate the analytical problem. They are important as they provide a basis Analytical Assurer to verify whether the analysis meets the specified requirements.  
+Design documents describe the analytical plan, including the methodology, inputs, and software. They also contain details of the planned [verification](#verification) and [validation](#validation) of the analysis. They provide a basis for the Analytical Assurer to verify whether the analysis meets the specified requirements. For more information on the design documentation, see the [Design](design.qmd) chapter.
 
 ### Assumptions log {.unnumbered}
 
