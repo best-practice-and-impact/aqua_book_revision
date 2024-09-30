@@ -6,18 +6,14 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Engagement and scoping
 
-## Introduction
+## Introduction and overview
 The first stage of the analytical lifecycle is initial engagement and scoping out what the Commissioner requires. This information constrains what is relevant for the analysis.  The Analyst works with the  Commissioner to develop sufficient understanding of the problem to design a requisite analysis.
 
 During engagement and scoping, the Commissioner and the Analyst shape the analysis by developing a shared understanding of the problem and the context. This shared understanding will be used as the basis for designing analysis that suits the Commissioner’s requirements.
 
+## Roles and responsibilities in the engagement and scoping stage
 
-### The Analyst's responsibilities during the engagement and scoping stage
 
-The Analyst:
-
-* Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
-* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
 
 
 ### The Commissioner's responsibilities during the engagement and scoping stage
@@ -30,6 +26,13 @@ The Commissioner:
 * Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
 * Should, if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
 * Should sign-off on the specification document produced by the analyst.
+
+### The Analyst's responsibilities during the engagement and scoping stage
+
+The Analyst:
+
+* Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
+* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
 
 ### The Assurer's responsibilities during the engagement and scoping stage
 
@@ -51,7 +54,7 @@ The Commissioner should communicate to the Analyst what is known about data sour
 
 The Analyst and Commissioner should also clarify risks and potential impacts of the project which will inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
 
-## Documenting the engagement and scoping stage
+## Documention in the engagement and scoping stage
 
 The output of this stage should be a [specification document](definitions_and_key_concepts.html#specification-documentation) that captures the joint understanding. This document provides a reference for later [validation](definitions_and_key_concepts.html#validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.html) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
 
@@ -65,10 +68,11 @@ The following aspects of the engagement and scoping stage will inform the treatm
 
 Futher details on Uncertainty in engagement and scoping can be found in the [Uncertainty Toolkit](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_2.html#Jointly_agreeing_how_uncertainty_should_be_used)
 
-## AI/ML and the engagement and scoping stage
+## Black box models and the engagement and scoping stage
 
-Where the Commissioner has engaged with the Analyst to deliver AI/ML models, the engagement and scoping stage should include discussions around ethics and risks in order to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, and internal governance and risk management. For further details see https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance.
+Where the Commissioner has engaged with the Analyst to deliver [black box models](definitions_and_key_concepts.qmd/#black_box) models such as AI/ML, the engagement and scoping stage should include discussions around ethics and risks in order to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, and internal governance and risk management. For further details see https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance.
 
 ## Multi-use models and the engagement and scoping stage
+
 
 In the case of multi-use models, the Analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. As requirements might differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Methodology] (https://en.wikipedia.org/wiki/Soft_systems_methodology) may be used to develop a shared understanding across multiple groups.

@@ -6,9 +6,18 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Analysis
 
-## Introduction and summary
+## Introduction and overview
 
 The analysis stage is where planned analysis is undertaken and assured, and progress and relevance are monitored. During this stage, the design may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping stage. 
+
+
+## Roles and responsibilities in the analysis stage
+
+### The Commissioner's responsibilities during the analysis stage
+
+* The Commissioner should be available to provide input and clarifications to the Analyst.
+
+* The Commissioner’s should review any changes in design or methodology that the Analyst brings to their attention. 
 
 
 
@@ -23,8 +32,6 @@ The analysis stage is where planned analysis is undertaken and assured, and prog
 
 * The Analyst shall maintain appropriate contact with Commissioner and Assurer. This provides and opportunity for them to advise on whether the analysis is still meeting the Commissioner's needs or whether there are any new requirements.
 
-
-
 ### The Assurer's responsibilities during the analysis stage
 
 The Assurer shall review the assurance completed by the Analyst, carry out any further validation and verification they may see as appropriate, and report errors and areas for improvement to the Analyst. The Assurer may then need to re-review the analytical work completed, as required. 
@@ -32,19 +39,12 @@ The Assurer shall review the assurance completed by the Analyst, carry out any f
 The Assurer may be required to provide feedback on changes to the analytical plan, and consider whether they are qualified to provide rigorous assurance on the revised methodology.
 
 
-### The Commissioner's responsibilities during the analysis stage
-
-* The Commissioner should be available to provide input and clarifications to the Analyst.
-
-* The Commissioner’s should review any changes in design or methodology that the Analyst brings to their attention. 
-
-
 ### The Approver's responsibilities during the analysis stage
 
 The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the delivery stage.
 
 
-## Assuring the analysis stage
+## Assurance activities in the analysis stage
 
 ### Verification and validation
 
@@ -85,7 +85,7 @@ The impact of using a proxy dataset should be explored and, if the uncertainty a
 The [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed guidance on developing and assurance for delivering quality code. This includes guidance on structuring code, producing documentation, using version control, data management, testing, peer review, and automation.
 
 
-## Documenting the analysis stage 
+## Documention in the analysis stage 
 
 The Analyst should:
 
@@ -101,9 +101,9 @@ While the Scoping and Design stages identified and described risks and uncertain
 
 
 
-## AI/ML and the analysis stage
+## Black box models and the analysis stage
 
-AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during the Analysis stage include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
+B[black box models](definitions_and_key_concepts.qmd/#black_box)  such as AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. Assurance activities during the Analysis stage include performance testing and formal verification. See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.
 
 
 
@@ -111,6 +111,4 @@ AI and ML models are not as transparent as traditionally coded models. This adds
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This calls for mechanisms for assuring that the changes integrate into the larger model as expected, for example, through the use of test-suites.
 
-## The analysis stage when working with third-parties
-TBC
 
