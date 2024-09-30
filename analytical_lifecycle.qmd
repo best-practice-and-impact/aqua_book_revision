@@ -92,8 +92,8 @@ After analysis results have been determined to meet the requirements, they are f
 
 ### Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis, all aspects of the lifecycle should be regularly updated. For example, consideration should be made whether 
-*the inputs used remain appropriate
+*The inputs used remain appropriate
 *The initial communication methods remain the best way to deliver the information
-*Any software relied for continuous on continues to be supported and up to date
+*Any software relied on continues to be supported and up to date
 
-Additionally, a robust version control process should be in place to ensure any changes to the analysis are approrpriately assured.
+Additionally, a robust version control process should be in place to ensure any changes to the analysis are appropriately assured.
