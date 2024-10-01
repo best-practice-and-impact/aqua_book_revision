@@ -59,6 +59,8 @@ HMRC has a small analytical team which independently reviews analysis from acros
 
 There is a risk that errors occur because of a lack of skills or experience. Senior leaders can identify common skills gaps, creating training or mentoring to help fill gaps in analysts' knowledge. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
 
+There are various cross-government resources designed to provide support and guidance for commissioners and users of analysis. For example, the Analysis Function's [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) aims to help policy professionals to work effectively with analysts and analysis. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.
+
 ::: {.callout-tip}
 # Building assurance capability
 The Department for Energy Security and Net Zero are building assurance capacity with a programme of quality assurance Colleges. The Colleges run regular virtual sessions, open to colleagues across Government and Partner Organisations.
@@ -88,6 +90,13 @@ Analytical governance boards for new, high-profile or complex pieces of analysis
 
 When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
-For Arm’s Length Bodies (ALBs) the Accounting Officer is accountable for ensuring the requirements set out in the AQuA Book are met. 
+For Arm’s Length Bodies (ALBs), the commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
 
-User groups for types of analysis can also provide assurance by setting standards and ensuring projects follow topic specific or specialised guidance, such as coding best practice.   
+User groups for types of analysis can also provide assurance by setting standards and ensuring projects follow topic specific or specialised guidance, such as coding best practice.
+
+When working with third parties, the commissioner shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
+
+For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
+
+
+

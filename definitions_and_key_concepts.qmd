@@ -66,7 +66,7 @@ Specifications capture initial engagements with the commissioner. They describe 
 
 ### Design documentation {.unnumbered}
 
-Design documents describe design of the analysis, including conceptual models to illustrate the analytical problem. They are important as they provide a basis Analytical Assurer to verify whether the analysis meets the specified requirements.  
+Design documents describe the analytical plan, including the methodology, inputs, and software. They also contain details of the planned [verification](#verification) and [validation](#validation) of the analysis. They provide a basis for the Analytical Assurer to verify whether the analysis meets the specified requirements. For more information on the design documentation, see the [Design](design.qmd) chapter.
 
 ### Assumptions log {.unnumbered}
 
@@ -163,6 +163,8 @@ The AQuA book defines the following roles:
 
 See [Roles and Responsibilities](analytical_lifecycle.qmd/#roles_and_responsibilities) for details.
 
+## Third party
+Any individual, or group of individuals that is not a member of the same group as the those commissioning analysis. E.g. working for a different government department, a different function or an outside company.
 
 ## Uncertainty {.unnumbered}
 
