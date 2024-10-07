@@ -65,9 +65,10 @@ Here are a few reasons why.
 ## How to use this book
 
 The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
-![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}.
+![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
 
 Each chapter in the second half of the book is structured as follows:
+
 * Introduction and overview
 * Roles and responsibilities 
 * Assurance activities
