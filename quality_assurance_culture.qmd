@@ -93,7 +93,7 @@ Analytical governance boards for new, high-profile or complex pieces of analysis
 
 ## Transparency
 
-Transparency at all levels can help embed a culture of quality assurance. For example peer review, sharing lessons learnt, and [making analysis open](#open-publishing-of-analysis) (where possible), all contribute to an open culture of high quality work. 
+Transparency at all levels can help embed a culture of quality assurance. For example peer review, sharing lessons learnt, and [making analysis open](delivery_and_communication.qmd#open-publishing-of-analysis) (where possible), all contribute to an open culture of high quality work. 
 
 ### Externally commissioned analysis
 
