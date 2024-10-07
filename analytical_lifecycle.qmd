@@ -56,7 +56,8 @@ Figure 2 is adapted from the [Government Functional Standard for Analysis](https
 
 It is important that proportionality is considered and that there is transparency of the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be enabled by:  
 
-* Clear documentation of the analysis, assumptions and data; and
+* Clear documentation of the analysis, assumptions and data, 
+* Clear records of the analytical decisions made; and
 * Clear records of the quality assurance processes and checks completed.
 
 ### Engagement and scoping
