@@ -20,6 +20,8 @@ Culture enables the risk management described elsewhere in this document.
 
 A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A key element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
 
+The guidance in Annex 4.2 of Managing Public Money (https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring approporiate assurance processes are in place to the Accounting Officer. In practice the Accounting Officer may assign the responisbility to a senior leader reporting to the senior management board. The Accounting Officer may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero reports this annually - page 91 of (https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
+
 Senior leaders should ensure there is clear messaging and standards on quality assurance, through guidance, training, and regular updates. Senior leaders can demonstrate the importance of quality assurance through long term initiatives, like setting up and embedding quality assurance processes within the team and creating roles and teams to support quality assurance. Senior leaders should also regularly talk about quality with their teams and highlight quality successes.
 
 ::: {.callout-tip}
