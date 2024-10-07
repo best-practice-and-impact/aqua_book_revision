@@ -54,7 +54,7 @@ Quality assurance activities should take place throughout all stages of an analy
 
 Figure 2 is adapted from the [Government Functional Standard for Analysis](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). Analytical quality assurance activities should take place during every phase of the cycle and should consider proportionality, although analytical quality considerations may vary depending on project governance and the specific phase of the cycle. All projects will involve some element of every phase of the cycle, even if this is not clearly defined.
 
-It is important that proportionality is considered and that there is transparency of the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be enabled by:  
+It is important that [proportionality](proportionality.qmd) is considered and that there is transparency of the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be enabled by:  
 
 * Clear documentation of the analysis, assumptions and data, 
 * Clear records of the analytical decisions made; and
