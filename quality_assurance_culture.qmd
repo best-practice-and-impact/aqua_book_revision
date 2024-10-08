@@ -72,6 +72,9 @@ These sessions include an interactive activity looking at a purposefully sabotag
 College participants also join the Modelling Integrity Network, as potential Assuring Analysts where these cannot be found by Lead Analysts in their own policy areas.  
 :::
 
+## Quality assurance champions
+In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurancem and provide advice on issues such as proportionality and communication of assurance.
+
 ## Tools
 
 There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of focussing on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
@@ -87,6 +90,10 @@ Governance supports a strong quality assurance culture, by overseeing the manage
 Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within wider programme level governance.  
 
 Analytical governance boards for new, high-profile or complex pieces of analysis, can allow senior analytical leaders and experts to provide oversight and challenge of analysis and ensure best practice is followed. These groups are multi-disciplinary and can cover a range of analytical approaches based on their expertise and experience. This can help ensure that innovations and new approaches are disseminated across teams, and standards are applied equally across similar work.  
+
+## Transparency
+
+Transparency at all levels can help embed a culture of quality assurance. For example peer review, sharing lessons learnt, and [making analysis open](delivery_and_communication.qmd#open-publishing-of-analysis) (where possible), all contribute to an open culture of high quality work. 
 
 ### Externally commissioned analysis
 
