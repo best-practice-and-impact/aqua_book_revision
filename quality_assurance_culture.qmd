@@ -73,7 +73,7 @@ College participants also join the Modelling Integrity Network, as potential Ass
 :::
 
 ## Quality assurance champions
-In an organisation using a great deal of modelling, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice and provide advice on issues such as proportionality and communication of assurance.
+In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurancem and provide advice on issues such as proportionality and communication of assurance.
 
 ## Tools
 
