@@ -20,7 +20,7 @@ Culture enables the risk management described elsewhere in this document.
 
 A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A key element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
 
-The guidance in Annex 4.2 of Managing Public Money (https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring approporiate assurance processes are in place to the Accounting Officer. In practice the Accounting Officer may assign the responisbility to a senior leader reporting to the senior management board. The Accounting Officer may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero reports this annually - page 91 of (https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
+The guidance in Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring appropriate assurance processes are in place to the Accounting Officer. In practice the Accounting Officer may assign the responsibility to a senior leader reporting to the senior management board. The Accounting Officer may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero reports this annually - page 91 of [DESNZ Annual report](https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
 
 Senior leaders should ensure there is clear messaging and standards on quality assurance, through guidance, training, and regular updates. Senior leaders can demonstrate the importance of quality assurance through long term initiatives, like setting up and embedding quality assurance processes within the team and creating roles and teams to support quality assurance. Senior leaders should also regularly talk about quality with their teams and highlight quality successes.
 
@@ -85,7 +85,7 @@ There is a risk that data quality and data understanding cause quality issues wi
 
 ## Governance and control
 
-Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The [Analysis Function Standard] (https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
+Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
 
 Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within wider programme level governance.  
 
@@ -100,6 +100,8 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
 For Arm’s Length Bodies (ALBs), the commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
+
+The guidance mentioned above also applies to Arms Length Bodies. They may set out in a framework document how their Accounting Officer will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
 
 User groups for types of analysis can also provide assurance by setting standards and ensuring projects follow topic specific or specialised guidance, such as coding best practice.
 
