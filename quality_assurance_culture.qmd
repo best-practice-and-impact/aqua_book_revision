@@ -83,6 +83,10 @@ There is a risk that technology or analytical tools are out of date meaning anal
 
 There is a risk that data quality and data understanding cause quality issues with analysis. Senior leaders can escalate data quality issues with wider data teams, and champion and oversee changes to improve data quality.
 
+## Uncertainty in analysis
+
+Uncertainty is intrinsic to government work. Analysis should support government decision making by appropriate treatment of uncertainty. Senior leaders a responsible for instilling a culture in which the proportionate handling of uncertainty is part of all analytical work. To do so, senior leaders should gain an understanding of how to identify uncertainty, how uncertainty can be analysed, and how to plan for uncertainty. The National Audit Office has [created guidance for decision makers and senior leaders](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf) on managing uncertainty. It is the responsibility of decision makers to challenge analysts, as well as other members of a project team, on whether uncertainties have been considered, treated appropriately, and communicated.
+
 ## Governance and control
 
 Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
