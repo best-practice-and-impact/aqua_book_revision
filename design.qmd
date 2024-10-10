@@ -25,6 +25,7 @@ The development of the analytical plan should consider:
 * Verification and validation procedures during the project lifetime;
 * Documentation to be delivered;
 * Process for updating the analytical Plan;
+* process for reviewing inputs and calibrations over time;
 * Ethics;
 * Reporting;
 * Downstream application.
