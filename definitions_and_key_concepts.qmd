@@ -168,14 +168,7 @@ Any individual, or group of individuals that is not a member of the same group a
 
 ## Uncertainty {.unnumbered}
 
-The outcome of a decision is never known perfectly in advance. For each option within analysis, a range of real outcomes is possible: the outcome is uncertain. 
-
-::: {.callout-note}
-### Defining uncertainty
-
-[Wikipedia defines uncertainty](https://en.wikipedia.org/wiki/Uncertainty) as referring to [epistemic](https://en.wikipedia.org/wiki/Epistemology) situations involving imperfect or unknown information. It applies to predictions of future events, to physical measurements that are already made, or to the unknown. 
-
-:::
+Uncertainties are things that are not known, or are in a state of doubt, or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme, piece of analysis meeting its objectives.
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
 
