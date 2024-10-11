@@ -168,7 +168,9 @@ Any individual, or group of individuals that is not a member of the same group a
 
 ## Uncertainty {.unnumbered}
 
-Uncertainties are things that are not known, or are in a state of doubt, or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme, piece of analysis meeting its objectives.
+"Uncertainties are things that are not known, or are in a state of doubt, or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme, piece of analysis meeting its objectives."[^1]
+
+[^1]: From https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
 
