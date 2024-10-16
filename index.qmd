@@ -23,6 +23,8 @@ The AQuA Book is the work of many authors from across the Government Analytical 
 * Philippa Robinson
 * Soni Sarjeet
 * Lorna Wilson
+* James McGlade
+* Adam Powel
 
 Alec Waterhouse
 Date Month Year
