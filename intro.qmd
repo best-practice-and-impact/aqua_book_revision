@@ -91,10 +91,5 @@ The terms are:
 
 These are the same terms as those in the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
 
-# Acknowledgements {.unnumbered}
-
-The AQuA Book is the work of many authors from across the Government Analysis Function. The original version of the book was compiled by the Quality Assurance Working Group set up after Sir Nicholas Macpherson's review of modelling in government. This revised edition of the book was produced by a task and finish group drawn from across the Analysis Function community. We would like to thank everybody who has given of their time and expertise to produce the revised edition.
-
-
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
