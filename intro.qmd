@@ -44,7 +44,7 @@ We would like to see producers and users of analysis from all backgrounds using 
 * Those who carry out analysis such as members of the government analytical professions, including:
   + operational researchers, statisticians and economists;
   + geographers;
-  + finance professionals making spending forecasts;
+  + finance professionals;
   + actuaries;
   + social researchers carrying out qualitative research;
   + data scientists developing advanced analytics;
