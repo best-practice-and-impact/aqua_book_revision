@@ -10,21 +10,21 @@ Placeholder text
 # Acknowledgements {.unnumbered}
 The AQuA Book is the work of many authors from across the Government Analytical Functions. The original version of the book was compiled by the Quality Assurance Working Group set up after Sir Nicholas Macpherson's review of modelling in government. This revised edition of the book was produced by a task and finish group drawn from across the Government Analytical Functionsy. We would like to thank everybody who has given of their time and expertise to produce the revised edition and give a special mention to the committee who gave their time and expetise to this book:
 
-* Rebecca Wodcke
-* Nick Harris	
-* Will England	
-* Jordan Low	
+
 * Faye Clancy	
-* Ian Mitchell	
+* Will England
 * Andrew Friedman	
+* Nick Harris
+* Jordan Low	
+* James McGlade
+* Ian Mitchell
+* Iris Oren
 * Adam Powell
 * Martin Ralphs
-* Iris Oren
 * Philippa Robinson
-* Soni Sarjeet
+* Sarjeet Soni
 * Lorna Wilson
-* James McGlade
-* Adam Powel
+* Rebecca Wodcke
 
 Alec Waterhouse
 Date Month Year
