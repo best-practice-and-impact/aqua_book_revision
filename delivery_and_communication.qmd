@@ -39,6 +39,7 @@ The Assurer shall communicate the assurance state to the Approver. This includes
 ### The Approver's responsibilities during delivery, communication and sign-off
 * The Approver shall review the assurance evidence that has been provided to them.
 * The Approver should provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose. 
+* The Approver shall be confident that the analysis meets the design requirements, is of sufficient quality and is adequately and proportionately documented.
 * When they are satisfied with the validity and robustness of the analysis, the Approver should  provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved.
 * The Approver shall follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate.
 
