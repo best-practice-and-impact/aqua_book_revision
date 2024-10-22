@@ -91,6 +91,7 @@ Work in this stage can vary considerably depending on the commission, impact, ap
 After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off  includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work progresses and insights are produced.
 
 
+
 ### Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis, all aspects of the lifecycle should be regularly updated. For example, consideration should be made whether 
 *The inputs used remain appropriate
@@ -99,4 +100,3 @@ The analytical lifecycle is not a linear process. Where analysis is used on an o
 *The model continues to be calibrated appropriately (this is particularly important for [black box models](definitions_and_key_concepts.qmd#black_box_models))
 
 Additionally, a robust version control process should be in place to ensure any changes to the analysis are appropriately assured.
-

@@ -80,4 +80,3 @@ Where the Commissioner has engaged with the Analyst to deliver [black box models
 
 
 In the case of multi-use models, the Analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. As requirements might differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Methodology] (https://en.wikipedia.org/wiki/Soft_systems_methodology) may be used to develop a shared understanding across multiple groups.
-
