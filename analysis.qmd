@@ -84,7 +84,7 @@ The impact of using a proxy dataset should be explored and, if the uncertainty a
 
 ### Assurance of code
 
-The [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed guidance on developing and assurance for delivering quality code. This includes guidance on structuring code, producing documentation, using version control, data management, testing, peer review, and automation.
+The [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed guidance on developing and assurance for delivering quality code. This includes guidance on structuring code, producing documentation, using version control, data management, testing, peer review, and automation.  The Analysit shall follow the guidance for good quality code development in a proportionate manner, and the Assurer shall review this accordingly.
 
 
 ## Documention in the analysis stage 
