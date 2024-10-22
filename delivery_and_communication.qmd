@@ -104,7 +104,7 @@ The formality of the sign-off process should be governed by organisational proce
 The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project/programme board where the decision to approve the analysis was made or similar.
 
 
-## Documentation
+## Documention in the delivery, communication and sign-off stage
 
 When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation might include:
 
