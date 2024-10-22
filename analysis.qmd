@@ -46,7 +46,7 @@ The Assurer may be required to provide feedback on changes to the analytical pla
 The Approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the delivery stage.
 
 
-## Assuring the analysis stage
+## Assurance activities in the analysis stage
 
 ### Verification and validation
 
