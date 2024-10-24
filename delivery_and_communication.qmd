@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Delivery, communication and sign-off
 
-## Introduction and summary
+## Introduction and overview
 
 The successful delivery of analysis to its Commissioner marks its transition from being a product under development to one that is fit and ready to be used to inform decision making in your organisation and possibly inform the public. 
 
@@ -72,7 +72,7 @@ The exact nature of any scrutiny made by the Approver should be proportionate to
 
 To ensure that the analysis is used as intended, the Commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst. 
 
-## Communication
+### Communication
 
 The effective and transparent communication is essential to enable analysis to be adopted and trusted by the Commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
@@ -86,7 +86,7 @@ The form of communication should be tailored to the audience. The communication 
 
 The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
 
-If publishing the outcome of any analysis is required, the analyst should follow departmental and statutory guidance.Some examples are given below:
+If publishing the outcome of any analysis is required, the Analyst should follow departmental and statutory guidance. Some examples are given below:
 
 * If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-publishing-official-statistics-and-national-statistics/) ;    
 * If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
@@ -101,7 +101,7 @@ The exact nature of the approval process may vary depending on:
 
 The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
 
-The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project/programme board where the decision to approve the analysis was made or similar.
+The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
 
 
 ## Documention in the delivery, communication and sign-off stage
