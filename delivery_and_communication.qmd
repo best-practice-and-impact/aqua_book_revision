@@ -54,6 +54,7 @@ The Assurer shall communicate the assurance state to the Approver. This includes
 When delivering a piece of analysis, the Analyst and/or Assurer should communicate its assurance state to the Approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance and  to demonstrate that the analysis is ready for delivery, for example:
     
 * It uses suitable data and assumptions;    
+* It has provisions for regular review;
 * It meets the purpose of its commission;    
 * It has been carried out correctly and to its agreed specification;   
 * It has a risk assessment and statement against the programme risk register;
@@ -136,7 +137,14 @@ Each provides valuable advice on how to estimate and present uncertainty when de
 
 ## Black-box models and the delivery, communication and sign-off stage
 
-The Approver is responsible for signing-off that all risks and ethical considerations around the use of [black box models](definitions_and_key_concepts.qmd/#black_box) have been addressed. The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+
+The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
+This may include 
+* formal consultation and approval by an ethics commmittee or similar
+* provisions for regular review 
+* communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected 
+The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+
 
 
 ## Multi-use models and the delivery, communication and sign-off stage
