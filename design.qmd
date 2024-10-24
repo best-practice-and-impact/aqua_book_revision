@@ -124,11 +124,14 @@ In the Design of AI/ML models, the Analyst should:
 * define the situation they wish to model
 * the prediction they wish to make
 * the data that could be used to make the prediction
+* carry out a literature review to identify appropriate methods
 * consider how to separate the data for the design and testing of models - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design
-* identify potential modelling methods
+* identify potential modelling methods and document the rationale for selecting their approach
+* consider developing automatic checks to identify if the model is behaving unexpectedly  - this is important if the model is likelyto be used frequently to make regular decisions
+* consider whether to refer the model to their ethics committee, or similar
 
 ## Multi-use models and the design stage
 
-Designing multi-use models should take into account the needs of all users of the analysis. An Analysis Steering Group can be an effective means for communication about the design with a range of user groups. 
+Designing multi-use models should take into account the needs of all users of the analysis. An Analysis Steering Group may be an effective means for communication about the design with a range of user groups. 
 
 The design of multi-use models may entail a modular structure with different Analysts and Assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
