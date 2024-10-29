@@ -4,7 +4,9 @@ This version of the AQuA book is a preliminary ALPHA draft.  It is still in deve
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
-# Accessibility statement {.unnumbered}
+# Improving the book {.unnumbered}
+
+### Accessibility
 
 The AQuA Book, when final, will comply with the [www.gov.uk accessibility statement](https://www.gov.uk/help/accessibility-statement).
 Compliance does not extend to third-party content outside the www.gov.uk domain that is referenced from the guidance.
