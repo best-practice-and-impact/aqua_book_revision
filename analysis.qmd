@@ -71,7 +71,7 @@ Validation refers to testing whether the product meets the requirements of users
 
 Validation of models includes testing the validity of the conceptual model, and testing the operational validity of any computerized model.  Techniques that may be useful in validation of models are reviewed by [Sargent (2011)](https://www.informs-sim.org/wsc11papers/016.pdf).
 
-The Analyst has primary responsibility for conducting verification and validation. The Assurer is responsible for reviewing the verification and validation that is carried out by the Analyst, and for conducting or recommending additional verification and validation as required. The Assurer may refer to the specification document to assure that the analysis meets the specification.
+The Analyst has primary responsibility for conducting verification and validation. The Assurer is responsible for reviewing the verification and validation that is carried out by the Analyst, and for conducting or recommending additional verification and validation as required. The Assurer may refer to the [specification document](delivery_and_communication.html#specification-documentation) to assure that the analysis meets the specification.
 
 ### Data validity and data considerations 
 
