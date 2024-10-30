@@ -99,9 +99,9 @@ The Analyst should:
 
 * Maintain appropriate records of the work;
 * Fully document any code following agreed standards;
-* Log the data, assumptions and inputs used in the analysis, and decisions made (see [documentation](#definitions_and_key_concepts/#def_documentation));
+* Log the data, assumptions and inputs used in the analysis, and decisions made (see [documentation](#definitions_and_key_concepts.html/#documentation));
 * Record the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its impact on the analysis;
-* Produce [user and technical documentation](#definitions_and_key_concepts/#def_documentation)).
+* Produce [user and technical documentation](#definitions_and_key_concepts.html#user-technical-documentation). For modelling, the Analyst may include a model map that describes data flows and transformations.
 
 ## Treatment of uncertainty in the analysis stage
 
