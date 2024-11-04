@@ -10,7 +10,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 The design stage is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable analytical plan. This chapter sets out recommended practices around designing the analysis and associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design, and design of multi-use and AI models.
 
-### The design stage 
+### The analytical plan
 
 The development of the analytical plan should consider:
 
@@ -24,7 +24,7 @@ The development of the analytical plan should consider:
 * Communication between stakeholders;
 * Verification and validation procedures during the project lifetime;
 * Documentation to be delivered;
-* Process for updating the analytical Plan;
+* Process for updating the analytical plan;
 * Process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date;
 * Ethics;
 * Reporting;
@@ -59,7 +59,7 @@ The Commissioner's domain expertise can be a useful resource for the analyst in 
 The Analyst should: 
 
 *   develop the method and plan  to address the Commissioner’s needs, 
-*   develop the assurance requirements will be and 
+*   establish assurance requirements, and develop the plan for proportionate verification and validation 
 *   plan in sufficient time for the assurance activity. 
 *   document the analytical plan in a proportionate manner.
 *   follow any organisation governance procedures for project design.
@@ -94,7 +94,10 @@ The assurance of the design stage may be carried out by the Assurer. For more co
 
 ## Documention in the design stage
 
-The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the Analyst, and signed-off by the Commissioner. The design document may be reviewed by the Assurer.
+The design process should be documented in a proportionate manner. A design document that records the [analytical plan](#the-analytical-plan) should be produced by the Analyst and signed-off by the Commissioner. The design document may be reviewed by the Assurer.
+
+For modelling, an initial model map  may be produced that describes data flows and transformations. This can be updated as the project progresses through the Analysis stage.
+
 
 It is best practice to use formal version control to track changes in the design document.
 
