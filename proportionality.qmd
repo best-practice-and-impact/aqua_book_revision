@@ -13,13 +13,13 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Proportionality
 
-All analysis shall be assured, and the assurance should be proportionate to the potential impact, size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks. 
+All analysis shall be assured, and the assurance should be proportionate to the potential effect it will have, size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks. 
 
 The assurer and the analyst shall be independent. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance, rather that there shall also be some formal independent assurance. 
 
 ## Introduction
 
-Think about and deliver appropriate (proportionate) levels of assurance for your analysis.  There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will inform a decision that will make minimal impact.  
+Think about and deliver appropriate (proportionate) levels of assurance for your analysis.  There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will have a minor influence on a decision.  
 
 Table 3-1 provides a list of key factors that should be considered when determining what level of assurance is appropriate. 
 
@@ -28,7 +28,7 @@ Further detail and considerations may be found on the Data Quality Hub's [Qualit
 
 | Factor  | Comments  |
 |:--------|:----------|
-| Business criticality | Different issues will impact on business criticality such as financial, legal, operational, political and reputational impacts. |
+| Business criticality | Different issues will affect business criticality such as financial, legal, operational, political and reputational effects. |
 | Relevance of the analysis to the decision making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the evidence base.  |
 | Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
@@ -36,7 +36,7 @@ Further detail and considerations may be found on the Data Quality Hub's [Qualit
 | Level of precision required in outputs | Lower precision analysis often uses simplified assumption, models and data. The assurance approach is the same but will take less time than more precise analysis.|
 | Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Analysis that is used for many purposes (e.g. population projections) may require greater levels of QA than might be suggested by any individual decision they support.  |
 | Longevity of the analysis | Ongoing analysis will require robust change control and regular review. |
-| Public impact | Analysis which will have a significant impact on the public may require more assurance. |
+| Affects on the public | Analysis which will have a significant affect on the public may require more assurance. |
 | Repeat runs for the same analysis | Concentrate on version control and assurance of data and parameters for each run. |
 
 : Table 3-1 - Factors for determining appropriate assurance {.striped}
@@ -54,9 +54,9 @@ Many of these interventions are mentioned elsewhere in the AQUA Book, and are no
 
 ## Structured assessment of business risk and complexity
 
-To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced. 
+To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential affect of analytical errors, and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced. 
 
-This can be visualised by considering the situation as a risk matrix, illustrated in Table 3-2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
+This can be visualised by considering the situation as a risk matrix, illustrated in Table 3-2. The effect analysis will have is usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.
 
 
 <table class="riskTable">
@@ -68,7 +68,7 @@ Table 3-2 - Example of a risk matrix
   <th></th>
   <th colspan = "5">Likelihood of errors occurring</th>
 <tr>
-  <th rowspan = "7">Impact of errors occurring</th>
+  <th rowspan = "7">Affect from errors occurring</th>
   <td></td>
   <td></td>
   <th> Highly unlikely </th>
