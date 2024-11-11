@@ -75,7 +75,7 @@ The Analyst has primary responsibility for conducting verification and validatio
 
 ### Data validity and data considerations 
 
-Testing data validity (i.e. that data meet the specification for which they are used) is a key part of analysis. Procedures for assuring data validity include testing for internal consistency, screening for data characteristics (outliers, trends, expected distributions etc), and assuring robust data management practices (e.g. automating data creation and data sourcing).
+Testing data validity (i.e. that data meet the specification for which they are used) is a vital part of analysis. Procedures for assuring data validity include testing for internal consistency, screening for data characteristics (outliers, trends, expected distributions etc), and assuring robust data management practices (e.g. automating data creation and data sourcing).
 
 It is rare to have the perfect dataset for an analytical commission. Reasons for this include:
 
