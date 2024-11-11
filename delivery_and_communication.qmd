@@ -105,7 +105,7 @@ The formality of the sign-off process should be governed by organisational proce
 The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
 
 
-## Documention in the delivery, communication and sign-off stage
+## Documentation in the delivery, communication and sign-off stage
 
 When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation might include:
 
@@ -140,7 +140,7 @@ Each provides valuable advice on how to estimate and present uncertainty when de
 
 The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
 This may include 
-* formal consultation and approval by an ethics commmittee or similar
+* formal consultation and approval by an ethics committee or similar
 * provisions for regular review 
 * communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected 
 The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
@@ -153,7 +153,7 @@ There is a greater risk that multi-use models may be used for purposes outside t
 
 ## Analytical transparency   
 
-Enabling the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the the public with information on models used for [business-critical decisions](#business-critical-analysis-register) and [making analysis open](#open-publishing-of-analysis). Further guidance on transparency can be found [here](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
+Enabling the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the public with information on models used for [business-critical decisions](#business-critical-analysis-register) and [making analysis open](#open-publishing-of-analysis). Further guidance on transparency can be found [here](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
 
 ### Business-critical analysis register
 
