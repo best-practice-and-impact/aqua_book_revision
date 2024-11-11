@@ -58,11 +58,12 @@ The Commissioner's domain expertise can be a useful resource for the analyst in 
 ### The Analyst's responsibilities during the design stage
 The Analyst should: 
 
-*   develop the method and plan  to address the Commissioner’s needs, 
-*   establish assurance requirements, and develop the plan for proportionate verification and validation 
-*   plan in sufficient time for the assurance activity. 
-*   document the analytical plan in a proportionate manner.
-*   follow any organisation governance procedures for project design.
+*  develop the method and plan  to address the Commissioner’s needs; 
+*  establish assurance requirements;
+*  develop the plan for proportionate verification and validation - see [National Audit Office Framework to review models](https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf); 
+*  plan in sufficient time for the assurance activity; 
+*  document the analytical plan in a proportionate manner; and,
+*  follow any organisation governance procedures for project design.
 
 
 
@@ -116,13 +117,13 @@ This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-as
 
 In the Design of AI/ML models, the Analyst should:
 
-* define the situation they wish to model
-* the prediction they wish to make
-* the data that could be used to make the prediction
-* carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach
-* consider how to separate the data for the design and testing of models - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design
-* consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions
-* consider whether to refer the model to their ethics committee, or similar
+* define the situation they wish to model;
+* the prediction they wish to make;
+* the data that could be used to make the prediction;
+* carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach;
+* consider how to separate the data for the design and testing of models - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design;
+* consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions; and,
+* consider whether to refer the model to their ethics committee, or a similar group - see [Data Ethics Framework - Guidance](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020).
 
 ## Multi-use models and the design stage
 
