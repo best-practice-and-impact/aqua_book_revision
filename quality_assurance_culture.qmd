@@ -50,7 +50,7 @@ There is a risk that work, and time pressures mean teams cut corners on quality 
 
 If time constraints mean insufficient assurance has taken place, senior leaders should ensure this is explicitly acknowledged and reported. This should be reported via an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an an independant review from an independant source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
+Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an independent review from an independent source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
 
 ::: {.callout-tip}
 # HM Revenue and Customs independent review team
@@ -73,7 +73,7 @@ College participants also join the Modelling Integrity Network, as potential Ass
 :::
 
 ## Quality assurance champions
-In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurancem and provide advice on issues such as proportionality and communication of assurance.
+In organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
 
 ## Tools
 
