@@ -92,7 +92,7 @@ The assurance of the design stage should consider whether the analytical plan:
 The assurance of the design stage may be carried out by the Assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
 
 
-## Documention in the design stage
+## Documentation in the design stage
 
 The design process should be documented in a proportionate manner. A design document that records the [analytical plan](#the-analytical-plan) should be produced by the Analyst and signed-off by the Commissioner. The design document may be reviewed by the Assurer.
 
