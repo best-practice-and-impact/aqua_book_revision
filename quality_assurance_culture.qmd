@@ -73,11 +73,15 @@ College participants also join the Modelling Integrity Network, as potential Ass
 :::
 
 ## Quality assurance champions
-In organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+In organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. They may share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
 
 ## Tools
 
-There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of concentrating on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
+There are risks of technology or analytical tools being out of date. This means that analysts cannot follow best practice or must spend time fixing processing issues instead of concentrating on quality. 
+Senior leaders can support teams by:
+*  making funding available for new tools or improving existing tools;  
+*  gathering common issues; and,
+*  working with escalate them to appropriate points in their organisation.
 
 ## Data
 
