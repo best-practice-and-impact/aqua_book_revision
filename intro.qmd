@@ -29,7 +29,7 @@ The AQuA Book describes what you need to do but not how to do it, although it do
 
 For those of you who do not work in places with bespoke guidance you will find a collection of helpful resources in chapter 10.
 
-The AQuA Book is a key supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA book and notes that "detailed guidance on the analytical cycle and management of analysis, included in the Aqua Book should be followed."
+The AQuA Book is a vital supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA book and notes that "detailed guidance on the analytical cycle and management of analysis, included in the Aqua Book should be followed."
 
 It is also referred to by the [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020), the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) and other Functional Standards, such as the [Finance Function](https://www.gov.uk/government/publications/government-finance-standards-page) Standards. 
 
