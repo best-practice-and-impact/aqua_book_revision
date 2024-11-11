@@ -4,9 +4,9 @@ This version of the AQuA book is a preliminary ALPHA draft.  It is still in deve
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
-# Definitions and key concepts
+# Definitions and concepts
 
-This chapter sets out definitions and key concepts that are used throughout the rest of the book. 
+This chapter sets out definitions and concepts that are used throughout the rest of the book. 
 
 ## Analysis {.unnumbered}
 
