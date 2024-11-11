@@ -1,7 +1,7 @@
 ::: {.callout-important}
 This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
-The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+The draft currently has no official status. It is a work in train and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
 # Roles and the analytical lifecycle
@@ -80,7 +80,7 @@ The analysis phase is where planned analysis is undertaken, and progress and rel
 
 Throughout this phase, traceable documentation of the assurance activities undertaken shall also be produced. 
 
-In larger analytical projects, some outputs of the analysis may be completed at different times as work progresses, and aspects of other phases may therefore take place concurrently.
+In larger analytical projects, some outputs of the analysis may be completed at different times as work develops, and aspects of other phases may therefore take place concurrently.
 
 ### Delivery, communication and sign-off
 
@@ -88,7 +88,7 @@ During the delivery stage, insights and analytical assurances are communicated t
 
 Work in this stage can vary considerably depending on the commission, impact, approval processes and the nature of the project. Delivery and communication activities may include producing summary packs and reports, launching dashboards or websites and presentations to boards.
 
-After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off  includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work progresses and insights are produced.
+After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off  includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.
 
 ### Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis, all aspects of the lifecycle should be regularly updated. For example, consideration should be made whether 
