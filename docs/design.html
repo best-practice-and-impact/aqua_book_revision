@@ -202,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction-and-overview" id="toc-introduction-and-overview" class="nav-link active" data-scroll-target="#introduction-and-overview"><span class="header-section-number">7.1</span> Introduction and overview</a>
   <ul class="collapse">
-  <li><a href="#the-design-stage" id="toc-the-design-stage" class="nav-link" data-scroll-target="#the-design-stage"><span class="header-section-number">7.1.1</span> The design stage</a></li>
+  <li><a href="#the-analytical-plan" id="toc-the-analytical-plan" class="nav-link" data-scroll-target="#the-analytical-plan"><span class="header-section-number">7.1.1</span> The analytical plan</a></li>
   </ul></li>
   <li><a href="#roles-and-responsibilities-in-the-design-stage" id="toc-roles-and-responsibilities-in-the-design-stage" class="nav-link" data-scroll-target="#roles-and-responsibilities-in-the-design-stage"><span class="header-section-number">7.2</span> Roles and responsibilities in the design stage</a>
   <ul class="collapse">
@@ -258,8 +258,8 @@ Important
 <section id="introduction-and-overview" class="level2" data-number="7.1">
 <h2 data-number="7.1" class="anchored" data-anchor-id="introduction-and-overview"><span class="header-section-number">7.1</span> Introduction and overview</h2>
 <p>The design stage is where the Analyst translates the scope for the analysis agreed with the Commissioner into an actionable analytical plan. This chapter sets out recommended practices around designing the analysis and associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design, and design of multi-use and AI models.</p>
-<section id="the-design-stage" class="level3" data-number="7.1.1">
-<h3 data-number="7.1.1" class="anchored" data-anchor-id="the-design-stage"><span class="header-section-number">7.1.1</span> The design stage</h3>
+<section id="the-analytical-plan" class="level3" data-number="7.1.1">
+<h3 data-number="7.1.1" class="anchored" data-anchor-id="the-analytical-plan"><span class="header-section-number">7.1.1</span> The analytical plan</h3>
 <p>The development of the analytical plan should consider:</p>
 <ul>
 <li>Methodology for producing results, including the treatment of uncertainty;</li>
@@ -272,7 +272,7 @@ Important
 <li>Communication between stakeholders;</li>
 <li>Verification and validation procedures during the project lifetime;</li>
 <li>Documentation to be delivered;</li>
-<li>Process for updating the analytical Plan;</li>
+<li>Process for updating the analytical plan;</li>
 <li>Process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date;</li>
 <li>Ethics;</li>
 <li>Reporting;</li>
@@ -310,10 +310,11 @@ Reproducible analytical pipelines<a name="rap"></a>
 <h3 data-number="7.2.2" class="anchored" data-anchor-id="the-analysts-responsibilities-during-the-design-stage"><span class="header-section-number">7.2.2</span> The Analyst’s responsibilities during the design stage</h3>
 <p>The Analyst should:</p>
 <ul>
-<li>develop the method and plan to address the Commissioner’s needs,</li>
-<li>develop the assurance requirements will be and</li>
-<li>plan in sufficient time for the assurance activity.</li>
-<li>document the analytical plan in a proportionate manner.</li>
+<li>develop the method and plan to address the Commissioner’s needs;</li>
+<li>establish assurance requirements;</li>
+<li>develop the plan for proportionate verification and validation - see <a href="https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf">National Audit Office Framework to review models</a>;</li>
+<li>plan in sufficient time for the assurance activity;</li>
+<li>document the analytical plan in a proportionate manner; and,</li>
 <li>follow any organisation governance procedures for project design.</li>
 </ul>
 </section>
@@ -340,7 +341,8 @@ Reproducible analytical pipelines<a name="rap"></a>
 </section>
 <section id="documention-in-the-design-stage" class="level2" data-number="7.4">
 <h2 data-number="7.4" class="anchored" data-anchor-id="documention-in-the-design-stage"><span class="header-section-number">7.4</span> Documention in the design stage</h2>
-<p>The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the Analyst, and signed-off by the Commissioner. The design document may be reviewed by the Assurer.</p>
+<p>The design process should be documented in a proportionate manner. A design document that records the <a href="#the-analytical-plan">analytical plan</a> should be produced by the Analyst and signed-off by the Commissioner. The design document may be reviewed by the Assurer.</p>
+<p>For modelling, an initial model map may be produced that describes data flows and transformations. This can be updated as the project progresses through the Analysis stage.</p>
 <p>It is best practice to use formal version control to track changes in the design document.</p>
 </section>
 <section id="treatment-of-uncertainty-in-the-design-stage" class="level2" data-number="7.5">
@@ -353,13 +355,13 @@ Reproducible analytical pipelines<a name="rap"></a>
 <p>This <a href="https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance">guidance</a> outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.</p>
 <p>In the Design of AI/ML models, the Analyst should:</p>
 <ul>
-<li>define the situation they wish to model</li>
-<li>the prediction they wish to make</li>
-<li>the data that could be used to make the prediction</li>
-<li>carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach</li>
-<li>consider how to separate the data for the design and testing of models - it’s usual to design a model with a fraction of the data and then test it with the data that was not used in the design</li>
-<li>consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions</li>
-<li>consider whether to refer the model to their ethics committee, or similar</li>
+<li>define the situation they wish to model;</li>
+<li>the prediction they wish to make;</li>
+<li>the data that could be used to make the prediction;</li>
+<li>carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach;</li>
+<li>consider how to separate the data for the design and testing of models - it’s usual to design a model with a fraction of the data and then test it with the data that was not used in the design;</li>
+<li>consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions; and,</li>
+<li>consider whether to refer the model to their ethics committee, or a similar group - see <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020">Data Ethics Framework - Guidance</a>.</li>
 </ul>
 </section>
 <section id="multi-use-models-and-the-design-stage" class="level2" data-number="7.7">
