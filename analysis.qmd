@@ -86,7 +86,7 @@ It is rare to have the perfect dataset for an analytical commission. Reasons for
 
 Often, no data is available that are directly and precisely relevant to the parameter and conditions of interest. In such cases, it is often possible to use surrogate data. This is measurements of another parameter, or of the parameter of interest under different conditions, that is related to the parameter and conditions of interest. This implies an extrapolation between parameters, or between conditions for the same parameter. The use of surrogate data introduces further uncertainty, additional to that associated with the data itself. It may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
 
-The impact of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large impact on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the Assurer. 
+The effect of using a proxy dataset should be explored and, if the uncertainty associated with the dataset has a large bearing on the analysis, its appropriateness should be revisited. This exploration, and the decision to use a particular dataset or input, should be recorded for the benefit of the Assurer. 
 
 ### Assurance of code
 
@@ -100,12 +100,12 @@ The Analyst should:
 * Maintain appropriate records of the work;
 * Fully document any code following agreed standards;
 * Log the data, assumptions and inputs used in the analysis, and decisions made (see [documentation](#definitions_and_key_concepts.html/#documentation));
-* Record the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its impact on the analysis;
+* Record the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its effect on the analysis;
 * Produce [user and technical documentation](#definitions_and_key_concepts.html#user-technical-documentation). For modelling, the Analyst may include a model map that describes data flows and transformations.
 
 ## Treatment of uncertainty in the analysis stage
 
-While the Scoping and Design stages identified and described risks and uncertainties, the Analysis stage aims to assess and quantify the impact of uncertainty on the analytical outcome and their contribution to the range and likelihoods of possible outcomes. [The Uncertainty Toolkit for Analysts](hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html) reviews methods of quantifying uncertainty. The verification and validation by the Analyst and Assurer should assure the appropriate treatment of uncertainty.
+While the Scoping and Design stages identified and described risks and uncertainties, the Analysis stage aims to assess and quantify how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. [The Uncertainty Toolkit for Analysts](hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html) reviews methods of quantifying uncertainty. The verification and validation by the Analyst and Assurer should assure the appropriate treatment of uncertainty.
 
 
 
