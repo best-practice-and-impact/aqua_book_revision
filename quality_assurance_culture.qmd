@@ -72,7 +72,7 @@ These sessions include an interactive activity looking at a purposefully sabotag
 College participants also join the Modelling Integrity Network, as potential Assuring Analysts where these cannot be found by Lead Analysts in their own policy areas.  
 :::
 
-## Quality assurance champions
+### Quality assurance champions
 In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurancem and provide advice on issues such as proportionality and communication of assurance.
 
 ## Tools
@@ -99,7 +99,7 @@ Analytical governance boards for new, high-profile or complex pieces of analysis
 
 Transparency at all levels can help embed a culture of quality assurance. For example peer review, sharing lessons learnt, and [making analysis open](delivery_and_communication.qmd#open-publishing-of-analysis) (where possible), all contribute to an open culture of high quality work. 
 
-### Externally commissioned analysis
+## Externally commissioned analysis
 
 When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
