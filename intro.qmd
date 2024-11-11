@@ -5,11 +5,11 @@ The draft currently has no official status. It is a work in progress and is subj
 :::
 # Introduction
 
-The AQuA book provides guidance on producing quality analysis for government. It aims to support well informed decision making to deliver better outcomes and improve the lives of citizens.
+The AQuA book provides guidance on producing quality analysis for government. It aims to support well informed decision making to create better outcomes and improve the lives of citizens.
 
 The AQuA Book has made a significant contribution to the cultural change in assurance practices in government.  It is about the process for assuring analytical evidence in all forms. It sets out the core framework for assuring all forms of analytical evidence. 
 
-The last version of the **Analytical Quality Assurance (AQuA) Handbook** was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, delivery and operational excellence. 
+The last version of the **Analytical Quality Assurance (AQuA) Handbook** was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, implemenation and operational excellence. 
 
 The world of analysis has developed since we published the first edition of the AQuA Book. 
 
@@ -58,7 +58,7 @@ Here are a few reasons why.
 * **Your analytical insights will be used for major decisions and operations.** You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage; 
 * **Trust is hard to obtain but easy to lose.** A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted; 
 * **Prevention is better than cure.** Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use; 
-* **Delivering quality analysis provides the confidence that is needed for transparency and public openness;** 
+* **Providing quality analysis provides the confidence that is needed for transparency and public openness;** 
 * **Assurance is required for audit purposes**[^2]; and  
 * **Professional pride in your work.** 
 
