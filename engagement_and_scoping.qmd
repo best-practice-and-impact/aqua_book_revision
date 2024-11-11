@@ -24,7 +24,7 @@ During engagement and scoping, the Commissioner and the Analyst shape the analys
 
 The Commissioner:
 
-* Should communicate to the Analyst the key aspects of the problem, scope, and programme constraints.    
+* Should communicate to the Analyst the important aspects of the problem, scope, and programme constraints.    
 * Should be available to engage with the Analyst to appropriately shape the work.
 * Should ensure that they understand risks where time and resource pressures constrain the approach. 
 * Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
