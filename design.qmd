@@ -79,7 +79,7 @@ In smaller projects, the Approver may not be heavily involved in the design stag
 
 
 
-Designing the assurance activities for subsequent analytical stages is a key part of the design stage. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). Assurance of data quality should be considered in the analytical plan.
+Designing the assurance activities for subsequent analytical stages is an essential part of the design stage. The design of the assurance should take into account the principles of [proportionality](./proportionality.qmd). Assurance of data quality should be considered in the analytical plan.
 
 On completion of the design stage, the Assurer should be aware of the quality assurance tasks that will be required of them during the project lifetime and have assured the necessary elements of the analytical plan.
 
