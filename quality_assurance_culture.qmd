@@ -103,9 +103,9 @@ Analytical governance boards for new, high-profile or complex pieces of analysis
 
 Transparency at all levels can help embed a culture of quality assurance. For example peer review, sharing lessons learnt, and [making analysis open](delivery_and_communication.qmd#open-publishing-of-analysis) (where possible), all contribute to an open culture of high quality work. 
 
-### Externally commissioned analysis
+## Externally commissioned analysis
 
-When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
+Analysi may be commissioned externally such as qualitative or quantitative research, or the production of models. In this case the commissioning department is accountabile for analytical quality. The commissioning analyst should ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
 For Arm’s Length Bodies (ALBs), the commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
 
