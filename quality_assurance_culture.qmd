@@ -79,7 +79,7 @@ In an organisations with large analytical community, it is good practice for the
 
 ## Tools
 
-There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of focussing on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
+There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of concentrating on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
 
 ## Data
 
