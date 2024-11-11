@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Quality assurance culture
 
-Creating and maintaining a strong culture of quality assurance is a key element of ensuring analysis is high quality and robust. 
+Creating and maintaining a strong culture of quality assurance is a vital element of ensuring analysis is high quality and robust. 
 
 This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. However, everyone has a role to play in creating a strong quality assurance culture. As such, the approaches outlined are useful for everyone to understand, regardless of their role in a given team.
 
@@ -18,7 +18,7 @@ Culture enables the risk management described elsewhere in this document.
 
 ## Leadership
 
-A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A key element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
+A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A important element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
 
 The guidance in Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring appropriate assurance processes are in place to the Accounting Officer. In practice the Accounting Officer may assign the responsibility to a senior leader reporting to the senior management board. The Accounting Officer may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero reports this annually - page 91 of [DESNZ Annual report](https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
 
