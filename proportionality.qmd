@@ -37,7 +37,7 @@ Further detail and considerations may be found on the Data Quality Hub's [Qualit
 | Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Analysis that is used for many purposes (e.g. population projections) may require greater levels of QA than might be suggested by any individual decision they support.  |
 | Longevity of the analysis | Ongoing analysis will require robust change control and regular review. |
 | Public impact | Analysis which will have a significant impact on the public may require more assurance. |
-| Repeat runs for the same analysis | The focus for repeat analysis will be on version control and assurance of data and parameters for each run. |
+| Repeat runs for the same analysis | Concentrate on version control and assurance of data and parameters for each run. |
 
 : Table 3-1 - Factors for determining appropriate assurance {.striped}
 
@@ -128,7 +128,7 @@ Table 3-3 shows appropriate responses to a risk assessment. Where business risk 
 
 For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures, options like external peer review may be necessary. 
 
-In cases where there is a need for analysis, but there are also significant time and/or resource constraints, it may not be possible to do as much assurance as usual. In these situations, the focus should be on areas of greatest risk. These risks and limitations must also be communicated, along with appropriate caveats.
+In cases where there is a need for analysis, but there are also significant time and/or resource constraints, it may not be possible to do as much assurance as usual. In these situations, concentrate on areas of greatest risk. These risks and limitations must also be communicated, along with appropriate caveats.
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
