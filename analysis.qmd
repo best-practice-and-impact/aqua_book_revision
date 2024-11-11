@@ -28,7 +28,7 @@ The analysis stage is where planned analysis is undertaken and assured, and prog
 
 * When the analysis includes coding, the Analyst shall proportionately follow [best practice for code development](#assurance-of-code).
 
-* The Analyst shall produce documentation of the data - see [The Government Data Quality Framework] (https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)  and methods used. The Analyst shall ensure these are sufficient for the Assurer to understand the approach.
+* The Analyst shall produce documentation of the data (see [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework))  and methods used. The Analyst shall ensure these are sufficient for the Assurer to understand the approach.
 
 * The Analyst shall document any changes to the analytical plan in a proportionate manner.
 
