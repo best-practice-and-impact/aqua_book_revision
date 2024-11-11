@@ -132,7 +132,7 @@ In cases where there is a need for analysis, but there are also significant time
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
-| High     | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
+| High     | The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.  |
 | Medium   | The risk should not be tolerated without SRO agreement. New assurance measures should be put in place to treat (mitigate) the likelihood of errors occurring. Continue with planned or existing mitigations. |
 | Low      | The risk can be tolerated. Existing or planned mitigations should be continued, and new treatments may be considered.  |
 | Very Low | The risk can be tolerated. Existing/planned mitigations measures should be continued.  |
