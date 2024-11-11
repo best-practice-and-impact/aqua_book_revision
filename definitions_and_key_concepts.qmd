@@ -50,7 +50,7 @@ Black box models internal workings are not visible or easily understood. These m
 
 ## Business critical analysis {.unnumbered}
 
-Business critical analysis is analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or where an error could have a significant reputational, economic or legal impact for the public sector. 
+Business critical analysis is analysis which plays such a role in decision making that it influences significant financial and funding decisions, is necessary to the achievement of a Departmental business plan, or where an error could have a significant reputational, economic or legal implications. 
 
 The first edition of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM). 
 
@@ -70,7 +70,7 @@ Design documents describe the analytical plan, including the methodology, inputs
 
 ### Assumptions log {.unnumbered}
 
-A register of assumptions, whether provided by the Commissioner or derived by the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its impact and reliability and set out when it was made, why it was made, who made it and who signed it off.
+A register of assumptions, whether provided by the Commissioner or derived by the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should describe each assumption, quantify its effect and reliability and set out when it was made, why it was made, who made it and who signed it off.
 
 ### Decisions log {.unnumbered}
 
@@ -109,7 +109,7 @@ Often, a Steering Group is created to oversee the analysis. This Steering Group 
 
 No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:  
 
-**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational impacts. More details can be found in chapter [3] 
+**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. More details can be found in chapter [3] 
 
 **Assurance throughout development:** Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].  
 
@@ -146,7 +146,7 @@ Throughout all the stages of an analytical project, the analyst should ask quest
 
 ## Quality analysis {.unnumbered}
 
-Quality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its impact, adequately communicated, documented and accepted by its commissioners. 
+Quality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its effect, adequately communicated, documented and accepted by its commissioners. 
 
 ## Reproducible analytical pipelines {.unnumbered}
 
@@ -172,7 +172,7 @@ Uncertainties are things that are not known, or are in a state of doubt, or are 
 
 [^1]: https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf
 
-There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will impact the analytical approach and assurance activities required. 
+There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required. 
 
 The [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) is a tool produced by a cross government group to help assessing and communicating uncertainty.
 
