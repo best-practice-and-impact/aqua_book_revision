@@ -64,7 +64,7 @@ It is important that [proportionality](proportionality.qmd) is considered and th
 
 Analytical projects typically start with customer engagement although other events may trigger analytical projects. Scoping ensures that an appropriate, common understanding of the problem is defined and that expectations are aligned with what can be delivered. During this phase the Commissioner plays an important role in communicating the questions to be addressed and working with the Analyst to ensure the requirements and scope are defined and understood. 
 
-Where analysis requires multiple cycles, for example to develop, use and update analytical models, this phase may follow on from the Delivery and Communication phase. In these cases, the focus of this phase will be on the scope of the questions to be addressed in the next stage of the analytical project. 
+Where analysis requires multiple cycles, for example to develop, use and update analytical models, this phase may follow on from the Delivery and Communication phase. In these cases, the phase will concentrate on the scope of the questions to be addressed in the next stage of the analytical project. 
 
 More effort may be needed to define the requirements and scope in this phase for research, evaluation or other projects that may need to seek a wider range of perspectives or for which subsequent phases and work may be delivered through a product or service.
 
