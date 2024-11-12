@@ -14,7 +14,6 @@ The AQuA Book is the work of many authors from across the Government Analytical 
 This revised edition of the book was produced by a task and finish group drawn from across the Government Analytical Function. We would like to thank everybody who has given of their time and expertise to produce the revised edition and give a special mention to the task and finish group who gave their time and expertise to the book:
 
 
-
 * Faye Clancy	
 * Will England
 * Andrew Friedman	
