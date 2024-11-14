@@ -4,7 +4,7 @@ This version of the AQuA book is a preliminary ALPHA draft.  It is still in deve
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
-# Additional resources
+# Resources
 
 ## Written resources
 
