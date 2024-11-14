@@ -5,11 +5,11 @@ The draft currently has no official status. It is a work in progress and is subj
 :::
 # Introduction
 
-The AQuA book provides guidance on producing quality analysis for government. It aims to support well informed decision making to deliver better outcomes and improve the lives of citizens.
+The AQuA book provides guidance on producing quality analysis for government. It aims to support well informed decision making to create better outcomes and improve the lives of citizens.
 
 The AQuA Book has made a significant contribution to the cultural change in assurance practices in government.  It is about the process for assuring analytical evidence in all forms. It sets out the core framework for assuring all forms of analytical evidence. 
 
-The last version of the **Analytical Quality Assurance (AQuA) Handbook** was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, delivery and operational excellence. 
+The last version of the **Analytical Quality Assurance (AQuA) Handbook** was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, implemenation and operational excellence. 
 
 The world of analysis has developed since we published the first edition of the AQuA Book. 
 
@@ -29,7 +29,7 @@ The AQuA Book describes what you need to do but not how to do it, although it do
 
 For those of you who do not work in places with bespoke guidance you will find a collection of helpful resources in chapter 10.
 
-The AQuA Book is a key supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA book and notes that "detailed guidance on the analytical cycle and management of analysis, included in the Aqua Book should be followed."
+The AQuA Book is a vital supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA book and notes that "detailed guidance on the analytical cycle and management of analysis, included in the Aqua Book should be followed."
 
 It is also referred to by the [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020), the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) and other Functional Standards, such as the [Finance Function](https://www.gov.uk/government/publications/government-finance-standards-page) Standards. 
 
@@ -58,13 +58,13 @@ Here are a few reasons why.
 * **Your analytical insights will be used for major decisions and operations.** You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage; 
 * **Trust is hard to obtain but easy to lose.** A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted; 
 * **Prevention is better than cure.** Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use; 
-* **Delivering quality analysis provides the confidence that is needed for transparency and public openness;** 
+* **Providing quality analysis provides the confidence that is needed for transparency and public openness;** 
 * **Assurance is required for audit purposes**[^2]; and  
 * **Professional pride in your work.** 
 
 ## How to use this book
 
-The first four chapters of this book cover definitions and overarching themes, whilst the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
+The first four chapters of this book cover definitions and themes, whilst the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
 ![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
 
 Each chapter in the second half of the book is structured as follows:

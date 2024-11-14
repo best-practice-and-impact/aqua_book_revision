@@ -27,7 +27,7 @@ The Commissioner shall use the analysis as specified at the start of the analyti
 
 - The Analyst shall follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register), and making the analysis [publicly available](#open-publishing-of-analysis).
 - The Analyst should ensure that communication meets audience requirements, including accessibility.
-- The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge might arise through project or programme boards.
+- The Analyst should be prepared to respond to challenge from the Approver. For example, this challenge may arise through project or programme boards.
 - The Analyst may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
 
 
@@ -69,7 +69,7 @@ Though not strictly assurance, the analyst should also consider areas such as se
 The Approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard, which considers the [proportionality](proportionality.html) of the work. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
 
 
-The exact nature of any scrutiny made by the Approver should be proportionate to the impact of the analysis, the governance process of their programme/ organisation, and follow the principles of proportionality described in [Chapter 3](proportionality.html) of this document. 
+The exact nature of any scrutiny made by the Approver should be proportionate to the effect the analysis is likely to have, the governance process of their programme/ organisation, and follow the principles of proportionality described in [Chapter 3](proportionality.html) of this document. 
 
 To ensure that the analysis is used as intended, the Commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst. 
 
@@ -96,7 +96,7 @@ If publishing the outcome of any analysis is required, the Analyst should follow
 ### Sign-off
 The exact nature of the approval process may vary depending on:
 
-* The impact of the analysis;    
+* The effect the analysis is likely to have;    
 * The approval process of the organisation, and    
 * The nature of the programme, project or board approving the analysis. 
 
@@ -105,14 +105,14 @@ The formality of the sign-off process should be governed by organisational proce
 The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
 
 
-## Documention in the delivery, communication and sign-off stage
+## Documentation in the delivery, communication and sign-off stage
 
-When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation might include:
+When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation may include:
 
 * [Specification](definitions_and_key_concepts.html#specification_documentation) and [design documentation](definitions_and_key_concepts.html#design_documentation)
 * Logs of [data](definitions_and_key_concepts.html#data-log), [assumptions](definitions_and_key_concepts.html#assumptions-log) and [decisions](definitions_and_key_concepts.html#decisions-log) including their source, ownership, reliability and any sensitivity analysis carried out; 
 * [User and technical documentation](definitions_and_key_concepts.html#user-technical-documentation)
-* Advice on uncertainty and its impact on the outputs of the analysis;    
+* Advice on uncertainty and its affect on the outputs of the analysis;    
 * A description of the limits of the analysis and what it can and cannot be used for;    
 * Any materials for presenting the analysis to the Commissioner, for example slide decks or reports;    
 * A record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting;    
@@ -140,7 +140,7 @@ Each provides valuable advice on how to estimate and present uncertainty when de
 
 The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
 This may include 
-* formal consultation and approval by an ethics commmittee or similar
+* formal consultation and approval by an ethics committee or similar
 * provisions for regular review 
 * communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected 
 The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
@@ -153,7 +153,7 @@ There is a greater risk that multi-use models may be used for purposes outside t
 
 ## Analytical transparency   
 
-Enabling the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the the public with information on models used for [business-critical decisions](#business-critical-analysis-register) and [making analysis open](#open-publishing-of-analysis). Further guidance on transparency can be found [here](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
+Enabling the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the public with information on models used for [business-critical decisions](#business-critical-analysis-register) and [making analysis open](#open-publishing-of-analysis). Further guidance on transparency can be found [here](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
 
 ### Business-critical analysis register
 

@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Quality assurance culture
 
-Creating and maintaining a strong culture of quality assurance is a key element of ensuring analysis is high quality and robust. 
+Creating and maintaining a strong culture of quality assurance is a vital element of ensuring analysis is high quality and robust. 
 
 This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance that senior leaders should consider for their teams. However, everyone has a role to play in creating a strong quality assurance culture. As such, the approaches outlined are useful for everyone to understand, regardless of their role in a given team.
 
@@ -18,7 +18,7 @@ Culture enables the risk management described elsewhere in this document.
 
 ## Leadership
 
-A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A key element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
+A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A important element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
 
 The guidance in Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring appropriate assurance processes are in place to the Accounting Officer. In practice the Accounting Officer may assign the responsibility to a senior leader reporting to the senior management board. The Accounting Officer may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero reports this annually - page 91 of [DESNZ Annual report](https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
 
@@ -50,7 +50,7 @@ There is a risk that work, and time pressures mean teams cut corners on quality 
 
 If time constraints mean insufficient assurance has taken place, senior leaders should ensure this is explicitly acknowledged and reported. This should be reported via an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an an independant review from an independant source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
+Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an independent review from an independent source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
 
 ::: {.callout-tip}
 # HM Revenue and Customs independent review team
@@ -72,12 +72,19 @@ These sessions include an interactive activity looking at a purposefully sabotag
 College participants also join the Modelling Integrity Network, as potential Assuring Analysts where these cannot be found by Lead Analysts in their own policy areas.  
 :::
 
+
+
 ### Quality assurance champions
 In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurancem and provide advice on issues such as proportionality and communication of assurance.
 
+
 ## Tools
 
-There is a risk that technology or analytical tools are out of date meaning analysts cannot follow best practice or must spend time fixing processing issues instead of focussing on quality. Senior leaders can support teams by making funding available for new tools or improving existing tools, working with digital/IT teams to escalate issues and gathering cross team issues.
+There are risks of technology or analytical tools being out of date. This means that analysts cannot follow best practice or must spend time fixing processing issues instead of concentrating on quality. 
+Senior leaders can support teams by:
+*  making funding available for new tools or improving existing tools;  
+*  gathering common issues; and,
+*  working with escalate them to appropriate points in their organisation.
 
 ## Data
 
@@ -101,7 +108,7 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 
 ## Externally commissioned analysis
 
-When commissioning analysis externally, either qualitative or quantitative research, or the production of models, then the accountability for the quality sits with the commissioning department. It is the commissioning analyst’s role to ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
+Analysi may be commissioned externally such as qualitative or quantitative research, or the production of models. In this case the commissioning department is accountabile for analytical quality. The commissioning analyst should ensure that quality standards are clear and being met and documented to the commissioning departments requirements. Further information can be found in the commissioning chapter. 
 
 For Arm’s Length Bodies (ALBs), the commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
 

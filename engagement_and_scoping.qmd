@@ -22,21 +22,22 @@ During engagement and scoping, the Commissioner and the Analyst shape the analys
 
 ### The Commissioner's responsibilities during the engagement and scoping stage
 
-The Commissioner:
+The Commissioner should:
 
-* Should communicate to the Analyst the key aspects of the problem, scope, and programme constraints.    
-* Should be available to engage with the Analyst to appropriately shape the work.
-* Should ensure that they understand risks where time and resource pressures constrain the approach. 
-* Should communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations.    
-* Should, if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.    
-* Should sign-off on the specification document produced by the analyst.
+*  communicate to the Analyst the important aspects of the problem, scope, and programme constraints;    
+*  be available to engage with the Analyst to appropriately shape the work;
+*  ensure that they understand risks where time and resource pressures constrain the approach; 
+*  communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations; 
+*  sign-off on the specification document produced by the analyst; and, 
+*  if possible, indicate the consequences for decision-making of different degrees of uncertainty, as this may enable the Analyst to conduct their analysis at a proportionate level.   
+
 
 ### The Analyst's responsibilities during the engagement and scoping stage
 
 The Analyst:
 
 * Should engage with the Commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (e.g. deadlines, available resource), assumptions, risks, identified uncertainties and business-criticality. 
-* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commisioner for sign-off.
+* Should create a specification document which captures the Commissioner's requirements. It should provide a definition of the scope and project constraints. It should state the acceptable level of risk, the required level of assurance. It may also state the degree of uncertainty allowed for decision-making, and record identified sources of uncertainty. The Analyst should share this specification with the Commissioner for sign-off.
 
 ### The Assurer's responsibilities during the engagement and scoping stage
 
@@ -56,11 +57,11 @@ In addition to understanding the problem, the engagement and scoping stage shoul
 
 The Commissioner should communicate to the Analyst what is known about data sources and data quality. This will be used to guide the design of data processing.
 
-The Analyst and Commissioner should also clarify risks and potential impacts of the project which will inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
+The Analyst and Commissioner should also clarify risks and potential effects on the outcomes to inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
 
-## Documention in the engagement and scoping stage
+## Documentation in the engagement and scoping stage
 
-The output of this stage should be a [specfication document](definitions.html#specification_documentation) that captures the joint understanding. This document provides a reference for later [validation](definitions.html#validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.html) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
+The output of this stage should be a [specification document](definitions.html#specification_documentation) that captures the joint understanding. This document provides a reference for later [validation](definitions.html#validation) assurance activities (i.e. that the analysis meets the specification). This document also provides evidence for the Approver during the [delivery stage](delivery_and_communication.html) that the analysis meets the specification. The document should be signed off by the Commissioner, and might be reviewed by the Assurer.
 
 ## Treatment of uncertainty in the engagement and scoping stage
 
@@ -70,7 +71,7 @@ The following aspects of the engagement and scoping stage will inform the treatm
 * Identification of sources of high and/or intractable uncertainty
 * Establishing an understanding of how the analysis will inform decisions
 
-Futher details on Uncertainty in engagement and scoping can be found in the [Uncertainty Toolkit](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_2.html#Jointly_agreeing_how_uncertainty_should_be_used)
+Further details on Uncertainty in engagement and scoping can be found in the [Uncertainty Toolkit](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_2.html#Jointly_agreeing_how_uncertainty_should_be_used)
 
 ## Black box models and the engagement and scoping stage
 
