@@ -147,7 +147,7 @@ Proportionate assurance of externally commissioned work is just as important as 
 
 The difference will be in ensuring the assessment of risks and the applied mitigations are fully understood by the commissioner.
 
-## Artificial intelligence and business risk
+## Black-box models and business risk
 
-Increasingly analysis may be underpinned by Artificial Intelligence (AI). With AI-informed analysis the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.
+Increasingly analysis may be underpinned by artificial intelligence or other forms of black-box models. With such models, the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.
 

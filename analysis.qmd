@@ -114,6 +114,7 @@ While the Scoping and Design stages identified and described risks and uncertain
 [Black box models](definitions_and_key_concepts.qmd/#black_box)  such as AI and ML models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. 
 
 Assurance activities during the Analysis stage:
+
 * may include performance testing in a live environment and 
 * should include the verification steps set out in the Design Phase
 * should include validation and verification of automatic tests to ensure the model behave as expected
