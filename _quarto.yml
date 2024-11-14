@@ -5,7 +5,7 @@ project:
 book:
   title: "The AQuA Book"
   author: "Government Analysis Function"
-  date: "11/11/2024"
+  date: "14/11/2024"
   chapters:
     - index.qmd
     - foreword.qmd
@@ -18,9 +18,8 @@ book:
     - design.qmd
     - analysis.qmd
     - delivery_and_communication.qmd
-    - additional_resources.qmd
+    - resources.qmd
     - improving_the_book.qmd
-    - references.qmd
 
 bibliography: references.bib
 
