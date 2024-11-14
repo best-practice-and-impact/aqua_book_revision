@@ -54,10 +54,6 @@ Business critical analysis is analysis which plays such a role in decision makin
 
 The first edition of the AQuA book described business critical models. This has been generalised to business critical analysis, as it is possible for analysis to be business critical without including a model. Some departments may continue to use the term business critical models (BCM). 
 
-## Change control {.unnumbered}
-
-Change control is the set of processes followed when changes are made to a piece of analysis. For example, authorising and accepting changes, version numbering, documentation, assurance of changes. 
-
 ## Documentation {.unnumbered}
 
 ### Specification documentation {.unnumbered}
@@ -95,62 +91,15 @@ The Department for Energy Security and Net Zero and Department for Business and 
 
 :::
 
-## Materiality {.unnumbered}
-
-[Materiality](https://en.wikipedia.org/wiki/Materiality_(auditing)) is a concept or convention in auditing and accounting relating to the importance of a feature. Information is said to be material if omitting it or misstating it could influence decisions that users make. Materiality is "an entity-specific aspect of relevance, based on size, magnitude or both".
-
 ## Multi-use models {.unnumbered}
 
 Some models, often complex and large, are used by more than one user or group of users for related but differing purposes, these are known as **multi-use models**.  
 
 Often, a Steering Group is created to oversee the analysis. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model, and contain senior, ideally empowered, representatives of each major user area. 
 
-## Principles of analytical quality assurance {.unnumbered}
-
-No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:  
-
-**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. More details can be found in chapter [3] 
-
-**Assurance throughout development:** Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].  
-
-**Verification and validation:** Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9]. 
-
-**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
-
-**Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
-
-::: {.callout-tip collapse="true"}
-### RIGOUR
-Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic "RIGOUR" may assist:
-
-* **R**epeatable
-* **I**ndependent
-* **G**rounded in reality
-* **O**bjective
-* **U**ncertainty-managed
-* **R**obust
-
-**Repeatable:** For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.  
-
-**Independent:** Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
-
-**Grounded in reality:** Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.  
-
-**Objective:** Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.  
-
-**Uncertainty-managed:** Uncertainty is identified, managed and communicated throughout the analytical process.  
-
-**Robust:** Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.  
-
-:::
-
 ## Quality analysis {.unnumbered}
 
 Quality analysis is analysis which is fit for the purpose(s) it was commissioned to meet. It should be accurate, have undergone appropriate assurance, be evidenced, proportionate to its effect, adequately communicated, documented and accepted by its commissioners. 
-
-## Reproducible analytical pipelines {.unnumbered}
-
-[Reproducible Analytical Pipelines (RAPs)](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/) are automated analytical processes. They incorporate elements of software engineering best practice to ensure that the pipelines are reproducible, auditable, efficient, and high quality.
 
 ## Roles and responsibilities {.unnumbered}
 
