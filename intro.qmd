@@ -91,5 +91,5 @@ The terms are:
 
 These are the same terms as those in the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
 
-[^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
+[^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings. [For more information](https://onlinelibrary.wiley.com/doi/10.1002/tea.21817)
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
