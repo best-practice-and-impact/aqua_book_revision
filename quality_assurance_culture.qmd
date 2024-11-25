@@ -114,7 +114,7 @@ Third parties may set out in a framework document how they will demonstrate comp
 
 When working with third parties (e.g Arm's Length Bodies (ALBs)), the commissioner shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
 
-For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
+For example, the third party may only undertake the Analyst role in the analysis phase or they may undertake the Analyst, Assurer and Approver roles in all stages of the lifecycle.
 
 
 
