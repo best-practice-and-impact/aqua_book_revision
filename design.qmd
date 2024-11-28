@@ -111,9 +111,9 @@ During the design stage, Analysts should examine the planned analysis systematic
 
 ## Black box models and the design stage
 
-Using [black box models](definitions_and_key_concepts.qmd/#black_box) places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.
+Using [black box models](definitions_and_key_concepts.qmd/#black-box-models) places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.
 
-This [guidance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
+This [guidance on AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
 
 In the Design of AI/ML models, the Analyst should:
 
@@ -123,7 +123,7 @@ In the Design of AI/ML models, the Analyst should:
 * carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach;
 * consider how to separate the data for the design and testing of models - it's usual to design a model with a fraction of the data and then test it with the data that was not used in the design;
 * consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions; and,
-* consider whether to refer the model to their ethics committee, or a similar group - see [Data Ethics Framework - Guidance](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020).
+* consider whether to refer the model to their ethics committee, or a similar group - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020).
 
 ## Multi-use models and the design stage
 
