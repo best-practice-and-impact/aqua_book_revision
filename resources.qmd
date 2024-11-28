@@ -8,41 +8,37 @@ The draft currently has no official status. It is a work in progress and is subj
 
 ## Written resources
 
-The additional resources referred to within the AQuA Book are collated here for easy reference.
+The key additional resources referred to within the AQuA Book are collated here for easy reference.
+
+* The [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
+* The [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020)
+* The [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book)
+* The [Orange Book](https://www.gov.uk/government/publications/orange-book)
 
 ### Guidance and advice for performing analysis
 
-* [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html);    
-* The [National Audit Office Framework to review models](https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf) is relevant throughout. It provides a structured approach to review models which organisations can use to determine whether the modelling outputs they produce are reasonable, robust and have a minimal likelihood of errors being made;    
-* [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) – Government Analysis Function (Chapter 9) This guidance aims to help policy professionals work effectively with statisticians and other analysts. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.    
-* [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020) (Chapter 9). The Data Ethics Framework guides appropriate and responsible data use in government and the wider public sector. It helps public servants understand ethical considerations, address these within their projects, and encourages responsible innovation.    
-* [Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework) (Chapter 4) The framework developed by Government to support and enable the production of sustainable high quality data.    
-* [Urgent data quality assurance guidance](https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance) (Chapter 4) This guidance covers the minimum steps you should do for urgent data work. It is intended as a last resort, it does not replace full and thorough quality assurance practices.    
+* [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html) provides support for handling uncertainty in analysis.    
+* [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) aims to help policy professionals work effectively with statisticians and other analysts. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.    
+* The [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020) guides appropriate and responsible data use in government and the wider public sector. It helps public servants understand ethical considerations, address these within their projects, and encourages responsible innovation.    
+* The [Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework) supports the production of sustainable high quality data.    
+ * The [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/) guidance sets out what a Reproducible Analytical Pipeline is and points to resources for analysts who need to build them.
 
-### Reproducible analytical pipelines
+### Guidance and advice for performing assurance
 
-* [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) (Chapters 2 and 7) sets out good practices for writing reproducible and well documented code for analytical workflows.    
-* [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/) (Chapters 2 and 7) sets out what a Reproducible Analytical Pipeline is and points to resources for analysts who need to build them.   
-
-### Model quality assurance
-
+* The [National Audit Office Framework to review models](https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf) provides a structured approach to review models which organisations can use to determine whether the modelling outputs they produce are reasonable, robust and have a minimal likelihood of errors being made; 
 * [Department for Energy Security and Net Zero modelling tools and QA guidance](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fenergy-security-and-net-zero-modelling-quality-assurance-qa-tools-and-guidance&data=05%7C02%7Cmodellingintegrity%40energysecurity.gov.uk%7Cc42f8ed850c24245b91f08dc28c9b298%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C638430094188459392%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=6pFuTNcJcz5EddPnuIE8CmbU%2BrzUcZvYKdHpdVPkGgk%3D&reserved=0) provides resources to help quality assure new and existing models, including those developed by third parties;        
-* Artificial Intelligence Quality Assurance;    
-* [Cross government guidance on roles and responsibilities](https://beisgov.sharepoint.com/:w:/r/sites/BEISModellingIntegrity-EXT-ALL/Shared Documents/AQuA Book 2nd Edition/Departmental Assurance Guidance/Roles_and_responsibilities_departmental_guidance_v1_0.docx?d=w29e0814595f841c4968dc777a2534615&csf=1&web=1&e=s51FEH).    
+*  [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design and assurance of AI models, including risk assessment, bias audits and considering the ongoing 'health' of the model.
+* [The Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides guidance on assuring code.
 
 ### Guidance and advice for communicating analysis
 
-The Office for Statistical Regulation’s [Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/);    
-* The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html);    
+* The Office for Statistical Regulation’s [Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/);    
 * The Government Analysis Function guidance note [Communicating quality, uncertainty and change](https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/);    
-
-The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
-
-If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/wp-content/uploads/2018/10/Publishing_official_statistics_National_Statistics_1218.pdf);    
+* The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
+* If you are publishing statistics you shall follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/wp-content/uploads/2018/10/Publishing_official_statistics_National_Statistics_1218.pdf);    
 * If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
 * If you are publishing an evaluation, refer to any recommendations from the [Evaluation Task Force](https://www.gov.uk/government/organisations/evaluation-task-force);    
-* If you are publishing information about business-critical models you should follow PLACEHOLDER.    
-
-### External sources of quality assurance
+ 
+## External sources of quality assurance
 
 The [Government Actuary’s Department (GAD)](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services) can provide expert quality assurance reviews of models across the public sector. GAD are a team of financial risk professionals and are experts in reviewing models on all modern platforms, including Excel, R, and Python. As a non-ministerial department, GAD can offer unique support from within government.
