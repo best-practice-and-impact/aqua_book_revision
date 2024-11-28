@@ -12,7 +12,9 @@ This chapter particularly addresses senior leaders and describes their role in d
 
 For purposes of this chapter, culture is defined as the shared ways of working, beliefs and habits of an organisation.  
 
-A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including commissioners, analysts, users of analysis, managers, senior leaders and stakeholders.  
+
+A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including commissioners, analysts, users of analysis, managers, senior leaders and stakeholders.   
+
 
 Culture enables the risk management described elsewhere in this document.
 
