@@ -12,7 +12,9 @@ This chapter particularly addresses senior leaders and describes their role in d
 
 For purposes of this chapter, culture is defined as the shared ways of working, beliefs and habits of an organisation.  
 
-A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including analysts, managers, senior leaders and stakeholders.   
+
+A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including commissioners, analysts, users of analysis, managers, senior leaders and stakeholders.   
+
 
 Culture enables the risk management described [elsewhere in this document](proportionality.html#structured-assessment-of-business-risk-and-complexity).
 
@@ -42,11 +44,11 @@ When the Department for Education made an error producing the schools national f
 
 ## Capacity and capability
 
-Senior leaders should create the conditions in which quality assurance processes can operate effectively, by ensuring staff have time built-in for quality assurance and documentation, can draw on expertise and experience, and have the access to the tools and data they need. 
+Senior leaders should create the conditions in which quality assurance processes can operate effectively, by ensuring staff have sufficient time for all stages of the analytical lifecycle, including design, quality assurance and documentation. The culture should also ensure staff can draw on expertise and experience from others, and have the access to the tools and data they need. 
 
 ### Capacity
 
-There is a risk that work, and time pressures mean teams cut corners on quality or mistakes are made as analysis is rushed. Senior leaders can mitigate this through strong prioritisation, supporting teams to push back on lower value work or by making tough choices on team wide priorities. Through this prioritisation, senior leaders can emphasise the importance of quality. Team leaders can support quality assurance, by ensuring it is considered throughout the lifecycle of a project and not simply considered at the end, and making time for adequate quality assurance even when timescales are tight. 
+There is a risk that work, and time pressures mean teams cut corners on quality or mistakes are made as analysis is rushed. Senior leaders can mitigate this through strong prioritisation, supporting teams to push back on lower value work or by making tough choices on team wide priorities. Through this prioritisation, senior leaders can emphasise the importance of quality. Senior leaders can support quality assurance, by ensuring it is considered throughout the lifecycle of a project, by all parties involved (analytical and non-analytical), and not simply considered at the end. They should support all parties to make time for adequate quality assurance, even when timescales are tight, as described in later chapters of this book.
 
 If time constraints mean insufficient assurance has taken place, senior leaders should ensure this is explicitly acknowledged and reported. This should be reported via an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
@@ -75,7 +77,9 @@ College participants also join the Modelling Integrity Network, as potential Ass
 
 
 ### Quality assurance champions
+
 In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion/s. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+
 
 
 ## Tools
@@ -108,15 +112,19 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 
 ## Externally commissioned analysis
 
+
 Analysis may be commissioned externally such as qualitative or quantitative research, or the production of models. In this case the commissioning department is accountable for analytical quality. The commissioning analyst should ensure that quality standards are clear and being met and that these standards are documented.
 
 For Arm’s Length Bodies[^1] (ALBs), the Commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
 
 The guidance mentioned above also applies to Arms Length Bodies. They may set out in a framework document how their Accounting Officer will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
 
-User groups for types of analysis can also provide assurance by setting standards and ensuring projects follow topic specific or specialised guidance, such as coding best practice.
 
-When working with third parties, the Commissioner shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.html#roles_and_responsibilities) for details on the roles.
+Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
+
+
+When working with third parties (e.g Arm's Length Bodies (ALBs)), the commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
+
 
 For example, the third party may only undertake the Analyst role in the analysis phase or they may undertake the Analyst, Assurer and Approver roles in all stages of the lifecycle.
 
