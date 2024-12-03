@@ -84,8 +84,8 @@ On completion of the design stage, the Assurer should be aware of the quality as
 
 The assurance of the design stage should consider whether the analytical plan is likely to:  
 
-* Deliver as intended - validation;
-* Address commissioner's requirements - verification; 
+* Address commissioner's requirements - validation; 
+* Deliver as intended - verification;
 * Be robust i.e. well-structured, data driven, with a sound overall design.
 
 The assurance of the design stage may be carried out by the Assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
