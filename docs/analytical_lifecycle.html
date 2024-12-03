@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.6.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The AQuA Book - 5&nbsp; Roles and the analytical lifecycle</title>
+<title>5&nbsp; Roles and the analytical lifecycle – The AQuA Book</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-01c78b5cd655e4cd89133cf59d535862.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4e02260f7b5625f2c93442d0cd1f73f6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -78,13 +78,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./analytical_lifecycle.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Roles and the analytical lifecycle</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./definitions_and_key_concepts.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and concepts</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -201,9 +201,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#design" id="toc-design" class="nav-link" data-scroll-target="#design"><span class="header-section-number">5.2.2</span> Design</a></li>
   <li><a href="#analysis" id="toc-analysis" class="nav-link" data-scroll-target="#analysis"><span class="header-section-number">5.2.3</span> Analysis</a></li>
   <li><a href="#delivery-communication-and-sign-off" id="toc-delivery-communication-and-sign-off" class="nav-link" data-scroll-target="#delivery-communication-and-sign-off"><span class="header-section-number">5.2.4</span> Delivery, communication and sign-off</a></li>
-  <li><a href="#maintenance-and-continuous-review" id="toc-maintenance-and-continuous-review" class="nav-link" data-scroll-target="#maintenance-and-continuous-review"><span class="header-section-number">5.2.5</span> Maintenance and continuous review</a></li>
   </ul></li>
-  <li><a href="#urgent-analysis" id="toc-urgent-analysis" class="nav-link" data-scroll-target="#urgent-analysis"><span class="header-section-number">5.3</span> Urgent analysis</a></li>
+  <li><a href="#maintenance-and-continuous-review" id="toc-maintenance-and-continuous-review" class="nav-link" data-scroll-target="#maintenance-and-continuous-review"><span class="header-section-number">5.3</span> Maintenance and continuous review</a></li>
+  <li><a href="#urgent-analysis" id="toc-urgent-analysis" class="nav-link" data-scroll-target="#urgent-analysis"><span class="header-section-number">5.4</span> Urgent analysis</a></li>
   </ul>
 </nav>
     </div>
@@ -240,7 +240,7 @@ Important
 </div>
 <div class="callout-body-container callout-body">
 <p>This version of the AQuA book is a preliminary ALPHA draft. It is still in development, and we are still working to ensure that it meets user needs.</p>
-<p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
+<p>The draft currently has no official status. It is a work in train and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
 </div>
 </div>
 <p>An analytical project can be viewed as a variation on an archetypal project defined by roles and stages. This chapter gives an overview of the roles and the project stages in the analytical lifecycle. Subsequent chapters go into the details of each stage, and the responsibilities of each role during a given stage.</p>
@@ -288,7 +288,7 @@ Important
 <li>Confirms (if necessary) to the Analyst, Assurer and Commissioner that the work has been appropriately assured</li>
 </ul></li>
 </ul>
-<p>The roles of Analyst and Assurer shall be distinct from each other. The Analyst should carry out their own assurance but responsibility for formal assurance to the Commissioner lies with the Assurer. In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analyst roles which shall be separate from one another in all cases.</p>
+<p>The roles of Analyst and Assurer shall be distinct from each other. The Analyst should carry out their own assurance but responsibility for formal assurance to the Approver and Commissioner lies with the Assurer. In some instances, particularly for quick and / or simple analysis, an individual may deliver more than one of the roles apart from the Assurer and Analyst roles which shall be separate from one another in all cases.</p>
 </section>
 <section id="the-analytical-lifecycle" class="level2" data-number="5.2">
 <h2 data-number="5.2" class="anchored" data-anchor-id="the-analytical-lifecycle"><span class="header-section-number">5.2</span> The analytical lifecycle</h2>
@@ -309,7 +309,7 @@ Important
 <section id="engagement-and-scoping" class="level3" data-number="5.2.1">
 <h3 data-number="5.2.1" class="anchored" data-anchor-id="engagement-and-scoping"><span class="header-section-number">5.2.1</span> Engagement and scoping</h3>
 <p>Analytical projects typically start with customer engagement although other events may trigger analytical projects. Scoping ensures that an appropriate, common understanding of the problem is defined and that expectations are aligned with what can be delivered. During this phase the Commissioner plays an important role in communicating the questions to be addressed and working with the Analyst to ensure the requirements and scope are defined and understood.</p>
-<p>Where analysis requires multiple cycles, for example to develop, use and update analytical models, this phase may follow on from the Delivery and Communication phase. In these cases, the focus of this phase will be on the scope of the questions to be addressed in the next stage of the analytical project.</p>
+<p>Where analysis requires multiple cycles, for example to develop, use and update analytical models, this phase may follow on from the Delivery and Communication phase. In these cases, the phase will concentrate on the scope of the questions to be addressed in the next stage of the analytical project.</p>
 <p>More effort may be needed to define the requirements and scope in this phase for research, evaluation or other projects that may need to seek a wider range of perspectives or for which subsequent phases and work may be delivered through a product or service.</p>
 </section>
 <section id="design" class="level3" data-number="5.2.2">
@@ -319,24 +319,25 @@ Important
 </section>
 <section id="analysis" class="level3" data-number="5.2.3">
 <h3 data-number="5.2.3" class="anchored" data-anchor-id="analysis"><span class="header-section-number">5.2.3</span> Analysis</h3>
-<p>The analysis phase is where planned analysis is undertaken, and progress and relevance are monitored. During work, the design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered, and this phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the design or scoping phase.</p>
+<p>The analysis phase is where planned analysis is undertaken, and progress and relevance are monitored. During work, the design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered, and this phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may necessitate a return to either the scoping or design phase.</p>
 <p>Throughout this phase, traceable documentation of the assurance activities undertaken shall also be produced.</p>
-<p>In larger analytical projects, some outputs of the analysis may be completed at different times as work progresses, and aspects of other phases may therefore take place concurrently.</p>
+<p>In larger analytical projects, some outputs of the analysis may be completed at different times as work develops, and aspects of other phases may therefore take place concurrently.</p>
 </section>
 <section id="delivery-communication-and-sign-off" class="level3" data-number="5.2.4">
 <h3 data-number="5.2.4" class="anchored" data-anchor-id="delivery-communication-and-sign-off"><span class="header-section-number">5.2.4</span> Delivery, communication and sign-off</h3>
 <p>During the delivery stage, insights and analytical assurances are communicated to the Approver and the Commissioner. The aim is ensuring that these are sufficiently understood in order for the Approver and Commissioner to determine whether the work has been appropriately assured and meets their requirements. This may then trigger additional analysis and further assurance as analytical projects frequently need further iteration or extension to satisfy the Commissioner’s needs.</p>
 <p>Work in this stage can vary considerably depending on the commission, impact, approval processes and the nature of the project. Delivery and communication activities may include producing summary packs and reports, launching dashboards or websites and presentations to boards.</p>
-<p>After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work progresses and insights are produced.</p>
+<p>After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off includes confirmation that the commission was met, documentation and evidence was captured, and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.</p>
 </section>
-<section id="maintenance-and-continuous-review" class="level3" data-number="5.2.5">
-<h3 data-number="5.2.5" class="anchored" data-anchor-id="maintenance-and-continuous-review"><span class="header-section-number">5.2.5</span> Maintenance and continuous review</h3>
-<p>The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis, all aspects of the lifecycle should be regularly updated. For example, consideration should be made whether <em>The inputs used remain appropriate </em>The initial communication methods remain the best way to deliver the information <em>Any software relied on continues to be supported and up to date </em>The model continues to be calibrated appropriately (this is particularly important for <a href="./definitions_and_key_concepts.html#black_box_models">black box models</a>)</p>
+</section>
+<section id="maintenance-and-continuous-review" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="maintenance-and-continuous-review"><span class="header-section-number">5.3</span> Maintenance and continuous review</h2>
+<p>The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis, all aspects of the lifecycle should be regularly updated. For example, consideration should be made whether</p>
+<p><em>The inputs used remain appropriate </em>The initial communication methods remain the best way to deliver the information <em>Any software relied on continues to be supported and up to date </em>The model continues to be calibrated appropriately (this is particularly important for <a href="definitions_and_key_concepts.html#black-box-models">black box models</a>)</p>
 <p>Additionally, a robust version control process should be in place to ensure any changes to the analysis are appropriately assured.</p>
 </section>
-</section>
-<section id="urgent-analysis" class="level2" data-number="5.3">
-<h2 data-number="5.3" class="anchored" data-anchor-id="urgent-analysis"><span class="header-section-number">5.3</span> Urgent analysis</h2>
+<section id="urgent-analysis" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="urgent-analysis"><span class="header-section-number">5.4</span> Urgent analysis</h2>
 <p>In some cases there may be a need for urgent analysis that cannot follow all the steps in this guide i.e.&nbsp;where the need for analysis outweighs the risk of poor quality. In this case analysts should follow the <a href="https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance">Urgent data quality assurance guidance</a>.</p>
 
 
@@ -378,18 +379,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -421,7 +411,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -429,7 +439,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -526,7 +536,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
