@@ -109,7 +109,7 @@ The Approver should provide the Analyst with evidence that the analysis outputs 
 
 When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation may include:
 
-* [Specification](definitions_and_key_concepts.html#specification_documentation) and [design documentation](definitions_and_key_concepts.html#design_documentation)
+* [Specification](definitions_and_key_concepts.html#specification-documentation) and [design documentation](definitions_and_key_concepts.html#design-documentation)
 * Logs of [data](definitions_and_key_concepts.html#data-log), [assumptions](definitions_and_key_concepts.html#assumptions-log) and [decisions](definitions_and_key_concepts.html#decisions-log) including their source, ownership, reliability and any sensitivity analysis carried out; 
 * [User and technical documentation](definitions_and_key_concepts.html#user-technical-documentation)
 * Advice on uncertainty and its affect on the outputs of the analysis;    
