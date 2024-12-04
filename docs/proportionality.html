@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.6.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The AQuA Book - 3&nbsp; Proportionality</title>
+<title>3&nbsp; Proportionality – The AQuA Book</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-01c78b5cd655e4cd89133cf59d535862.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4e02260f7b5625f2c93442d0cd1f73f6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -79,13 +79,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./proportionality.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Proportionality</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -128,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./definitions_and_key_concepts.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and concepts</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -198,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">3.1</span> Introduction</a></li>
   <li><a href="#structured-assessment-of-business-risk-and-complexity" id="toc-structured-assessment-of-business-risk-and-complexity" class="nav-link" data-scroll-target="#structured-assessment-of-business-risk-and-complexity"><span class="header-section-number">3.2</span> Structured assessment of business risk and complexity</a></li>
   <li><a href="#externally-commissioned-work" id="toc-externally-commissioned-work" class="nav-link" data-scroll-target="#externally-commissioned-work"><span class="header-section-number">3.3</span> Externally commissioned work</a></li>
-  <li><a href="#artificial-intelligence-and-business-risk" id="toc-artificial-intelligence-and-business-risk" class="nav-link" data-scroll-target="#artificial-intelligence-and-business-risk"><span class="header-section-number">3.4</span> Artificial intelligence and business risk</a></li>
+  <li><a href="#black-box-models-and-business-risk" id="toc-black-box-models-and-business-risk" class="nav-link" data-scroll-target="#black-box-models-and-business-risk"><span class="header-section-number">3.4</span> Black-box models and business risk</a></li>
   </ul>
 </nav>
     </div>
@@ -238,14 +238,14 @@ Important
 <p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
 </div>
 </div>
-<p>All analysis shall be assured, and the assurance should be proportionate to the potential impact, size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks.</p>
+<p>All analysis shall be assured, and the assurance should be proportionate to the potential effect it will have, size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks.</p>
 <p>The assurer and the analyst shall be independent. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance, rather that there shall also be some formal independent assurance.</p>
 <section id="introduction" class="level2" data-number="3.1">
 <h2 data-number="3.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">3.1</span> Introduction</h2>
-<p>Think about and deliver appropriate (proportionate) levels of assurance for your analysis. There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will inform a decision that will make minimal impact.</p>
-<p>Table 3-1 provides a list of key factors that should be considered when determining what level of assurance is appropriate.</p>
+<p>Think about and deliver appropriate (proportionate) levels of assurance for your analysis. There is a need to be confident in analysis delivered, but there is no point spending months assuring simple analysis that will have a minor influence on a decision.</p>
+<p>Table 3-1 provides a list of factors that should be considered when determining what level of assurance is appropriate.</p>
 <p>Further detail and considerations may be found on the Data Quality Hub’s <a href="https://dataqualityhub.github.io/resources-for-quality-analysis-external/">Quality Questions and Red Flags</a> page.</p>
-<table class="table-striped table">
+<table class="table-striped caption-top table">
 <caption>Table 3-1 - Factors for determining appropriate assurance</caption>
 <colgroup>
 <col style="width: 45%">
@@ -260,7 +260,7 @@ Important
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Business criticality</td>
-<td style="text-align: left;">Different issues will impact on business criticality such as financial, legal, operational, political and reputational impacts.</td>
+<td style="text-align: left;">Different issues will affect business criticality such as financial, legal, operational, political and reputational effects.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Relevance of the analysis to the decision making process</td>
@@ -291,16 +291,16 @@ Important
 <td style="text-align: left;">Ongoing analysis will require robust change control and regular review.</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Public impact</td>
-<td style="text-align: left;">Analysis which will have a significant impact on the public may require more assurance.</td>
+<td style="text-align: left;">Affects on the public</td>
+<td style="text-align: left;">Analysis which will have a significant affect on the public may require more assurance.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Repeat runs for the same analysis</td>
-<td style="text-align: left;">The focus for repeat analysis will be on version control and assurance of data and parameters for each run.</td>
+<td style="text-align: left;">Concentrate on version control and assurance of data and parameters for each run.</td>
 </tr>
 </tbody>
 </table>
-<p>Figure 3-1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The key message is the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.</p>
+<p>Figure 3-1 shows some assurance techniques that might be considered for different levels of analysis complexity and business risk. The important point is, the need for more assurance interventions increases with the complexity of, and the business risk associated with analysis.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="Figure 3-1 Types of Assurance Alternative 3.jpg" class="img-fluid figure-img" alt="Figure 3-1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. The X axis goes from simple analysis on the left to highly complex analysis on the right. The y axis goes from low business risk at the bottom to high business risk at the top. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit. On the diagram, the increasing level of risk as we move from bottom left to top right is represented by darker shades."></p>
@@ -313,8 +313,8 @@ Important
 </section>
 <section id="structured-assessment-of-business-risk-and-complexity" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="structured-assessment-of-business-risk-and-complexity"><span class="header-section-number">3.2</span> Structured assessment of business risk and complexity</h2>
-<p>To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential impact of analysis errors, and the likelihood of errors occurring. In situations where the potential business impact is high, it is more important that the likelihood of errors is reduced.</p>
-<p>This can be visualised by considering the situation as a risk matrix, illustrated in Table 3-2. The impact of the analysis will usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.</p>
+<p>To guide what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential affect of analytical errors, and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced.</p>
+<p>This can be visualised by considering the situation as a risk matrix, illustrated in Table 3-2. The effect analysis will have is usually be beyond the control of the analyst to change, so there will be few options to move an assessment down the table. However, there will usually be treatments (or mitigations), involving additional assurance measures, that will allow the assessed business risk to move to the left.</p>
 <table class="riskTable">
 <caption>
 Table 3-2 - Example of a risk matrix
@@ -329,7 +329,7 @@ Likelihood of errors occurring
 </th>
 </tr><tr>
 <th rowspan="7">
-Impact of errors occurring
+Affect from errors occurring
 </th>
 <td>
 </td>
@@ -464,8 +464,8 @@ Medium
 </tbody></table>
 <p>Table 3-3 shows appropriate responses to a risk assessment. Where business risk is high, appropriate treatment(s) must be considered to reduce the probability of errors occurring. The choice of treatment will depend on the mitigations already in place and on the complexity of the analysis (see Figure 3-1).</p>
 <p>For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures, options like external peer review may be necessary.</p>
-<p>In cases where there is a need for analysis, but there are also significant time and/or resource constraints, it may not be possible to do as much assurance as usual. In these situations, the focus should be on areas of greatest risk. These risks and limitations must also be communicated, along with appropriate caveats.</p>
-<table class="table-striped table">
+<p>In cases where there is a need for analysis, but there are also significant time and/or resource constraints, it may not be possible to do as much assurance as usual. In these situations, concentrate on areas of greatest risk. These risks and limitations must also be communicated, along with appropriate caveats.</p>
+<table class="table-striped caption-top table">
 <caption>Table 3-3 - Responses to risk assessment levels</caption>
 <colgroup>
 <col style="width: 25%">
@@ -480,7 +480,7 @@ Medium
 <tbody>
 <tr class="odd">
 <td>High</td>
-<td>The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring. If treatment isn’t an option, consideration must be be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.</td>
+<td>The risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring. If treatment isn’t an option, consideration must be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the SRO needs to fully understand the risk.</td>
 </tr>
 <tr class="even">
 <td>Medium</td>
@@ -503,9 +503,9 @@ Medium
 <p>Proportionate assurance of externally commissioned work is just as important as for internally produced analysis. For the commissioner, to use the work they should be fully informed of the business risk associated with it. This should be provided by an appropriate mix of documented risk assessments provided as part of the work, and by joint risk assessments planned throughout the life of the project. For commissioned work the options for mitigation will be similar to those for internal analysis.</p>
 <p>The difference will be in ensuring the assessment of risks and the applied mitigations are fully understood by the commissioner.</p>
 </section>
-<section id="artificial-intelligence-and-business-risk" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="artificial-intelligence-and-business-risk"><span class="header-section-number">3.4</span> Artificial intelligence and business risk</h2>
-<p>Increasingly analysis may be underpinned by Artificial Intelligence (AI). With AI-informed analysis the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.</p>
+<section id="black-box-models-and-business-risk" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="black-box-models-and-business-risk"><span class="header-section-number">3.4</span> Black-box models and business risk</h2>
+<p>Increasingly analysis may be underpinned by artificial intelligence or other forms of black-box models. With such models, the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.</p>
 
 
 </section>
@@ -546,18 +546,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -589,7 +578,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -597,7 +606,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -694,7 +703,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -922,8 +930,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./definitions_and_key_concepts.html" class="pagination-link" aria-label="Definitions and key concepts">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and key concepts</span></span>
+      <a href="./definitions_and_key_concepts.html" class="pagination-link" aria-label="Definitions and concepts">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Definitions and concepts</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

@@ -91,5 +91,45 @@ The terms are:
 
 These are the same terms as those in the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
 
+
+## Principles of analytical quality assurance {.unnumbered}
+
+No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:  
+
+**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. More details can be found in chapter [3] 
+
+**Assurance throughout development:** Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].  
+
+**Verification and validation:** Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9]. 
+
+**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
+
+**Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
+
+::: {.callout-tip collapse="true"}
+### RIGOUR
+Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic "RIGOUR" may assist:
+
+* **R**epeatable
+* **I**ndependent
+* **G**rounded in reality
+* **O**bjective
+* **U**ncertainty-managed
+* **R**obust
+
+**Repeatable:** For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.  
+
+**Independent:** Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
+
+**Grounded in reality:** Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.  
+
+**Objective:** Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.  
+
+**Uncertainty-managed:** Uncertainty is identified, managed and communicated throughout the analytical process.  
+
+**Robust:** Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.  
+
+:::
+
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 

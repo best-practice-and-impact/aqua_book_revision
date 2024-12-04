@@ -16,7 +16,7 @@ For purposes of this chapter, culture is defined as the shared ways of working, 
 A strong culture of quality assurance means that quality assurance is understood, expected, and valued across all those involved in the analytical process, including commissioners, analysts, users of analysis, managers, senior leaders and stakeholders.   
 
 
-Culture enables the risk management described elsewhere in this document.
+Culture enables the risk management described [elsewhere in this document](proportionality.html#structured-assessment-of-business-risk-and-complexity).
 
 ## Leadership
 
@@ -33,7 +33,7 @@ HM Revenue and Customs have developed a Quality Champions network, made up of an
 
 As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns, and be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. 
 
-Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), external publication of models or methods and publication of the register of Business Critical Models.  
+Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
 
 Senior leaders should also develop processes so teams can report when things go wrong, be open and honest when issues occur, carry out reviews to understand the failures in the assurance process and share the lessons learnt across the analytical community.
 
@@ -52,11 +52,11 @@ There is a risk that work, and time pressures mean teams cut corners on quality 
 
 If time constraints mean insufficient assurance has taken place, senior leaders should ensure this is explicitly acknowledged and reported. This should be reported via an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an independent review from an independent source such as the  Government Actuary’s Department (GAD) (https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
+Where analysis requires peer review, this should be carried out by independent, skilled and competent individuals or groups. However, it can be difficult to identify available experts who are able to provide a review. There are several approaches to support and embed independent review, such as setting up specific teams to review and audit a sample of analytical projects, developing assurance networks of analysts who can provide reviews when needed, partnering with another Department, or procuring an independent review from an independent source such as the  Government Actuary’s Department ([GAD](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services)), an academic institution or contractor. Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting peer reviews is part of their role.
 
 ::: {.callout-tip}
 # HM Revenue and Customs independent review team
-HMRC has a small analytical team which independently reviews analysis from across the department, including a sample HMRC’s business-critical models. The reviews provide assurance for high profile analysis and support the sharing of best practice. 
+HMRC has a small analytical team which independently reviews analysis from across the department, including a sample of HMRC’s business-critical models. The reviews provide assurance for high profile analysis and support the sharing of best practice. 
 :::
 
 ### Capability
@@ -77,7 +77,9 @@ College participants also join the Modelling Integrity Network, as potential Ass
 
 
 ### Quality assurance champions
-In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion. This person can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+
+In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion/s. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+
 
 
 ## Tools
@@ -100,7 +102,7 @@ Uncertainty is intrinsic to government work. Analysis should support government 
 
 Governance supports a strong quality assurance culture, by overseeing the management and assurance of analysis. The [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance, which should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
 
-Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within wider programme level governance.  
+Project level governance can provide oversight over a particular model or work area, allowing the Approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions (which may be recorded in an [assumptions log](definitions_and_key_concepts.html#assumptions-log)) will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within wider programme level governance.  
 
 Analytical governance boards for new, high-profile or complex pieces of analysis, can allow senior analytical leaders and experts to provide oversight and challenge of analysis and ensure best practice is followed. These groups are multi-disciplinary and can cover a range of analytical approaches based on their expertise and experience. This can help ensure that innovations and new approaches are disseminated across teams, and standards are applied equally across similar work.  
 
@@ -110,13 +112,21 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 
 ## Externally commissioned analysis
 
-Analysis may be commissioned externally such as qualitative or quantitative research, or the production of models. In this case the commissioning department remains accountable for analytical quality. The commissioning department should ensure that quality standards are clear and being met and documented to their own requirements. 
+
+Analysis may be commissioned externally such as qualitative or quantitative research, or the production of models. In this case the commissioning department is accountable for analytical quality. The commissioning analyst should ensure that quality standards are clear and being met and that these standards are documented.
+
+For Arm’s Length Bodies[^1] (ALBs), the Commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
+
+The guidance mentioned above also applies to Arms Length Bodies. They may set out in a framework document how their Accounting Officer will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
+
 
 Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2)
 
+
 When working with third parties (e.g Arm's Length Bodies (ALBs)), the commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
+
 
 For example, the third party may only undertake the Analyst role in the analysis phase or they may undertake the Analyst, Assurer and Approver roles in all stages of the lifecycle.
 
-
+[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
 
