@@ -18,6 +18,12 @@ A strong culture of quality assurance means that quality assurance is understood
 
 Culture enables the risk management described [elsewhere in this document](proportionality.html#structured-assessment-of-business-risk-and-complexity).
 
+::: {.callout-tip}
+# Assessing and Guiding Organisational Performance
+The Department for Education has developed a Quality Assurance Maturity Model (insert hyperlink) here to help government departments and arm's length bodies. It is an objective self-assessment method for assessing  assess an organisation's relative strengths and weaknesses. Orfanisations judge their level of QA maturity in nine assessment areas to give an overall picture of their QA Maturity. It can be used as an aid to setting direction and activities.
+
+:::
+
 ## Leadership
 
 A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A important element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
