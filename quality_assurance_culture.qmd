@@ -37,7 +37,8 @@ Senior leaders should ensure there is clear messaging and standards on quality a
 HM Revenue and Customs have developed a Quality Champions network, made up of analysts from across the department. The network discuss quality assurance initiatives, quality issues and how they were resolved and shares wider best practice. 
 :::
 
-As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns, and be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. 
+As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns, and be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as *Departmental Governance* assessment area. This area helps senior leaders reviw thier Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
+
 
 Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
 
