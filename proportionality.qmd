@@ -151,3 +151,5 @@ The difference will be in ensuring the assessment of risks and the applied mitig
 
 Increasingly analysis may be underpinned by artificial intelligence or other forms of black-box models. With such models, the need to understand business risk remains, and the same structured approach to assessing business risk should be taken. The challenges in providing this assessment will be in ensuring the transparency of the analysis, availability of a suitable mix of experts, and developing understanding of what mitigations are possible.
 
+To note the [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html) has assurance highlighted in "Principle 10".
+

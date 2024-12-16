@@ -115,7 +115,7 @@ While the Scoping and Design stages identified and described risks and uncertain
 
 Assurance activities during the Analysis stage:
 
-* may include performance testing in a live environment and 
+* may include performance testing in the live/production environment and 
 * should include the verification steps set out in the Design Phase
 * should include validation and verification of automatic tests to ensure the model behave as expected
 See the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance) for further details.

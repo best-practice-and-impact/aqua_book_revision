@@ -57,7 +57,7 @@ In addition to understanding the problem, the engagement and scoping stage shoul
 
 The Commissioner should communicate to the Analyst what is known about data sources and data quality. This will be used to guide the design of data processing.
 
-The Analyst and Commissioner should also clarify risks and potential effects on the outcomes to inform the decisions around [proportionate assurance](proportionality.qmd). Constraints around resource and timelines should also be clarified and agreed.
+The Analyst and Commissioner should also clarify risks and potential effects on the outcomes to inform the decisions around [proportionate assurance](proportionality.qmd). This includes a discussion on the consideration on the ethics. Constraints around resource and timelines should also be clarified and agreed. 
 
 ## Documentation in the engagement and scoping stage
 
