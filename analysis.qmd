@@ -1,19 +1,19 @@
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
 # Analysis
 
-During the analysis stage the planned analysis is undertaken and assured, and progress and relevance are monitored. The design may be amended to account for any changing circumstances, emerging information, unexpected difficulties or limitations that may be encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases, changes or limitations encountered may mean that the design or scoping stage need to be revisited to address these issues. 
+During the analysis stage, the planned analysis is undertaken and assured, and progress and relevance are monitored. The design may be amended to account for any changing circumstances, emerging information, unexpected difficulties or limitations that may be encountered. This stage also includes maintaining appropriate and traceable records of the analysis and assurance activities conducted, changes, decisions and assumptions made. In some cases changes or limitations encountered may mean that the design or scoping stage need to be revisited to address these issues. 
 
 
 ## Roles and responsibilities in the analysis stage
 
 ### The commissioner's responsibilities
 
-The Commissioner should: 
+The commissioner should: 
 
 * be available to provide input and clarifications to the analyst
 * review any changes in design or methodology that the analyst brings to their attention
@@ -40,7 +40,7 @@ The assurer shall:
 * review the assurance completed by the analyst
 * carry out any further validation and verification they may see as appropriate
 * report errors and areas for improvement to the analyst
-* review that the work proportionately adheres to [best practice for code development](#assurance-of-code), where relevant.
+* review that the work proportionately adheres to [best practice for code development](#assurance-of-code), where relevant
 
 The assurer may need to:
 
@@ -64,13 +64,13 @@ Verification that the implemented methodology meets the design requirements shou
 * dynamic analysis - tests the behaviour of the system, model or code to find errors that arise during execution, includes [unit testing](https://en.wikipedia.org/wiki/Unit_testing), [integration testing](https://en.wikipedia.org/wiki/Integration_testing) and [stress testing](https://en.wikipedia.org/wiki/Stress_testing_(computing))
 * symbolic analysis - particularly relevant to modelling and tests the transformation of symbolic proxies of model inputs into outputs during [the execution of a model](https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf), includes path tracing and cause-effect testing
 * constraint analysis - particularly relevant to modelling and tests the implementation of constraints during model execution, includes checking the assertions of the model and boundary analysis
-* formal analysis - tests logical correctness through [formal verification](https://en.wikipedia.org/wiki/Formal_verification#Formal_verification_for_software) such as logic or mathematical proofs.
+* formal analysis - tests logical correctness through [formal verification](https://en.wikipedia.org/wiki/Formal_verification#Formal_verification_for_software) such as logic or mathematical proofs
 
-Validation refers to testing whether the product meets the requirements of users. It is important to involve the users in the process. [Methods for validation](https://en.wikipedia.org/wiki/Verification_and_validation#Aspects_of_analytical_methods_validation_) include quantification and judgment of acceptable sensitivity, specificity, accuracy, precision and reproducibility.
+Validation is testing whether the product meets the requirements of users. It is important to involve the users in the process. [Methods for validation](https://en.wikipedia.org/wiki/Verification_and_validation#Aspects_of_analytical_methods_validation_) include quantification and judgment of acceptable sensitivity, specificity, accuracy, precision and reproducibility.
 
-Validation of models includes testing the validity of the conceptual model, and testing the operational validity of any computerized model.  
+Validation of models includes testing the validity of the conceptual model and the operational validity of any computerized model.  
 
-You can read more about [techniques that may be useful in validation of models](https://www.informs-sim.org/wsc11papers/016.pdf)
+You can read more about [techniques that may be useful in validation of models](https://www.informs-sim.org/wsc11papers/016.pdf).
 
 The analyst has primary responsibility for conducting verification and validation. The assurer is responsible for reviewing the verification and validation that is carried out by the analyst, and for conducting or recommending additional verification and validation as required. The assurer may refer to the [specification document](definitions_and_key_concepts.html#specification-documentation) to assure that the analysis meets the specification.
 
@@ -85,7 +85,7 @@ It is rare to have the perfect dataset for an analytical commission. This could 
 * there are data or coverage gaps
 * the data may be experimental or there are other reasons why it is not mature    
 
-When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurements of another parameter, or of the parameter of interest under different conditions, that is related to the parameter and conditions of interest. This implies an extrapolation between parameters, or between conditions for the same parameter. Although the use of surrogate data introduces further uncertainty additional to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
+When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurements of another parameter (or of the parameter of interest under different conditions) that is related to the parameter and conditions of interest. Although the use of surrogate data introduces further uncertainty additional to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
 
 The effect of using a proxy dataset should be explored and if the uncertainty associated with the dataset has a large bearing on the analysis, its appropriateness should be revisited. This exploration and the decision to use a particular dataset or input should be recorded for the assurer to verify. 
 
@@ -108,29 +108,30 @@ The analyst shall follow the guidance for good quality code development in a pro
 
 The analyst should:
 
-* aaintain appropriate records of the work
+* maintain appropriate records of the work
 * fully document any code following agreed standards
 * log the data, assumptions and inputs used in the analysis, and decisions made in appropriate [documentation](definitions_and_key_concepts.html/#documentation))
 * record the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its effect on the analysis
-* produce [user and technical documentation](definitions_and_key_concepts.html#user-technical-documentation). 
+* produce [user and technical documentation](definitions_and_key_concepts.html#user-technical-documentation)
 
 For modelling, the analyst may include a model map that describes data flows and transformations.
 
 ## Treatment of uncertainty
 
-While the scoping and design stages identified and described risks and uncertainties, the analysis stage aims to assess and quantify how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. [The Uncertainty Toolkit for Analysts](hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html) reviews methods of quantifying uncertainty. The verification and validation by the Analyst and Assurer should assure the appropriate treatment of uncertainty.
+While the scoping and design stages identified and described risks and uncertainties, the analysis stage assesses and quantifies how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. [The Uncertainty Toolkit for Analysts](hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html) reviews methods of quantifying uncertainty. The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.
 
 ## Black box models
 
-[Black box models](definitions_and_key_concepts.html/#black-box-models)  such as Artificial Intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. 
+[Black box models](definitions_and_key_concepts.html/#black-box-models) such as Artificial Intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. 
 
-Assurance activities during the analysis stage:
+Assurance activities of these models during the analysis stage should:
 
-* may include performance testing in a live environment and 
-* should include the verification steps set out in the design stage
-* should include validation and verification of automatic tests to ensure the model behave as expected
+* include the verification steps set out in the design stage
+* include validation and verification of automatic tests to ensure the model behave as expected
 
-You can read more in the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
+They may include performance testing in a live environment.
+
+You can read more in the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
 ## Multi-use models
 
