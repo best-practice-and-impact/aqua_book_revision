@@ -13,7 +13,7 @@ The AQuA Book has made a significant contribution to the cultural change in assu
 
 The last version of the AQuA Book was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then assurance has become part of the fabric of good practice for developing evidence to support policy development, implementation and operational excellence. 
 
-The world of analysis has developed since we published the first edition of the AQuA Book. Increasingly, in our data driven world, the insights provided by analysis underpin almost all policies and help to support operational excellence. At the same time, our working practices have developed. The dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. We have now broadened the range of methods we use to include open-source software, machine learning and Artificial Intelligence (AI).  
+The world of analysis has developed since we published the first edition of the AQuA Book. Increasingly, in our data driven world, the insights provided by analysis underpin almost all policies and help to support operational excellence. At the same time, our working practices have developed. For example, the dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. We have now broadened the range of methods we use to include open-source software, machine learning and Artificial Intelligence (AI).  
 
 Based on feedback from our users, for this new edition we have added guidance on:  
 
@@ -29,21 +29,18 @@ The AQuA Book is a vital supporting guide for the [Analysis Function Standard](h
 
 It is also referred to by the [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020), the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) and other Functional Standards, such as the [Finance Function](https://www.gov.uk/government/publications/government-finance-standards-page) Standards. 
 
-
 ## Who the AQuA Book is for
 
 The new edition is relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose.
 
 We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:
 
-* operational researchers, statisticians and economists;
-* geographers;
-* finance professionals;
-* actuaries;
-* social researchers carrying out qualitative research;
-* data scientists developing advanced analytics;
-
-
+* operational researchers, statisticians and economists
+* geographers
+* finance professionals
+* actuaries
+* social researchers carrying out qualitative research
+* data scientists developing advanced analytics
 
 ## How to use this book
 
@@ -51,13 +48,13 @@ The AQuA Book has been developed to help the analysis community:
 
 * publish analytical insights that will be used for major decisions and operations
 * minimising the risk of errors arising that cause operational, business or reputational damage 
-* promote trust in analysts' work
-* ensure appropriate quality assurance in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use 
-* promote confidence in analysis that is needed for transparency and public openness
+* create greater trust in analysts' work
+* ensure appropriate quality assurance is in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use of analysis
+* develop the confidence in analysis that is needed for transparency and public openness
 * support the analytical assurance that is required for audit purposes [^2]
 
 The first four chapters of this book cover definitions and themes, while the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
-![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
+![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally to delivery and communication. After the final stage the cycle either ends at sign-off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
 
 Each chapter in the second half of the book is structured as follows:
 
@@ -70,9 +67,9 @@ Each chapter in the second half of the book is structured as follows:
 * Multi-use models
 * any other guidance specific to the stage of the life cycle
 
-Thie AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory: 
+The AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory: 
 
-* **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances, at all times 
+* **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances and at all times 
 * **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
 * **‘may’** denotes approval 
 * **‘might’** denotes a possibility 
@@ -80,7 +77,6 @@ Thie AQuA Book uses the following terms to indicate whether recommendations are 
 * **is/are** is used for a description 
 
 This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
-
 
 ## Principles of analytical quality assurance {.unnumbered}
 
@@ -108,7 +104,7 @@ You can read more on verification and validation in chapters [5-9].
 
 It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
 
-You can read more about uncertainty in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io).
+You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](analystsuncertaintytoolkit.github.io).
 
 ### Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
 
