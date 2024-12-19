@@ -1,14 +1,12 @@
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
 # Design
 
-## Introduction and overview
-
-During the design stage the analyst creates an actionable analytical plan from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deeciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artifical Intelligence (AI) models.
+During the design stage the analyst creates an actionable [analytical plan]((#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deeciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artifical Intelligence (AI) models.
 
 ### The analytical plan
 
@@ -45,9 +43,10 @@ The recommended approach for developing analysis in code is to use a [Reproducib
 ## Roles and responsibilities in the design stage
 
 ### The commissioner's responsibilities
+
 The commissioner should confirm that the analytical approach will satisfy their needs. To assist in this, the commissioner may review the analytical plan.
 
-The commissioner's domain expertise can be a useful resource for the analyst in the design stage. The commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs, all of which can inform the design.
+The commissioner's expertise can be a useful resource for the analyst in the design stage. The commissioner might provide information regarding the input assumptions, data requirements and the most effective ways to present the outputs. All of these can inform the design.
 
 
 ### The analyst's responsibilities 
@@ -62,10 +61,12 @@ The analyst should:
 *  follow any organisation governance procedures for project design
 
 ### The assurer's responsibilities 
-The Aasurer should review the analytical plan to ensure that they are able to conduct the required assurance activities. They may provide feedback on the analytical plan. The Assurer should plan sufficient time for the assurance activity. 
+
+The aasurer should review the analytical plan to ensure that it is able to conduct the required assurance activities. They may provide feedback on the analytical plan. The assurer should plan sufficient time for the assurance activity. 
 
 
 ### The approver's responsibilities
+
 In smaller projects, the approver may not be heavily involved in the design stage. However, for business critical analysis, the approver may want to confirm that organisational governance procedures for design have been followed.
 
 
@@ -79,14 +80,14 @@ The assurance of the design stage should consider whether the analytical plan is
 * deliver as intended (verification)
 * be robust (for exmaple, provide a well-structured, data driven plan with a sound overall design)
 
-The assurance of the design stage may be carried out by the assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance, and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
+The assurance of the design stage may be carried out by the assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
 
 
 ## Documentation
 
-The design process should be documented in a proportionate manner. A design document that records the [analytical plan](#the-analytical-plan) should be produced by the analyst and signed-off by the commissioner. The design document may be reviewed by the assurer.
+The design process should be documented in a proportionate manner. A design document that records the analytical plan should be produced by the analyst and signed-off by the commissioner. The design document may be reviewed by the assurer.
 
-For modelling, an initial model map  may be produced that describes data flows and transformations. This can be updated as the project progresses through the Analysis stage.
+For modelling, an initial model map may be produced that describes data flows and transformations. This can be updated as the project progresses through the Analysis stage.
 
 It is best practice to use formal version control to track changes in the design document.
 
@@ -94,7 +95,7 @@ It is best practice to use formal version control to track changes in the design
 
 During the design stage, analysts should examine the planned analysis systematically for possible sources and types of uncertainty. This is to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. 
 
-You can read more in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html)
+You can read more in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html).
 
 
 ## Black box models
