@@ -6,20 +6,22 @@ format:
 ---
 
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
 # Proportionality
 
-All analysis shall be assured. The assurance should be proportionate to the potential effect it will have and the size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks. 
+All analysis shall be assured. 
 
 The assurer and the analyst shall be independent. The degree of separation depends on many factors including the importance of the output, and the size and complexity of the analysis. This does not mean that the analyst should not undertake assurance, rather that there shall also be some formal independent assurance. 
 
+The assurance should be proportionate to the potential effect it will have and the size and complexity of the analysis. The level of assurance should be guided by a structured assessment of the business risks. 
+
 ## Factors for determining appropriate assurance
 
-While there is a need to be confident in the analysis it is not necessary to spend months assuring simple analysis that will have a minor influence on a decision.  The level of analysis should be appropriate (proportionate) to the analysis.
+While there is a need to be confident in the analysis, it is not necessary to spend months assuring simple analysis that will have a minor influence on a decision.  The level of analysis should be appropriate (proportionate) to the analysis.
 
 Table 3-1 provides a list of factors that should be considered when determining what level of assurance is appropriate. 
 
@@ -29,7 +31,7 @@ Table 3-1 provides a list of factors that should be considered when determining 
 | Relevance of the analysis to the decision-making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the whole evidence base.  |
 | Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
-| Reusing or repurposing existing work | Reusing work that was carried out previously may require validation and verification to confirm that original approach. For example, the original method and assumptions data are still appropriate for the new requirement. |
+| Reusing or repurposing existing work | Reusing work may require validation and verification to confirm that original approach. For example, the original method and assumptions data are still appropriate for the new requirement. |
 | Level of precision required in outputs | Lower precision analysis often uses simplified assumption, models and data. The assurance approach is the same but will take less time than more precise analysis.|
 | Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Analysis that is used for many purposes (for example, population projections) may require greater levels of quality assurance than might be suggested by any of the individual decisions they support. |
 | Longevity of the analysis | Ongoing analysis will require robust change control and regular review. |
@@ -44,16 +46,15 @@ Figure 3-1 shows some assurance techniques that might be considered for differen
 
 ![Figure 3-1 The darker shades in the diagram indicate the need for extra assurance activities and greater separation between the analyst and the assurer. The contours indicate the groups of activities that may be carried out for a particular level of business risk or complexity.](Figure 3-1 Types of Assurance Alternative 3.jpg){fig-alt="Figure 3-1 is diagram showing the relationship between risk, complexity and the requirement for assurance activity. There are two axes on the diagram. The X axis goes from simple analysis on the left to highly complex analysis on the right. The y axis goes from low business risk at the bottom to high business risk at the top. As risk and complexity increase there is a need for extra assurance activities as well as a higher degree of separation between the analyst and the assurer. For complex, high risk analysis this might include external peer review or audit. On the diagram, the increasing level of risk as we move from bottom left to top right is represented by darker shades."}
 
-The interventions in figure 3-1 must not be viewed in isolation. The interventions should build on each other, for example some complex and risky analysis that would benefit from an external review should also use interventions closer to the axes, such as version control and analyst-led testing. 
+The interventions in figure 3-1 must not be viewed in isolation. The interventions should build on each other. For example, some complex and risky analysis that would benefit from an external review should also use interventions closer to the axes, such as version control and analyst-led testing. 
 
-The total elimination of risk will never be achievable so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques but there are many different techniques explained in the AQuA book that need to be considered and implemented as appropriate.
+The total elimination of risk will never be achieved, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques but there are many different techniques explained in the AQuA Book that need to be considered and implemented as appropriate.
 
 ## Structured assessment of business risk and complexity
 
-To determine what assurance is needed it is necessary to take a structured approach when reviewing business risks. Business risk should be viewed as the combination of the potential effect of analytical errors and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced. 
+A structured approach  should be taken to determine what assurance is needed when reviewing business risks. Business risk should be viewed as the combination of the potential effect of analytical errors and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced than the level of the effect.
 
-This can be visualised by considering the situation as a risk matrix (Table 3-2). The effect the analysis will have is usually be beyond the control of the analyst to change, so there will be few options to lessen the effect of a risk. However, there will usually be treatments (or mitigations) involving additional assurance measures that will allow the assessed business risk to become less likely to occur.
-
+This can be visualised by considering the situation as a risk matrix (table 3-2). The effect the analysis will have is usually be beyond the control of the analyst to change, so there will be few options to lessen the effect of a risk. However, there will usually be treatments (or mitigations) involving additional assurance measures that will allow the assessed business risk to become less likely to occur.
 
 <table class="riskTable">
 <caption>
@@ -120,7 +121,7 @@ Table 3-2 - Example of a risk matrix
 </tr>
 </table>
 
-Table 3-3 shows appropriate responses to a risk assessment. Where business risk is high, appropriate treatment(s) must be considered to reduce the probability of errors occurring. The choice of treatment will depend on the mitigations already in place and on the complexity of the analysis (Figure 3-1). 
+Table 3-3 shows appropriate responses to a risk assessment. Where business risk is high, appropriate mitigations must be considered to reduce the probability of errors occurring. This will depend on the mitigations already in place and on the complexity of the analysis (figure 3-1). 
 
 For a situation where simple analysis is being employed a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures options such as external peer review may be necessary. 
 
@@ -128,14 +129,14 @@ In cases where there is a need for analysis but there are also significant time 
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
-| High     | High risk should not be tolerated. New assurance measures must be considered to treat (mitigate) the likelihood of errors occurring.  If treatment isn't an option, consideration must be given to terminating or transferring the (analysis) risk. If it remains necessary to tolerate the risk the senior responsible owner needs to fully understand the risk.  |
-| Medium   | Medium risk should not be tolerated without the agreement of the senior responsible owner. New assurance measures should be put in place to treat (mitigate) the likelihood of errors occurring. Continue with planned or existing mitigations. |
-| Low      | Low risk can be tolerated. Continue with existing or planned mitigations and new treatments may be considered.  |
+| High     | High risk should not be tolerated. New assurance measures must be considered to treat the likelihood of errors occurring.  If treatment isn't an option, consideration must be given to terminating or transferring the risk. If it remains necessary to tolerate the risk the senior responsible owner needs to fully understand this risk.  |
+| Medium   | Medium risk should not be tolerated without the agreement of the senior responsible owner. New assurance measures should be put in place to treat the likelihood of errors occurring. Continue with planned or existing mitigations. |
+| Low      | Low risk can be tolerated. Continue with existing or planned mitigations. New treatments may also be considered.  |
 | Very Low | Very low risk can be tolerated. Continue with existing or planned mitigations measures.  |
 
 : Table 3-3 Responses to risk assessment levels {.striped}
 
-You can read more on risk management in the [Orange book](https://www.gov.uk/government/publications/orange-book) which covers risk management principles and risk control frameworks.
+You can read more on risk management in the [Orange Book](https://www.gov.uk/government/publications/orange-book) which covers risk management principles and risk control frameworks.
 
 ## Externally commissioned work
 
