@@ -62,7 +62,7 @@ The analyst should:
 
 ### The assurer's responsibilities 
 
-The aasurer should review the analytical plan to ensure that it is able to conduct the required assurance activities. They may provide feedback on the analytical plan. The assurer should plan sufficient time for the assurance activity. 
+The assurer should review the analytical plan to ensure that it is able to conduct the required assurance activities. They may provide feedback on the analytical plan. The assurer should plan sufficient time for the assurance activity. 
 
 
 ### The approver's responsibilities
