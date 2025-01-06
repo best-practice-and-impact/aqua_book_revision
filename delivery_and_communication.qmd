@@ -41,7 +41,7 @@ The analyst may be required to communicate the assurance state to the approver i
 The assurer shall communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
 
 
-### The approver's bilities 
+### The approver's abilities 
 
 The approver shall:
 
