@@ -18,6 +18,12 @@ A strong culture of quality assurance means that quality assurance is understood
 
 Culture enables the risk management described [elsewhere in this document](proportionality.html#structured-assessment-of-business-risk-and-complexity).
 
+::: {.callout-tip}
+# Assessing and Guiding Organisational Performance
+The Department for Education has developed a Quality Assurance Maturity Model (insert hyperlink) to help government departments and arm's length bodies. It is an objective self-assessment method for assessing an organisation's relative strengths and weaknesses. Organisations can judge their level of QA maturity in nine assessment areas to give an overall picture of their QA Maturity. It can be used as an aid to setting direction and activities.
+
+:::
+
 ## Leadership
 
 A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. A important element of discharging this accountability is to clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
@@ -31,7 +37,8 @@ Senior leaders should ensure there is clear messaging and standards on quality a
 HM Revenue and Customs have developed a Quality Champions network, made up of analysts from across the department. The network discuss quality assurance initiatives, quality issues and how they were resolved and shares wider best practice. 
 :::
 
-As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns, and be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. 
+As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns, and be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as the *Departmental Governance* assessment area. This area helps senior leaders reviw thier Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
+
 
 Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
 
@@ -65,6 +72,11 @@ There is a risk that errors occur because of a lack of skills or experience. Sen
 
 There are various cross-government resources designed to provide support and guidance for commissioners and users of analysis. For example, the Analysis Function's [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) aims to help policy professionals to work effectively with analysts and analysis. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.
 
+
+### Quality assurance champions
+
+In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion/s. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+
 ::: {.callout-tip}
 # Building assurance capability
 The Department for Energy Security and Net Zero are building assurance capacity with a programme of quality assurance Colleges. The Colleges run regular virtual sessions, open to colleagues across Government and Partner Organisations.
@@ -73,13 +85,6 @@ These sessions include an interactive activity looking at a purposefully sabotag
 
 College participants also join the Modelling Integrity Network, as potential Assuring Analysts where these cannot be found by Lead Analysts in their own policy areas.  
 :::
-
-
-
-### Quality assurance champions
-
-In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion/s. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
-
 
 
 ## Tools

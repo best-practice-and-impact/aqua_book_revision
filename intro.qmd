@@ -25,7 +25,7 @@ Users of the AQuA book have pointed out some things we did not cover in the firs
 
 We provide improved guidance on what [a proportionate approach to assurance means](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html) and have made the whole guide applicable to all types of analysis.
 
-The AQuA Book describes what you need to do but not how to do it, although it does contain many worked examples. Large organisations will have their own processes and practices covering “the how”. 
+The AQuA Book describes what you need to do but not how to do it, although it does contain many worked examples. Large organisations will have their own processes and practices covering “the how”. These can be assessed using a Quality Assurance Maturity Model - hyper link required.
 
 For those of you who do not work in places with bespoke guidance you will find a collection of helpful resources in chapter 10.
 
