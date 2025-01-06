@@ -85,7 +85,7 @@ It is rare to have the perfect dataset for an analytical commission. This could 
 * there are data or coverage gaps
 * the data may be experimental or there are other reasons why it is not mature    
 
-When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurements of another parameter (or of the parameter of interest under different conditions) that is related to the parameter and conditions of interest. Although the use of surrogate data introduces further uncertainty additional to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
+When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurements of another parameter (or of the parameter of interest under different conditions) that is related to the parameter and conditions of interest. This implies extrapolating between parameters, or between conditions for the same parameter. Although the use of surrogate data introduces further uncertainty additional to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.
 
 The effect of using a proxy dataset should be explored and if the uncertainty associated with the dataset has a large bearing on the analysis, its appropriateness should be revisited. This exploration and the decision to use a particular dataset or input should be recorded for the assurer to verify. 
 
@@ -124,12 +124,11 @@ While the scoping and design stages identified and described risks and uncertain
 
 [Black box models](definitions_and_key_concepts.html/#black-box-models) such as Artificial Intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis. 
 
-Assurance activities of these models during the analysis stage should:
+Assurance activities of these models during the analysis stage:
 
-* include the verification steps set out in the design stage
-* include validation and verification of automatic tests to ensure the model behave as expected
-
-They may include performance testing in a live environment.
+* should include the verification steps set out in the design stage
+* should include validation and verification of automatic tests to ensure the model behave as expected
+* may include performance testing in a live environment
 
 You can read more in the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
