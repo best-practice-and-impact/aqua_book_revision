@@ -90,7 +90,7 @@ There is a risk of technology or analytical tools being out of date. This means 
 
 *  making funding available for new tools or improving existing tools 
 *  gathering common issues
-*  escalating issues to appropriate points in their organisation
+*  escalating issues to riate points in their organisation
 
 ## Data
 
@@ -98,7 +98,7 @@ There is a risk that data quality and data understanding cause quality issues wi
 
 ## Uncertainty in analysis
 
-Uncertainty is an inevitable part of government work. Analysis should support government decision-making by treating uncertainty approrpiately. Senior leaders are responsible for creating a culture in which the proportionate handling of uncertainty is part of all analytical work. To do so, senior leaders should gain an understanding of how to identify uncertainty, how uncertainty can be analysed and how to plan for uncertainty. The National Audit Office has published [guidance for decision makers and senior leaders](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf) on managing uncertainty. It is the responsibility of decision makers to challenge analysts, as well as other members of a project team, on whether uncertainties have been considered, treated appropriately and communicated.
+Uncertainty is an inevitable part of government work. Analysis should support government decision-making by treating uncertainty appropriately. Senior leaders are responsible for creating a culture in which the proportionate handling of uncertainty is part of all analytical work. To do so, senior leaders should gain an understanding of how to identify uncertainty, how uncertainty can be analysed and how to plan for uncertainty. The National Audit Office has published [guidance for decision makers and senior leaders](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf) on managing uncertainty. It is the responsibility of decision makers to challenge analysts, as well as other members of a project team, on whether uncertainties have been considered, treated appropriately and communicated.
 
 ## Governance and control
 
