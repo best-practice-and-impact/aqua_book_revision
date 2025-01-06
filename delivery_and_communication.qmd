@@ -41,7 +41,7 @@ The analyst may be required to communicate the assurance state to the approver i
 The assurer shall communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
 
 
-### The approver's responsibilities 
+### The approver's bilities 
 
 The approver shall:
 
@@ -142,7 +142,7 @@ Government has produced a range of guidance to support analysts in presenting an
 
 ## Black-box models
  
-The approver is responsible for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
+The approver is ble for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
 
 This may include:
 
@@ -168,9 +168,9 @@ Each department and ALB should decide what is defined as business critical based
 
 The definitions and thresholds of business criticality should be aligned with their organisation's own risk framework. The thresholds should be agreed by the director of analysis or equivalent.
 
-ALB’s are responsible for publishing their own BCA list, unless agreed otherwise with the department. The ALB’s accounting officer is responsible for ensuring publication and the sponsor department’s accounting officer oversees this.
+ALB’s are responsible for publishing their own BCA list, unless agreed otherwise with the department. The ALB’s accounting officer is accountable for ensuring publication and the sponsor department’s accounting officer oversees this.
 
-The BCA list should include all business-critical analysis unless there is an internally documented reason that the analysis should be excluded. This shoud be agreed with the director of analysis (or equivalent) and that agreement should be documented.
+The BCA list should include all business-critical analysis unless there is an internally documented reason that the analysis should be excluded. This should be agreed with the director of analysis (or equivalent) and that agreement should be documented.
 
 Justification for not publishing a model in the list may include, but is not limited to: 
 
