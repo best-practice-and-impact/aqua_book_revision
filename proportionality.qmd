@@ -54,7 +54,7 @@ The total elimination of risk will never be achieved, so a balance needs to be f
 
 A structured approach  should be taken to determine what assurance is needed when reviewing business risks. Business risk should be viewed as the combination of the potential effect of analytical errors and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced than the level of the effect.
 
-This can be visualised by considering the situation as a risk matrix (table 3-2). The effect the analysis will have is usually be beyond the control of the analyst to change, so there will be few options to lessen the effect of a risk. However, there will usually be treatments (or mitigations) involving additional assurance measures that will allow the assessed business risk to become less likely to occur.
+This can be visualised by considering the situation as a risk matrix (table 3-2). The effect the analysis will have is usually beyond the control of the analyst to change, so there will be few options to lessen the effect of a risk. However, there will usually be treatments (or mitigations) involving additional assurance measures that will allow the assessed business risk to become less likely to occur.
 
 <table class="riskTable">
 <caption>
