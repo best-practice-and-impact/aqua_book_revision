@@ -59,7 +59,7 @@ The approver should be aware of the progress of the analysis and ensure that the
 Verification that the implemented methodology meets the design requirements should be part the analysis. [Whitener and Balci (1989)](https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf) reviewed verification techniques in relation to simulation modelling but these techniques also extend to analysis more broadly. They include:
 
 * informal analysis - techniques that rely on human reasoning and subjectivity
-* tatic analysis - tests that the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)
+* static analysis - tests that the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)
 * dynamic analysis - tests the behaviour of the system, model or code to find errors that arise during execution, includes [unit testing](https://en.wikipedia.org/wiki/Unit_testing), [integration testing](https://en.wikipedia.org/wiki/Integration_testing) and [stress testing](https://en.wikipedia.org/wiki/Stress_testing_(computing))
 * symbolic analysis - particularly relevant to modelling and tests the transformation of symbolic proxies of model inputs into outputs during [the execution of a model](https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf), includes path tracing and cause-effect testing
 * constraint analysis - particularly relevant to modelling and tests the implementation of constraints during model execution, includes checking the assertions of the model and boundary analysis
