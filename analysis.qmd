@@ -27,7 +27,6 @@ The analyst shall:
 * provide traceable documentation of the assurance they have undertaken
 * respond to recommendations from the assurer and act on them as appropriate
 * proportionately follow [best practice for code development](#assurance-of-code), where relevant
-* produce documentation of the data (as described in [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework))
 * produce documentation of the data  (as described in [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)) and methods used
 * ensure all documentation is sufficient for the assurer to understand the approach
 * document any changes to the analytical plan in a proportionate manner
