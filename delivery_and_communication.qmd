@@ -1,203 +1,195 @@
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 
 # Delivery, communication and sign-off
 
-## Introduction and overview
+The successful delivery of analysis to the commissioner marks its transition from being a product under development to one that is fit and ready to be used to inform decision-making in your organisation and, possibly, inform the public. 
 
-The successful delivery of analysis to its Commissioner marks its transition from being a product under development to one that is fit and ready to be used to inform decision making in your organisation and possibly inform the public. 
-
-This chapter provides information on the processes around assurance of communication of analysis and delivery of analytical output.
-
+This chapter provides information on the assurance of communication of analysis and delivery of analytical output.
 
 
 ## Roles and responsibilities in delivery, communication and sign-off
 
+### The commissioner's responsibilities
+
+The commissioner shall:
+
+* confirm that the analysis is likely to meet their needs
+* use the analysis as specified
+* understand and apply any limitations to its use
 
 
-### The Commissioner's responsibilities during delivery, communication and sign-off
+### The analyst's responsibilities
 
-The Commissioner shall 
-* confirm that the analysis is likely to meet their needs; 
-* use the analysis as specified; and, 
-* understand and apply any limitations to its use.
+The analyst shall:
 
+* follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register) and making the analysis [publicly available](#open-publishing-of-analysis)
+* describe any limitations to using the analysis
 
-### The Analyst's responsibilities during delivery, communication and sign-off
+The analyst should: 
 
-The Analyst 
-- shall follow organisational governance procedures for delivery and sign-off, including, where appropriate, updating the [business-critical analysis register](#business-critical-analysis-register), and making the analysis [publicly available](#open-publishing-of-analysis);
-- shall decribe any limitations to using the analysis; 
-- should ensure that communication meets audience requirements e.g. on accessibility;
-- should be prepared to respond to challenge from the Approver e.g. scruitiny from project or programme boards;
-- may be required to communicate the assurance state to the Approver, if not done directly by the Assurer.
+* ensure that communication meets audience requirements such as accessibility
+* be prepared to respond to challenge from the approver or scruitiny from project or programme boards
 
+The analyst may be required to communicate the assurance state to the approver if this is not done directly by the assurer.
 
-### The Assurer's responsibilities during delivery, communication and sign-off
+### The assurer's responsibilities 
 
-The Assurer shall communicate the assurance state to the Approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented, and provides adequate handling of uncertainty. This communication may go via the Analyst.
+The assurer shall communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
 
 
-### The Approver's responsibilities during delivery, communication and sign-off
-* The Approver shall review the assurance evidence that has been provided to them.
-* The Approver should provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose. 
-* The Approver shall be confident that the analysis meets the design requirements, is of sufficient quality and is adequately and proportionately documented.
-* When they are satisfied with the validity and robustness of the analysis, the Approver should  provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved.
-* The Approver shall follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate.
+### The approver's abilities 
 
+The approver shall:
 
+* review the assurance evidence that has been provided to them
+* be confident that the analysis meets the design requirements, is of sufficient quality and is adequately and proportionately documented
+* follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate
 
-## Assurance activities in the delivery, communication and sign-off stage
+The approver should:
 
+* provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose 
+* provide the analyst with evidence that the analysis outputs have been properly reviewed and formally approved when they are satisfied with the validity and robustness of the analysis
 
+## Assurance activities
 
 ### Delivery
 
-When delivering a piece of analysis, the Analyst and/or Assurer should communicate its assurance state to the Approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance and  to demonstrate that the analysis is ready for delivery, for example:
+When delivering a piece of analysis, the analyst (or assurer), should communicate its assurance state to the approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance. They should also demonstrate that the analysis is ready for delivery. This may include confirming that the analysis:
     
-* It uses suitable data and assumptions;    
-* It has provisions for regular review;
-* It meets the purpose of its commission;    
-* It has been carried out correctly and to its agreed specification;   
-* It has a risk assessment and statement against the programme risk register;
-* It meets analytical standards, such as those around coding standards and documentation;
-* It adheres to any professional codes of practice (e.g. [The Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
-* Where appropriate the analysis is accompanied by a completed [assurance statement](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&wdOrigin=BROWSELINK).   
+* uses suitable data and assumptions    
+* has provisions for regular review
+* meets the purpose of its commission    
+* has been carried out correctly and to its agreed specification   
+* has a risk assessment and statement against the programme risk register
+* meets analytical standards, such as those around coding standards and documentation
+* adheres to any professional codes of practice (for example, [The Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
+* is accompanied by a completed [assurance statement](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&wdOrigin=BROWSELINK), where appropriate
 
-Though not strictly assurance, the analyst should also consider areas such as security ratings, retention policies, intellectual property, ethics and related concerns.
+Though not strictly assurance, the analyst should also consider areas such as:
 
+* security ratings
+* retention policies
+* intellectual property 
+* ethics and related concerns
 
+The approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard. The approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
 
-The Approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard, which considers the [proportionality](proportionality.html) of the work. The Approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
+The exact nature of any scrutiny made by the approver should be proportionate to the effect the analysis is likely to have, the governance process of their programme/ organisation, and follow the [principles of proportionality](proportionality.html).
 
-
-The exact nature of any scrutiny made by the Approver should be proportionate to the effect the analysis is likely to have, the governance process of their programme/ organisation, and follow the principles of proportionality described in [Chapter 3](proportionality.html) of this document. 
-
-To ensure that the analysis is used as intended, the Commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the Analyst. 
+To ensure that the analysis is used as intended, the commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the analyst. 
 
 ### Communication
 
-The effective and transparent communication is essential to enable analysis to be adopted and trusted by the Commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
+The effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
-* Commissioners and users of the analysis;    
-* External scrutiny including the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external audit;    
-* The public, through publications and [Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents) requests;    
-* Academic experts, possibly through a departmental [Areas of Research Interest](https://www.gov.uk/government/publications/dwp-areas-of-research-interest-2023/dwp-areas-of-research-interest-2023) document. 
-* Governmental partners - both national and international
+* commissioners and users of the analysis
+* external scrutiny including the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external audit 
+* the public, through publications and [Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents) requests    
+* academic experts, possibly through a departmental [Areas of Research Interest](https://www.gov.uk/government/publications/dwp-areas-of-research-interest-2023/dwp-areas-of-research-interest-2023) document
+* national and international governmental partners
 
 The form of communication should be tailored to the audience. The communication should be quality assured in a proportionate manner to ensure an accurate reflection of the analytical results.
 
-The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the web.
+The Analysis Function's [Making Analytical Publications Accessible Toolkit](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/) gives guidance to help ensure that any that websites, tools, and technologies produced from analysis are designed and developed so that they meet accessibility guidelines.
 
-If publishing the outcome of any analysis is required, the Analyst should follow departmental and statutory guidance. Some examples are given below:
+If the outcome of any analysis needs to be published the analyst should follow departmental and statutory guidance. There are different guidelines depending on the work that is being published. These are: 
 
-* If you are publishing statistics you will need to follow your organisation's guidance and the [regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-publishing-official-statistics-and-national-statistics/) ;    
-* If you are publishing research, you shall follow your organisations guidance and the [Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols);    
-* If you are publishing an evaluation, refer to any recommendations from the [Evaluation Task Force](https://www.gov.uk/government/organisations/evaluation-task-force);    
+* [The regulatory guidance for publishing official statistics and national statistics](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-publishing-official-statistics-and-national-statistics/)    
+* [The Government Social Research Publication protocol](https://www.gov.uk/government/publications/government-social-research-publication-protocols)   
+* any recommendations from the [Evaluation Task Force](https://www.gov.uk/government/organisations/evaluation-task-force) for evaluations   
 
 ### Sign-off
-The exact nature of the approval process may vary depending on:
 
-* The effect the analysis is likely to have;    
-* The approval process of the organisation, and    
-* The nature of the programme, project or board approving the analysis. 
+The exact nature of the approval process may vary depending on the:
 
-The formality of the sign-off process should be governed by organisational procedures, and be proportionate to the analysis.
+* effect the analysis is likely to have   
+* approval process of the organisation    
+* nature of the programme, project or board approving the analysis
 
-The Approver should provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project / programme board where the decision to approve the analysis was made or similar.
+The formality of the sign-off process should be governed by organisational procedures and be proportionate to the analysis.
 
-
-## Documentation in the delivery, communication and sign-off stage
-
-When the Analyst and Assurer are satisfied that the analysis is ready to hand over to the Commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation may include:
-
-* [Specification](definitions_and_key_concepts.html#specification-documentation) and [design documentation](definitions_and_key_concepts.html#design-documentation)
-* Logs of [data](definitions_and_key_concepts.html#data-log), [assumptions](definitions_and_key_concepts.html#assumptions-log) and [decisions](definitions_and_key_concepts.html#decisions-log) including their source, ownership, reliability and any sensitivity analysis carried out; 
-* [User and technical documentation](definitions_and_key_concepts.html#user-technical-documentation)
-* Advice on uncertainty and its affect on the outputs of the analysis;    
-* A description of the limits of the analysis and what it can and cannot be used for;    
-* Any materials for presenting the analysis to the Commissioner, for example slide decks or reports;    
-* A record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting;    
-* The code-base, when it has been agreed to [publish the analysis openly](#open-publishing-of-analysis)
-* The test plan and results of the tests made against that plan;    
-* A statement of assurance;    
-* A statement that ethical concerns  have been addressed, especially in cases that include the application of [black-box models](definitions_and_key_concepts.html#black-box-models);    
+The approver should provide the analyst with evidence that the analysis outputs have been properly reviewed and formally approved. For example, through the notes of a project or programme board where the decision to approve the analysis was made.
 
 
-  
+## Documentation 
+
+When the analyst and assurer are satisfied that the analysis is ready to hand over to the commissioner, they should ensure that any associated documentation supporting the analysis is ready and has also undergone quality assurance.  Supporting documentation may include:
+
+* [specification](definitions_and_key_concepts.html#specification-documentation) and [design documentation](definitions_and_key_concepts.html#design-documentation)
+* logs of [data](definitions_and_key_concepts.html#data-log), [assumptions](definitions_and_key_concepts.html#assumptions-log) and [decisions](definitions_and_key_concepts.html#decisions-log) including their source, ownership, reliability and any details of any sensitivity analysis carried out
+* [user and technical documentation](definitions_and_key_concepts.html#user-technical-documentation)
+* advice on uncertainty and its affect on the outputs of the analysis
+* a description of the limits of the analysis and what it can and cannot be used for   
+* any materials for presenting the analysis to the commissioner (for example, slide decks or reports)
+* a record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting    
+* the code-base, when it has been agreed to [publish the analysis openly](#open-publishing-of-analysis)
+* the test plan and results of the tests made against that plan  
+* a statement of assurance   
+* a statement confirming that ethical concerns have been addressed, especially in cases that include the application of [black-box models](definitions_and_key_concepts.html#black-box-models)
 
 
-## Treatment of uncertainty in the delivery, communication and sign-off stage
+## Treatment of uncertainty
 
-Government has produced a range of guidance to support analysts in presenting and communicating uncertainty in analysis. This includes:
+Government has produced a range of guidance to support analysts in presenting and communicating uncertainty in analysis, providing valuable advice on how to estimate and present uncertainty when describing the limitations of use of a piece of analysis. This includes:
 
-* The Office for Statistical Regulation’s [Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/); 
-* The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_6.html);    
-* The Government Analysis Function guidance note [Communicating quality, uncertainty and change](https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/);    
+* The Office for Statistical Regulation’s [Approaches to presenting uncertainty in the statistical system](https://osr.statisticsauthority.gov.uk/publication/approaches-to-presenting-uncertainty-in-the-statistical-system/)
+* The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_6.html)  
+* The Government Analysis Function guidance note on [Communicating quality, uncertainty and change](https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/)
 
-Each provides valuable advice on how to estimate and present uncertainty when describing the limitations of use of a piece of analysis.
+## Black-box models
+ 
+The approver is responsible for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
 
-## Black-box models and the delivery, communication and sign-off stage
+This may include:
 
-
-The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
-This may include 
 * formal consultation and approval by an ethics committee or similar
 * provisions for regular review 
-* communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected 
-The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+* communicating the health of the model at regular intervals to the commissioner (for exampe, confirming that the model is continuing to behave as expected) 
 
+You can read more in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
+## Multi-use models
 
-## Multi-use models and the delivery, communication and sign-off stage
-
-There is a greater risk that multi-use models may be used for purposes outside the intended scope. This places a greater onus on the Analyst to clearly communicate to all users the limitations and intended use. The Analyst may consider testing communication with different user groups to ensure that the analytical outputs are used as intended.
+There is a greater risk that multi-use models may be used for purposes outside the intended scope. This means it is important that the analyst very clearly communicates to all users the limitations and intended use. The analyst may consider testing communication with different user groups to ensure that the analytical outputs are used as intended.
 
 ## Analytical transparency   
 
-Enabling the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the public with information on models used for [business-critical decisions](#business-critical-analysis-register) and [making analysis open](#open-publishing-of-analysis). Further guidance on transparency can be found [here](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
+Supporting and encouraging the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the public with information on models used for [business-critical decisions](#business-critical-analysis-register), [making analysis open](#open-publishing-of-analysis) and ensuring [transparency](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
 
 ### Business-critical analysis register
 
-This section applies to publishing lists of [business critical analysis](definitions_and_key_concepts.html#business-critical-analysis) (BCA), including models.
+Departments and Arm’s Length Bodies[^1] (ALBs) should publish a list of [business critical analysis](definitions_and_key_concepts.html#business-critical-analysis) (BCA) in use within their organisations at least annually. This includes models. The list should meet accessibility guidelines.
 
-1. Departments and Arm’s Length Bodies[^1] (ALBs) should publish a list of BCA 
-in use within their organisations at least annually.
-2. Each department and ALB should decide what is defined as business 
-critical based on the extent to which they influence significant financial and funding 
-decisions; are necessary to the achievement of a departmental business plan, or
-where an error could lead to serious financial, legal or reputational damage. 
-3. Departments and ALBs should align their definitions and thresholds of business 
-criticality with their own risk framework respectively. The thresholds should be 
-agreed by the Director of Analysis or equivalent.
-4. ALB’s are responsible for publishing their own BCA list, unless agreed otherwise 
-with the department. The ALB’s Accounting Officer is accountable for 
-ensuring publication and the sponsor department’s AO oversees this.
-5. The BCA lists should include all business-critical analysis unless there is an 
-internally documented reason that the analysis should be excluded, agreed with the Director 
-of Analysis (or equivalent) and the agreement documented.
-6. Justification for not publishing a model in the list may include exemptions 
-under the Freedom of Information (FOI) Act 2000 where relevant, for example,
-including, but not limited to: National Security, policy under development or 
-prejudicing commercial interests. 
-7. In addition to these exemptions, there may be further reasons where the risk of 
-negative consequence is deemed to outweigh the potential benefits resulting from 
-publication of the model. One example is where population behaviour may change 
-in response to awareness of a model or modelling.
-8. For clarity, the name of model/analysis and what it is used for should be included, 
-alongside links to published material. 
-9. To ensure the list is accessible, content and structure should follow guidance 
-for [writing plainly](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+Each department and ALB should decide what is defined as business critical based on the extent to which they influence significant financial and funding decisions, are necessary to the achievement of a departmental business plan, or where an error could lead to serious financial, legal or reputational damage. 
+
+The definitions and thresholds of business criticality should be aligned with their organisation's own risk framework. The thresholds should be agreed by the director of analysis or equivalent.
+
+ALB’s are responsible for publishing their own BCA list, unless agreed otherwise with the department. The ALB’s accounting officer is accountable for ensuring publication and the sponsor department’s accounting officer oversees this.
+
+The BCA list should include all business-critical analysis unless there is an internally documented reason that the analysis should be excluded. This should be agreed with the director of analysis (or equivalent) and that agreement should be documented.
+
+Justification for not publishing a model in the list may include, but is not limited to: 
+
+* exemptions under the Freedom of Information (FOI) Act 2000 
+* national security
+* policy under development
+* commercial interests
+
+In addition to these exemptions there may be further reasons where the risk of negative consequence is deemed to outweigh the potential benefits resulting from publication of the model. For example, where population behaviour may change in response to awareness of a model or modelling.
+
+For clarity, the name of the analysis or model and what it is used for should be included alongside links to any published material. 
 
 ### Open publishing of analysis
 
-To facilitate public scrutiny, departments may choose to make analysis/models (e.g. source code or spreadsheets) and details which may include data, assumptions, methodology and outputs open to the public. Open publishing source code and other elements of analysis allows others to reuse and build on the work (https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open). Practical guidance to open coding can be found [here](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable).
+To facilitate public scrutiny departments may choose to make the analysis or model (for example, source code or spreadsheets) and any relevant data, assumptions, methodology and outputs open to the public. [Open publishing source code](https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open) and other parts of the analysis allows others to reuse and build on the work.
 
-Publication of analysis should also draw on the [guidance for BCA lists](#business-critical-analysis-register) related to accessibility and justification for when publication may not be appropriate. For analysis that is extremely complex in nature, it may be more appropriate to publish summary information instead, to aid the accessibility.  
+You can read more about making [source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable).
+
+The [guidance for publishing BCA lists](#business-critical-analysis-register) should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible. 
 
 
-
-[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
+[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
