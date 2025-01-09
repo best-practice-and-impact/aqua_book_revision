@@ -47,18 +47,18 @@ The approver shall:
 
 * review the assurance evidence that has been provided to them
 * be confident that the analysis meets the design requirements, is of sufficient quality and is adequately and proportionately documented
-* shall follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate
+* follow organisation governance procedures for sign-off, including updating of the [business-critical analysis register](#business-critical-analysis-register), where appropriate
 
 The approver should:
 
 * provide sufficient challenge to the analysts to gain assurance that the analysis is fit for purpose 
-* provide the Analyst with evidence that the analysis outputs have been properly reviewed and formally approved when they are satisfied with the validity and robustness of the analysis
+* provide the analyst with evidence that the analysis outputs have been properly reviewed and formally approved when they are satisfied with the validity and robustness of the analysis
 
 ## Assurance activities
 
 ### Delivery
 
-When delivering a piece of analysis assurer, or analyst, should communicate its assurance state to the approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance. They should also demonstrate that the analysis is ready for delivery. This may include confirming that the analysis:
+When delivering a piece of analysis, the analyst (or assurer), should communicate its assurance state to the approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance. They should also demonstrate that the analysis is ready for delivery. This may include confirming that the analysis:
     
 * uses suitable data and assumptions    
 * has provisions for regular review
@@ -125,7 +125,7 @@ When the analyst and assurer are satisfied that the analysis is ready to hand ov
 * advice on uncertainty and its affect on the outputs of the analysis
 * a description of the limits of the analysis and what it can and cannot be used for   
 * any materials for presenting the analysis to the commissioner (for example, slide decks or reports)
-* a record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting;    
+* a record of the analysis including methods used, dependencies, process maps, change and version control logs and error reporting    
 * the code-base, when it has been agreed to [publish the analysis openly](#open-publishing-of-analysis)
 * the test plan and results of the tests made against that plan  
 * a statement of assurance   
@@ -142,7 +142,7 @@ Government has produced a range of guidance to support analysts in presenting an
 
 ## Black-box models
  
-The approver is ble for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
+The approver is responsible for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
 
 This may include:
 
