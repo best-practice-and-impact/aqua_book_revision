@@ -36,8 +36,8 @@ The assurer (may be known as the analytical assurer or assuring analyst):
 * reviews the assurance completed by the analyst  
 * carries out any further validation and verification they may see as appropriate 
 * reports errors and areas for improvement to the analyst  
-* rundertakes repeated reviews as required  
-* confirms the work has been appropriately scoped, executed, validated and verified and documented to the Approver  
+* undertakes repeated reviews as required  
+* confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
 * can be a group of assurers, in which case the leader of the group is responsible
 * must be independent from the analysts
 
