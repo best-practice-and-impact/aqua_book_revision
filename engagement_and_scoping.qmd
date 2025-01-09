@@ -17,9 +17,9 @@ During this engagement and scoping stage the commissioner and the analyst shape 
 In the engagement and scoping stage the commissioner should:
 
 *  communicate to the analyst the important aspects of the problem, scope, and programme constraints    
-*  be available to engage with the Analyst to appropriately shape the work
+*  be available to engage with the analyst to appropriately shape the work
 *  ensure that they understand risks where time and resource pressures constrain the approach
-*  communicate to the Analyst any sources of uncertainty they have identified as part of their wider considerations
+*  communicate to the analyst any sources of uncertainty they have identified as part of their wider considerations
 *  sign-off on the specification document produced by the analyst 
 *  indicate the consequences for decision-making of different degrees of uncertainty, if possible, as this may enable the analyst to conduct their analysis at a proportionate level
 
