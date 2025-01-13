@@ -1,110 +1,112 @@
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
 :::
 # Introduction
 
-The AQuA book provides guidance on producing quality analysis for government. It aims to support well informed decision making to create better outcomes and improve the lives of citizens.
+The Analytical Quality Assurance (AQuA) Book provides guidance on producing quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
 
-The AQuA Book has made a significant contribution to the cultural change in assurance practices in government.  It is about the process for assuring analytical evidence in all forms. It sets out the core framework for assuring all forms of analytical evidence. 
+The AQuA Book has made a significant contribution to the cultural change in assurance practices in government by clearly setting out the core framework for assuring all forms of analytical evidence. 
 
-The last version of the **Analytical Quality Assurance (AQuA) Handbook** was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then, assurance has become part of the fabric of good practice for developing evidence to support policy development, implemenation and operational excellence. 
+## The updated version (2025)
 
-The world of analysis has developed since we published the first edition of the AQuA Book. 
+The last version of the AQuA Book was published in 2015, following Sir Nicholas Macpherson's [Review of quality assurance of government models](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). Since then assurance has become part of the fabric of good practice for developing evidence to support policy development, implementation and operational excellence. 
 
-Increasingly in our data driven world, insights from analysis underpin almost all policies and support operational excellence. This underlines the continuing importance of assuring our evidence. In parallel our working practices have developed. The dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. Since then we have broadened the range of methods to include open-source software, machine learning and artificial intelligence.  
+The world of analysis has developed since we published the first edition of the AQuA Book. Increasingly, in our data driven world, the insights provided by analysis underpin almost all policies and help to support operational excellence. At the same time, our working practices have developed. For example, the dominant analytical tools when we wrote the last edition were spreadsheets and proprietary software. We have now broadened the range of methods we use to include open-source software, machine learning and Artificial Intelligence (AI).  
 
-Users of the AQuA book have pointed out some things we did not cover in the first edition and areas where guidance was unclear or insufficient. In this edition we have added guidance on:  
+Based on feedback from our users, for this new edition we have added guidance on:  
 
-* multi-use models - large models used for many purposes with many stakeholders;  
-* assuring "black box"[^1] analysis, including artificial intelligence;  
-* development, maintenance and continuous review;  
-* working with third parties such as contractors and academic groups and,  
-* publishing models.  
+* multi-use models - large models used for many purposes with many stakeholders 
+* assuring black box [^1] analysis, including AI  
+* development, maintenance and continuous review  
+* working with third parties such as contractors and academic groups  
+* publishing models  
 
-We provide improved guidance on what [a proportionate approach to assurance means](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html) and have made the whole guide applicable to all types of analysis.
+We provide improved guidance on what [a proportionate approach to assurance means](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html) and have made the whole guide relevant to all types of analysis.
 
-The AQuA Book describes what you need to do but not how to do it, although it does contain many worked examples. Large organisations will have their own processes and practices covering “the how”. 
-
-For those of you who do not work in places with bespoke guidance you will find a collection of helpful resources in chapter 10.
-
-The AQuA Book is a vital supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA book and notes that "detailed guidance on the analytical cycle and management of analysis, included in the Aqua Book should be followed."
+The AQuA Book is a vital supporting guide for the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). This Standard refers extensively to the AQuA Book and notes that the "detailed guidance on the analytical cycle and management of analysis included in the Aqua Book should be followed."
 
 It is also referred to by the [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020), the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) and other Functional Standards, such as the [Finance Function](https://www.gov.uk/government/publications/government-finance-standards-page) Standards. 
 
+## Who the AQuA Book is for
 
-## Who is the AQuA Book for?
+The new edition is relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose.
 
-In this edition we have tried to make our guidance relevant to anyone who commissions, uses, undertakes or assures analysis. It is about the whole process of producing analysis that is fit for purpose and not just about the checks after the analysis has been completed. 
+We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:
 
-We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision making in government. Our intended audience includes:  
-
-* Users of analysis – helping you to get the most out of your commission; 
-* Those who carry out analysis such as members of the government analytical professions, including:
-  + operational researchers, statisticians and economists;
-  + geographers;
-  + finance professionals;
-  + actuaries;
-  + social researchers carrying out qualitative research;
-  + data scientists developing advanced analytics;
-  + and anyone else carrying out analysis. 
-* Senior leaders with an interest in analytical assurance.  
-
-## Why should I pay attention to this guidance? 
-
-Here are a few reasons why.
-
-* **Your analytical insights will be used for major decisions and operations.** You need to do your best to get them right, thus minimising the risk of being complicit in causing operational, business or reputational damage; 
-* **Trust is hard to obtain but easy to lose.** A simple error that could have been prevented by assurance could lead to your and your team’s work being doubted; 
-* **Prevention is better than cure.** Analysis is more likely to be right first time when you consider quality from the start. Having appropriate quality assurance in place helps to manage mistakes, handle changes to requirements and ensure appropriate re-use; 
-* **Providing quality analysis provides the confidence that is needed for transparency and public openness;** 
-* **Assurance is required for audit purposes**[^2]; and  
-* **Professional pride in your work.** 
+* operational researchers, statisticians and economists
+* geographers
+* finance professionals
+* actuaries
+* social researchers carrying out qualitative research
+* data scientists developing advanced analytics
 
 ## How to use this book
 
-The first four chapters of this book cover definitions and themes, whilst the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
-![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
+The AQuA Book has been developed to help the analysis community:
+
+* publish analytical insights that will be used for major decisions and operations
+* minimising the risk of errors arising that cause operational, business or reputational damage 
+* create greater trust in analysts' work
+* ensure appropriate quality assurance is in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use of analysis
+* develop the confidence in analysis that is needed for transparency and public openness
+* support the analytical assurance that is required for audit purposes [^2]
+
+The first four chapters of this book cover definitions and themes, while the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
+![Figure 1 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally to delivery and communication. After the final stage the cycle either ends at sign-off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
 
 Each chapter in the second half of the book is structured as follows:
 
-* Introduction and overview
+* an overview of the stage and chapter
 * Roles and responsibilities 
 * Assurance activities
 * Documentation
 * Uncertainty
 * Black box models 
 * Multi-use models
-* Any other elements specific to the stage of the life cycle
+* any other guidance specific to the stage of the life cycle
 
-This guidance uses the following terms to indicate whether recommendations are mandatory or advisory.  
+The AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory: 
 
-The terms are:  
-
-* **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances, at all times 
+* **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances and at all times 
 * **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
 * **‘may’** denotes approval 
 * **‘might’** denotes a possibility 
 * **‘can’** denotes both capability and possibility 
 * **is/are** is used for a description 
 
-These are the same terms as those in the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
-
+This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
 
 ## Principles of analytical quality assurance {.unnumbered}
 
-No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. However, the following principles support commissioning and production of fit-for-purpose analysis:  
+No single piece of guidance provides a definitive assessment of whether a piece of analysis is of sufficient quality for an intended purpose. There are some important principles that support that commissioning and production of fit-for-purpose analysis.
 
-**Proportionate:** Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. More details can be found in chapter [3] 
+### Proportionate assurance
 
-**Assurance throughout development:** Quality assurance should be considered throughout the life cycle of the analysis and not just at the end. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. More details on the analysis life cycle can be seen in chapter [5].  
+Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. 
 
-**Verification and validation:** Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate, i.e. fit for the purpose for which it is being used (validation). Validation and verification are covered in more depth in chapters [5-9]. 
+You can read more about proportionality in chapter [3] 
 
-**Accept that uncertainty is inherent** in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty . Further support can be found in the Uncertainty Toolkit for Analysts in Government (analystsuncertaintytoolkit.github.io) 
+### Assurance throughout development
 
-**Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
+Quality assurance should be considered throughout the whole life cycle of the analysis. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. 
+
+You can read more on the analysis life cycle in chapter [5].  
+
+### Verification and validation
+
+Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate and fit for the purpose for which it is being used (validation). 
+
+You can read more on verification and validation in chapters [5-9]. 
+
+### Uncertainty 
+
+It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
+
+You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](analystsuncertaintytoolkit.github.io).
+
+### Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
 
 ::: {.callout-tip collapse="true"}
 ### RIGOUR
