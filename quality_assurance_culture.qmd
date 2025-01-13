@@ -124,19 +124,18 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 
 ## Externally commissioned analysis
 
-Analysis may be commissioned externally. For example, qualitative or quantitative research, or the production of models. In this case the commissioning department is accountable for analytical quality. The commissioning analyst should ensure that quality standards are clear,  being met and that these standards are documented.
 
-For Arm’s Length Bodies[^1] (ALBs), the commissioner of analysis is accountable for ensuring the requirements set out in the AQuA Book are met. 
+Analysis may be commissioned externally such as qualitative or quantitative research, or the production of models. 
 
-The guidance mentioned above also applies to ALBs. They may set out in a framework document how their accounting officer will demonstrate compliance with Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) and the [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2).
+When working with third parties (e.g Arm's Length Bodies (ALBs)[^1]), the commissioning department remains accountable for ensuring the requirements set out in the AQuA Book are met.  The commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
+
+For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
 
 Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of Managing Public Money and the Analysis Function Standard.
 
 When working with third parties the commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
 
 You can read more in the [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) section.
-
-
 
 [^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
 
