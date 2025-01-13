@@ -63,10 +63,11 @@ The output of the engagement and scoping stage should be a [specification docume
 ## Treatment of uncertainty
 
 The engagement and scoping stage will inform the treatment of uncertainty by:
-
 * providing a clear definition of the analytical question
 * identifying sources of high or intractable uncertainty
 * establishing an understanding of how the analysis will inform decisions
+
+The Analyst and Commissioner should also clarify risks and potential effects on the outcomes to inform the decisions around [proportionate assurance](proportionality.qmd). This includes a discussion on the consideration on the ethics. Constraints around resource and timelines should also be clarified and agreed. 
 
 You can read more about uncertainty in engagement and scoping in the [Uncertainty Toolkit](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_2.html#Jointly_agreeing_how_uncertainty_should_be_used).
 

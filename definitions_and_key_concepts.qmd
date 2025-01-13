@@ -39,13 +39,11 @@ This may include:
 
 ## Artificial Intelligence {.unnumbered}
 
-Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as machine learning, natural language processing and robotics. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making and language understanding. AI models are a subset of [black box models](#black_box_models)
-
+Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as [machine learning](#Machine Learning), natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. AI models are usually considered [black box models](#black_box_models) and can be pre-trained models or custom built.
 
 ## Black box models {.unnumbered}
 
-The internal workings of black box models are not visible or easily understood. These models take input and produce output without providing clarity about the process used to arrive at the output. [AI](#Artificial Intelligence) models are the most common type of black box models used today. Other forms of black box models may be developed in the future.  
-
+Black box models internal workings are not visible, easily understood, or succinctly explained. These models take input and produce output without providing clarity about the process used to arrive at the output. This also includes proprietary models with protected intellectual property. [Artificial Intelligence](#Artificial Intelligence) models (including [Machine Learning](#Machine Learning)) can often be considered a type of black box models. Other forms of this type of black box models may arise in future.  
 
 ## Business critical analysis {.unnumbered}
 
@@ -88,7 +86,6 @@ The decisions log is a register of decisions, whether provided by the commission
 
 A register of data provided by the commissioner or derived by the analysis that has been risked assessed and signed-off by an appropriate governance group or stakeholder.  
 
-
 ### User and technical documentation {.unnumbered}
 
 All analysis shall have user documentation, even if the only user is the analyst leading the analysis. This documentation should include:
@@ -112,6 +109,10 @@ A brief description of the analytical assurance that have been performed to assu
 The Department for Energy Security and Net Zero (DESNZ) and Department for Business and Trade (DBT) have published a range of quality assurance tools and guidance to help people with the quality assurance of analytical models. [Modelling Quality Assurance tools and guidance](https://www.gov.uk/government/publications/energy-security-and-net-zero-modelling-quality-assurance-qa-tools-and-guidance) are used across the departments to ensure analysis meets the standards set out in the AQuA Book and provide assurance to users of the analysis that proportionate quality assurance has been completed. 
 
 :::
+
+## Machine Learning {.unnumbered}
+
+Machine Learning uses algorithms to learn from patterns in data without needing to programme explicit business rules. Some models are white box models and others are considered [black box models](#Black box models). Machine Learning is a subset of [Artificial Intelligence](#Artificial Intelligence).
 
 ## Multi-use models {.unnumbered}
 

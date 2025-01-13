@@ -146,9 +146,15 @@ The approver is responsible for the sign-off that confirms that all risks and et
 
 This may include:
 
-* formal consultation and approval by an ethics committee or similar
-* provisions for regular review 
-* communicating the health of the model at regular intervals to the commissioner (for exampe, confirming that the model is continuing to behave as expected) 
+## Black-box models and the delivery, communication and sign-off stage
+
+The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
+This may include 
+* formal consultation and approval by an ethics committee or similar depending on internal governance structures
+* provisions for regular review, including whether on-going peer review is required to ensure the lastest guidance and assurance methodology is taken into account
+* communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected or has there been data drift i.e. is the model's performance decreasing over time? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. The model may become less effective because it is no longer conditioned on  the current state of the data. 
+The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+
 
 You can read more in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
