@@ -287,23 +287,23 @@ Important
 <p>The assurer may need to:</p>
 <ul>
 <li>re-review the analytical work completed, as required</li>
-<li>provide feedback on changes to the analytical plan,</li>
+<li>provide feedback on changes to the analytical plan</li>
 <li>consider whether they are qualified to provide rigorous assurance on the revised methodology</li>
 </ul>
 </section>
 <section id="the-approvers-responsibilities" class="level3" data-number="8.1.4">
 <h3 data-number="8.1.4" class="anchored" data-anchor-id="the-approvers-responsibilities"><span class="header-section-number">8.1.4</span> The approver’s responsibilities</h3>
-<p>The approver should be aware of the progress of the analysis and ensure that they are available for approving the work at the delivery stage.</p>
+<p>The approver should be aware of the progress of the analysis and ensure that they are available to approve the work at the delivery stage.</p>
 </section>
 </section>
 <section id="assurance-activities" class="level2" data-number="8.2">
 <h2 data-number="8.2" class="anchored" data-anchor-id="assurance-activities"><span class="header-section-number">8.2</span> Assurance activities</h2>
 <section id="verification-and-validation" class="level3" data-number="8.2.1">
 <h3 data-number="8.2.1" class="anchored" data-anchor-id="verification-and-validation"><span class="header-section-number">8.2.1</span> Verification and validation</h3>
-<p>Verification that the implemented methodology meets the design requirements should be part the analysis. <a href="https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf">Whitener and Balci (1989)</a> reviewed verification techniques in relation to simulation modelling but these techniques also extend to analysis more broadly. They include:</p>
+<p>Verification that the implemented methodology meets the design requirements should be part of the analysis. <a href="https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf">Whitener and Balci (1989)</a> reviewed verification techniques in relation to simulation modelling but these techniques also extend to analysis more broadly. They include:</p>
 <ul>
 <li>informal analysis - techniques that rely on human reasoning and subjectivity</li>
-<li>static analysis - tests that the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)</li>
+<li>static analysis - tests the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)</li>
 <li>dynamic analysis - tests the behaviour of the system, model or code to find errors that arise during execution, includes <a href="https://en.wikipedia.org/wiki/Unit_testing">unit testing</a>, <a href="https://en.wikipedia.org/wiki/Integration_testing">integration testing</a> and <a href="https://en.wikipedia.org/wiki/Stress_testing_(computing)">stress testing</a></li>
 <li>symbolic analysis - particularly relevant to modelling and tests the transformation of symbolic proxies of model inputs into outputs during <a href="https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf">the execution of a model</a>, includes path tracing and cause-effect testing</li>
 <li>constraint analysis - particularly relevant to modelling and tests the implementation of constraints during model execution, includes checking the assertions of the model and boundary analysis</li>
@@ -312,7 +312,7 @@ Important
 <p>Validation is testing whether the product meets the requirements of users. It is important to involve the users in the process. <a href="https://en.wikipedia.org/wiki/Verification_and_validation#Aspects_of_analytical_methods_validation_">Methods for validation</a> include quantification and judgment of acceptable sensitivity, specificity, accuracy, precision and reproducibility.</p>
 <p>Validation of models includes testing the validity of the conceptual model and the operational validity of any computerized model.</p>
 <p>You can read more about <a href="https://www.informs-sim.org/wsc11papers/016.pdf">techniques that may be useful in validation of models</a>.</p>
-<p>The analyst has primary responsibility for conducting verification and validation. The assurer is responsible for reviewing the verification and validation that is carried out by the analyst, and for conducting or recommending additional verification and validation as required. The assurer may refer to the <a href="definitions_and_key_concepts.html#specification-documentation">specification document</a> to assure that the analysis meets the specification.</p>
+<p>The analyst has primary responsibility for conducting verification and validation. The assurer is responsible for reviewing the verification and validation carried out by the analyst, and for conducting or recommending additional verification and validation as required. The assurer may refer to the <a href="definitions_and_key_concepts.html#specification-documentation">specification document</a> to assure that the analysis meets the specification.</p>
 </section>
 <section id="data-validity-and-data-considerations" class="level3" data-number="8.2.2">
 <h3 data-number="8.2.2" class="anchored" data-anchor-id="data-validity-and-data-considerations"><span class="header-section-number">8.2.2</span> Data validity and data considerations</h3>
@@ -325,7 +325,7 @@ Important
 <li>there are data or coverage gaps</li>
 <li>the data may be experimental or there are other reasons why it is not mature</li>
 </ul>
-<p>When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurements of another parameter (or of the parameter of interest under different conditions) that is related to the parameter and conditions of interest. This implies extrapolating between parameters, or between conditions for the same parameter. Although the use of surrogate data introduces further uncertainty additional to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.</p>
+<p>When no data is available that is directly and precisely relevant to the parameter and conditions of interest it is often possible to use surrogate data. This is the measurement of another parameter (or of the parameter of interest under different conditions) that is related to the parameter and conditions of interest. This implies extrapolating between parameters, or between conditions for the same parameter. Although the use of surrogate data introduces further uncertainty in addition to that already associated with the data itself, it may be possible to quantify this additional uncertainty using expert knowledge of the relationship between the surrogate and the parameter of interest.</p>
 <p>The effect of using a proxy dataset should be explored and if the uncertainty associated with the dataset has a large bearing on the analysis, its appropriateness should be revisited. This exploration and the decision to use a particular dataset or input should be recorded for the assurer to verify.</p>
 </section>
 <section id="assurance-of-code" class="level3" data-number="8.2.3">
@@ -357,11 +357,11 @@ Important
 </section>
 <section id="treatment-of-uncertainty" class="level2" data-number="8.4">
 <h2 data-number="8.4" class="anchored" data-anchor-id="treatment-of-uncertainty"><span class="header-section-number">8.4</span> Treatment of uncertainty</h2>
-<p>While the scoping and design stages identified and described risks and uncertainties, the analysis stage assesses and quantifies how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. <a href="hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html">The Uncertainty Toolkit for Analysts</a> reviews methods of quantifying uncertainty. The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.</p>
+<p>While the scoping and design stages identified and described risks and uncertainties, the analysis stage assesses and quantifies how uncertainty may influence the analytical outcome and its contribution to the range and likelihood of possible outcomes. <a href="hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html">The Uncertainty Toolkit for Analysts</a> reviews methods of quantifying uncertainty. The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.</p>
 </section>
 <section id="black-box-models" class="level2" data-number="8.5">
 <h2 data-number="8.5" class="anchored" data-anchor-id="black-box-models"><span class="header-section-number">8.5</span> Black box models</h2>
-<p><a href="definitions_and_key_concepts.html/#black-box-models">Black box models</a> such as artificial intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis.</p>
+<p><a href="definitions_and_key_concepts.html/#black-box-models">Black box models</a> such as artificial intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds a challenge to the assurance of these models as compared to other forms of analysis.</p>
 <ul>
 <li>should include the verification steps set out in the design stage</li>
 <li>should include validation and verification of automatic tests to ensure the model behave as expected</li>
