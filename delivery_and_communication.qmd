@@ -195,7 +195,9 @@ To facilitate public scrutiny departments may choose to make the analysis or mod
 
 You can read more about making [source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable).
 
-The [guidance for publishing BCA lists](#business-critical-analysis-register) should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible. 
+The UK Statistics Authority has [published guidance](https://osr.statisticsauthority.gov.uk/publication/guidance-for-models-trustworthiness-quality-and-value/pages/1/) on how the principles of Trustworthiness, Quality and Value from the Code of Practice for Statistics can be applied in the design, development and use of models.
+
+The [guidance for publishing Business Critical Analysis lists](#business-critical-analysis-register) should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible. 
 
 
 [^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
