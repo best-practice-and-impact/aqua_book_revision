@@ -166,6 +166,8 @@ There is a greater risk that multi-use models may be used for purposes outside t
 
 Supporting and encouraging the public to understand and scrutinise analysis promotes public confidence in decisions. This includes providing the public with information on models used for [business-critical decisions](#business-critical-analysis-register), [making analysis open](#open-publishing-of-analysis) and ensuring [transparency](https://osr.statisticsauthority.gov.uk/publication/regulatory-guidance-on-intelligent-transparency/).
 
+The UK Statistics Authority has [published guidance](https://osr.statisticsauthority.gov.uk/publication/guidance-for-models-trustworthiness-quality-and-value/pages/1/) on how the principles of Trustworthiness, Quality and Value from the Code of Practice for Statistics can be applied in the design, development and use of models.
+
 ### Business-critical analysis register
 
 Departments and Arm’s Length Bodies[^1] (ALBs) should publish a list of [business critical analysis](definitions_and_key_concepts.html#business-critical-analysis) (BCA) in use within their organisations at least annually. This includes models. The list should meet accessibility guidelines.
@@ -194,8 +196,6 @@ For clarity, the name of the analysis or model and what it is used for should be
 To facilitate public scrutiny departments may choose to make the analysis or model (for example, source code or spreadsheets) and any relevant data, assumptions, methodology and outputs open to the public. [Open publishing source code](https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open) and other parts of the analysis allows others to reuse and build on the work.
 
 You can read more about making [source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable).
-
-The UK Statistics Authority has [published guidance](https://osr.statisticsauthority.gov.uk/publication/guidance-for-models-trustworthiness-quality-and-value/pages/1/) on how the principles of Trustworthiness, Quality and Value from the Code of Practice for Statistics can be applied in the design, development and use of models.
 
 The [guidance for publishing Business Critical Analysis lists](#business-critical-analysis-register) should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible. 
 
