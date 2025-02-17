@@ -67,14 +67,14 @@ HMRC has a small analytical team which independently reviews analysis from acros
 
 ### Capability
 
-There is a risk pf errors occuring because of a lack of skills or experience. Senior leaders can identify common skill or knowledge gaps and provide training or mentoring to help fill these gaps. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
+There is a risk of errors occuring because of a lack of skills or experience. Senior leaders can identify common skill or knowledge gaps and provide training or mentoring to help fill these gaps. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
 
 There are various cross-government resources to support and guide commissioners and users of analysis. For example, the Analysis Function's [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) supports policy professionals working with analysts and analysis. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.
 
 
 ### Quality assurance champions
 
-In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion/s. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
+In an organisations with large analytical community, it is good practice for the senior leaders to appoint a quality assurance champion or group of quality assurance champions. This person/group can share best practice in implementation of quality assurance and provide advice on issues such as proportionality and communication of assurance.
 
 ::: {.callout-tip}
 # Building assurance capability
