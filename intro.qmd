@@ -5,7 +5,7 @@ The draft currently has no official status. It is a work in progress and is subj
 :::
 # Introduction
 
-The Analytical Quality Assurance (AQuA) Book provides guidance on producing quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
+The Analytical Quality Assurance (AQuA) Book provides guidance on producing good quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
 
 The AQuA Book has made a significant contribution to the cultural change in assurance practices in government by clearly setting out the core framework for assuring all forms of analytical evidence. 
 
