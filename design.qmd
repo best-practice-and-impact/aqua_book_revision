@@ -6,9 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Design
 
-During the design stage the analyst creates an actionable [analytical plan]((#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deeciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artifical Intelligence (AI) models.
-
-### The analytical plan
+During the design stage the analyst creates an actionable [analytical plan](#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deeciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artifical Intelligence (AI) models.
 
 The development of the analytical plan should consider:
 
@@ -26,7 +24,7 @@ The development of the analytical plan should consider:
 * process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date
 * ethics
 * reporting
-* downstream application
+* the use and application of the analysis
 
 Iteration of the plan between the commissioner and the analyst is normal and expected while the analytical design develops. 
 
@@ -78,7 +76,7 @@ The assurance of the design stage should consider whether the analytical plan is
 
 * address commissioner's requirements (validation)
 * deliver as intended (verification)
-* be robust (for exmaple, provide a well-structured, data driven plan with a sound overall design)
+* meet the principles of [RIGOUR]( https://best-practice-and-impact.github.io/aqua_book_revision/intro.html#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below.) by, for example, providing a well-structured, data driven plan with a sound overall design
 
 The assurance of the design stage may be carried out by the assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
 
@@ -100,7 +98,7 @@ You can read more in Chapter 3 of the [Uncertainty Toolkit for Analysts](https:/
 
 ## Black box models
 
-Using [black box models](definitions_and_key_concepts.qmd/#black-box-models) places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.
+Using [black box models](https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#black-box-models) places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.
 
 This [guidance on AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance) outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.
 
