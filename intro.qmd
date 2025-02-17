@@ -87,25 +87,25 @@ No single piece of guidance provides a definitive assessment of whether a piece 
 
 Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. 
 
-You can read more about proportionality in chapter [3] 
+You can read more about proportionality in chapter [3.](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html)
 
 ### Assurance throughout development
 
 Quality assurance should be considered throughout the whole life cycle of the analysis. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. 
 
-You can read more on the analysis life cycle in chapter [5].  
+You can read more on the analysis life cycle in chapter [5.](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html)
 
 ### Verification and validation
 
 Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate and fit for the purpose for which it is being used (validation). 
 
-You can read more on verification and validation in chapters [5-9]. 
+You can read more on verification and validation in chapters [5-9.](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html) 
 
 ### Uncertainty 
 
 It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
 
-You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](analystsuncertaintytoolkit.github.io).
+You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
 
 ### Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
 
@@ -122,7 +122,7 @@ Throughout all the stages of an analytical project, the analyst should ask quest
 
 **Repeatable:** For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.  
 
-**Independent:** Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
+**Independent:** Analysis should be (as far as possible) free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
 
 **Grounded in reality:** Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.  
 
