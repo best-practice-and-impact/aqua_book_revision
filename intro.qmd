@@ -48,7 +48,7 @@ We would like to see producers and users of analysis from all backgrounds using 
 The AQuA Book has been developed to help the analysis community:
 
 * publish analytical insights that will be used for major decisions and operations
-* minimising the risk of errors arising that cause operational, business or reputational damage 
+* minimise the risk of errors arising that cause operational, business or reputational damage 
 * create greater trust in analysts' work
 * ensure appropriate quality assurance is in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use of analysis
 * develop the confidence in analysis that is needed for transparency and public openness
@@ -60,24 +60,24 @@ The first four chapters of this book cover definitions and themes, while the sec
 Each chapter in the second half of the book is structured as follows:
 
 * an overview of the stage and chapter
-* Roles and responsibilities 
-* Assurance activities
-* Documentation
-* Uncertainty
-* Black box models 
-* Multi-use models
+* roles and responsibilities 
+* assurance activities
+* documentation
+* uncertainty
+* black box models 
+* multi-use models
 * any other guidance specific to the stage of the life cycle
 
 The AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory: 
 
 * **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances and at all times 
 * **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
-* **‘may’** denotes approval 
+* **‘may’** denotes approval i.e. it's a good idea but not mandatory or advosory
 * **‘might’** denotes a possibility 
 * **‘can’** denotes both capability and possibility 
 * **is/are** is used for a description 
 
-This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
+This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/publications/guide-to-functional-standards/guide-to-functional-standards#interpreting-a-functional-standard). 
 
 ## Principles of analytical quality assurance {.unnumbered}
 
