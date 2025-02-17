@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Quality assurance culture
 
-Creating and maintaining a strong culture of quality assurance is vital to ensuring analysis is robust and of a high quality. 
+Creating and maintaining a strong culFture of quality assurance is vital to ensuring analysis is robust and of a high quality. 
 
 This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance in their teams. However, everyone has a role to play in creating a strong quality assurance culture and the approaches outlined here are useful for everyone.
 
@@ -28,9 +28,9 @@ A quality assurance culture starts with senior leaders. They are accountable for
 
 Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring appropriate assurance processes are in place to the accounting officer. In practice the accounting officer may assign the responsibility to a senior leader reporting to the senior management board. They may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero (DESNZ) reports this in each [DESNZ Annual report](https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
 
-Senior leaders should ensure there is clear messaging and standards on quality assurance through guidance, training and regular updates. Senior leaders can demonstrate the importance of quality assurance through long term initiatives. For example, by setting up and embedding quality assurance processes within the team and creating roles and teams to support quality assurance. Senior leaders should ensure teams have a common understanding of the quality standards required for thier work and regularly talk about quality with their teams, highlighting quality successes.
+Senior leaders should ensure there is clear messaging and standards on quality assurance through guidance, training and regular updates. Senior leaders can demonstrate the importance of quality assurance through long term initiatives. For example, by setting up and embedding quality assurance processes within the team and creating roles and teams to support quality assurance. Senior leaders should ensure teams have a common understanding of the quality standards required for their work and regularly talk about quality with their teams, highlighting quality successes.
 
-As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns. Teams should be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as the *Departmental Governance* assessment area. This area helps senior leaders reviw thier Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
+As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns. Teams should be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as the *Departmental Governance* assessment area. This area helps senior leaders review their Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
 
 Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
 
@@ -100,7 +100,7 @@ There is a risk of technology or analytical tools being out of date. This means 
 
 *  making funding available for new tools or improving existing tools 
 *  gathering common issues
-*  escalating issues to riate points in their organisation
+*  escalating issues to appropriate points in their organisation
 
 ## Data
 
