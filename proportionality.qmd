@@ -31,11 +31,11 @@ Table 3-1 provides a list of factors that should be considered when determining 
 | Relevance of the analysis to the decision-making process | When analysis forms only one component of a broad evidence base, less assurance is required for that specific analysis than if the decision is heavily dependent on the analysis alone. Significant assurance is still likely to be required for the whole evidence base.  |
 | Type and complexity of analysis | Highly complex analysis requires more effort to assure. The nature of that analysis may also require the engagement of appropriate subject matter experts. |
 | Novelty of approach | A previously untried method requires more assurance. Confidence will grow as the technique is repeatedly tested. |
-| Reusing or repurposing existing work | Reusing work may require validation and verification to confirm that original approach. For example, the original method and assumptions data are still appropriate for the new requirement. |
-| Level of precision required in outputs | Lower precision analysis often uses simplified assumption, models and data. The assurance approach is the same but will take less time than more precise analysis.|
+| Reusing or repurposing existing work | Reusing work may require validation and verification to confirm that original approach. For example, confirming the original method and assumptions data are still appropriate for the new requirement. |
+| Level of precision required in outputs | Lower precision analysis often uses simplified assumptions, models and data. The assurance approach is the same but will take less time than more precise analysis.|
 | Amount of resource available for the analysis and assurance | The value for money of any additional assurance must be balanced alongside the benefits and risk appetite that exists. Analysis that is used for many purposes (for example, population projections) may require greater levels of quality assurance than might be suggested by any of the individual decisions they support. |
 | Longevity of the analysis | Ongoing analysis will require robust change control and regular review. |
-| Affects on the public | Analysis which will have a significant effect on the public may require more assurance. |
+| Effects on the public | Analysis which will have a significant effect on the public may require more assurance. |
 | Repeat runs for the same analysis | Assurance should concentrate on version control and the assurance of data and parameters for each run. |
 
 : Table 3-1 Factors for determining appropriate assurance {.striped}
@@ -48,11 +48,11 @@ Figure 3-1 shows some assurance techniques that might be considered for differen
 
 The interventions in figure 3-1 must not be viewed in isolation. The interventions should build on each other. For example, some complex and risky analysis that would benefit from an external review should also use interventions closer to the axes, such as version control and analyst-led testing. 
 
-The total elimination of risk will never be achieved, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques but there are many different techniques explained in the AQuA Book that need to be considered and implemented as appropriate.
+The total elimination of risk will never be achieved, so a balance needs to be found that reduces the overall business risk to an acceptable level. The diagram indicates a few practical assurance techniques. The analayst should consider consider and implement other techniques where necessary.
 
 ## Structured assessment of business risk and complexity
 
-A structured approach  should be taken to determine what assurance is needed when reviewing business risks. Business risk should be viewed as the combination of the potential effect of analytical errors and the likelihood of errors occurring. In situations where the potential effect is high, it is more important that the likelihood of errors is reduced than the level of the effect.
+A structured approach  should be taken to determine what assurance is needed when reviewing business risks. Business risk should be viewed as the combination of the potential effect of analytical errors and the likelihood of errors occurring. In situations where the  risk is high, it is more important to reduce likelihood of errors than the level of the effect.
 
 This can be visualised by considering the situation as a risk matrix (table 3-2). The effect the analysis will have is usually beyond the control of the analyst to change, so there will be few options to lessen the effect of a risk. However, there will usually be treatments (or mitigations) involving additional assurance measures that will allow the assessed business risk to become less likely to occur.
 
@@ -65,7 +65,7 @@ Table 3-2 - Example of a risk matrix
   <th></th>
   <th colspan = "5">Likelihood of errors occurring</th>
 <tr>
-  <th rowspan = "7">Affect from errors occurring</th>
+  <th rowspan = "7">Effect from errors occurring</th>
   <td></td>
   <td></td>
   <th> Highly unlikely </th>
@@ -123,7 +123,7 @@ Table 3-2 - Example of a risk matrix
 
 Table 3-3 shows appropriate responses to a risk assessment. Where business risk is high, appropriate mitigations must be considered to reduce the probability of errors occurring. This will depend on the mitigations already in place and on the complexity of the analysis (figure 3-1). 
 
-For a situation where simple analysis is being employed a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range internal assurance measures options such as external peer review may be necessary. 
+For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range of internal assurance measures, options such as external peer review may be necessary. 
 
 In cases where there is a need for analysis but there are also significant time or resource constraints, it may not be possible to do as much assurance as usual. In these situations the areas of greatest risk are the priority. These risks and limitations must also be communicated, along with appropriate caveats.
 
