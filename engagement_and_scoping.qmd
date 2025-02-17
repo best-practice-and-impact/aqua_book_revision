@@ -48,7 +48,7 @@ If the commissioner is unable to present a well-defined problem, the engagement 
 
 You can read more about these techniques in the [Systems Thinking Toolkit](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/toolkit). 
 
-If the engagement and scoping techniques are complex or the project is deemed business critical, the assurer might also provide assurance of the engagement methodology (https://publications.tno.nl/publication/100301/Zs2SUz/wijnmalen-2012-natoclient.pdf).
+If the engagement and scoping techniques are complex or the project is deemed business critical, the assurer might also provide assurance of the [engagement methodology](https://publications.tno.nl/publication/100301/Zs2SUz/wijnmalen-2012-natoclient.pdf).
 
 The engagement and scoping stage should lead to agreement between the analyst and commissioner about the outputs of the work, including acceptable levels of accuracy, precision and margins of error. This will inform the handling and the assurance of uncertainty in later stages.
 
@@ -73,10 +73,10 @@ You can read more about uncertainty in engagement and scoping in the [Uncertaint
 
 ## Black box models
 
-Where the commissioner has engaged with the analyst to deliver [black box models](definitions_and_key_concepts.html#black-box-models) models such as AI or machine learning, the engagement and scoping stage should include discussions around ethics and risks to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, internal governance and risk management. 
+Where the commissioner has engaged with the analyst to deliver [black box models](definitions_and_key_concepts.html#black-box-models) such as AI or machine learning, the engagement and scoping stage should include discussions around ethics and risks to assess whether such models would be appropriate for addressing the given problem. For example, discussions might include considerations of regulations such as UK GDPR, organisational skills, internal governance and risk management. 
 
-You can read more in the [Introdction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance).
+You can read more in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance).
 
 ## Multi-use models
 
-When working with multi-use models, the analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. Where requirements differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Methodology] (https://en.wikipedia.org/wiki/Soft_systems_methodology) may be used to develop a shared understanding across multiple groups.
+When working with multi-use models, the analyst may be required to engage with a group of end-users to develop an understanding of their respective requirements. Where requirements differ or contradict, techniques such as Strategic Options Development and Analysis ([SODA](https://www.ru.nl/publish/pages/938444/soda_-_the_principles.pdf)) and [Soft Systems Methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology) may be used to develop a shared understanding across multiple groups.
