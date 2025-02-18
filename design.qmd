@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Design
 
-During the design stage the analyst creates an actionable [analytical plan](#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deeciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artifical Intelligence (AI) models.
+During the design stage the analyst creates an actionable [analytical plan](#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.
 
 The development of the analytical plan should consider:
 
@@ -76,7 +76,7 @@ The assurance of the design stage should consider whether the analytical plan is
 
 * address commissioner's requirements (validation)
 * deliver as intended (verification)
-* meet the principles of [RIGOUR]( https://best-practice-and-impact.github.io/aqua_book_revision/intro.html#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below.) by, for example, providing a well-structured, data driven plan with a sound overall design
+* meet the principles of [RIGOUR]( https://best-practice-and-impact.github.io/aqua_book_revision/intro.html#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below.) by, for mple, providing a well-structured, data driven plan with a sound overall design
 
 The assurance of the design stage may be carried out by the assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.
 
@@ -91,7 +91,7 @@ It is best practice to use formal version control to track changes in the design
 
 ## Treatment of uncertainty in the design stage
 
-During the design stage, analysts should examine the planned analysis systematically for possible sources and types of uncertainty. This is to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. 
+During the design stage, analysts should mine the planned analysis systematically for possible sources and types of uncertainty. This is to maximise the chance of identifying all that are sufficiently large to breach the acceptable margin of error. 
 
 You can read more in Chapter 3 of the [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_3.html).
 
@@ -111,7 +111,7 @@ In the design of AI and machine learning models, the analyst should:
 * consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI
 * consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment
 * consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review](analytical_lifecycle.qmd/#mainenance-and-continuous-review) section
-* consider referring the model to their ethics committee, or a similar group dependent on your interal governance structures - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
+* consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
 * consider setting up a peer or academic review process to test the methodologies and design decisions
 
 ## Multi-use models
