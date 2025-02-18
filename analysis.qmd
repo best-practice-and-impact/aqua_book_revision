@@ -61,7 +61,7 @@ Verification that the implemented methodology meets the design requirements shou
 * informal analysis - techniques that rely on human reasoning and subjectivity
 * static analysis - tests that the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)
 * dynamic analysis - tests the behaviour of the system, model or code to find errors that arise during execution, includes [unit testing](https://en.wikipedia.org/wiki/Unit_testing), [integration testing](https://en.wikipedia.org/wiki/Integration_testing) and [stress testing](https://en.wikipedia.org/wiki/Stress_testing_(computing))
-* symbolic analysis - focuses on how model inputs are transformed into outputs using symbolic proxies, involving techniques like path tracing and cause-effect testing(https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf). 
+* symbolic analysis - focuses on how model inputs are transformed into outputs using symbolic proxies[^1], involving techniques like path tracing and cause-effect testing(https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf). 
 * constraint analysis - particularly relevant to modelling and tests the implementation of constraints during model execution, includes checking the assertions of the model and boundary analysis
 * formal analysis - tests logical correctness through [formal verification](https://en.wikipedia.org/wiki/Formal_verification#Formal_verification_for_software) such as logic or mathematical proofs
 
@@ -133,3 +133,5 @@ You can read more in the [Introduction to AI Assurance](https://www.gov.uk/gover
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This requires mechanisms for assuring that the changes integrate into the larger model as expected. For example, through the use of test-suites.
 
+...
+[^1]: A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program's behavior without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyze how different parts of the program interact or how inputs lead to outputs, even when you don't have specific data.
