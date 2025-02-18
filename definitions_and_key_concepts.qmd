@@ -47,7 +47,10 @@ Black box models' internal workings are not visible, easily understood, or succi
 
 ## Business critical analysis {.unnumbered}
 
-Business critical analysis refers to analysis that has a significant influence over financial and funding s, is necessary to the achievement of a departmental business plan or is analysis where an error could have a significant reputational, economic or legal implications. 
+Business critical analysis refers to analysis that:
+* has a significant influence over finance and funding or departmental operation(s) 
+* is necessary to the achievement of a departmental business plan or 
+* is analysis where an error could have a significant reputational, economic or legal implications. 
 
 The first edition of the AQuA Book described business critical models. This has been updated to the more general term 'business critical analysis' because analysis can be business critical without including a model. Some departments may still use the term business critical models (BCM). 
 
