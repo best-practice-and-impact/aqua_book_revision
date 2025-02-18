@@ -263,7 +263,7 @@ Important
 </section>
 <section id="the-analysts-responsibilities" class="level3" data-number="8.1.2">
 <h3 data-number="8.1.2" class="anchored" data-anchor-id="the-analysts-responsibilities"><span class="header-section-number">8.1.2</span> The analyst’s responsibilities</h3>
-<p>The analyst shall:</p>
+<p>The analyst should:</p>
 <ul>
 <li>follow the conduct the verification and validation activities that were designed as part of the analytical plan in <a href="design.html#the-design-stage">the design stage</a></li>
 <li>provide traceable documentation of the assurance they have undertaken</li>
@@ -305,12 +305,12 @@ Important
 <li>informal analysis - techniques that rely on human reasoning and subjectivity</li>
 <li>static analysis - tests that the implementation of the analysis before it is run (for example, checking that code adheres to code conventions)</li>
 <li>dynamic analysis - tests the behaviour of the system, model or code to find errors that arise during execution, includes <a href="https://en.wikipedia.org/wiki/Unit_testing">unit testing</a>, <a href="https://en.wikipedia.org/wiki/Integration_testing">integration testing</a> and <a href="https://en.wikipedia.org/wiki/Stress_testing_(computing)">stress testing</a></li>
-<li>symbolic analysis - particularly relevant to modelling and tests the transformation of symbolic proxies of model inputs into outputs during <a href="https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf">the execution of a model</a>, includes path tracing and cause-effect testing</li>
+<li>symbolic analysis - focuses on how model inputs are transformed into outputs using symbolic proxies[^1], involving techniques like path tracing and cause-effect testing(https://typeset.io/pdf/guidelines-for-selecting-and-using-simulation-model-143kzp6h5s.pdf).</li>
 <li>constraint analysis - particularly relevant to modelling and tests the implementation of constraints during model execution, includes checking the assertions of the model and boundary analysis</li>
 <li>formal analysis - tests logical correctness through <a href="https://en.wikipedia.org/wiki/Formal_verification#Formal_verification_for_software">formal verification</a> such as logic or mathematical proofs</li>
 </ul>
 <p>Validation is testing whether the product meets the requirements of users. It is important to involve the users in the process. <a href="https://en.wikipedia.org/wiki/Verification_and_validation#Aspects_of_analytical_methods_validation_">Methods for validation</a> include quantification and judgment of acceptable sensitivity, specificity, accuracy, precision and reproducibility.</p>
-<p>Validation of models includes testing the validity of the conceptual model and the operational validity of any computerized model.</p>
+<p>Validation of models includes testing the validity of the conceptual model and the operational validity of any computerised model.</p>
 <p>You can read more about <a href="https://www.informs-sim.org/wsc11papers/016.pdf">techniques that may be useful in validation of models</a>.</p>
 <p>The analyst has primary responsibility for conducting verification and validation. The assurer is responsible for reviewing the verification and validation that is carried out by the analyst, and for conducting or recommending additional verification and validation as required. The assurer may refer to the <a href="definitions_and_key_concepts.html#specification-documentation">specification document</a> to assure that the analysis meets the specification.</p>
 </section>
@@ -349,7 +349,7 @@ Important
 <ul>
 <li>maintain appropriate records of the work</li>
 <li>fully document any code following agreed standards</li>
-<li>log the data, assumptions and inputs used in the analysis, and decisions made in appropriate <a href="definitions_and_key_concepts.html/#documentation">documentation</a>)</li>
+<li>log the data, assumptions and inputs used in the analysis, and decisions made in appropriate <a href="https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#documentation">documentation</a></li>
 <li>record the verification and validation that has been undertaken, documenting any activities that are outstanding and noting what remedial action has been taken and its effect on the analysis</li>
 <li>produce <a href="definitions_and_key_concepts.html#user-technical-documentation">user and technical documentation</a></li>
 </ul>
@@ -357,11 +357,11 @@ Important
 </section>
 <section id="treatment-of-uncertainty" class="level2" data-number="8.4">
 <h2 data-number="8.4" class="anchored" data-anchor-id="treatment-of-uncertainty"><span class="header-section-number">8.4</span> Treatment of uncertainty</h2>
-<p>While the scoping and design stages identified and described risks and uncertainties, the analysis stage assesses and quantifies how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. <a href="hhttps://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html">The Uncertainty Toolkit for Analysts</a> reviews methods of quantifying uncertainty. The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.</p>
+<p>While the scoping and design stages identified and described risks and uncertainties, the analysis stage assesses and quantifies how uncertainty may influence the analytical outcome and their contribution to the range and likelihoods of possible outcomes. <a href="https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_5.html">The Uncertainty Toolkit for Analysts</a> reviews methods of quantifying uncertainty. The verification and validation by the analyst and assurer should assure the appropriate treatment of uncertainty.</p>
 </section>
 <section id="black-box-models" class="level2" data-number="8.5">
 <h2 data-number="8.5" class="anchored" data-anchor-id="black-box-models"><span class="header-section-number">8.5</span> Black box models</h2>
-<p><a href="definitions_and_key_concepts.html/#black-box-models">Black box models</a> such as Artificial Intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis.</p>
+<p><a href="https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#black-box-models">Black box models</a> such as Artificial Intelligence (AI) and machine learning models are not as transparent as traditionally coded models. This adds challenge to the assurance of these models as compared to other forms of analysis.</p>
 <ul>
 <li>should include the verification steps set out in the design stage</li>
 <li>should include validation and verification of automatic tests to ensure the model behave as expected</li>
@@ -372,6 +372,7 @@ Important
 <section id="multi-use-models" class="level2" data-number="8.6">
 <h2 data-number="8.6" class="anchored" data-anchor-id="multi-use-models"><span class="header-section-number">8.6</span> Multi-use models</h2>
 <p>In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This requires mechanisms for assuring that the changes integrate into the larger model as expected. For example, through the use of test-suites.</p>
+<p>… [^1]: A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program’s behavior without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyze how different parts of the program interact or how inputs lead to outputs, even when you don’t have specific data.</p>
 
 
 </section>
