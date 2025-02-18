@@ -155,9 +155,7 @@ Any individual or group of individuals that are not commissioners or the analyst
  person or group besides the two primarily involved in a situation, especially a dispute.
 ## Uncertainty {.unnumbered}
 
-Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives.[^1]
-
-[^1]: https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf
+Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The NAO have published a [good practice guide on managing uncertainty](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf)
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required. 
 
