@@ -125,7 +125,7 @@ Table 3-3 shows appropriate responses to a risk assessment. Where business risk 
 
 For a situation where simple analysis is being employed, a review by an appropriate expert may be sufficient as the additional mitigation. However, for complex analysis that is already employing a wide range of internal assurance measures, options such as external peer review may be necessary. 
 
-In cases where there is a need for analysis but there are also significant time or resource constraints, it may not be possible to do as much assurance as usual. In these situations the areas of greatest risk are the priority. These risks and limitations must also be communicated, along with appropriate caveats.
+In cases with significant time and resource constraints, it may not be possible to do as much assurance as desirable. In these situations, addressing the areas of greatest risk should take priority. You should inform the commissioner about how you have addressed the risks and any remaining risks together with appropriate caveats.
 
 | Assessed risk    | Mitigations to consider                              |
 |------------------|------------------------------------------------------|
