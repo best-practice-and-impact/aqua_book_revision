@@ -90,7 +90,7 @@ During the delivery stage, insights and analytical assurances are communicated t
 
 Work in this stage can vary considerably depending on the commission, impact, approval processes and the nature of the project. Delivery and communication activities may include producing summary packs and reports, launching dashboards or websites and presentations.
 
-After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off  includes confirmation that the commission was met, documentation and evidence was captured and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.
+After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off includes confirming that the commission was met, documentation and evidence are captured and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.
 
 ## Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis all aspects of the lifecycle should be regularly updated. For example, consideration should be made as to whether:
