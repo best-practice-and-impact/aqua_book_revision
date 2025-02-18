@@ -32,7 +32,7 @@ The analyst shall:
 The analyst should: 
 
 * ensure that communication meets audience requirements such as accessibility
-* be prepared to respond to challenge from the approver or scruitiny from project or programme boards
+* be prepared to respond to challenge from the approver or scrutiny from project or programme boards
 
 The analyst should communicate the assurance state to the approver if this is not done directly by the assurer.
 
