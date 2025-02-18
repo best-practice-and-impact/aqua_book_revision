@@ -78,7 +78,7 @@ For larger projects or those that require multiple cycles, the design phase may 
 
 ### Analysis
 
-The analysis phase is where planned analysis is undertaken and progress and relevance are monitored. The design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases the changes or limitations encountered may mean the scoping or design phase needes to be revisited. 
+The analysis phase is where planned analysis is undertaken and progress and relevance are monitored. The design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases changes, or limitations encountered, may mean the scoping or design phase will need to be revisited. 
 
 Throughout this phase traceable documentation of the assurance activities that have been undertaken shall also be produced. 
 
