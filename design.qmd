@@ -6,12 +6,12 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Design
 
-During the design stage the analyst creates an actionable [analytical plan](#the-analytical-plan) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.
+During the design stage the analyst creates an actionable [analytical plan](https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#documentation) from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.
 
 The development of the analytical plan should consider:
 
 * methodology for producing results, including the treatment of uncertainty
-* project management approach (for example agile, waterfall or a combination of approaches)
+* project management approach (for example agile[^1], waterfall[^2] or a combination of approaches)
 * sourcing of inputs and assumptions
 * data and file management
 * change management and version control
@@ -110,7 +110,7 @@ In the design of AI and machine learning models, the analyst should:
 * consider the appropriate data training, validation and testing strategy for your models - it's usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design
 * consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI
 * consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment
-* consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review](analytical_lifecycle.qmd/#mainenance-and-continuous-review) section
+* consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section
 * consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
 * consider setting up a peer or academic review process to test the methodologies and design decisions
 
@@ -119,3 +119,7 @@ In the design of AI and machine learning models, the analyst should:
 Designing multi-use models should take into account the needs of all users of the analysis. An Analysis Steering Group may be an effective means for communication about the design with a range of user groups. 
 
 The design of multi-use models may entail a modular structure with different analysts and assurers responsible for different elements. The design of assurance activities should capture both the assurance of individual modules and their integration.
+
+...
+[^1]: [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
+[^2]: [Waterfall planning](https://en.wikipedia.org/wiki/Waterfall_model)
