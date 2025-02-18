@@ -15,7 +15,7 @@ This chapter provides information on the assurance of communication of analysis 
 
 ### The commissioner's responsibilities
 
-The commissioner shall:
+The commissioner should:
 
 * confirm that the analysis is likely to meet their needs
 * use the analysis as specified
@@ -34,11 +34,11 @@ The analyst should:
 * ensure that communication meets audience requirements such as accessibility
 * be prepared to respond to challenge from the approver or scruitiny from project or programme boards
 
-The analyst may be required to communicate the assurance state to the approver if this is not done directly by the assurer.
+The analyst should communicate the assurance state to the approver if this is not done directly by the assurer.
 
 ### The assurer's responsibilities 
 
-The assurer shall communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
+The assurer should communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
 
 
 ### The approver's abilities 
@@ -87,7 +87,7 @@ To ensure that the analysis is used as intended, the commissioner should use the
 The effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
 * commissioners and users of the analysis
-* external scrutiny including the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external audit 
+* external scrutineers such as the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external auditers 
 * the public, through publications and [Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents) requests    
 * academic experts, possibly through a departmental [Areas of Research Interest](https://www.gov.uk/government/publications/dwp-areas-of-research-interest-2023/dwp-areas-of-research-interest-2023) document
 * national and international governmental partners
@@ -153,10 +153,7 @@ This may include
 * formal consultation and approval by an ethics committee or similar depending on internal governance structures
 * provisions for regular review, including whether on-going peer review is required to ensure the lastest guidance and assurance methodology is taken into account
 * communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected or has there been data drift i.e. is the model's performance decreasing over time? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. The model may become less effective because it is no longer conditioned on  the current state of the data. 
-The aspects to be considered are detailed in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
-
-
-You can read more in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+You can read more about this in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
 ## Multi-use models
 
@@ -200,4 +197,4 @@ You can read more about making [source code open and reusable](https://www.gov.u
 The [guidance for publishing Business Critical Analysis lists](#business-critical-analysis-register) should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible. 
 
 
-[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
+[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
