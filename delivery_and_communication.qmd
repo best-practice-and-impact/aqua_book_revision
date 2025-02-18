@@ -131,7 +131,6 @@ When the analyst and assurer are satisfied that the analysis is ready to hand ov
 * a statement of assurance   
 * a statement confirming that ethical concerns have been addressed, especially in cases that include the application of [black-box models](definitions_and_key_concepts.html#black-box-models)
 
-
 ## Treatment of uncertainty
 
 Government has produced a range of guidance to support analysts in presenting and communicating uncertainty in analysis, providing valuable advice on how to estimate and present uncertainty when describing the limitations of use of a piece of analysis. This includes:
@@ -140,15 +139,9 @@ Government has produced a range of guidance to support analysts in presenting an
 * The [Uncertainty Toolkit for Analysts](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_6.html)  
 * The Government Analysis Function guidance note on [Communicating quality, uncertainty and change](https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/)
 
-## Black-box models
- 
-The approver is responsible for the sign-off that confirms that all risks and ethical considerations around the use of black-box models have been addressed. 
-
-This may include:
-
 ## Black-box models and the delivery, communication and sign-off stage
 
-The Approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
+The approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
 This may include 
 * formal consultation and approval by an ethics committee or similar depending on internal governance structures
 * provisions for regular review, including whether on-going peer review is required to ensure the lastest guidance and assurance methodology is taken into account
