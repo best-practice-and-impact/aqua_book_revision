@@ -36,12 +36,14 @@ The new edition is relevant to anyone who commissions, uses, undertakes or assur
 We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:
 
 * actuaries
-* data scientists developing advanced analytics
+* data scientists 
+* economists
 * finance professionals
 * geographers
-* operational researchers, statisticians and economists
+* operational researchers
 * science and engineering professionals
-* social researchers carrying out (or commissioning) quantitative/ qualitative research or evaluation
+* social researchers
+* statisticians
 
 ## How to use this book
 
