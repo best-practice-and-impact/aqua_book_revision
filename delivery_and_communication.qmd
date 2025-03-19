@@ -141,7 +141,7 @@ Government has produced a range of guidance to support analysts in presenting an
 
 ## Black-box models and the delivery, communication and sign-off stage
 
-The approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
+The approver is responsible for signing-off that all risks and ethical considerations[^2] around the use of black-box models have been addressed. 
 This may include 
 * formal consultation and approval by an ethics committee or similar depending on internal governance structures
 * provisions for regular review, including whether on-going peer review is required to ensure the latest guidance and assurance methodology is taken into account
@@ -191,3 +191,4 @@ The [guidance for publishing Business Critical Analysis lists](#business-critica
 
 
 [^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
+[^2] See principles in  [Artificial Intelligence Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#principles)
