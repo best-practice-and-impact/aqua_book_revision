@@ -52,7 +52,9 @@ Business critical analysis refers to analysis that:
 * is necessary to the achievement of a departmental business plan or 
 * is analysis where an error could have a significant reputational, economic or legal implications. 
 
-The first edition of the AQuA Book described business critical models. This has been updated to the more general term 'business critical analysis' because analysis can be business critical without including a model. Some departments may still use the term business critical models (BCM). 
+## Business critical models {.unnumbered}
+
+Business critical models are models to support or provide [Business critical analysis](#Business critical analysis).
 
 ## Documentation {.unnumbered}
 
@@ -76,9 +78,9 @@ The assumptions log is a register of assumptions, whether provided by the commis
 * explain why it was made
 * explain who made the assumption and who signed it off
 
-### decsions log {.unnumbered}
+### Decisions log {.unnumbered}
 
-The decisons log is a register of decisions, whether provided by the commissioner or derived from the analysis. Decisions logs should: 
+The decisions log is a register of decisions, whether provided by the commissioner or derived from the analysis. Decisions logs should: 
 
 * describe each decision
 * set out when it was made
@@ -116,6 +118,14 @@ The Department for Energy Security and Net Zero (DESNZ) and Department for Busin
 ## Machine Learning {.unnumbered}
 
 Machine Learning uses algorithms to learn from patterns in data without needing to programme explicit business rules. Some models are white box models and others are considered [black box models](#Black box models). Machine Learning is a subset of [Artificial Intelligence](#Artificial Intelligence).
+
+## Model {.unnumbered}
+
+A model is a tool used to study, or understand, a part of the real world. Often, they use quantative methods and theories drawn from statistics, economics, or mathematics together with assumptions, to turn input data into numerical estimates.  Models can be:
+
+* descriptive - what is?
+* predictive  - what might be?
+* prescriptive - what should be done if?
 
 ## Maturity Model {.unnumbered}
 
