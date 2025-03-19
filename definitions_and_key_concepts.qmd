@@ -39,7 +39,7 @@ This may include:
 
 ## Artificial Intelligence {.unnumbered}
 
-Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as [machine learning](#Machine Learning), natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, -making, and language understanding. AI models are usually considered [black box models](#black_box_models) and can be pre-trained models or custom built.
+Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as [machine learning](#Machine Learning), natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, -making, and language understanding. AI models are usually considered [black box models](#black_box_models). They can be pre-trained models or custom built.
 
 ## Black box models {.unnumbered}
 
@@ -161,10 +161,10 @@ The AQuA Book defines the following roles:
 You can read more in the [Roles and Responsibilities](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html) section.
 
 ## Third party {.unnumbered}
-Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company.
- person or group besides the two primarily involved in a situation, especially a dispute.
-## Uncertainty {.unnumbered}
 
+Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company, person or group besides the two primarily involved in a situation, especially a dispute.
+
+## Uncertainty {.unnumbered}
 Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The NAO have published a [good practice guide on managing uncertainty](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf)
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required. 

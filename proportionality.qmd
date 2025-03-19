@@ -132,7 +132,7 @@ In cases with significant time and resource constraints, it may not be possible 
 | High     | High risk should not be tolerated. New assurance measures must be considered to treat the likelihood of errors occurring.  If treatment isn't an option, consideration must be given to terminating or transferring the risk. If it remains necessary to tolerate the risk the commissioner should to fully understand this risk.  |
 | Medium   | Medium risk should not be tolerated without the agreement of the commissioner. New assurance measures should be put in place to treat the likelihood of errors occurring. Continue with planned or existing mitigations. |
 | Low      | Low risk can be tolerated. Continue with existing or planned mitigations. New treatments may also be considered.  |
-| Very Low | Very low risk can be tolerated. Continue with existing or planned mitigations measures.  |
+| Very Low | Very low risk can be tolerated. Continue with existing or planned mitigations.  |
 
 : Table 3-3 Responses to risk assessment levels {.striped}
 

@@ -6,7 +6,7 @@ The draft currently has no official status. It is a work in progress and is subj
 
 # Quality assurance culture
 
-Creating and maintaining a strong culFture of quality assurance is vital to ensuring analysis is robust and of a high quality. 
+Creating and maintaining a strong culture of quality assurance is vital for ensuring analysis is robust and of a high quality. 
 
 This chapter particularly addresses senior leaders and describes their role in developing a strong culture of quality assurance. It outlines processes and approaches to support and embed quality assurance in their teams. However, everyone has a role to play in creating a strong quality assurance culture and the approaches outlined here are useful for everyone.
 
@@ -14,7 +14,7 @@ For purposes of this chapter, culture is defined as the shared ways of working, 
 
 A strong culture of quality assurance means that quality assurance is understood, expected and valued by all those involved in the analytical process, including commissioners, analysts, users of analysis, managers, senior leaders and stakeholders.   
 
-This culture also enables effective [risk management](proportionality.html#structured-assessment-of-business-risk-and-complexity).
+A strong quality assurance culture also enables effective [risk management](proportionality.html#structured-assessment-of-business-risk-and-complexity).
 
 ::: {.callout-tip}
 # Assessing and Guiding Organisational Performance
@@ -24,7 +24,7 @@ The Department for Education has developed a Quality Assurance Maturity Model (i
 
 ## Leadership
 
-A quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. Senior leaders should clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
+A strong quality assurance culture starts with senior leaders. They are accountable for the quality of analysis carried out in their departments. Senior leaders should clearly set out the priority of quality within their teams and create processes for embedding quality assurance.  
 
 Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money) assigns accountability for ensuring appropriate assurance processes are in place to the accounting officer. In practice the accounting officer may assign the responsibility to a senior leader reporting to the senior management board. They may collect information on the state of assurance processes and include this in their annual report. The Department of Energy Strategy and Net Zero (DESNZ) reports this in each [DESNZ Annual report](https://assets.publishing.service.gov.uk/media/6532741b26b9b1000faf1ca7/CCS0123681176-001_PN6763756_BEIS_2022-23_Annual_Report_Web_Accessible.pdf).
 
@@ -51,12 +51,12 @@ There is a risk that work and time pressures could affect the quality of work. S
 
 If time constraints mean insufficient assurance has taken place this should be explicitly acknowledged and reported in an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-If analysis requires a peer review this should be carried out by independent, skilled and competent individuals or groups. It can be difficult to identify available experts who are able to provide a review but there are several approaches to support and embed independent review. These approaches may include: 
+If analysis requires a peer review this should be carried out by independent, skilled and competent individuals or groups. It can be difficult to identify available experts who are able to provide a review but there are several ways to support and embed independent review. These may include: 
 
 * setting up specific teams to review and audit a sample of analytical projects
 * developing assurance networks of analysts who can provide reviews when needed
 * partnering with another department
-* procuring an independent review from an independent source such as the [Government Actuary’s Department (GAD)](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services)) an academic institution or contractor
+* procuring an independent review from an independent source such as the [Government Actuary’s Department (GAD)](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor
 
 Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting such reviews is part of their role.
 
@@ -67,7 +67,7 @@ HMRC has a small analytical team which independently reviews analysis from acros
 
 ### Capability
 
-There is a risk of errors occuring because of a lack of skills or experience. Senior leaders can identify common skill or knowledge gaps and provide training or mentoring to help fill these gaps. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
+There is a risk of errors occurring because of a lack of skills or experience. Senior leaders can identify common skill or knowledge gaps and provide training or mentoring to help fill these gaps. Processes to support knowledge sharing, innovation and dissemination of best practice will all help develop capability. Rolling out training on departmental assurance processes can also mitigate this risk.
 
 There are various cross-government resources to support and guide commissioners and users of analysis. For example, the Analysis Function's [Advice for policy professionals using statistics and analysis](https://analysisfunction.civilservice.gov.uk/policy-store/advice-for-policy-professionals-using-statistics/) supports policy professionals working with analysts and analysis. It introduces some important statistical ideas and concepts to help policy professionals ask the right questions when working with statistical evidence.
 
@@ -100,11 +100,15 @@ There is a risk of technology or analytical tools being out of date. This means 
 
 ## Data
 
-There is a risk that data quality and data understanding cause quality issues with analysis. Senior leaders can escalate data quality issues with wider data teams, championing and overseeing changes to improve data quality.
+There is a risk that issues of data quality and data understanding affect the quality of analysis. Senior leaders can escalate data quality issues with wider data teams, championing and overseeing changes to improve data quality.
 
 ## Uncertainty in analysis
 
-Uncertainty is an inevitable part of government work. Analysis should support government decision-making by treating uncertainty appropriately. Senior leaders are responsible for creating a culture in which the proportionate handling of uncertainty is part of all analytical work. To do so, senior leaders should gain an understanding of how to identify uncertainty, how uncertainty can be analysed and how to plan for uncertainty. The National Audit Office has published [guidance for decision makers and senior leaders](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf) on managing uncertainty. It is the responsibility of decision makers to challenge analysts, as well as other members of a project team, on whether uncertainties have been considered, treated appropriately and communicated.
+Uncertainty is an inevitable part of government work. Analysis should support government decision-making by treating uncertainty appropriately.    
+
+Senior leaders are responsible for creating a culture in which the proportionate handling of uncertainty is part of all analytical work. To do so, senior leaders should gain an understanding of how to identify uncertainty, how uncertainty can be analysed and how to plan for uncertainty.    
+
+The National Audit Office has published [guidance for decision makers and senior leaders](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf) on managing uncertainty. It is the responsibility of decision makers to challenge analysts, as well as other members of a project team, on whether uncertainties have been considered, treated appropriately and communicated.
 
 ## Governance and control
 
@@ -128,10 +132,6 @@ When working with third parties (e.g Arm's Length Bodies (ALBs)[^1]), the commis
 For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
 
 Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of Managing Public Money and the Analysis Function Standard.
-
-When working with third parties the commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
-
-You can read more in the [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) section.
 
 [^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
 

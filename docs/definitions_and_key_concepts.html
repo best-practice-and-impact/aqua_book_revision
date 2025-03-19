@@ -200,22 +200,25 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#artificial-intelligence" id="toc-artificial-intelligence" class="nav-link" data-scroll-target="#artificial-intelligence">Artificial Intelligence</a></li>
   <li><a href="#black-box-models" id="toc-black-box-models" class="nav-link" data-scroll-target="#black-box-models">Black box models</a></li>
   <li><a href="#business-critical-analysis" id="toc-business-critical-analysis" class="nav-link" data-scroll-target="#business-critical-analysis">Business critical analysis</a></li>
+  <li><a href="#business-critical-models" id="toc-business-critical-models" class="nav-link" data-scroll-target="#business-critical-models">Business critical models</a></li>
   <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a>
   <ul class="collapse">
   <li><a href="#specification-documentation" id="toc-specification-documentation" class="nav-link" data-scroll-target="#specification-documentation">Specification documentation</a></li>
   <li><a href="#design-documentation" id="toc-design-documentation" class="nav-link" data-scroll-target="#design-documentation">Design documentation</a></li>
   <li><a href="#assumptions-log" id="toc-assumptions-log" class="nav-link" data-scroll-target="#assumptions-log">Assumptions log</a></li>
-  <li><a href="#decsions-log" id="toc-decsions-log" class="nav-link" data-scroll-target="#decsions-log">decsions log</a></li>
+  <li><a href="#decisions-log" id="toc-decisions-log" class="nav-link" data-scroll-target="#decisions-log">Decisions log</a></li>
   <li><a href="#data-log" id="toc-data-log" class="nav-link" data-scroll-target="#data-log">Data log</a></li>
   <li><a href="#user-and-technical-documentation" id="toc-user-and-technical-documentation" class="nav-link" data-scroll-target="#user-and-technical-documentation">User and technical documentation</a></li>
   <li><a href="#assurance-statement" id="toc-assurance-statement" class="nav-link" data-scroll-target="#assurance-statement">Assurance statement</a></li>
   </ul></li>
   <li><a href="#machine-learning" id="toc-machine-learning" class="nav-link" data-scroll-target="#machine-learning">Machine Learning</a></li>
+  <li><a href="#model" id="toc-model" class="nav-link" data-scroll-target="#model">Model</a></li>
   <li><a href="#maturity-model" id="toc-maturity-model" class="nav-link" data-scroll-target="#maturity-model">Maturity Model</a></li>
   <li><a href="#multi-use-models" id="toc-multi-use-models" class="nav-link" data-scroll-target="#multi-use-models">Multi-use models</a></li>
   <li><a href="#quality-analysis" id="toc-quality-analysis" class="nav-link" data-scroll-target="#quality-analysis">Quality analysis</a></li>
   <li><a href="#roles-and-responsibilities" id="toc-roles-and-responsibilities" class="nav-link" data-scroll-target="#roles-and-responsibilities">Roles and responsibilities</a></li>
   <li><a href="#third-party" id="toc-third-party" class="nav-link" data-scroll-target="#third-party">Third party</a></li>
+  <li><a href="#uncertainty" id="toc-uncertainty" class="nav-link" data-scroll-target="#uncertainty">Uncertainty</a></li>
   <li><a href="#validation" id="toc-validation" class="nav-link" data-scroll-target="#validation">Validation </a><a name="def_validation" class="nav-link" data-scroll-target="undefined"></a></li>
   <li><a href="#verification" id="toc-verification" class="nav-link" data-scroll-target="#verification">Verification</a></li>
   <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version control</a></li>
@@ -297,7 +300,7 @@ Examples of types of analysis that are frequently encountered in government are:
 </section>
 <section id="artificial-intelligence" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="artificial-intelligence">Artificial Intelligence</h2>
-<p>Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as <a href="#Machine%20Learning">machine learning</a>, natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, -making, and language understanding. AI models are usually considered <a href="#black_box_models">black box models</a> and can be pre-trained models or custom built.</p>
+<p>Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as <a href="#Machine%20Learning">machine learning</a>, natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, -making, and language understanding. AI models are usually considered <a href="#black_box_models">black box models</a>. They can be pre-trained models or custom built.</p>
 </section>
 <section id="black-box-models" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="black-box-models">Black box models</h2>
@@ -306,7 +309,10 @@ Examples of types of analysis that are frequently encountered in government are:
 <section id="business-critical-analysis" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="business-critical-analysis">Business critical analysis</h2>
 <p>Business critical analysis refers to analysis that: * has a significant influence over finance and funding or departmental operation(s) * is necessary to the achievement of a departmental business plan or * is analysis where an error could have a significant reputational, economic or legal implications.</p>
-<p>The first edition of the AQuA Book described business critical models. This has been updated to the more general term ‘business critical analysis’ because analysis can be business critical without including a model. Some departments may still use the term business critical models (BCM).</p>
+</section>
+<section id="business-critical-models" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="business-critical-models">Business critical models</h2>
+<p>Business critical models are models to support or provide <a href="#Business%20critical%20analysis">Business critical analysis</a>.</p>
 </section>
 <section id="documentation" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="documentation">Documentation</h2>
@@ -330,9 +336,9 @@ Examples of types of analysis that are frequently encountered in government are:
 <li>explain who made the assumption and who signed it off</li>
 </ul>
 </section>
-<section id="decsions-log" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="decsions-log">decsions log</h3>
-<p>The decisons log is a register of decisions, whether provided by the commissioner or derived from the analysis. Decisions logs should:</p>
+<section id="decisions-log" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="decisions-log">Decisions log</h3>
+<p>The decisions log is a register of decisions, whether provided by the commissioner or derived from the analysis. Decisions logs should:</p>
 <ul>
 <li>describe each decision</li>
 <li>set out when it was made</li>
@@ -379,6 +385,15 @@ Example of publishing quality assurance tools
 <h2 class="unnumbered anchored" data-anchor-id="machine-learning">Machine Learning</h2>
 <p>Machine Learning uses algorithms to learn from patterns in data without needing to programme explicit business rules. Some models are white box models and others are considered <a href="#Black%20box%20models">black box models</a>. Machine Learning is a subset of <a href="#Artificial%20Intelligence">Artificial Intelligence</a>.</p>
 </section>
+<section id="model" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="model">Model</h2>
+<p>A model is a tool used to study, or understand, a part of the real world. Often, they use quantative methods and theories drawn from statistics, economics, or mathematics together with assumptions, to turn input data into numerical estimates. Models can be:</p>
+<ul>
+<li>descriptive - what is?</li>
+<li>predictive - what might be?</li>
+<li>prescriptive - what should be done if?</li>
+</ul>
+</section>
 <section id="maturity-model" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="maturity-model">Maturity Model</h2>
 <p>A maturity model is a structured way to assess an organization’s capabilities within a specific area, like quality assurance.</p>
@@ -414,7 +429,10 @@ Example of publishing quality assurance tools
 </section>
 <section id="third-party" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="third-party">Third party</h2>
-<p>Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company. person or group besides the two primarily involved in a situation, especially a dispute. ## Uncertainty {.unnumbered}</p>
+<p>Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company, person or group besides the two primarily involved in a situation, especially a dispute.</p>
+</section>
+<section id="uncertainty" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="uncertainty">Uncertainty</h2>
 <p>Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The NAO have published a <a href="https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf">good practice guide on managing uncertainty</a></p>
 <p>There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required.</p>
 <p>The <a href="https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html">Uncertainty Toolkit for Analysts in Government</a> is a tool produced by a cross-government group to help assessing and communicating uncertainty.</p>

@@ -2,7 +2,8 @@
 This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
-:::
+:::    
+
 # Introduction
 
 The Analytical Quality Assurance (AQuA) Book provides guidance on producing good quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
@@ -105,7 +106,7 @@ You can read more on verification and validation in chapters [5-9.](https://best
 
 ### Uncertainty 
 
-It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
+It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8](https://best-practice-and-impact.github.io/aqua_book_revision/analysis.html) covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
 
 You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
 
