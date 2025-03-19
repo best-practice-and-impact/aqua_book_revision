@@ -87,7 +87,7 @@ To ensure that the analysis is used as intended, the commissioner should use the
 The effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
 * commissioners and users of the analysis
-* external scrutineers such as the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external auditers 
+* external scrutineers such as the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external auditors 
 * the public, through publications and [Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents) requests    
 * academic experts, possibly through a departmental [Areas of Research Interest](https://www.gov.uk/government/publications/dwp-areas-of-research-interest-2023/dwp-areas-of-research-interest-2023) document
 * national and international governmental partners
@@ -144,7 +144,7 @@ Government has produced a range of guidance to support analysts in presenting an
 The approver is responsible for signing-off that all risks and ethical considerations around the use of black-box models have been addressed. 
 This may include 
 * formal consultation and approval by an ethics committee or similar depending on internal governance structures
-* provisions for regular review, including whether on-going peer review is required to ensure the lastest guidance and assurance methodology is taken into account
+* provisions for regular review, including whether on-going peer review is required to ensure the latest guidance and assurance methodology is taken into account
 * communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected or has there been data drift i.e. is the model's performance decreasing over time? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. The model may become less effective because it is no longer conditioned on  the current state of the data. 
 You can read more about this in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
 
@@ -158,17 +158,17 @@ Supporting and encouraging the public to understand and scrutinise analysis prom
 
 The UK Statistics Authority has [published guidance](https://osr.statisticsauthority.gov.uk/publication/guidance-for-models-trustworthiness-quality-and-value/pages/1/) on how the principles of Trustworthiness, Quality and Value from the Code of Practice for Statistics can be applied in the design, development and use of models.
 
-### Business-critical analysis register
+### Business critical models register
 
-Departments and Arm’s Length Bodies[^1] (ALBs) should publish a list of [business critical analysis](definitions_and_key_concepts.html#business-critical-analysis) (BCA) in use within their organisations at least annually. This includes models. The list should meet accessibility guidelines.
+Departments and Arm’s Length Bodies[^1] (ALBs) should publish a list of [business critical models](definitions_and_key_concepts.html#Business critical models) (BCM) in use within their organisations at least annually.  The list should meet accessibility guidelines.
 
-Each department and ALB should decide what is defined as business critical based on the extent to which they influence significant financial and funding decisions, are necessary to the achievement of a departmental business plan, or where an error could lead to serious financial, legal or reputational damage. 
+Each Department and ALB should decide what is defined as business critical based on the extent to which they influence significant financial and funding decisions, are necessary to the achievement of a departmental business plan, or where an error could lead to serious financial, legal or reputational damage. 
 
 The definitions and thresholds of business criticality should be aligned with their organisation's own risk framework. The thresholds should be agreed by the director of analysis or equivalent.
 
-ALB’s are responsible for publishing their own BCA list, unless agreed otherwise with the department. The ALB’s accounting officer is accountable for ensuring publication and the sponsor department’s accounting officer oversees this.
+ALB’s are responsible for publishing their own BCM list, unless agreed otherwise with the department. The ALB’s accounting officer is accountable for ensuring publication and the sponsor department’s accounting officer oversees this.
 
-The BCA list should include all business-critical analysis unless there is an internally documented reason that the analysis should be excluded. This should be agreed with the director of analysis (or equivalent) and that agreement should be documented.
+The BCM list should include all Business critical models unless there is an internally documented reason for the analysis to be excluded. This should be agreed with the director of analysis (or equivalent) and that agreement should be documented.
 
 Justification for not publishing a model in the list may include, but is not limited to: 
 
@@ -177,7 +177,7 @@ Justification for not publishing a model in the list may include, but is not lim
 * policy under development
 * commercial interests
 
-In addition to these exemptions there may be further reasons where the risk of negative consequence is deemed to outweigh the potential benefits resulting from publication of the model. For example, where population behaviour may change in response to awareness of a model or modelling.
+In addition to these exemptions there may be further reasons where the risk of a negative consequence is deemed to outweigh the potential benefits resulting from publication of the model. For example, where population behaviour may change in response to awareness of a model or modelling.
 
 For clarity, the name of the analysis or model and what it is used for should be included alongside links to any published material. 
 
