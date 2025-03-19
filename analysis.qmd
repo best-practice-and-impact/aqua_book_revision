@@ -127,11 +127,14 @@ While the scoping and design stages identified and described risks and uncertain
 * should include validation and verification of automatic tests to ensure the model behave as expected
 * may include performance testing in a live environment
 
-You can read more in the [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+More guidance is available in :
+
+* [Portfolio of AI assurance techniques](https://www.gov.uk/guidance/portfolio-of-ai-assurance-techniques)
+* [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
 
 ## Multi-use models
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This requires mechanisms for assuring that the changes integrate into the larger model as expected. For example, through the use of test-suites.
 
 ...
-[^1]: A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program's behavior without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyze how different parts of the program interact or how inputs lead to outputs, even when you don't have specific data.
+[^1]: A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program's behaviour without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyse how different parts of the program interact or how inputs lead to outputs, even when you don't have specific data.
