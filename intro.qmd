@@ -74,7 +74,7 @@ The AQuA Book uses the following terms to indicate whether recommendations are m
 
 * **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances and at all times 
 * **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
-* **‘may’** denotes approval i.e. it's a good idea but not mandatory or advosory
+* **‘may’** denotes approval i.e. it's a good idea but not mandatory or advisory
 * **‘might’** denotes a possibility 
 * **‘can’** denotes both capability and possibility 
 * **is/are** is used for a description 
