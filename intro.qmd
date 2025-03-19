@@ -109,11 +109,9 @@ It is important to accept that uncertainty is inherent in the inputs and outputs
 
 You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
 
-### Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
-
-::: {.callout-tip collapse="true"}
-### RIGOUR
-Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic "RIGOUR" may assist:
+### Analysis with RIGOUR: An acronym some users find helpful to consider when completing analysis is RIGOUR. 
+Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. 
+The mnemonic "RIGOUR" may assist:
 
 * **R**epeatable
 * **I**ndependent
