@@ -199,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#the-commissioners-responsibilities" id="toc-the-commissioners-responsibilities" class="nav-link" data-scroll-target="#the-commissioners-responsibilities"><span class="header-section-number">9.1.1</span> The commissioner’s responsibilities</a></li>
   <li><a href="#the-analysts-responsibilities" id="toc-the-analysts-responsibilities" class="nav-link" data-scroll-target="#the-analysts-responsibilities"><span class="header-section-number">9.1.2</span> The analyst’s responsibilities</a></li>
   <li><a href="#the-assurers-responsibilities" id="toc-the-assurers-responsibilities" class="nav-link" data-scroll-target="#the-assurers-responsibilities"><span class="header-section-number">9.1.3</span> The assurer’s responsibilities</a></li>
-  <li><a href="#the-approvers-abilities" id="toc-the-approvers-abilities" class="nav-link" data-scroll-target="#the-approvers-abilities"><span class="header-section-number">9.1.4</span> The approver’s abilities</a></li>
+  <li><a href="#the-approvers-responsibilities" id="toc-the-approvers-responsibilities" class="nav-link" data-scroll-target="#the-approvers-responsibilities"><span class="header-section-number">9.1.4</span> The approver’s responsibilities</a></li>
   </ul></li>
   <li><a href="#assurance-activities" id="toc-assurance-activities" class="nav-link" data-scroll-target="#assurance-activities"><span class="header-section-number">9.2</span> Assurance activities</a>
   <ul class="collapse">
@@ -286,8 +286,8 @@ Important
 <h3 data-number="9.1.3" class="anchored" data-anchor-id="the-assurers-responsibilities"><span class="header-section-number">9.1.3</span> The assurer’s responsibilities</h3>
 <p>The assurer should communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.</p>
 </section>
-<section id="the-approvers-abilities" class="level3" data-number="9.1.4">
-<h3 data-number="9.1.4" class="anchored" data-anchor-id="the-approvers-abilities"><span class="header-section-number">9.1.4</span> The approver’s abilities</h3>
+<section id="the-approvers-responsibilities" class="level3" data-number="9.1.4">
+<h3 data-number="9.1.4" class="anchored" data-anchor-id="the-approvers-responsibilities"><span class="header-section-number">9.1.4</span> The approver’s responsibilities</h3>
 <p>The approver shall:</p>
 <ul>
 <li>review the assurance evidence that has been provided to them</li>
@@ -316,7 +316,7 @@ Important
 </li>
 <li>has a risk assessment and statement against the programme risk register</li>
 <li>meets analytical standards, such as those around coding standards and documentation</li>
-<li>adheres to any professional codes of practice (for example, <a href="https://code.statisticsauthority.gov.uk/">The Code of Practice for Statistics</a></li>
+<li>adheres to relevant professional codes of practice (for example, <a href="https://code.statisticsauthority.gov.uk/">The Code of Practice for Statistics</a></li>
 <li>is accompanied by a completed <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&amp;wdOrigin=BROWSELINK">assurance statement</a>, where appropriate</li>
 </ul>
 <p>Though not strictly assurance, the analyst should also consider areas such as:</p>
@@ -327,12 +327,12 @@ Important
 <li>ethics and related concerns</li>
 </ul>
 <p>The approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard. The approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.</p>
-<p>The exact nature of any scrutiny made by the approver should be proportionate to the effect the analysis is likely to have, the governance process of their programme/ organisation, and follow the <a href="proportionality.html">principles of proportionality</a>.</p>
+<p>The exact nature of any scrutiny made by the approver should be proportionate to the effect the analysis is likely to have and the governance process of their programme or organisation. It should follow the <a href="proportionality.html">principles of proportionality</a>.</p>
 <p>To ensure that the analysis is used as intended, the commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the analyst.</p>
 </section>
 <section id="communication" class="level3" data-number="9.2.2">
 <h3 data-number="9.2.2" class="anchored" data-anchor-id="communication"><span class="header-section-number">9.2.2</span> Communication</h3>
-<p>The effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:</p>
+<p>Effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:</p>
 <ul>
 <li>commissioners and users of the analysis</li>
 <li>external scrutineers such as the <a href="https://committees.parliament.uk/committee/127/public-accounts-committee/">Public Accounts Committee</a>, the <a href="https://www.nao.org.uk/">National Audit Office</a>, internal and external auditors</li>
@@ -399,7 +399,27 @@ Important
 </section>
 <section id="black-box-models-and-the-delivery-communication-and-sign-off-stage" class="level2" data-number="9.5">
 <h2 data-number="9.5" class="anchored" data-anchor-id="black-box-models-and-the-delivery-communication-and-sign-off-stage"><span class="header-section-number">9.5</span> Black-box models and the delivery, communication and sign-off stage</h2>
-<p>The approver is responsible for signing-off that all risks and ethical considerations[^2] around the use of black-box models have been addressed. This may include * formal consultation and approval by an ethics committee or similar depending on internal governance structures * provisions for regular review, including whether on-going peer review is required to ensure the latest guidance and assurance methodology is taken into account * communicating the “health” of the model at regular intervals to the commissioner i.e.&nbsp;is it continuing to behave as expected or has there been data drift i.e.&nbsp;is the model’s performance decreasing over time? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. The model may become less effective because it is no longer conditioned on the current state of the data. You can read more about this in the <a href="https://www.gov.uk/government/publications/introduction-to-ai-assurance">Introduction to AI assurance</a>.</p>
+<p>The approver is responsible for signing-off that all risks and ethical considerations<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> around the use of black-box models have been addressed.</p>
+<p>This may include:</p>
+<ul>
+<li>formal consultation and approval by an ethics committee or similar depending on internal governance structures</li>
+<li>provisions for regular review, including whether on-going peer review is required to ensure the latest guidance and assurance methodology is taken into account</li>
+<li>communicating the “health” of the model at regular intervals to the commissioner.</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Regularly reviewing model health
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Model effectiveness can change over time. For example, does the model continue to behave as expected or has there been data drift where the model’s performance decreases? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. Such a model may become less effective because it is no longer conditioned on the current state of the data.</p>
+<p>You can read more about this in the <a href="https://www.gov.uk/government/publications/introduction-to-ai-assurance">Introduction to AI assurance</a>.</p>
+</div>
+</div>
 </section>
 <section id="multi-use-models" class="level2" data-number="9.6">
 <h2 data-number="9.6" class="anchored" data-anchor-id="multi-use-models"><span class="header-section-number">9.6</span> Multi-use models</h2>
@@ -411,7 +431,7 @@ Important
 <p>The UK Statistics Authority has <a href="https://osr.statisticsauthority.gov.uk/publication/guidance-for-models-trustworthiness-quality-and-value/pages/1/">published guidance</a> on how the principles of Trustworthiness, Quality and Value from the Code of Practice for Statistics can be applied in the design, development and use of models.</p>
 <section id="business-critical-models-register" class="level3" data-number="9.7.1">
 <h3 data-number="9.7.1" class="anchored" data-anchor-id="business-critical-models-register"><span class="header-section-number">9.7.1</span> Business critical models register</h3>
-<p>Departments and Arm’s Length Bodies<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> (ALBs) should publish a list of <a href="definitions_and_key_concepts.html#Business critical models">business critical models</a> (BCM) in use within their organisations at least annually. The list should meet accessibility guidelines.</p>
+<p>Departments and Arm’s Length Bodies<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> (ALBs) should publish a list of <a href="definitions_and_key_concepts.html#Business critical models">business critical models</a> (BCM) in use within their organisations at least annually. The list should meet accessibility guidelines.</p>
 <p>Each Department and ALB should decide what is defined as business critical based on the extent to which they influence significant financial and funding decisions, are necessary to the achievement of a departmental business plan, or where an error could lead to serious financial, legal or reputational damage.</p>
 <p>The definitions and thresholds of business criticality should be aligned with their organisation’s own risk framework. The thresholds should be agreed by the director of analysis or equivalent.</p>
 <p>ALB’s are responsible for publishing their own BCM list, unless agreed otherwise with the department. The ALB’s accounting officer is accountable for ensuring publication and the sponsor department’s accounting officer oversees this.</p>
@@ -431,7 +451,6 @@ Important
 <p>To facilitate public scrutiny departments may choose to make the analysis or model (for example, source code or spreadsheets) and any relevant data, assumptions, methodology and outputs open to the public. <a href="https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open">Open publishing source code</a> and other parts of the analysis allows others to reuse and build on the work.</p>
 <p>You can read more about making <a href="https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable">source code open and reusable</a>.</p>
 <p>The <a href="#business-critical-analysis-register">guidance for publishing Business Critical Analysis lists</a> should be applied to the publication of analysis as in some cases it might not be appropriate to publish the work. For example, if the analysis is extremely complex it may be more appropriate to publish summary information to make the analysis more accessible.</p>
-<p>[^2] See principles in <a href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#principles">Artificial Intelligence Playbook for the UK Government</a></p>
 
 
 </section>
@@ -439,7 +458,8 @@ Important
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn1"><p>ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>See principles in <a href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#principles">Artificial Intelligence Playbook for the UK Government</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 

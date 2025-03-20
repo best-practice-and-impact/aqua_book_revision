@@ -245,7 +245,8 @@ Important
 <p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
 </div>
 </div>
-<p>During the design stage the analyst creates an actionable <a href="https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#documentation">analytical plan</a> from the scope for the analysis agreed with the commissioner. This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.</p>
+<p>During the design stage the analyst creates an actionable <a href="https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#documentation">analytical plan</a> from the scope for the analysis agreed with the commissioner.</p>
+<p>This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.</p>
 <p>The development of the analytical plan should consider:</p>
 <ul>
 <li>methodology for producing results, including the treatment of uncertainty</li>
@@ -317,7 +318,7 @@ Reproducible analytical pipelines<a name="rap"></a>
 <ul>
 <li>address commissioner’s requirements (validation)</li>
 <li>deliver as intended (verification)</li>
-<li>meet the principles of <a href="https://best-practice-and-impact.github.io/aqua_book_revision/intro.html#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below.">RIGOUR</a> by, for mple, providing a well-structured, data driven plan with a sound overall design</li>
+<li>meet the principles of <a href="https://best-practice-and-impact.github.io/aqua_book_revision/intro.html#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below.">RIGOUR</a> by, for example, providing a well-structured, data driven plan with a sound overall design</li>
 </ul>
 <p>The assurance of the design stage may be carried out by the assurer. For more complex analysis, it is good practice to engage subject matter experts to provide independent assurance and to ensure the accuracy and limitations of the chosen methods are understood, ideally with tests baselining their response against independent reference cases.</p>
 </section>
@@ -336,7 +337,19 @@ Reproducible analytical pipelines<a name="rap"></a>
 <h2 data-number="7.5" class="anchored" data-anchor-id="black-box-models"><span class="header-section-number">7.5</span> Black box models</h2>
 <p>Using <a href="https://best-practice-and-impact.github.io/aqua_book_revision/definitions_and_key_concepts.html#black-box-models">black box models</a> places greater weight on the design of the analysis and the assurance and validation of outputs by domain experts.</p>
 <p>This <a href="https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance">guidance on AI assurance</a> outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.</p>
-<p>In the design of AI and machine learning models, the analyst should: * define the situation they wish to model * the prediction they wish to make * assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models * carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach * consider the appropriate data training, validation and testing strategy for your models - it’s usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design * consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI * consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment * consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section * consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020">Data Ethics Framework</a> * consider setting up a peer or academic review process to test the methodologies and design decisions</p>
+<p>In the design of AI and machine learning models, the analyst should:</p>
+<ul>
+<li>define the situation they wish to model</li>
+<li>the prediction they wish to make</li>
+<li>assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models</li>
+<li>carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach</li>
+<li>consider the appropriate data training, validation and testing strategy for your models - it’s usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design</li>
+<li>consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI</li>
+<li>consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment</li>
+<li>consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section</li>
+<li>consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020">Data Ethics Framework</a></li>
+<li>consider setting up a peer or academic review process to test the methodologies and design decisions</li>
+</ul>
 </section>
 <section id="multi-use-models" class="level2" data-number="7.6">
 <h2 data-number="7.6" class="anchored" data-anchor-id="multi-use-models"><span class="header-section-number">7.6</span> Multi-use models</h2>

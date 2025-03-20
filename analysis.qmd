@@ -90,7 +90,7 @@ The effect of using a proxy dataset should be explored and if the uncertainty as
 
 ### Assurance of code
 
-The [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed guidance on developing and assurance for delivering quality code. This includes guidance on:
+[Quality Assurance of Code for Analysis and Research (known informally as the Duck Book)](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) provides detailed good practice guidance on developing analytical software and assurance for delivering quality code. It includes guidance on:
 
 * structuring code
 * producing documentation
@@ -136,5 +136,5 @@ More guidance is available in :
 
 In multi-use models, analysis and edits may be carried out on individual elements of the model at differing times. This requires mechanisms for assuring that the changes integrate into the larger model as expected. For example, through the use of test-suites.
 
-...
+
 [^1]: A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program's behaviour without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyse how different parts of the program interact or how inputs lead to outputs, even when you don't have specific data.

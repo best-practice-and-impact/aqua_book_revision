@@ -41,7 +41,7 @@ The analyst should communicate the assurance state to the approver if this is no
 The assurer should communicate the assurance state to the approver. This includes confirmation that the work has been appropriately scoped, executed, validated, verified, documented and that it provides adequate handling of uncertainty. This communication may be undertaken by the analyst.
 
 
-### The approver's abilities 
+### The approver's responsibilities 
 
 The approver shall:
 
@@ -66,7 +66,7 @@ When delivering a piece of analysis, the analyst (or assurer), should communicat
 * has been carried out correctly and to its agreed specification   
 * has a risk assessment and statement against the programme risk register
 * meets analytical standards, such as those around coding standards and documentation
-* adheres to any professional codes of practice (for example, [The Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
+* adheres to relevant professional codes of practice (for example, [The Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
 * is accompanied by a completed [assurance statement](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F65c5021f9c5b7f0012951b83%2F20231101-analysis-evidence-quality-assurance-report-gov-uk-E02.docx&wdOrigin=BROWSELINK), where appropriate
 
 Though not strictly assurance, the analyst should also consider areas such as:
@@ -78,13 +78,13 @@ Though not strictly assurance, the analyst should also consider areas such as:
 
 The approver should scrutinise the evidence delivered and approve the work if the analysis meets the required standard. The approver should then feedback the outcome of any approval activities to the analyst so that the analysis can be updated if required.  
 
-The exact nature of any scrutiny made by the approver should be proportionate to the effect the analysis is likely to have, the governance process of their programme/ organisation, and follow the [principles of proportionality](proportionality.html).
+The exact nature of any scrutiny made by the approver should be proportionate to the effect the analysis is likely to have and the governance process of their programme or organisation. It should follow the [principles of proportionality](proportionality.html).
 
 To ensure that the analysis is used as intended, the commissioner should use the analysis as specified at the start of the analytical cycle, applying any limitations to its use as described by the analyst. 
 
 ### Communication
 
-The effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
+Effective and transparent communication is essential to ensure analysis is adopted and trusted by the commissioner and onward users. Depending on its final use and likelihood of publication, any analysis may be communicated to a wide audience including:
 
 * commissioners and users of the analysis
 * external scrutineers such as the [Public Accounts Committee](https://committees.parliament.uk/committee/127/public-accounts-committee/), the [National Audit Office](https://www.nao.org.uk/), internal and external auditors 
@@ -141,12 +141,20 @@ Government has produced a range of guidance to support analysts in presenting an
 
 ## Black-box models and the delivery, communication and sign-off stage
 
-The approver is responsible for signing-off that all risks and ethical considerations[^2] around the use of black-box models have been addressed. 
-This may include 
+The approver is responsible for signing-off that all risks and ethical considerations[^2] around the use of black-box models have been addressed.
+
+This may include:
+
 * formal consultation and approval by an ethics committee or similar depending on internal governance structures
 * provisions for regular review, including whether on-going peer review is required to ensure the latest guidance and assurance methodology is taken into account
-* communicating the "health" of the model at regular intervals to the commissioner i.e. is it continuing to behave as expected or has there been data drift i.e. is the model's performance decreasing over time? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. The model may become less effective because it is no longer conditioned on  the current state of the data. 
+* communicating the "health" of the model at regular intervals to the commissioner.
+
+::: {.callout-tip}
+# Regularly reviewing model health
+Model effectiveness can change over time. For example, does the model continue to behave as expected or has there been data drift where the model's performance decreases? This can happen when a model is trained on historical data, but then uses current data when it is being used in production. Such a model may become less effective because it is no longer conditioned on the current state of the data. 
+
 You can read more about this in the [Introduction to AI assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance).
+:::
 
 ## Multi-use models
 
@@ -191,4 +199,4 @@ The [guidance for publishing Business Critical Analysis lists](#business-critica
 
 
 [^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, you can read more in the [Cabinet Office guidance on Classification of Public Bodies(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
-[^2] See principles in  [Artificial Intelligence Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#principles)
+[^2]: See principles in  [Artificial Intelligence Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#principles)

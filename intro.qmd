@@ -110,7 +110,8 @@ It is important to accept that uncertainty is inherent in the inputs and outputs
 
 You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
 
-### Analysis with RIGOUR: An acronym some users find helpful to consider when completing analysis is RIGOUR. 
+### Analysis with RIGOUR
+An acronym some users find helpful to consider when completing analysis is RIGOUR. 
 Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. 
 The mnemonic "RIGOUR" may assist:
 
@@ -133,7 +134,6 @@ The mnemonic "RIGOUR" may assist:
 
 **Robust:** Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.  
 
-:::
 
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
