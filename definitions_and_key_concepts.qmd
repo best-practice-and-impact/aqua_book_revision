@@ -39,23 +39,28 @@ This may include:
 
 ## Artificial Intelligence {.unnumbered}
 
-Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as [machine learning](#Machine Learning), natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. AI models are usually considered [black box models](#black_box_models) and can be pre-trained models or custom built.
+Artificial Intelligence (AI) attempts to simulate human intelligence using techniques and methods such as [machine learning](#Machine Learning), natural language processing, robotics, and generative AI. AI aims to perform tasks that typically require human intelligence, such as problem-solving, -making, and language understanding. AI models are usually considered [black box models](#black_box_models). They can be pre-trained models or custom built.
 
 ## Black box models {.unnumbered}
 
-Black box models internal workings are not visible, easily understood, or succinctly explained. These models take input and produce output without providing clarity about the process used to arrive at the output. This also includes proprietary models with protected intellectual property. [Artificial Intelligence](#Artificial Intelligence) models (including [Machine Learning](#Machine Learning)) can often be considered a type of black box models. Other forms of this type of black box models may arise in future.  
+Black box models' internal workings are not visible, easily understood, or succinctly explained. These models take input and produce output without providing clarity about the process used to arrive at the output. This also includes proprietary models with protected intellectual property. [Artificial Intelligence](#Artificial Intelligence) models (including [Machine Learning](#Machine Learning)) can often be considered a type of black box model. Other types of black box model may arise in future.  
 
 ## Business critical analysis {.unnumbered}
 
-Business critical analysis refers to analysis that has a significant influence over financial and funding decisions, is necessary to the achievement of a departmental business plan or is analysis where an error could have a significant reputational, economic or legal implications. 
+Business critical analysis refers to analysis that:
+* has a significant influence over finance and funding or departmental operation(s) 
+* is necessary to the achievement of a departmental business plan or 
+* is analysis where an error could have a significant reputational, economic or legal implications. 
 
-The first edition of the AQuA Book described business critical models. This has been updated to the more general term 'business critical analysis' because analysis can be business critical without including a model. Some departments may still use the term business critical models (BCM). 
+## Business critical models {.unnumbered}
+
+Business critical models are models to support or provide [Business critical analysis](#Business critical analysis).
 
 ## Documentation {.unnumbered}
 
 ### Specification documentation {.unnumbered}
 
-Specification documentation records the initial engagements with the commissioner. It describe the question, the context and any boundaries of the analysis. The specifications provide a definition of the scope of the project and a mechanism for agreeing project constraints (for example, deadlines and available resources) and define what level of assurance is required by the commissioner.
+Specification documentation records the initial engagements with the commissioner. It describes the question, the context and any boundaries of the analysis. The specifications provide a definition of the scope of the project and a mechanism for agreeing project constraints (for example, deadlines and available resources) and define what level of assurance is required by the commissioner.
 
 ### Design documentation {.unnumbered}
 
@@ -75,7 +80,7 @@ The assumptions log is a register of assumptions, whether provided by the commis
 
 ### Decisions log {.unnumbered}
 
-The decisions log is a register of decisions, whether provided by the commissioner or derived by the analysis. Decisions logs should: 
+The decisions log is a register of decisions, whether provided by the commissioner or derived from the analysis. Decisions logs should: 
 
 * describe each decision
 * set out when it was made
@@ -84,7 +89,7 @@ The decisions log is a register of decisions, whether provided by the commission
 
 ### Data log {.unnumbered}
 
-A register of data provided by the commissioner or derived by the analysis that has been risked assessed and signed-off by an appropriate governance group or stakeholder.  
+A register of data provided by the commissioner or derived from the analysis that has been risk assessed and signed-off by an appropriate governance group or stakeholder.  
 
 ### User and technical documentation {.unnumbered}
 
@@ -96,7 +101,7 @@ All analysis shall have user documentation, even if the only user is the analyst
 * what challenges were encountered and how they were overcome 
 * what verification and validation steps were performed
 
-Where relevant the analyst may include a model map that describes data flows and transformations.
+Where relevant, the analyst may include a model map that describes data flows and transformations.
 
 For analysis that is likely to be revisited or updated in the future, more comprehensive documentation should be provided to assist a future analyst. It may also be helpful to include guidance on what should be considered or updated. 
 
@@ -114,11 +119,23 @@ The Department for Energy Security and Net Zero (DESNZ) and Department for Busin
 
 Machine Learning uses algorithms to learn from patterns in data without needing to programme explicit business rules. Some models are white box models and others are considered [black box models](#Black box models). Machine Learning is a subset of [Artificial Intelligence](#Artificial Intelligence).
 
+## Model {.unnumbered}
+
+A model is a tool used to study, or understand, a part of the real world. Often, they use quantative methods and theories drawn from statistics, economics, or mathematics together with assumptions, to turn input data into numerical estimates.  Models can be:
+
+* descriptive - what is?
+* predictive  - what might be?
+* prescriptive - what should be done if?
+
+## Maturity Model {.unnumbered}
+
+A maturity model is a structured way to assess an organization's capabilities within a specific area, like quality assurance. 
+
 ## Multi-use models {.unnumbered}
 
 Multi-use models are used by more than one user or group of users for related but different purposes. These are often complex and large.
 
-A Steering Group may be created to oversee the analysis of these models. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model and consist of senior representatives of each major user area. The members of the Steering Group would ideally have decision-making responsibilites in their area of work. 
+A Steering Group may be created to oversee the analysis of these models. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model and consist of senior representatives of each major user area. The members of the Steering Group may have decision-making responsibilities in their area of work. 
 
 ## Quality analysis {.unnumbered}
 
@@ -141,16 +158,14 @@ The AQuA Book defines the following roles:
 * assurer
 * approver
 
-You can read more in the [Roles and Responsibilities](analytical_lifecycle.qmd/#roles_and_responsibilities) section.
+You can read more in the [Roles and Responsibilities](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html) section.
 
 ## Third party {.unnumbered}
-Any individual or group of individuals that is not a member of the same group as the those commissioning analysis. For example, they may be working for a different government department, a different function or an outside company.
+
+Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company, person or group besides the two primarily involved in a situation, especially a dispute.
 
 ## Uncertainty {.unnumbered}
-
-Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives.[^1]
-
-[^1]: https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf
+Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The NAO have published a [good practice guide on managing uncertainty](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf)
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required. 
 

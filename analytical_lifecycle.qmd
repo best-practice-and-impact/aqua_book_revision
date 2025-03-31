@@ -6,7 +6,9 @@ The draft currently has no official status. It is a work in train and is subject
 
 # Roles and the analytical lifecycle
 
-An analytical project can be viewed as a variation on an archetypal project defined by roles and stages. This chapter gives an overview of the roles and the project stages in the analytical lifecycle. Chapters 6 to 9 give more explanation of each stage and the responsibilities of each role during a given stage.
+An analytical project can be viewed as a variation on an archetypal project defined by roles and stages.   
+
+This chapter gives an overview of the roles and the project stages in the analytical lifecycle. Chapters 6 to 9 give more explanation of each stage and the responsibilities of each role during a given stage.
 
 ## Roles and responsibilities <a name="roles_and_responsibilities"></a>
 
@@ -19,7 +21,7 @@ The AQuA Book defines four roles.
 The commissioner (may be known as customer):
 
 * requests the analysis and sets out their requirements  
-* agrees what the analyst is going to do will satisfy the need  
+* agrees that what the analyst is going to do will satisfy the need  
 * accepts the analysis and assurance as fit for purpose  
 
 The analyst:
@@ -46,17 +48,17 @@ The approver (may be known as senior analyst or senior responsible officer):
 * scrutinises the work of the analyst and assurer    
 * confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured   
     
-The roles of analyst and assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the approver and commissioner lies with the assurer. In some instances, particularly for quick or simple analysis, an individual may fulfill more than one of the roles, apart from the assurer and analyst roles which shall be separate from one another in all cases.
+The roles of analyst and assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the approver and commissioner lies with the assurer. In some instances, particularly for quick or simple analysis, an individual may fulfil more than one of the roles, apart from the assurer and analyst roles which shall be separate from one another in all cases.
 
 ## The analytical lifecycle
 
-Quality assurance activities should take place throughout all stages of an analytical project. An effective quality assurance process involves ongoing engagement between the commissioner and the analyst to ensure an appropriate balance is maintained between time, resource and quality, and to ensure a shared understanding of the assurance activities required and risks involved.
+Quality assurance activities should take place throughout an analytical project. An effective quality assurance process involves ongoing engagement between the commissioner and the analyst to ensure an appropriate balance is maintained between time, resource and quality, and to ensure a shared understanding of the assurance activities required and risks involved.
 
 ![Figure 2 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
 
 Figure 2 is adapted from the [Government Functional Standard for Analysis](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). Analytical quality assurance activities should take place during every phase of the cycle and should consider proportionality, although analytical quality considerations may vary depending on project governance and the specific phase of the cycle. All projects will involve some element of every phase of the cycle, even if this is not clearly defined.
 
-It is important that [proportionality](proportionality.qmd) is considered and that there is transparency of the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be clearly shown in:  
+It is important that [proportionality](proportionality.qmd) is considered and that there is transparency about the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be clearly shown in:  
 
 * documentation of the analysis, assumptions and data
 * records of the analytical decisions made
@@ -64,21 +66,21 @@ It is important that [proportionality](proportionality.qmd) is considered and th
 
 ### Engagement and scoping
 
-Analytical projects typically start with customer engagement although other events may trigger analytical projects. Scoping ensures that an appropriate, common understanding of the problem is defined and that expectations are aligned with what can be produced. During this phase the commissioner plays an important role in communicating the questions to be addressed and working with the analyst to ensure the requirements and scope are defined and understood. 
+Analytical projects typically start with customer engagement although other events may trigger them. Scoping ensures that an appropriate, common understanding of the problem is defined and that expectations are aligned with what can be produced. During this phase the commissioner plays an important role in communicating the questions to be addressed and working with the analyst to ensure the requirements and scope are defined and understood. 
 
-Where analysis requires multiple cycles (for example to develop, use and update analytical models), this phase may follow on from the delivery and communication phase. In these cases, the phase will concentrate on the scope of the questions to be addressed in the next stage of the analytical project. 
+Where analysis requires multiple cycles (for example to develop, use and update analytical models), the engagement and scoping phase may follow on from the delivery and communication phase. In these cases, engagement and scoping will concentrate on the questions to be addressed in the next stage of the analytical project. 
 
-In this phase more effort may be needed to define the requirements and scope in this phase for research, evaluation or other projects that may need to seek a wider range of perspectives or for which subsequent phases and work may be provided through a product or service.
+In this phase more effort may be needed to define the requirements and scope for research, evaluation or other projects that may need to seek a wider range of perspectives or for which subsequent phases and work may be provided through a product or service.
 
 ### Design
 
-During the design phase, the analyst will convert the commission into an analytical plan. This will include the assurance required and ensuring the analysis is sufficient to answer the questions posed. This phase includes the communication and approval of plans. Some iteration between the commissioner and the analyst is to be expected as the analytical solution is developed and limitations understood.  
+During the design phase, the analyst will convert the commission into an analytical plan. This will set out the assurance required and ensure the analysis is sufficient to answer the questions posed. This phase includes the communication and approval of plans. Some iteration between the commissioner and the analyst is to be expected as the analytical solution is developed and limitations understood.  
 
 For larger projects or those that require multiple cycles, the design phase may include consideration of the staging of work over the whole scope of the project as well as the work required in each stage. Analysis plans for work that is dependent on insights from earlier stages may be high-level and necessitate a return to the design phase at a later date.
 
 ### Analysis
 
-The analysis phase is where planned analysis is undertaken and progress and relevance are monitored. The design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases the changes or limitations encountered may mean the scoping or design phase needes to be revisited. 
+The analysis phase is where planned analysis is undertaken and progress and relevance are monitored. The design and plan may be amended to account for changing circumstances, emerging information or unexpected difficulties or limitations encountered. This phase also includes maintaining appropriate records of the analysis conducted, changes, decisions and assumptions made. In some cases changes, or limitations encountered, may mean the scoping or design phase will need to be revisited. 
 
 Throughout this phase traceable documentation of the assurance activities that have been undertaken shall also be produced. 
 
@@ -90,7 +92,7 @@ During the delivery stage, insights and analytical assurances are communicated t
 
 Work in this stage can vary considerably depending on the commission, impact, approval processes and the nature of the project. Delivery and communication activities may include producing summary packs and reports, launching dashboards or websites and presentations.
 
-After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off  includes confirmation that the commission was met, documentation and evidence was captured and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.
+After analysis results have been determined to meet the requirements, they are formally approved for dissemination during sign-off. Sign-off includes confirming that the commission was met, documentation and evidence are captured and appropriate assurance was conducted. This approval may be phased as work develops and insights are produced.
 
 ## Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis all aspects of the lifecycle should be regularly updated. For example, consideration should be made as to whether:
@@ -104,4 +106,4 @@ The analytical lifecycle is not a linear process. Where analysis is used on an o
 Additionally, a robust version control process should be in place to ensure any changes to the analysis are appropriately assured.
 
 ## Urgent analysis 
-In some cases there may be a need for urgent analysis that cannot follow all the steps in this guide. For example, where the need for analysis outweighs the risk of poor quality. In this case analysts should follow the [Urgent data quality assurance guidance](https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance).  
+Sometimes there is a need for urgent analysis that cannot follow all the steps in this guide. For example, the need for the analysis may outweigh the risk of poor quality. In this case analysts should follow the [Urgent data quality assurance guidance](https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance).  

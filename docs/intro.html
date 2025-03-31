@@ -203,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#assurance-throughout-development" id="toc-assurance-throughout-development" class="nav-link" data-scroll-target="#assurance-throughout-development"><span class="header-section-number">1.3.2</span> Assurance throughout development</a></li>
   <li><a href="#verification-and-validation" id="toc-verification-and-validation" class="nav-link" data-scroll-target="#verification-and-validation"><span class="header-section-number">1.3.3</span> Verification and validation</a></li>
   <li><a href="#uncertainty" id="toc-uncertainty" class="nav-link" data-scroll-target="#uncertainty"><span class="header-section-number">1.3.4</span> Uncertainty</a></li>
-  <li><a href="#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below." id="toc-analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below." class="nav-link" data-scroll-target="#analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below."><span class="header-section-number">1.3.5</span> Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.</a></li>
+  <li><a href="#analysis-with-rigour" id="toc-analysis-with-rigour" class="nav-link" data-scroll-target="#analysis-with-rigour"><span class="header-section-number">1.3.5</span> Analysis with RIGOUR</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -244,7 +244,7 @@ Important
 <p>The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised.</p>
 </div>
 </div>
-<p>The Analytical Quality Assurance (AQuA) Book provides guidance on producing quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.</p>
+<p>The Analytical Quality Assurance (AQuA) Book provides guidance on producing good quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.</p>
 <p>The AQuA Book has made a significant contribution to the cultural change in assurance practices in government by clearly setting out the core framework for assuring all forms of analytical evidence.</p>
 <section id="the-updated-version-2025" class="level2" data-number="1.1">
 <h2 data-number="1.1" class="anchored" data-anchor-id="the-updated-version-2025"><span class="header-section-number">1.1</span> The updated version (2025)</h2>
@@ -271,12 +271,14 @@ Important
 <p>We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:</p>
 <ul>
 <li>actuaries</li>
-<li>data scientists developing advanced analytics</li>
+<li>data scientists</li>
+<li>economists</li>
 <li>finance professionals</li>
 <li>geographers</li>
-<li>operational researchers, statisticians and economists</li>
+<li>operational researchers</li>
 <li>science and engineering professionals</li>
-<li>social researchers carrying out (or commissioning) quantitative/ qualitative research or evaluation</li>
+<li>social researchers</li>
+<li>statisticians</li>
 </ul>
 </section>
 <section id="how-to-use-this-book" class="level2" data-number="1.3">
@@ -284,7 +286,7 @@ Important
 <p>The AQuA Book has been developed to help the analysis community:</p>
 <ul>
 <li>publish analytical insights that will be used for major decisions and operations</li>
-<li>minimising the risk of errors arising that cause operational, business or reputational damage</li>
+<li>minimise the risk of errors arising that cause operational, business or reputational damage</li>
 <li>create greater trust in analysts’ work</li>
 <li>ensure appropriate quality assurance is in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use of analysis</li>
 <li>develop the confidence in analysis that is needed for transparency and public openness</li>
@@ -294,24 +296,24 @@ Important
 <p>Each chapter in the second half of the book is structured as follows:</p>
 <ul>
 <li>an overview of the stage and chapter</li>
-<li>Roles and responsibilities</li>
-<li>Assurance activities</li>
-<li>Documentation</li>
-<li>Uncertainty</li>
-<li>Black box models</li>
-<li>Multi-use models</li>
+<li>roles and responsibilities</li>
+<li>assurance activities</li>
+<li>documentation</li>
+<li>uncertainty</li>
+<li>black box models</li>
+<li>multi-use models</li>
 <li>any other guidance specific to the stage of the life cycle</li>
 </ul>
 <p>The AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory:</p>
 <ul>
 <li><strong>‘shall’</strong> denotes a requirement, a mandatory element, which applies in all circumstances and at all times</li>
 <li><strong>‘should’</strong> denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis</li>
-<li><strong>‘may’</strong> denotes approval</li>
+<li><strong>‘may’</strong> denotes approval i.e.&nbsp;it’s a good idea but not mandatory or advisory</li>
 <li><strong>‘might’</strong> denotes a possibility</li>
 <li><strong>‘can’</strong> denotes both capability and possibility</li>
 <li><strong>is/are</strong> is used for a description</li>
 </ul>
-<p>This is consistent with the <a href="https://www.gov.uk/government/collections/functional-standards">UK Government Functional Standards</a>.</p>
+<p>This is consistent with the <a href="https://www.gov.uk/government/publications/guide-to-functional-standards/guide-to-functional-standards#interpreting-a-functional-standard">UK Government Functional Standards</a>.</p>
 </section>
 <section id="principles-of-analytical-quality-assurance" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="principles-of-analytical-quality-assurance">Principles of analytical quality assurance</h2>
@@ -319,38 +321,26 @@ Important
 <section id="proportionate-assurance" class="level3" data-number="1.3.1">
 <h3 data-number="1.3.1" class="anchored" data-anchor-id="proportionate-assurance"><span class="header-section-number">1.3.1</span> Proportionate assurance</h3>
 <p>Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects.</p>
-<p>You can read more about proportionality in chapter [3]</p>
+<p>You can read more about proportionality in chapter <a href="https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html">3.</a></p>
 </section>
 <section id="assurance-throughout-development" class="level3" data-number="1.3.2">
 <h3 data-number="1.3.2" class="anchored" data-anchor-id="assurance-throughout-development"><span class="header-section-number">1.3.2</span> Assurance throughout development</h3>
 <p>Quality assurance should be considered throughout the whole life cycle of the analysis. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs.</p>
-<p>You can read more on the analysis life cycle in chapter [5].</p>
+<p>You can read more on the analysis life cycle in chapter <a href="https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html">5.</a></p>
 </section>
 <section id="verification-and-validation" class="level3" data-number="1.3.3">
 <h3 data-number="1.3.3" class="anchored" data-anchor-id="verification-and-validation"><span class="header-section-number">1.3.3</span> Verification and validation</h3>
 <p>Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate and fit for the purpose for which it is being used (validation).</p>
-<p>You can read more on verification and validation in chapters [5-9].</p>
+<p>You can read more on verification and validation in chapters <a href="https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html">5-9.</a></p>
 </section>
 <section id="uncertainty" class="level3" data-number="1.3.4">
 <h3 data-number="1.3.4" class="anchored" data-anchor-id="uncertainty"><span class="header-section-number">1.3.4</span> Uncertainty</h3>
-<p>It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty.</p>
-<p>You can read more about uncertainty in the <a href="analystsuncertaintytoolkit.github.io">Uncertainty Toolkit for Analysts in Government</a>.</p>
+<p>It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter <a href="https://best-practice-and-impact.github.io/aqua_book_revision/analysis.html">8</a> covers assurance of the analytical phase of the project, including the treatment of uncertainty.</p>
+<p>You can read more about uncertainty in the <a href="https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html">Uncertainty Toolkit for Analysts in Government</a>.</p>
 </section>
-<section id="analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below." class="level3" data-number="1.3.5">
-<h3 data-number="1.3.5" class="anchored" data-anchor-id="analysis-with-rigour-one-acronym-some-users-find-helpful-to-consider-when-completing-analysis-is-rigour.-this-is-described-in-the-box-below."><span class="header-section-number">1.3.5</span> Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.</h3>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-RIGOUR
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic “RIGOUR” may assist:</p>
+<section id="analysis-with-rigour" class="level3" data-number="1.3.5">
+<h3 data-number="1.3.5" class="anchored" data-anchor-id="analysis-with-rigour"><span class="header-section-number">1.3.5</span> Analysis with RIGOUR</h3>
+<p>An acronym some users find helpful to consider when completing analysis is RIGOUR. Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The mnemonic “RIGOUR” may assist:</p>
 <ul>
 <li><strong>R</strong>epeatable</li>
 <li><strong>I</strong>ndependent</li>
@@ -360,14 +350,11 @@ RIGOUR
 <li><strong>R</strong>obust</li>
 </ul>
 <p><strong>Repeatable:</strong> For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.</p>
-<p><strong>Independent:</strong> Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.</p>
+<p><strong>Independent:</strong> Analysis should be (as far as possible) free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.</p>
 <p><strong>Grounded in reality:</strong> Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.</p>
 <p><strong>Objective:</strong> Effective engagement and suitable challenge reduce the risk of bias and enables the Commissioner and the Analyst to be clear about the interpretation of results.</p>
 <p><strong>Uncertainty-managed:</strong> Uncertainty is identified, managed and communicated throughout the analytical process.</p>
 <p><strong>Robust:</strong> Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.</p>
-</div>
-</div>
-</div>
 
 
 </section>

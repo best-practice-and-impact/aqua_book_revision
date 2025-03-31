@@ -2,10 +2,11 @@
 This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
 
 The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
-:::
+:::    
+
 # Introduction
 
-The Analytical Quality Assurance (AQuA) Book provides guidance on producing quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
+The Analytical Quality Assurance (AQuA) Book provides guidance on producing good quality analysis for government to support well informed decision-making that creates better outcomes and improve the lives of citizens.
 
 The AQuA Book has made a significant contribution to the cultural change in assurance practices in government by clearly setting out the core framework for assuring all forms of analytical evidence. 
 
@@ -36,19 +37,21 @@ The new edition is relevant to anyone who commissions, uses, undertakes or assur
 We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:
 
 * actuaries
-* data scientists developing advanced analytics
+* data scientists 
+* economists
 * finance professionals
 * geographers
-* operational researchers, statisticians and economists
+* operational researchers
 * science and engineering professionals
-* social researchers carrying out (or commissioning) quantitative/ qualitative research or evaluation
+* social researchers
+* statisticians
 
 ## How to use this book
 
 The AQuA Book has been developed to help the analysis community:
 
 * publish analytical insights that will be used for major decisions and operations
-* minimising the risk of errors arising that cause operational, business or reputational damage 
+* minimise the risk of errors arising that cause operational, business or reputational damage 
 * create greater trust in analysts' work
 * ensure appropriate quality assurance is in place to help to manage mistakes, handle changes to requirements and ensure appropriate re-use of analysis
 * develop the confidence in analysis that is needed for transparency and public openness
@@ -60,24 +63,24 @@ The first four chapters of this book cover definitions and themes, while the sec
 Each chapter in the second half of the book is structured as follows:
 
 * an overview of the stage and chapter
-* Roles and responsibilities 
-* Assurance activities
-* Documentation
-* Uncertainty
-* Black box models 
-* Multi-use models
+* roles and responsibilities 
+* assurance activities
+* documentation
+* uncertainty
+* black box models 
+* multi-use models
 * any other guidance specific to the stage of the life cycle
 
 The AQuA Book uses the following terms to indicate whether recommendations are mandatory or advisory: 
 
 * **‘shall’** denotes a requirement, a mandatory element, which applies in all circumstances and at all times 
 * **‘should’** denotes a recommendation, an advisory element, to be met on a ‘comply or explain’ basis 
-* **‘may’** denotes approval 
+* **‘may’** denotes approval i.e. it's a good idea but not mandatory or advisory
 * **‘might’** denotes a possibility 
 * **‘can’** denotes both capability and possibility 
 * **is/are** is used for a description 
 
-This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/collections/functional-standards). 
+This is consistent with the [UK Government Functional Standards](https://www.gov.uk/government/publications/guide-to-functional-standards/guide-to-functional-standards#interpreting-a-functional-standard). 
 
 ## Principles of analytical quality assurance {.unnumbered}
 
@@ -87,31 +90,30 @@ No single piece of guidance provides a definitive assessment of whether a piece 
 
 Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach. These risks include financial, legal, operational and reputational effects. 
 
-You can read more about proportionality in chapter [3] 
+You can read more about proportionality in chapter [3.](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html)
 
 ### Assurance throughout development
 
 Quality assurance should be considered throughout the whole life cycle of the analysis. Effective communication is crucial when understanding the problem, designing the analytical approach, conducting the analysis and relaying the outputs. 
 
-You can read more on the analysis life cycle in chapter [5].  
+You can read more on the analysis life cycle in chapter [5.](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html)
 
 ### Verification and validation
 
 Analytical quality assurance is more than checking that the analysis is error-free and satisfies its specification (verification). It should also include checks that the analysis is appropriate and fit for the purpose for which it is being used (validation). 
 
-You can read more on verification and validation in chapters [5-9]. 
+You can read more on verification and validation in chapters [5-9.](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html) 
 
 ### Uncertainty 
 
-It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8] covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
+It is important to accept that uncertainty is inherent in the inputs and outputs of any piece of analysis. Chapter [8](https://best-practice-and-impact.github.io/aqua_book_revision/analysis.html) covers assurance of the analytical phase of the project, including the treatment of uncertainty. 
 
-You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](analystsuncertaintytoolkit.github.io).
+You can read more about uncertainty in the [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html).
 
-### Analysis with RIGOUR:** One acronym some users find helpful to consider when completing analysis is RIGOUR. This is described in the box below.  
-
-::: {.callout-tip collapse="true"}
-### RIGOUR
-Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. The helpful mnemonic "RIGOUR" may assist:
+### Analysis with RIGOUR
+An acronym some users find helpful to consider when completing analysis is RIGOUR. 
+Throughout all the stages of an analytical project, the analyst should ask questions of their own analysis. 
+The mnemonic "RIGOUR" may assist:
 
 * **R**epeatable
 * **I**ndependent
@@ -122,7 +124,7 @@ Throughout all the stages of an analytical project, the analyst should ask quest
 
 **Repeatable:** For an analytical process to be considered valid we might reasonably expect that the analysis produces the same outputs for the same inputs and constraints. Different analysts might approach the analytical problem in different ways, while methods might include randomised processes. In such cases, exact matches are not guaranteed or expected. Taking this into account, repeatability means that if an approach is repeated the results should be as expected.  
 
-**Independent:** Analysis should be free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
+**Independent:** Analysis should be (as far as possible) free of prejudice or bias. Care should be taken to balance views appropriately across all stakeholders and experts.  
 
 **Grounded in reality:** Quality analysis takes the Commissioner and Analyst on a journey as views and perceptions are challenged and connections are made between the analysis and its real consequences. Connecting with reality like this guards against failing to properly grasp the context of the problem that is being analysed.  
 
@@ -132,7 +134,6 @@ Throughout all the stages of an analytical project, the analyst should ask quest
 
 **Robust:** Analytical results are error free in the context of residual uncertainty and accepted limitations that make sure the analysis is used appropriately.  
 
-:::
 
 [^1]: [Black box](https://en.wikipedia.org/wiki/Black_box): system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
 [^2]: [Managing Public Money](https://www.gov.uk/government/publications/managing-public-money ), Annex 4.2 Use of models 
