@@ -130,7 +130,7 @@ A model is a tool used to study, or understand, a part of the real world. Often,
 
 ## Maturity Model {.unnumbered}
 
-The Quality Assurance Maturity Model is a structured framework used to assess an organisation’s capability in applying quality assurance to analysis. It helps identify the level of maturity in quality qssurance practices, from basic awareness to fully embedded, systematic approaches. 
+The Quality Assurance Maturity Model is a structured framework used to assess an organisation’s capability in applying quality assurance to analysis. It helps identify the level of maturity in quality assurance practices, from basic awareness to fully embedded, systematic approaches. 
 
 ## Multi-use models {.unnumbered}
 
