@@ -33,7 +33,7 @@ It is also referred to by the [Green Book](https://www.gov.uk/government/publica
 ## Who the AQuA Book is for
 
 This edition has been developed for Government Analysis and is intended for anyone who commissions, uses, conducts, or assures analysis. While it is designed with government needs in mind, the guidance is broadly applicable. It covers the full process of producing analysis that is robust, reliable, and fit for purpose.
-We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is also for anyone carrying out analysis, including:
+We would like to see producers and users of analysis from all backgrounds using this book, especially those producing analysis, evidence and research to support decision-making in government. The book can help users of analysis make the most of work that has been commissioned and senior leaders with an interest in analytical assurance. The AQuA Book is for anyone carrying out analysis, including:
 
 * actuaries
 * data scientists 
