@@ -100,6 +100,7 @@ All analysis shall have user documentation, even if the only user is the analyst
 * what analysis was planned and why 
 * what challenges were encountered and how they were overcome 
 * what verification and validation steps were performed
+* whether the analysis, including its data and assumptions, has a defined lifespan or depends on specific conditions to remain valid.
 
 Where relevant, the analyst may include a model map that describes data flows and transformations.
 
@@ -129,13 +130,13 @@ A model is a tool used to study, or understand, a part of the real world. Often,
 
 ## Maturity Model {.unnumbered}
 
-A maturity model is a structured way to assess an organization's capabilities within a specific area, like quality assurance. 
+The Quality Assurance Maturity Model is a structured framework used to assess an organisation’s capability in applying quality assurance to analysis. It helps identify the level of maturity in quality assurance practices, from basic awareness to fully embedded, systematic approaches. 
 
 ## Multi-use models {.unnumbered}
 
 Multi-use models are used by more than one user or group of users for related but different purposes. These are often complex and large.
 
-A Steering Group may be created to oversee the analysis of these models. This Steering Group would be chaired by the senior officer in charge of the area that maintains the model and consist of senior representatives of each major user area. The members of the Steering Group may have decision-making responsibilities in their area of work. 
+A Steering Group may be created to oversee the analysis of these kind of models. This Steering Group should be chaired by the senior officer in charge of the group developing the model and include senior representatives from each major user group. The members of the Steering Group may have decision-making responsibilities in their area of work. 
 
 ## Quality analysis {.unnumbered}
 

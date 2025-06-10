@@ -61,7 +61,7 @@ The approver should:
 When delivering a piece of analysis, the analyst (or assurer), should communicate its assurance state to the approver and provide evidence that the analysis and associated outputs have undergone proportionate quality assurance. They should also demonstrate that the analysis is ready for delivery. This may include confirming that the analysis:
     
 * uses suitable data and assumptions    
-* has provisions for regular review
+* has provisions for regular review to consider whether methodology, data and assumptions remain valid or a "sunset date" - a date beyond which the analysis and / or the model should not be used 
 * meets the purpose of its commission    
 * has been carried out correctly and to its agreed specification   
 * has a risk assessment and statement against the programme risk register
