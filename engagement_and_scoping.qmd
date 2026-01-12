@@ -1,7 +1,7 @@
 ::: {.callout-important}
-This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA book is the final pre-publication draft. The [official version of the book](https://www.gov.uk/guidance/the-aqua-book) is published on GOV.UK.
 
-The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+This draft has no official status. It is the final version of the development site prior to publication and is retained for auditing and updating purposes. 
 :::
 
 # Engagement and scoping
@@ -16,19 +16,19 @@ During this engagement and scoping stage the commissioner and the analyst shape 
 
 In the engagement and scoping stage the commissioner should:
 
-*  inform the analyst about the important aspects of the problem, its scope, and any constraints or issues  
-*  be available to engage with the analyst to appropriately shape the work
-*  ensure that they understand risks where time and resource pressures constrain the approach
-*  inform the analyst about any sources of uncertainty they have identified
-*  sign-off on the specification document produced by the analyst 
-*  indicate the consequences for decision-making of different degrees of uncertainty, if possible, as this may enable the analyst to conduct their analysis at a proportionate level
+*  inform the analyst about the important aspects of the problem, its scope, and any constraints or issues    
+*  be available to engage with the analyst to appropriately shape the work    
+*  ensure that they understand risks where time and resource pressures constrain the approach    
+*  inform the analyst about any sources of uncertainty they have identified    
+*  sign-off on the specification document produced by the analyst    
+*  indicate the consequences for decision-making of different degrees of uncertainty, if possible, as this may enable the analyst to conduct their analysis at a proportionate level    
 
 ### The analyst's responsibilities 
 
 In the engagement and scoping stage the analyst should:
 
-*  engage with the commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (for example, deadlines and available resource) assumptions, risks, identified uncertainties and business-criticality
-* create a specification document which captures the Commissioner's requirements
+*  engage with the commissioner to identify the question, the context, and the boundaries of the analysis, as well as constraints (for example, deadlines and available resource) assumptions, risks, identified uncertainties and business-criticality    
+* create a specification document which captures the commissioner's requirements    
 
 The specification document should provide a definition of the scope and project constraints. It should state the acceptable level of risk and the required level of assurance. It may also state the degree of uncertainty allowed for decision-making and record identified sources of uncertainty. The analyst should share this specification with the commissioner for sign-off.
 
@@ -38,7 +38,7 @@ In the engagement and scoping stage the assurer may confirm that the engagement 
 
 ### The approver's responsibilities
 
-In the engagement and scoping stage the approver should note the new project and confirm that resources and plans are in place for the appropriate assurance to take place. For example, they should ensure that the analyst and assurer are aware of local assurance protocols. The approver might provide support in securing a sufficiently qualified and experienced assurer.  
+In the engagement and scoping stage the approver should note the new project and confirm that resources and plans are in place for appropriate assurance to take place. For example, they should ensure that the analyst and assurer are aware of local assurance protocols. The approver might provide support in securing a sufficiently qualified and experienced assurer.  
 
 The approver should ensure that there is sufficient governance in place to support the analyst and their role in the wider project or programme. This is particularly important if the analysis supports business critical decisions. This may need to be revisited at the design stage if a novel or riskier approach is required (for example, if Artificial Intelligence (AI) models are used).
 
@@ -62,12 +62,10 @@ The output of the engagement and scoping stage should be a [specification docume
 
 ## Treatment of uncertainty
 
-The engagement and scoping stage will inform the treatment of uncertainty by:    
+The engagement and scoping stage will inform the treatment of uncertainty by:       
 * providing a clear definition of the analytical question    
 * identifying sources of high or intractable uncertainty    
 * establishing an understanding of how the analysis will inform decisions    
-
-The Analyst and Commissioner should also clarify risks and potential effects on the outcomes to inform the decisions around [proportionate assurance](proportionality.qmd). This includes a discussion on the consideration on the ethics. Constraints around resource and timelines should also be clarified and agreed. 
 
 You can read more about uncertainty in engagement and scoping in the [Uncertainty Toolkit](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_2.html#Jointly_agreeing_how_uncertainty_should_be_used).
 
