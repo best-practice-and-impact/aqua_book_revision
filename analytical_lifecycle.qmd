@@ -20,33 +20,33 @@ The AQuA Book defines four roles.
 
 The commissioner (may be known as customer):
 
-* requests the analysis and sets out their requirements  
-* agrees that what the analyst is going to do will satisfy the need  
-* accepts the analysis and assurance as fit for purpose  
+* requests the analysis and sets out their requirements    
+* agrees that what the analyst is going to do will satisfy the need    
+* accepts the analysis and assurance as fit for purpose    
 
 The analyst:
 
-* designs the approach, including the assurance, to meet the commissioner’s requirements 
-* agrees the approach with the commissioner 
-* carries out the analysis 
-* carries out their own assurance  
-* acts on findings from the assurer 
-* can be a group of analysts, in which case the lead analyst is responsible 
+* designs the approach, including the assurance, to meet the commissioner’s requirements    
+* agrees the approach with the commissioner    
+* carries out the analysis    
+* carries out their own assurance    
+* acts on findings from the assurer    
+* can be a group of analysts, in which case the lead analyst is responsible    
 
 The assurer (may be known as the analytical assurer or assuring analyst):
 
-* reviews the assurance completed by the analyst  
-* carries out any further validation and verification they may see as appropriate 
-* reports errors and areas for improvement to the analyst  
-* undertakes repeated reviews as required  
-* confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver  
-* can be a group of assurers, in which case the leader of the group is responsible
-* must be independent from the analysts
+* reviews the assurance completed by the analyst    
+* carries out any further validation and verification they may see as appropriate    
+* reports errors and areas for improvement to the analyst    
+* undertakes repeated reviews as required    
+* confirms the work has been appropriately scoped, executed, validated and verified and documented to the approver    
+* can be a group of assurers, in which case the leader of the group is responsible    
+* must be independent from the analysts    
 
 The approver (may be known as senior analyst or senior responsible officer):
 
-* scrutinises the work of the analyst and assurer    
-* confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured   
+* scrutinises the work of the analyst and assurer       
+* confirms (if necessary) to the analyst, assurer and commissioner that the work has been appropriately assured    
     
 The roles of analyst and assurer shall be distinct from each other. The analyst should carry out their own assurance but responsibility for formal assurance to the approver and commissioner lies with the assurer. In some instances, particularly for quick or simple analysis, an individual may fulfil more than one of the roles, apart from the assurer and analyst roles which shall be separate from one another in all cases.
 
@@ -54,11 +54,25 @@ The roles of analyst and assurer shall be distinct from each other. The analyst 
 
 Quality assurance activities should take place throughout an analytical project. An effective quality assurance process involves ongoing engagement between the commissioner and the analyst to ensure an appropriate balance is maintained between time, resource and quality, and to ensure a shared understanding of the assurance activities required and risks involved.
 
-![Figure 2 - The analytical cycle](analytical_lifecycle.jpg){fig-alt="This diagram shows the cycle of activities that make up a typical analytical workflow and shows how these map to the chapters of the AQuA Book. The cycle moves from the start point to engagement and scoping, then design, analysis and finally delivery and communication. After the final stage the cycle either ends at sign off or returns to the engagement and scoping stage. The figure explains that the cycle is often iterative."}
+![Figure 2 - The analytical cycle](analytical_lifecycle_diagram.svg)
+
+::: {.callout-note}
+The image shows a flowchart of the analytical life cycle, which includes four main stages:    
+
+1. Engagement and Scoping ([Chapter 6](https://best-practice-and-impact.github.io/aqua_book_revision/engagement_and_scoping.html))
+2. Design ([Chapter 7](https://best-practice-and-impact.github.io/aqua_book_revision/design.html))
+3. Analysis ([Chapter 8](https://best-practice-and-impact.github.io/aqua_book_revision/analysis.html))
+4. Delivery and Communication ([Chapter 9](https://best-practice-and-impact.github.io/aqua_book_revision/delivery_and_communication.html))    
+
+The image emphasises that:    
+* The process is often iterative, meaning stages may repeat or happen out of order    
+* Proportionality ([Chapter 3](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html)) should be considered at every stage    
+
+:::
 
 Figure 2 is adapted from the [Government Functional Standard for Analysis](https://www.gov.uk/government/publications/government-analysis-functional-standard--2). Analytical quality assurance activities should take place during every phase of the cycle and should consider proportionality, although analytical quality considerations may vary depending on project governance and the specific phase of the cycle. All projects will involve some element of every phase of the cycle, even if this is not clearly defined.
 
-It is important that [proportionality](proportionality.qmd) is considered and that there is transparency about the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be clearly shown in:  
+It is important that [proportionality](https://best-practice-and-impact.github.io/aqua_book_revision/proportionality.html) is considered and that there is transparency about the analytical decisions, process, limitations and changes made at each stage to enable effective assurance and communication. This should be clearly shown in:  
 
 * documentation of the analysis, assumptions and data
 * records of the analytical decisions made
@@ -97,13 +111,13 @@ After analysis results have been determined to meet the requirements, they are f
 ## Maintenance and continuous review
 The analytical lifecycle is not a linear process. Where analysis is used on an ongoing basis all aspects of the lifecycle should be regularly updated. For example, consideration should be made as to whether:
 
-* the inputs used remain appropriate
-* the initial communication methods remain the best way to deliver the information
-* any software relied on continues to be supported and up to date
-* the model continues to be calibrated appropriately (this is particularly important for [black box models](definitions_and_key_concepts.html#black-box-models))
-
+* the inputs used remain appropriate    
+* the initial communication methods remain the best way to deliver the information    
+* any software relied on continues to be supported and up to date    
+* the model continues to be calibrated appropriately (this is particularly important for [black box models](definitions_and_key_concepts.html#black-box-models))    
 
 Additionally, a robust version control process should be in place to ensure any changes to the analysis are appropriately assured.
 
 ## Urgent analysis 
+
 Sometimes there is a need for urgent analysis that cannot follow all the steps in this guide. For example, the need for the analysis may outweigh the risk of poor quality. In this case analysts should follow the Government Data Quality Hub's [Urgent data quality assurance guidance](https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance).  
