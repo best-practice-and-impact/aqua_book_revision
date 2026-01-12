@@ -12,21 +12,21 @@ This chapter sets out recommended practices around designing the analysis, decid
 
 The development of the analytical plan should consider:
 
-* methodology for producing results, including the treatment of uncertainty
-* project management approach (for example agile[^1], waterfall[^2] or a combination of approaches)
-* sourcing of inputs and assumptions
-* data and file management
-* change management and version control
-* programming language and software
-* code management, documentation and testing
-* communication between stakeholders
-* verification and validation procedures during the project lifetime
-* documentation to be delivered
-* process for updating the analytical plan
-* process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date
-* ethics
-* reporting
-* the use and application of the analysis
+* methodology for producing results, including the treatment of uncertainty    
+* project management approach (for example Agile Software Development[^1], Waterfall planning[^2] or a combination of approaches)    
+* sourcing of inputs and assumptions    
+* data and file management    
+* change management and version control    
+* programming language and software    
+* code management, documentation and testing    
+* communication between stakeholders    
+* verification and validation procedures during the project lifetime    
+* documentation to be delivered    
+* process for updating the analytical plan    
+* process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date    
+* ethics    
+* reporting    
+* the use and application of the analysis    
 
 Iteration of the plan between the commissioner and the analyst is normal and expected while the analytical design develops. 
 
@@ -53,12 +53,12 @@ The commissioner's expertise can be a useful resource for the analyst in the des
 
 The analyst should: 
 
-*  develop the method and plan to address the commissioner’s needs
-*  establish assurance requirements
-*  develop a plan for proportionate verification and validation as described in the [National Audit Office Framework to review models](https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf); 
-*  plan in sufficient time for the assurance activity
-*  document the analytical plan in a proportionate manner
-*  follow any organisation governance procedures for project design
+*  develop the method and plan to address the commissioner’s needs    
+*  establish assurance requirements    
+*  develop a plan for proportionate verification and validation as described in the [National Audit Office Framework to review models](https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf)    
+*  plan in sufficient time for the assurance activity    
+*  document the analytical plan in a proportionate manner    
+*  follow any organisation governance procedures for project design    
 
 ### The assurer's responsibilities 
 
@@ -106,16 +106,16 @@ This [guidance on AI assurance](https://www.gov.uk/government/publications/intro
 
 In the design of AI and machine learning models, the analyst should:
 
-* define the situation they wish to model
-* the prediction they wish to make
-* assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models
-* carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach
-* consider the appropriate data training, validation and testing strategy for your models - it's usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design
-* consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI
-* consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment
-* consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section
-* consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
-* consider setting up a peer or academic review process to test the methodologies and design decisions
+* define the situation they wish to model    
+* set out the prediction they wish to make    
+* assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models    
+* carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach    
+* consider the appropriate data training, validation and testing strategy for your models - it is usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design    
+* consider the strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI    
+* consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment    
+* consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section    
+* consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)    
+* consider setting up a peer or academic review process to test the methodologies and design decisions    
 
 ## Multi-use models
 
