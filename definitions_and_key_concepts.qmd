@@ -1,7 +1,7 @@
 ::: {.callout-important}
-This version of the AQuA Book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA book is the final pre-publication draft. The [official version of the book](https://www.gov.uk/guidance/the-aqua-book) is published on GOV.UK.
 
-The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+This draft has no official status. It is the final version of the development site prior to publication and is retained for auditing and updating purposes. 
 :::
 
 # Definitions and concepts
@@ -13,15 +13,15 @@ This chapter sets out definitions and concepts that are used throughout the rest
 Analysis is the collection, manipulation and interpretation of information and data for use in decision-making. Analysis can vary widely between situations and many different types of analysis may be used to form the evidence base that supports the decision-making process.  
 Examples of types of analysis that are frequently encountered in government are:  
 
-*  actuarial  
-*  data science 
-*  economic 
-*  financial  
-*  geographical 
-*  operational research 
-*  scientific, technical and engineering research  
-*  statistical  
-*  social research  
+*  actuarial    
+*  data science    
+*  economic   
+*  financial    
+*  geographical    
+*  operational research    
+*  scientific, technical and engineering research    
+*  statistical    
+*  social research    
 
 ## Assurance {.unnumbered}
 
@@ -34,8 +34,8 @@ Assurance activities are any actions carried out in order to validate and verify
 This may include:   
 
 * analyst testing    
-* peer review  
-* reconciliation of results to independent sources  
+* peer review    
+* reconciliation of results to independent sources    
 
 ## Artificial Intelligence {.unnumbered}
 
@@ -48,9 +48,9 @@ Black box models' internal workings are not visible, easily understood, or succi
 ## Business critical analysis {.unnumbered}
 
 Business critical analysis refers to analysis that:
-* has a significant influence over finance and funding or departmental operation(s) 
-* is necessary to the achievement of a departmental business plan or 
-* is analysis where an error could have a significant reputational, economic or legal implications. 
+* has a significant influence over finance and funding or departmental operation(s)    
+* is necessary to the achievement of a departmental business plan or    
+* is analysis where an error could have a significant reputational, economic or legal implications.    
 
 ## Business critical models {.unnumbered}
 
@@ -66,11 +66,11 @@ Specification documentation records the initial engagements with the commissione
 
 Design documents describe the analytical plan, including the methodology, inputs and software that will be used. They also contain details of the planned [verification](#verification) and [validation](#validation) of the analysis. They provide a basis for the analytical assurer to verify whether the analysis meets the specified requirements.
 
-You can read more about design documentation in the [Design](design.qmd) chapter.
+You can read more about design documentation in the [Design](https://best-practice-and-impact.github.io/aqua_book_revision/design.html) chapter.
 
 ### Assumptions log {.unnumbered}
 
-The assumptions log is a register of assumptions, whether provided by the commissioner or gathered from the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should: 
+The assumptions log is a register of assumptions, whether provided by the commissioner or gathered from the analysis, that have been risk assessed and signed off by an appropriate governance group or stakeholder. Assumption logs should:    
 
 * describe each assumption
 * quantify its effect and reliability
@@ -95,12 +95,12 @@ A register of data provided by the commissioner or derived from the analysis tha
 
 All analysis shall have user documentation, even if the only user is the analyst leading the analysis. This documentation should include:
 
-* a summary of the analysis including the context to the question being asked 
-* what analytical methods were considered 
-* what analysis was planned and why 
-* what challenges were encountered and how they were overcome 
-* what verification and validation steps were performed
-* whether the analysis, including its data and assumptions, has a defined lifespan or depends on specific conditions to remain valid.
+* a summary of the analysis including the context to the question being asked    
+* what analytical methods were considered    
+* what analysis was planned and why    
+* what challenges were encountered and how they were overcome    
+* what verification and validation steps were performed    
+* whether the analysis, including its data and assumptions, has a defined lifespan or depends on specific conditions to remain valid.    
 
 Where relevant, the analyst may include a model map that describes data flows and transformations.
 
@@ -108,7 +108,7 @@ For analysis that is likely to be revisited or updated in the future, more compr
 
 ### Assurance statement {.unnumbered}
 
-A brief description of the analytical assurance that have been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.
+A brief description of the analytical assurance that has been performed to assure the analysis. The statement should refer to known limitations and conditions associated with the analysis.
 
 ::: {.callout-tip}
 # Example of publishing quality assurance tools
@@ -124,49 +124,54 @@ Machine Learning uses algorithms to learn from patterns in data without needing 
 
 A model is a tool used to study, or understand, a part of the real world. Often, they use quantative methods and theories drawn from statistics, economics, or mathematics together with assumptions, to turn input data into numerical estimates.  Models can be:
 
-* descriptive - what is?
-* predictive  - what might be?
-* prescriptive - what should be done if?
+* descriptive - what is?    
+* predictive  - what might be?    
+* prescriptive - what should be done if?    
 
 ## Maturity Model {.unnumbered}
 
-The Quality Assurance Maturity Model is a structured framework used to assess an organisation’s capability in applying quality assurance to analysis. It helps identify the level of maturity in quality assurance practices, from basic awareness to fully embedded, systematic approaches. 
+The Quality Assurance [Maturity Model](https://www.gov.uk/government/publications/analytical-quality-assurance-at-the-department-for-education) is a structured framework used to assess an organisation’s capability in applying quality assurance to analysis. It helps identify the level of maturity in quality assurance practices, from basic awareness to fully embedded, systematic approaches. 
 
 ## Multi-use models {.unnumbered}
 
 Multi-use models are used by more than one user or group of users for related but different purposes. These are often complex and large.
 
-A Steering Group may be created to oversee the analysis of these kind of models. This Steering Group should be chaired by the senior officer in charge of the group developing the model and include senior representatives from each major user group. The members of the Steering Group may have decision-making responsibilities in their area of work. 
+A Steering Group may be created to oversee the analysis of models like this. This Steering Group should be chaired by the senior officer in charge of the group developing the model and include senior representatives from each major user group. The members of the Steering Group may have decision-making responsibilities in their area of work. 
 
 ## Quality analysis {.unnumbered}
 
 Quality analysis is fit for the purpose it was commissioned to meet. It should be: 
 
-* accurate 
-* appropriately assured
-* evidenced
-* proportionate to its effect 
-* adequately communicated
-* documented 
-* accepted by its commissioners
+* accurate    
+* appropriately assured    
+* evidenced    
+* proportionate to its effect    
+* adequately communicated    
+* documented    
+* accepted by its commissioners    
 
 ## Roles and responsibilities {.unnumbered}
 
 The AQuA Book defines the following roles:
 
-* commissioner
-* analyst 
-* assurer
-* approver
+* commissioner    
+* analyst    
+* assurer    
+* approver    
 
 You can read more in the [Roles and Responsibilities](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html) section.
+
+## Symbolic proxies {.unnumbered}
+
+A symbolic proxy is a representation of data or variables using symbols instead of concrete values. It allows you to reason about the program’s behaviour without needing to know the exact data values. These proxies are used to represent inputs, outputs, or states symbolically, which makes it possible to analyse how different parts of the program interact or how inputs lead to outputs, even when you don’t have specific data.    
 
 ## Third party {.unnumbered}
 
 Any individual or group of individuals that are not commissioners or the analysts. For example, they may be working for a different government department, a different function or an outside company, person or group besides the two primarily involved in a situation, especially a dispute.
 
 ## Uncertainty {.unnumbered}
-Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The NAO have published a [good practice guide on managing uncertainty](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf)
+
+Uncertainties are things that are not known, are in a state of doubt or are things whose effect is difficult to know. They have the potential to have major consequences for a project, programme or piece of analysis meeting its objectives. The National Audit Office has published a [good practice guide on managing uncertainty](https://www.nao.org.uk/wp-content/uploads/2023/08/Good-practice-guide-Managing-uncertainty.pdf).
 
 There are different types of uncertainty. A common classification divides uncertainty into known knowns, known unknowns and unknown unknowns. The type of uncertainty will influence the analytical approach and assurance activities required. 
 
