@@ -18,7 +18,7 @@ A strong quality assurance culture also enables effective [risk management](prop
 
 ::: {.callout-tip}
 # Assessing and Guiding Organisational Performance
-The Department for Education has developed a Quality Assurance Maturity Model (insert hyperlink) to help government departments and arm's length bodies. It is an objective self-assessment method for assessing an organisation's relative strengths and weaknesses. Organisations can judge their level of QA maturity in nine assessment areas to give an overall picture of their QA Maturity. It can be used as an aid to setting direction and activities.
+The Department for Education has developed a [Quality Assurance Maturity Model](https://www.gov.uk/government/publications/analytical-quality-assurance-at-the-department-for-education) to help government departments and arm's length bodies. It is an objective self-assessment method for assessing an organisation's relative strengths and weaknesses. Organisations can judge their level of QA maturity in nine assessment areas to give an overall picture of their QA Maturity. It can be used as an aid to setting direction and activities.
 
 :::
 
@@ -30,15 +30,17 @@ Annex 4.2 of [Managing Public Money](https://www.gov.uk/government/publications/
 
 Senior leaders should ensure there is clear messaging and standards on quality assurance through guidance, training and regular updates. Senior leaders can demonstrate the importance of quality assurance through long term initiatives. For example, by setting up and embedding quality assurance processes within the team and creating roles and teams to support quality assurance. Senior leaders should ensure teams have a common understanding of the quality standards required for their work and regularly talk about quality with their teams, highlighting quality successes.
 
-As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensure people at any level can raise any quality concerns. Teams should be able to discuss and constructively challenge each other if they feel those standards are not being met. To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as the *Departmental Governance* assessment area. This area helps senior leaders review their Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
+As part of a strong quality assurance culture, senior leaders should empower all those in the analytical process to identify any risks to the quality of the work, ensuring that people at any level can raise any quality concerns. Teams should be able to discuss and constructively challenge each other if they feel those standards are not being met. 
 
-Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open source of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
+To underpin this, senior leaders should ensure teams have a common understanding of the quality standards required for their work. The Quality Assurance Maturity Model refers to this as the Departmental Governance assessment area. This area helps senior leaders review their Quality Assurance systems and give direction to the overall departmental Quality Assurance strategy.
+
+Creating transparency at all levels can help embed a culture of quality assurance. This includes peer review, open sourcing of code (where possible), [external publication of models or methods](delivery_and_communication.html#open-publishing-of-analysis) and publication of the register of [Business Critical Analysis](delivery_and_communication.html#business-critical-analysis-register).  
 
 Senior leaders should also develop processes that enable teams to report when things have gone wrong, be open and honest when issues occur, carry out reviews to understand the failures in the assurance process and share the lessons learnt across the analytical community.
 
 ::: {.callout-tip}
 # An open culture when things go wrong
-When the Department for Education made an error producing the schools national funding formula allocations for 2024-25 they ran a detailed internal review to understand what went wrong and why it was not detected by the quality assurance process. The department also commissioned and [published an external, independent review](https://assets.publishing.service.gov.uk/media/65819c6f23b70a000d234c08/Independent_review_to_assess_the_error_made_in_the_production_of_the_schools_block_NFF.pdf) to assess the error and put forward recommendations. The independent review praised the team for its culture of open learning taking responsibility for mistakes. 
+When the Department for Education made an error producing the schools national funding formula allocations for 2024-25 they ran a detailed internal review to understand what went wrong and why it was not detected by the quality assurance process. The department also commissioned and [published an external, independent review](https://assets.publishing.service.gov.uk/media/65819c6f23b70a000d234c08/Independent_review_to_assess_the_error_made_in_the_production_of_the_schools_block_NFF.pdf) to assess the error and put forward recommendations. The independent review praised the team for its culture of open learning and taking responsibility for mistakes. 
 :::
 
 ## Capacity and capability
@@ -51,12 +53,12 @@ There is a risk that work and time pressures could affect the quality of work. S
 
 If time constraints mean insufficient assurance has taken place this should be explicitly acknowledged and reported in an assurance statement that sets out the known limitations and conditions associated with the analysis. 
 
-If analysis requires a peer review this should be carried out by independent, skilled and competent individuals or groups. It can be difficult to identify available experts who are able to provide a review but there are several ways to support and embed independent review. These may include: 
+Peer review should be carried out by independent, skilled and competent individuals or groups. It can be difficult to identify available experts who are able to provide a review but there are several ways to support and embed independent review. These may include: 
 
-* setting up specific teams to review and audit a sample of analytical projects
-* developing assurance networks of analysts who can provide reviews when needed
-* partnering with another department
-* procuring an independent review from an independent source such as the [Government Actuary’s Department (GAD)](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor
+* setting up specific teams to review and audit a sample of analytical projects    
+* developing assurance networks of analysts who can provide reviews when needed    
+* partnering with another department    
+* procuring an independent review from an independent source such as the [Government Actuary’s Department (GAD)](https://www.gov.uk/government/publications/gad-services/government-actuarys-department-services), an academic institution or contractor    
 
 Team leaders can support this by making time for analysts to carry out peer reviews and ensuring analysts are clear that supporting such reviews is part of their role.
 
@@ -94,9 +96,9 @@ HMRC have developed a Quality Champions network of analysts across the departmen
 
 There is a risk of technology or analytical tools being out of date. This means that analysts cannot follow best practice or must spend time fixing processing issues instead of concentrating on quality. Senior leaders can support teams by:
 
-*  making funding available for new tools or improving existing tools 
-*  gathering common issues
-*  escalating issues to appropriate points in their organisation
+*  making funding available for new tools or improving existing tools    
+*  gathering common issues    
+*  escalating issues to appropriate points in their organisation    
 
 ## Data
 
@@ -112,7 +114,7 @@ The National Audit Office has published [guidance for decision makers and senior
 
 ## Governance and control
 
-Governance supports a strong quality assurance culture by overseeing the effective management and assurance of analysis. The [Analysis Function Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance. This should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
+Governance supports a strong quality assurance culture by overseeing the effective management and assurance of analysis. The [Government Functional Standard for Analysis](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) sets out the requirements for a governance framework for analysis. Each organisation should have a defined and established approach to assurance. This should be applied proportionately to the risk and value of the activity and integrated with the organisation's overall assurance framework.  
 
 Project level governance can provide oversight over a particular model or work area. This will allow the approver to ensure the analysis is fit for purpose. For example, formally agreeing assumptions (which may be recorded in an [assumptions log](definitions_and_key_concepts.html#assumptions-log)) will reduce the need for reworking the analysis providing more time for assurance. Projects governance can also fit within the wider programme level governance.  
 
@@ -124,14 +126,13 @@ Transparency at all levels can help embed a culture of quality assurance. For ex
 
 ## Externally commissioned analysis
 
-
 Analysis may be commissioned externally such as qualitative or quantitative research, or the production of models. 
 
-When working with third parties (e.g Arm's Length Bodies (ALBs)[^1]), the commissioning department remains accountable for ensuring the requirements set out in the AQuA Book are met.  The commissioning department shall ensure it is clear which role or roles in which stages of the analytical lifecycle that third party is responsible for. See [Roles and Responsibilities](analytical_lifecycle.qmd#roles_and_responsibilities) for details on the roles.
+The commissioning department remains accountable for ensuring the requirements set out in the AQuA Book are met when working with third parties such as Arm's Length Bodies (ALBs)[^1]. ALBs include executive agencies, non-departmental public bodies and non-ministerial departments.
 
 For example, the third party may only undertake the analyst role in the analysis phase or they may undertake the analyst, assurer and approver roles in all stages of the lifecycle.
 
-Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of Managing Public Money and the Analysis Function Standard.
+Third parties may set out in a framework document how they will demonstrate compliance with Annex 4.2 of Managing Public Money and the Government Functional Standard for Analysis.
 
-[^1]: ALBs include executive agencies, non-departmental public bodies and non-ministerial departments, please see [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
+[^1]: See [Cabinet Office guidance on Classification of Public Bodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/519571/Classification-of-Public_Bodies-Guidance-for-Departments.pdf)
 
