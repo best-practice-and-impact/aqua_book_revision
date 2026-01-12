@@ -57,8 +57,8 @@ The AQuA Book has been developed to help the analysis community:
 * develop the confidence in analysis that is needed for transparency and public openness
 * support the analytical assurance that is required for audit purposes [^2]
 
-The first four chapters of this book cover definitions and themes, while the second half of the book goes into more detail on the [analytical life cycle](analytical_lifecycle.qmd). This can be pictured as follows:
-![Figure 1 - The analytical cycle](analytical_lifecycle.jpg)
+The first four chapters of this book cover definitions and themes, while the second half of the book goes into more detail on the [analytical life cycle](https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html). This can be pictured as follows:
+![Figure 1 - The analytical cycle](analytical_lifecycle_diagram.svg)
 
 ::: {.callout-note}
 The image shows a flowchart of the analytical life cycle, which includes four main stages:    
