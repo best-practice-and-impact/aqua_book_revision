@@ -1,17 +1,14 @@
 ::: {.callout-important}
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA book is the final pre-publication draft. The [official version of the book](https://www.gov.uk/guidance/the-aqua-book) is published on GOV.UK.
 
-The draft currently has no official status. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+This draft has no official status. It is the final version of the development site prior to publication and is retained for auditing and updating purposes. 
 :::
-
-# Preface {.unnumbered}
-Placeholder text
 
 # Acknowledgements {.unnumbered}
 
 The AQuA Book is the work of many authors from across the Government Analysis Function. The original version of the book was compiled by the Quality Assurance Working Group set up after [Sir Nicholas Macpherson's review of modelling in government](https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models). 
 
-This revised edition of the book was produced by a task and finish group drawn from across the Government Analytical Function. We would like to thank everybody who has given of their time and expertise to produce the revised edition and give a special mention to the task and finish group who gave their time and expertise to the book:
+This revised edition of the book was produced by a task and finish group drawn from across the [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/). We would like to thank everybody who has given of their time and expertise to produce the revised edition and give a special mention to the task and finish group who gave their time and expertise to the book:
 
 
 * Faye Clancy	
@@ -29,5 +26,4 @@ This revised edition of the book was produced by a task and finish group drawn f
 * Lorna Wilson
 * Rebecca Wodcke
 
-Alec Waterhouse
-10th June 2025
+Alec Waterhouse 10th June 2025
