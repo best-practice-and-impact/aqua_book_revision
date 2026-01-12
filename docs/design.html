@@ -251,20 +251,34 @@ Important
 <p>This chapter sets out recommended practices around designing the analysis, deciding on the associated assurance activities, documenting the design and assuring the design. It also discusses considerations around the treatment of uncertainty in design and the design of multi-use and Artificial Intelligence (AI) models.</p>
 <p>The development of the analytical plan should consider:</p>
 <ul>
-<li>methodology for producing results, including the treatment of uncertainty</li>
-<li>project management approach (for example agile[^1], waterfall[^2] or a combination of approaches)</li>
-<li>sourcing of inputs and assumptions</li>
-<li>data and file management</li>
-<li>change management and version control</li>
-<li>programming language and software</li>
-<li>code management, documentation and testing</li>
-<li>communication between stakeholders</li>
-<li>verification and validation procedures during the project lifetime</li>
-<li>documentation to be delivered</li>
-<li>process for updating the analytical plan</li>
-<li>process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date</li>
-<li>ethics</li>
-<li>reporting</li>
+<li>methodology for producing results, including the treatment of uncertainty<br>
+</li>
+<li>project management approach (for example Agile Software Development[^1], Waterfall planning[^2] or a combination of approaches)<br>
+</li>
+<li>sourcing of inputs and assumptions<br>
+</li>
+<li>data and file management<br>
+</li>
+<li>change management and version control<br>
+</li>
+<li>programming language and software<br>
+</li>
+<li>code management, documentation and testing<br>
+</li>
+<li>communication between stakeholders<br>
+</li>
+<li>verification and validation procedures during the project lifetime<br>
+</li>
+<li>documentation to be delivered<br>
+</li>
+<li>process for updating the analytical plan<br>
+</li>
+<li>process for ongoing review and maintenance of models, including reviewing inputs and calibrations and ensuring that software relied on continues to be supported and up to date<br>
+</li>
+<li>ethics<br>
+</li>
+<li>reporting<br>
+</li>
 <li>the use and application of the analysis</li>
 </ul>
 <p>Iteration of the plan between the commissioner and the analyst is normal and expected while the analytical design develops.</p>
@@ -296,11 +310,16 @@ Important
 <h3 data-number="7.1.2" class="anchored" data-anchor-id="the-analysts-responsibilities"><span class="header-section-number">7.1.2</span> The analyst’s responsibilities</h3>
 <p>The analyst should:</p>
 <ul>
-<li>develop the method and plan to address the commissioner’s needs</li>
-<li>establish assurance requirements</li>
-<li>develop a plan for proportionate verification and validation as described in the <a href="https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf">National Audit Office Framework to review models</a>;</li>
-<li>plan in sufficient time for the assurance activity</li>
-<li>document the analytical plan in a proportionate manner</li>
+<li>develop the method and plan to address the commissioner’s needs<br>
+</li>
+<li>establish assurance requirements<br>
+</li>
+<li>develop a plan for proportionate verification and validation as described in the <a href="https://www.nao.org.uk/wp-content/uploads/2016/03/11018-002-Framework-to-review-models_External_4DP.pdf">National Audit Office Framework to review models</a><br>
+</li>
+<li>plan in sufficient time for the assurance activity<br>
+</li>
+<li>document the analytical plan in a proportionate manner<br>
+</li>
 <li>follow any organisation governance procedures for project design</li>
 </ul>
 </section>
@@ -341,15 +360,24 @@ Important
 <p>This <a href="https://www.gov.uk/government/publications/introduction-to-ai-assurance/introduction-to-ai-assurance">guidance on AI assurance</a> outlines considerations for the design of AI models, including risk assessment, impact assessment, bias audits and compliance audits.</p>
 <p>In the design of AI and machine learning models, the analyst should:</p>
 <ul>
-<li>define the situation they wish to model</li>
-<li>the prediction they wish to make</li>
-<li>assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models</li>
-<li>carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach</li>
-<li>consider the appropriate data training, validation and testing strategy for your models - it’s usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design</li>
-<li>consider your strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI</li>
-<li>consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment</li>
-<li>consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section</li>
-<li>consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020">Data Ethics Framework</a></li>
+<li>define the situation they wish to model<br>
+</li>
+<li>set out the prediction they wish to make<br>
+</li>
+<li>assess the quality of data that could be used to make the prediction, this includes the data used in any pretrained models<br>
+</li>
+<li>carry out a literature review to identify appropriate modelling, valuation verification methods and document the rationale for selecting their approach<br>
+</li>
+<li>consider the appropriate data training, validation and testing strategy for your models - it is usual to design a model with a fraction of the data, validate with a separate portion and then test the final model with the data that was not used in the design<br>
+</li>
+<li>consider the strategy when testing a pre-trained model, including appropriate validation methods for the models such as calculating similarity to labelled images or ground truths for generative AI<br>
+</li>
+<li>consider developing automatic checks to identify if the model is behaving unexpectedly, this is important if the model is likely to be used frequently to make regular decisions or is deployed into a production environment<br>
+</li>
+<li>consider the plan for maintenance and continuous review, including the thresholds or timeline to retrain the model and the resources required to support this - see the [maintenance and continuous review]https://best-practice-and-impact.github.io/aqua_book_revision/analytical_lifecycle.html#maintenance-and-continuous-review) section<br>
+</li>
+<li>consider referring the model to their ethics committee, or a similar group dependent on your internal governance structures - see the <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020">Data Ethics Framework</a><br>
+</li>
 <li>consider setting up a peer or academic review process to test the methodologies and design decisions</li>
 </ul>
 </section>
