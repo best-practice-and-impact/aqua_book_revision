@@ -1,10 +1,10 @@
 # aqua_book_revision
 
-The [AQuA Book](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government) is a good practice guide for those working with analysis and analytical models in the UK government. This project is the main repository for the working draft of the next revision of the AQUA Book, which will be provided as an HTML website.
+The [AQuA Book](https://www.gov.uk/guidance/the-aqua-book) is a good practice guide for effective quality assurance of analysis. The primary audience is UK civil servants working with analysis and analytical models in the UK government. This project is the main repository for the working draft of revisions of the AQUA Book.
 
-This version of the AQuA book is a preliminary ALPHA draft.  It is still in development, and we are still working to ensure that it meets user needs. 
+This version of the AQuA book is the final pre-publication draft.  The second edition was published in July 2025 and is linked above.
 
-**The draft currently has no official status**. It is a work in progress and is subject to further revision and reconfiguration (possibly substantial change) before it is finalised. 
+**This final draft has no official status**.
 
 This repository contains these folders:  
  
